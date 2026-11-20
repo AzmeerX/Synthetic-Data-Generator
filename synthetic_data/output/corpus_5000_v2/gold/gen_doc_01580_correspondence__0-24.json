@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01580_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "2ad9ebb29e50ed7cac55b0bb34ccf664b10b979e7125b4c9564f921c1a5059f8"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_58",
+      "name": "Dunhollow Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_58",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_39",
+      "name": "Fair Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_39",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_247",
+      "name": "Stanbrook Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_247",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_248",
+      "name": "Stanbrook Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_248",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_249",
+      "name": "Stanbrook Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_249",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Stanbrook Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_25",
+      "name": "Ashcombe Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_25",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Ashcombe Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_251",
+      "name": "Stanbrook Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_251",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Stanbrook Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_11",
+      "name": "Alden & Fenwick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_11",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Fenwick LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Fenwick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_41",
+      "name": "Trust Deed LEG-041",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_41",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-041",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-041",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_192",
+      "name": "Daria Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_192",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Daria Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Daria Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_247",
+      "name": "Elias Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_247",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_248",
+      "name": "Elias Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_248",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elias Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_255",
+      "name": "Elias Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_255",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_54",
+      "name": "Rushmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_54",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Rushmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003464",
+      "subject": "company_247",
+      "rel": "owns",
+      "object": "company_248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Capital Limited owns Stanbrook Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003465",
+      "subject": "person_255",
+      "rel": "shareholder_of",
+      "object": "company_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Rook is a shareholder of Stanbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003477",
+      "subject": "person_247",
+      "rel": "family_of",
+      "object": "person_248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Ivers is a family member of Elias Jarvis.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003467",
+      "subject": "bank_39",
+      "rel": "lent_to",
+      "object": "company_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-11",
+          "value_end": "2024-11-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Bank Limited lent Stanbrook Capital Limited GBP 24 million on 11 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003469",
+      "subject": "company_249",
+      "rel": "guarantor_for",
+      "object": "company_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Stanbrook Energy Limited guaranteed the loan to Stanbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003468",
+      "subject": "company_247",
+      "rel": "owes",
+      "object": "bank_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-16",
+          "value_end": "2024-11-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stanbrook Capital Limited owes Fair Bank Limited GBP 10 million as at 16 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003473",
+      "subject": "company_247",
+      "rel": "owns",
+      "object": "asset_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Stanbrook Capital Limited owns Dunhollow Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003474",
+      "subject": "asset_58",
+      "rel": "located_in",
+      "object": "place_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Farm is located in Rushmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003475",
+      "subject": "company_247",
+      "rel": "party_to",
+      "object": "legal_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Capital Limited is a party to the Trust Deed LEG-041.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003476",
+      "subject": "person_248",
+      "rel": "signed",
+      "object": "legal_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Elias Jarvis signed the Trust Deed LEG-041.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01580_proposal",
+      "text": "The acquisition of Stanbrook Ventures Limited by Stanbrook Capital Limited",
+      "speaker": "person_192",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Daria Cairn, chair of Stanbrook Capital Limited, proposed to acquire Stanbrook Ventures Limited on 18 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01580_approval",
+      "text": "Regulatory approval for the acquisition of Stanbrook Ventures Limited",
+      "speaker": "person_192",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Daria Cairn confirmed that regulatory approval for the acquisition of Stanbrook Ventures Limited by Stanbrook Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01580_link_conditional",
+      "src": "gen_doc_01580_proposal",
+      "dst": "gen_doc_01580_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Stanbrook Ventures Limited by Stanbrook Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01576_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01580",
+      "surface": "18 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-18",
+      "value_end": "2024-10-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003467",
+      "surface": "11 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-11",
+      "value_end": "2024-11-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "11 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003468",
+      "surface": "16 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-16",
+      "value_end": "2024-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "16 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

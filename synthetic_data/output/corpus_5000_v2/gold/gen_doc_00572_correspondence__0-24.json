@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00572_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "6bb637103ad1460afc4ecf97d857b287af79d45883274bdafcb5f8c31ea853da"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_320",
+      "name": "Denmoor Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_320",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_53",
+      "name": "Harrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_53",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1505",
+      "name": "North Dunmere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1505",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Dunmere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1506",
+      "name": "North Dunmere Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1506",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunmere Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1507",
+      "name": "North Dunmere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1507",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Dunmere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1508",
+      "name": "North Dunmere Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1508",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Dunmere Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_151",
+      "name": "Kelbrook Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_151",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_22",
+      "name": "Alden & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_22",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Quade LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_293",
+      "name": "Security Agreement LEG-293",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_293",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-293",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-293",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_113",
+      "name": "Bastian Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_113",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_114",
+      "name": "Bastian Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_114",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_121",
+      "name": "Bastian Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_121",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_576",
+      "name": "Kellan Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_576",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Kellan Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Kellan Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_72",
+      "name": "Maplebury",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_72",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Maplebury",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023079",
+      "subject": "company_1505",
+      "rel": "owns",
+      "object": "company_1506",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunmere Partners Limited owns North Dunmere Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023080",
+      "subject": "person_121",
+      "rel": "shareholder_of",
+      "object": "company_1505",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Grenville is a shareholder of North Dunmere Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023092",
+      "subject": "person_113",
+      "rel": "family_of",
+      "object": "person_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Yarrow is a family member of Bastian Zell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023082",
+      "subject": "bank_53",
+      "rel": "lent_to",
+      "object": "company_1505",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-07",
+          "value_end": "2025-07-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Trust Bank Limited lent North Dunmere Partners Limited GBP 20 million on 7 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023084",
+      "subject": "company_1507",
+      "rel": "guarantor_for",
+      "object": "company_1505",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Dunmere Marine Limited guaranteed the loan to North Dunmere Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023083",
+      "subject": "company_1505",
+      "rel": "owes",
+      "object": "bank_53",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-07-12",
+          "value_end": "2025-07-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Dunmere Partners Limited owes Harrow Trust Bank Limited GBP 8 million as at 12 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023088",
+      "subject": "company_1505",
+      "rel": "owns",
+      "object": "asset_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Dunmere Partners Limited owns Denmoor Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023089",
+      "subject": "asset_320",
+      "rel": "located_in",
+      "object": "place_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Hangar is located in Maplebury.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023090",
+      "subject": "company_1505",
+      "rel": "party_to",
+      "object": "legal_293",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Dunmere Partners Limited is a party to the Security Agreement LEG-293.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023091",
+      "subject": "person_114",
+      "rel": "signed",
+      "object": "legal_293",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Zell signed the Security Agreement LEG-293.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00572_proposal",
+      "text": "The acquisition of Kelbrook Capital Limited by North Dunmere Partners Limited",
+      "speaker": "person_576",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Kellan Underwood, chair of North Dunmere Partners Limited, proposed to acquire Kelbrook Capital Limited on 11 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00572_approval",
+      "text": "Regulatory approval for the acquisition of Kelbrook Capital Limited",
+      "speaker": "person_576",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Kellan Underwood confirmed that regulatory approval for the acquisition of Kelbrook Capital Limited by North Dunmere Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00572_link_conditional",
+      "src": "gen_doc_00572_proposal",
+      "dst": "gen_doc_00572_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Kelbrook Capital Limited by North Dunmere Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00568_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00572",
+      "surface": "11 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-11",
+      "value_end": "2025-03-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023082",
+      "surface": "7 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-07",
+      "value_end": "2025-07-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "7 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023083",
+      "surface": "12 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-12",
+      "value_end": "2025-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "12 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

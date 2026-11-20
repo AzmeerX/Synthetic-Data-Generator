@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00016_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b5881bb127b6271ecc869e0b0200e20871efc8936260e8cb06a7b3c91b548ee2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_112",
+      "name": "Greyhaven Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_112",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_105",
+      "name": "Glenmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_105",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_106",
+      "name": "Glenmoor Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_106",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Glenmoor Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_107",
+      "name": "Glenmoor Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_107",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_15",
+      "name": "Alden & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_15",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_105",
+      "name": "Trust Deed LEG-105",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_105",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-105",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-105",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_105",
+      "name": "Bastian Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_105",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_106",
+      "name": "Bastian Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_106",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_113",
+      "name": "Bastian Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_113",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_17",
+      "name": "Tamsin Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_17",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_52",
+      "name": "Penhurst",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_52",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Penhurst",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001249",
+      "subject": "company_105",
+      "rel": "owns",
+      "object": "company_106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Glenmoor Energy Limited owns Glenmoor Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001258",
+      "subject": "company_105",
+      "rel": "owns",
+      "object": "asset_112",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Energy Limited owns Greyhaven Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001259",
+      "subject": "asset_112",
+      "rel": "located_in",
+      "object": "place_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Mill is located in Penhurst.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001255",
+      "subject": "lawfirm_15",
+      "rel": "represents",
+      "object": "company_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jarvis LLP represents Glenmoor Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001250",
+      "subject": "person_113",
+      "rel": "shareholder_of",
+      "object": "company_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Yarrow is a shareholder of Glenmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001262",
+      "subject": "person_105",
+      "rel": "family_of",
+      "object": "person_106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Pell is a family member of Bastian Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001252",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-29",
+          "value_end": "2025-03-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited lent Glenmoor Energy Limited GBP 20 million on 29 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001254",
+      "subject": "company_107",
+      "rel": "guarantor_for",
+      "object": "company_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Ventures Limited guaranteed the loan to Glenmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001253",
+      "subject": "company_105",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-03",
+          "value_end": "2025-04-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Glenmoor Energy Limited owes Alder Bank Limited GBP 8 million as at 3 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001260",
+      "subject": "company_105",
+      "rel": "party_to",
+      "object": "legal_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Glenmoor Energy Limited is a party to the Trust Deed LEG-105.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001261",
+      "subject": "person_106",
+      "rel": "signed",
+      "object": "legal_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Quade signed the Trust Deed LEG-105.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00016_allegation",
+      "text": "A former employee alleged that Glenmoor Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Mercer noted that a former employee alleged that Glenmoor Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00016",
+      "surface": "23 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-23",
+      "value_end": "2024-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001252",
+      "surface": "29 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-29",
+      "value_end": "2025-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "29 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001253",
+      "surface": "3 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-03",
+      "value_end": "2025-04-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "3 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00016",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

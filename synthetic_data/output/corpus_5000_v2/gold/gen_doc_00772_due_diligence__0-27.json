@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00772_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4c8e467bb1bcd16f54b7f8e90dac37b1fff7eb96317aa16187407bfceda91b4a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_501",
+      "name": "Merrivale Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_501",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Merrivale Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_102",
+      "name": "Pember Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_102",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1686",
+      "name": "North Stanbrook Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1686",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Stanbrook Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1687",
+      "name": "North Stanbrook Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1687",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Stanbrook Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1688",
+      "name": "North Stanbrook Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1688",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_126",
+      "name": "Cairn & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_126",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_474",
+      "name": "Settlement Agreement LEG-474",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_474",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-474",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-474",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_294",
+      "name": "Farah Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_294",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_295",
+      "name": "Farah Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_295",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_302",
+      "name": "Farah Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_302",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_776",
+      "name": "Petra Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_776",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Petra Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_73",
+      "name": "Ashcombe Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_73",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025902",
+      "subject": "company_1686",
+      "rel": "owns",
+      "object": "company_1687",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Stanbrook Capital Limited owns North Stanbrook Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025911",
+      "subject": "company_1686",
+      "rel": "owns",
+      "object": "asset_501",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Stanbrook Capital Limited owns Merrivale Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025912",
+      "subject": "asset_501",
+      "rel": "located_in",
+      "object": "place_73",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Quay is located in Ashcombe Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025908",
+      "subject": "lawfirm_126",
+      "rel": "represents",
+      "object": "company_1686",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Yarrow LLP represents North Stanbrook Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025903",
+      "subject": "person_302",
+      "rel": "shareholder_of",
+      "object": "company_1686",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Pell is a shareholder of North Stanbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025915",
+      "subject": "person_294",
+      "rel": "family_of",
+      "object": "person_295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Garrow is a family member of Farah Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025905",
+      "subject": "bank_102",
+      "rel": "lent_to",
+      "object": "company_1686",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-24",
+          "value_end": "2026-04-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Commercial Bank Limited lent North Stanbrook Capital Limited GBP 22 million on 24 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025907",
+      "subject": "company_1688",
+      "rel": "guarantor_for",
+      "object": "company_1686",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Energy Limited guaranteed the loan to North Stanbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025906",
+      "subject": "company_1686",
+      "rel": "owes",
+      "object": "bank_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-04-29",
+          "value_end": "2026-04-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Stanbrook Capital Limited owes Pember Commercial Bank Limited GBP 9 million as at 29 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025913",
+      "subject": "company_1686",
+      "rel": "party_to",
+      "object": "legal_474",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Stanbrook Capital Limited is a party to the Settlement Agreement LEG-474.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025914",
+      "subject": "person_295",
+      "rel": "signed",
+      "object": "legal_474",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Hale signed the Settlement Agreement LEG-474.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00772_allegation",
+      "text": "A former employee alleged that North Stanbrook Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Petra Briar noted that a former employee alleged that North Stanbrook Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00772",
+      "surface": "27 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-27",
+      "value_end": "2025-09-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025905",
+      "surface": "24 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-24",
+      "value_end": "2026-04-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025906",
+      "surface": "29 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-29",
+      "value_end": "2026-04-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00772",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

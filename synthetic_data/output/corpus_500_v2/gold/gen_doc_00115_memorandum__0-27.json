@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00115_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "438a8a3ce6ade56a3f603d32d6add974996fa7595bdfd55c006802ced10c7b48"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_86",
+      "name": "Fenwick Bay Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_86",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fenwick Bay Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_02",
+      "name": "Caldervale Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_02",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Caldervale Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Caldervale Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_195",
+      "name": "Oakhurst Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_195",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_196",
+      "name": "Oakhurst Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_196",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_197",
+      "name": "Oakhurst Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_197",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_20",
+      "name": "Hollowbrook Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_20",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Hollowbrook Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Hollowbrook Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_15",
+      "name": "Alden & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_15",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_69",
+      "name": "Security Agreement LEG-069",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_69",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Security Agreement LEG-069",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-069",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_119",
+      "name": "Bastian Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_119",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Bastian Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_195",
+      "name": "Daria Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_195",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_196",
+      "name": "Daria Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_196",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Daria Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_203",
+      "name": "Daria Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_203",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_22",
+      "name": "Jarrow Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_22",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002653",
+      "subject": "company_195",
+      "rel": "owns",
+      "object": "company_196",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Group Limited owns Oakhurst Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002654",
+      "subject": "person_203",
+      "rel": "shareholder_of",
+      "object": "company_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Orrick is a shareholder of Oakhurst Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002666",
+      "subject": "person_195",
+      "rel": "family_of",
+      "object": "person_196",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Fenwick is a family member of Daria Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002656",
+      "subject": "bank_02",
+      "rel": "lent_to",
+      "object": "company_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-04-19",
+          "value_end": "2023-04-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Caldervale Bank Limited lent Oakhurst Group Limited GBP 40 million on 19 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002658",
+      "subject": "company_197",
+      "rel": "guarantor_for",
+      "object": "company_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Trading Limited guaranteed the loan to Oakhurst Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002657",
+      "subject": "company_195",
+      "rel": "owes",
+      "object": "bank_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-24",
+          "value_end": "2023-04-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Group Limited owes Caldervale Bank Limited GBP 8 million as at 24 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002659",
+      "subject": "lawfirm_15",
+      "rel": "represents",
+      "object": "company_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Jarvis LLP represents Oakhurst Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002662",
+      "subject": "company_195",
+      "rel": "owns",
+      "object": "asset_86",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Group Limited owns Fenwick Bay Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002663",
+      "subject": "asset_86",
+      "rel": "located_in",
+      "object": "place_22",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Data Centre is located in Jarrow Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002664",
+      "subject": "company_195",
+      "rel": "party_to",
+      "object": "legal_69",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Group Limited is a party to the Security Agreement LEG-069.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002665",
+      "subject": "person_196",
+      "rel": "signed",
+      "object": "legal_69",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Daria Hale signed the Security Agreement LEG-069.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00115_proposal",
+      "text": "The acquisition of Hollowbrook Holdings Limited by Oakhurst Group Limited",
+      "speaker": "person_119",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Everard, chair of Oakhurst Group Limited, proposed to acquire Hollowbrook Holdings Limited on 16 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00115_approval",
+      "text": "Regulatory approval for the acquisition of Hollowbrook Holdings Limited",
+      "speaker": "person_119",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Bastian Everard confirmed that regulatory approval for the acquisition of Hollowbrook Holdings Limited by Oakhurst Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00115_link_conditional",
+      "src": "gen_doc_00115_proposal",
+      "dst": "gen_doc_00115_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Hollowbrook Holdings Limited by Oakhurst Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00115",
+      "surface": "16 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-16",
+      "value_end": "2026-04-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002656",
+      "surface": "19 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-19",
+      "value_end": "2023-04-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "19 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002657",
+      "surface": "24 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-24",
+      "value_end": "2023-04-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00115",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

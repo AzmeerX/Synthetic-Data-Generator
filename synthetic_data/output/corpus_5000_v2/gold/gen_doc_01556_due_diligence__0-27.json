@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01556_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "3336413a69e9f3bc0860adc8f3b8d0938e8eaa69ba03fc9a83caddfb83cf5811"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_11",
+      "name": "Marrow Bay Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_11",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Marrow Bay Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_15",
+      "name": "Quarrystone Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_15",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2392",
+      "name": "North Fingal Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2392",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Fingal Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2394",
+      "name": "North Fingal Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2394",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fingal Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_52",
+      "name": "Alden & Whitlock LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_52",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Whitlock LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_574",
+      "name": "Licence LEG-574",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_574",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-574",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-574",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1000",
+      "name": "Tamsin Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1000",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1001",
+      "name": "Tamsin Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1001",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1008",
+      "name": "Tamsin Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1008",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_168",
+      "name": "Calder Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_168",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_59",
+      "name": "Whitbourne",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_59",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Whitbourne",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036911",
+      "subject": "company_2392",
+      "rel": "owns",
+      "object": "asset_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fingal Trading Limited owns Marrow Bay Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036920",
+      "subject": "company_2392",
+      "rel": "owns",
+      "object": "asset_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Fingal Trading Limited owns Quarrystone Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036921",
+      "subject": "asset_15",
+      "rel": "located_in",
+      "object": "place_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quarrystone Mill is located in Whitbourne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036917",
+      "subject": "lawfirm_52",
+      "rel": "represents",
+      "object": "company_2392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Whitlock LLP represents North Fingal Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036912",
+      "subject": "person_1008",
+      "rel": "shareholder_of",
+      "object": "company_2392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Neville is a shareholder of North Fingal Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036924",
+      "subject": "person_1000",
+      "rel": "family_of",
+      "object": "person_1001",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Fairfax is a family member of Tamsin Grenville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036914",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_2392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-20",
+          "value_end": "2024-04-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited lent North Fingal Trading Limited GBP 34 million on 20 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036916",
+      "subject": "company_2394",
+      "rel": "guarantor_for",
+      "object": "company_2392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fingal Capital Limited guaranteed the loan to North Fingal Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036915",
+      "subject": "company_2392",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-25",
+          "value_end": "2024-04-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Fingal Trading Limited owes Bexley Merchant Bank Limited GBP 5 million as at 25 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036922",
+      "subject": "company_2392",
+      "rel": "party_to",
+      "object": "legal_574",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Fingal Trading Limited is a party to the Licence LEG-574.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036923",
+      "subject": "person_1001",
+      "rel": "signed",
+      "object": "legal_574",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Grenville signed the Licence LEG-574.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01556_allegation",
+      "text": "A former employee alleged that North Fingal Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Delacourt noted that a former employee alleged that North Fingal Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01556",
+      "surface": "3 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-03",
+      "value_end": "2024-05-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036914",
+      "surface": "20 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-20",
+      "value_end": "2024-04-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036915",
+      "surface": "25 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-25",
+      "value_end": "2024-04-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01556",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

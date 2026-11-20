@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00324_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "f0fdad3b390f5a6b5513e93f3e3c5020b4e5ddf78aa4fbad3fb8d572923b2ab6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_97",
+      "name": "Fenwick Bay Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_97",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_94",
+      "name": "Oak Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_94",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1282",
+      "name": "Isbourne Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1282",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Isbourne Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1283",
+      "name": "Isbourne Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1283",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Isbourne Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1284",
+      "name": "Jura Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1284",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Jura Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_112",
+      "name": "Cairn & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_112",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_70",
+      "name": "Loan Note LEG-070",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_70",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-070",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-070",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1282",
+      "name": "Zane Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1282",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1283",
+      "name": "Zane Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1283",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1290",
+      "name": "Zane Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1290",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_328",
+      "name": "Farah Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_328",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_29",
+      "name": "Quintrell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_29",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019603",
+      "subject": "company_1282",
+      "rel": "owns",
+      "object": "company_1283",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Isbourne Ventures Limited owns Isbourne Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019612",
+      "subject": "company_1282",
+      "rel": "owns",
+      "object": "asset_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Isbourne Ventures Limited owns Fenwick Bay Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019613",
+      "subject": "asset_97",
+      "rel": "located_in",
+      "object": "place_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Farm is located in Quintrell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019609",
+      "subject": "lawfirm_112",
+      "rel": "represents",
+      "object": "company_1282",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ivers LLP represents Isbourne Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019604",
+      "subject": "person_1290",
+      "rel": "shareholder_of",
+      "object": "company_1282",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Ward is a shareholder of Isbourne Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019616",
+      "subject": "person_1282",
+      "rel": "family_of",
+      "object": "person_1283",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Orrick is a family member of Zane Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019606",
+      "subject": "bank_94",
+      "rel": "lent_to",
+      "object": "company_1282",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-15",
+          "value_end": "2023-06-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Merchant Bank Limited lent Isbourne Ventures Limited GBP 14 million on 15 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019608",
+      "subject": "company_1284",
+      "rel": "guarantor_for",
+      "object": "company_1282",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Jura Holdings Limited guaranteed the loan to Isbourne Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019607",
+      "subject": "company_1282",
+      "rel": "owes",
+      "object": "bank_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-20",
+          "value_end": "2023-06-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Isbourne Ventures Limited owes Oak Merchant Bank Limited GBP 5 million as at 20 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019614",
+      "subject": "company_1282",
+      "rel": "party_to",
+      "object": "legal_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Isbourne Ventures Limited is a party to the Loan Note LEG-070.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019615",
+      "subject": "person_1283",
+      "rel": "signed",
+      "object": "legal_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Pell signed the Loan Note LEG-070.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00324_allegation",
+      "text": "A former employee alleged that Isbourne Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Sinclair noted that a former employee alleged that Isbourne Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00324",
+      "surface": "4 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-04",
+      "value_end": "2027-01-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019606",
+      "surface": "15 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-15",
+      "value_end": "2023-06-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019607",
+      "surface": "20 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-20",
+      "value_end": "2023-06-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00324",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

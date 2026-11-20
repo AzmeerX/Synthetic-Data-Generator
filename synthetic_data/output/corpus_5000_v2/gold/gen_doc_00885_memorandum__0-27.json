@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00885_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "edefc68b7ade44f44594073fe86a8cb26ac7c179cb86d81549e4458a42e657cd"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_03",
+      "name": "Eastmere Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_03",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_07",
+      "name": "Ironside Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_07",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_72",
+      "name": "Kel Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_72",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1788",
+      "name": "North Draycott Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1788",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Draycott Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1790",
+      "name": "North Draycott Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1790",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Draycott Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1792",
+      "name": "North Draycott Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1792",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Draycott Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Draycott Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_75",
+      "name": "Briar & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_75",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_98",
+      "name": "Briar & Tremayne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_98",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_576",
+      "name": "Side Letter LEG-576",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_576",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Side Letter LEG-576",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-576",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_396",
+      "name": "Hana Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_396",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Hana Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_397",
+      "name": "Hana Mercer",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_397",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Hana Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Hana Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_404",
+      "name": "Hana Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_404",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_889",
+      "name": "Rhea Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_889",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Rhea Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_175",
+      "name": "Netherby Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_175",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027493",
+      "subject": "company_1788",
+      "rel": "owns",
+      "object": "asset_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Draycott Holdings Limited owns Eastmere Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027494",
+      "subject": "person_404",
+      "rel": "shareholder_of",
+      "object": "company_1788",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Thorne is a shareholder of North Draycott Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027506",
+      "subject": "person_396",
+      "rel": "family_of",
+      "object": "person_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Hana Lorne is a family member of Hana Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027496",
+      "subject": "bank_72",
+      "rel": "lent_to",
+      "object": "company_1788",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-09-23",
+          "value_end": "2024-09-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Commercial Bank Limited lent North Draycott Holdings Limited GBP 26 million on 23 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027498",
+      "subject": "company_1790",
+      "rel": "guarantor_for",
+      "object": "company_1788",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Draycott Group Limited guaranteed the loan to North Draycott Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027497",
+      "subject": "company_1788",
+      "rel": "owes",
+      "object": "bank_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-09-28",
+          "value_end": "2024-09-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Draycott Holdings Limited owes Kel Commercial Bank Limited GBP 11 million as at 28 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027499",
+      "subject": "lawfirm_98",
+      "rel": "represents",
+      "object": "company_1788",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Tremayne LLP represents North Draycott Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027502",
+      "subject": "company_1788",
+      "rel": "owns",
+      "object": "asset_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Draycott Holdings Limited owns Ironside Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027503",
+      "subject": "asset_07",
+      "rel": "located_in",
+      "object": "place_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Foundry is located in Netherby Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027504",
+      "subject": "company_1788",
+      "rel": "party_to",
+      "object": "legal_576",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Draycott Holdings Limited is a party to the Side Letter LEG-576.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027505",
+      "subject": "person_397",
+      "rel": "signed",
+      "object": "legal_576",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Hana Mercer signed the Side Letter LEG-576.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00885_proposal",
+      "text": "The acquisition of North Draycott Trading Limited by North Draycott Holdings Limited",
+      "speaker": "person_889",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Quade, chair of North Draycott Holdings Limited, proposed to acquire North Draycott Trading Limited on 14 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00885_approval",
+      "text": "Regulatory approval for the acquisition of North Draycott Trading Limited",
+      "speaker": "person_889",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Rhea Quade confirmed that regulatory approval for the acquisition of North Draycott Trading Limited by North Draycott Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00885_link_conditional",
+      "src": "gen_doc_00885_proposal",
+      "dst": "gen_doc_00885_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Draycott Trading Limited by North Draycott Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00885",
+      "surface": "14 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-14",
+      "value_end": "2024-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027496",
+      "surface": "23 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-23",
+      "value_end": "2024-09-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027497",
+      "surface": "28 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-28",
+      "value_end": "2024-09-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00885",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

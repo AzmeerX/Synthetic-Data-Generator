@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00447_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "603234de6bb176c6c742183aaef29a68ade78472913b5b3239c0da960e2c0e6c"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_208",
+      "name": "Larkspur Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_208",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Larkspur Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_73",
+      "name": "Kel Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_73",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kel Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kel Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1393",
+      "name": "Skye Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1393",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Skye Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1394",
+      "name": "Skye Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1394",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Skye Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1395",
+      "name": "Skye Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1395",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Skye Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_27",
+      "name": "Alden & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_27",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_181",
+      "name": "Security Agreement LEG-181",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_181",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Security Agreement LEG-181",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-181",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_01",
+      "name": "Jarrah Dunmore",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_01",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrah Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_02",
+      "name": "Ines Hale",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_02",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ines Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ines Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_09",
+      "name": "Kellan Lorne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_09",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Kellan Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_451",
+      "name": "Ivo Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_451",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ivo Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_140",
+      "name": "Inglemere Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_140",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021332",
+      "subject": "company_1393",
+      "rel": "owns",
+      "object": "company_1394",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Skye Industries Limited owns Skye Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021333",
+      "subject": "person_09",
+      "rel": "shareholder_of",
+      "object": "company_1393",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Kellan Lorne is a shareholder of Skye Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021345",
+      "subject": "person_01",
+      "rel": "family_of",
+      "object": "person_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrah Dunmore is a family member of Ines Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021335",
+      "subject": "bank_73",
+      "rel": "lent_to",
+      "object": "company_1393",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-21",
+          "value_end": "2022-02-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kel Private Bank Limited lent Skye Industries Limited GBP 36 million on 21 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021337",
+      "subject": "company_1395",
+      "rel": "guarantor_for",
+      "object": "company_1393",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Skye Logistics Limited guaranteed the loan to Skye Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021336",
+      "subject": "company_1393",
+      "rel": "owes",
+      "object": "bank_73",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-26",
+          "value_end": "2022-02-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Skye Industries Limited owes Kel Private Bank Limited GBP 6 million as at 26 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021341",
+      "subject": "company_1393",
+      "rel": "owns",
+      "object": "asset_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Skye Industries Limited owns Larkspur Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021342",
+      "subject": "asset_208",
+      "rel": "located_in",
+      "object": "place_140",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Mill is located in Inglemere Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021343",
+      "subject": "company_1393",
+      "rel": "party_to",
+      "object": "legal_181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Skye Industries Limited is a party to the Security Agreement LEG-181.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021344",
+      "subject": "person_02",
+      "rel": "signed",
+      "object": "legal_181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ines Hale signed the Security Agreement LEG-181.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00447_allegation",
+      "text": "A former employee alleged that Skye Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ivo Sable noted that a former employee alleged that Skye Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00447",
+      "surface": "30 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-30",
+      "value_end": "2026-01-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021335",
+      "surface": "21 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-21",
+      "value_end": "2022-02-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "21 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021336",
+      "surface": "26 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-26",
+      "value_end": "2022-02-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "26 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00447",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01239_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "3f6fb09bca786e4478867b1f51066e55214fcf04fddcfff0ffb1cfe2ea9539a4"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_325",
+      "name": "Denmoor Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_325",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Denmoor Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Denmoor Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_126",
+      "name": "Tarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_126",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2106",
+      "name": "North Farnley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2106",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Farnley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2107",
+      "name": "North Farnley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2107",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Farnley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2108",
+      "name": "North Farnley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2108",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2110",
+      "name": "North Farnley Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2110",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Farnley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Farnley Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_39",
+      "name": "Alden & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_39",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_288",
+      "name": "Side Letter LEG-288",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_288",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-288",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-288",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1243",
+      "name": "Yara Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1243",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yara Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_714",
+      "name": "Nadia Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_714",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nadia Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_715",
+      "name": "Nadia Neville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_715",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nadia Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_717",
+      "name": "Nadia Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_717",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Nadia Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_719",
+      "name": "Nadia Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_719",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Nadia Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_722",
+      "name": "Nadia Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_722",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_133",
+      "name": "Harrowden Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_133",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowden Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032451",
+      "subject": "company_2106",
+      "rel": "owns",
+      "object": "company_2107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Farnley Capital Limited owns North Farnley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032453",
+      "subject": "person_717",
+      "rel": "chair_of",
+      "object": "company_2106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Pemberton is the chair of North Farnley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032452",
+      "subject": "person_722",
+      "rel": "shareholder_of",
+      "object": "company_2106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Villiers is a shareholder of North Farnley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032464",
+      "subject": "person_714",
+      "rel": "family_of",
+      "object": "person_715",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nadia Montague is a family member of Nadia Neville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032454",
+      "subject": "bank_126",
+      "rel": "lent_to",
+      "object": "company_2106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-12-30",
+          "value_end": "2024-12-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Tarrow Commercial Bank Limited lent North Farnley Capital Limited GBP 22 million on 30 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032456",
+      "subject": "company_2108",
+      "rel": "guarantor_for",
+      "object": "company_2106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Farnley Energy Limited guaranteed the loan to North Farnley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032455",
+      "subject": "company_2106",
+      "rel": "owes",
+      "object": "bank_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-04",
+          "value_end": "2025-01-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Farnley Capital Limited owes Tarrow Commercial Bank Limited GBP 9 million as at 4 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032457",
+      "subject": "lawfirm_26",
+      "rel": "represents",
+      "object": "company_2106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ulric LLP represents North Farnley Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032460",
+      "subject": "company_2106",
+      "rel": "owns",
+      "object": "asset_325",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Farnley Capital Limited owns Denmoor Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032461",
+      "subject": "asset_325",
+      "rel": "located_in",
+      "object": "place_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Denmoor Silo is located in Harrowden Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032462",
+      "subject": "company_2106",
+      "rel": "party_to",
+      "object": "legal_288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Farnley Capital Limited is a party to the Side Letter LEG-288.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032463",
+      "subject": "person_715",
+      "rel": "signed",
+      "object": "legal_288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Neville signed the Side Letter LEG-288.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01239_proposal",
+      "text": "The acquisition of North Farnley Ventures Limited by North Farnley Capital Limited",
+      "speaker": "person_1243",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yara Ashby, chair of North Farnley Capital Limited, proposed to acquire North Farnley Ventures Limited on 31 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01239_approval",
+      "text": "Regulatory approval for the acquisition of North Farnley Ventures Limited",
+      "speaker": "person_1243",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Ashby confirmed that regulatory approval for the acquisition of North Farnley Ventures Limited by North Farnley Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01239_link_conditional",
+      "src": "gen_doc_01239_proposal",
+      "dst": "gen_doc_01239_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Farnley Ventures Limited by North Farnley Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01239",
+      "surface": "31 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-31",
+      "value_end": "2024-10-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032454",
+      "surface": "30 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-30",
+      "value_end": "2024-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "30 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032455",
+      "surface": "4 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-04",
+      "value_end": "2025-01-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "4 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01239",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

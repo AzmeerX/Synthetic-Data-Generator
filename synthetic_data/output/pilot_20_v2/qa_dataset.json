@@ -1,0 +1,2863 @@
+{
+  "version": 2,
+  "seed": 7,
+  "target_pages": 20,
+  "actual_pages": 20,
+  "documents": [
+    {
+      "document_id": "gen_doc_00000",
+      "filename": "gen_doc_00000_board_minutes.txt",
+      "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+      "pages": 3,
+      "doc_type": "board_minutes",
+      "doc_date": "2024-02-01",
+      "sentence_count": 32
+    },
+    {
+      "document_id": "gen_doc_00001",
+      "filename": "gen_doc_00001_financial_agreement.txt",
+      "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+      "pages": 3,
+      "doc_type": "financial_agreement",
+      "doc_date": "2024-02-08",
+      "sentence_count": 26
+    },
+    {
+      "document_id": "gen_doc_00002",
+      "filename": "gen_doc_00002_due_diligence.txt",
+      "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+      "pages": 3,
+      "doc_type": "due_diligence",
+      "doc_date": "2024-02-15",
+      "sentence_count": 28
+    },
+    {
+      "document_id": "gen_doc_00003",
+      "filename": "gen_doc_00003_memorandum.txt",
+      "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+      "pages": 3,
+      "doc_type": "memorandum",
+      "doc_date": "2024-02-22",
+      "sentence_count": 28
+    },
+    {
+      "document_id": "gen_doc_00004",
+      "filename": "gen_doc_00004_case_notes.txt",
+      "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+      "pages": 3,
+      "doc_type": "case_notes",
+      "doc_date": "2024-02-29",
+      "sentence_count": 26
+    },
+    {
+      "document_id": "gen_doc_00005",
+      "filename": "gen_doc_00005_correspondence.txt",
+      "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+      "pages": 3,
+      "doc_type": "correspondence",
+      "doc_date": "2024-03-07",
+      "sentence_count": 25
+    },
+    {
+      "document_id": "gen_doc_00006",
+      "filename": "gen_doc_00006_press_release.txt",
+      "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+      "pages": 2,
+      "doc_type": "press_release",
+      "doc_date": "2024-03-14",
+      "sentence_count": 25
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "q_00001",
+      "question": "What organization is named in the document title of gen_doc_00000_board_minutes.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Oakhaven Holdings Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Board meeting minutes of Oakhaven Holdings Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00002",
+      "question": "Who currently chairs Oakhaven Holdings Limited according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Amina Kerr",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 12,
+          "sentence_id": "s12",
+          "quote": "Amina Kerr became chair of Oakhaven Holdings Limited on 1 July 2023."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0004"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Critical relation: chair_of; direction follows the gold edge.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00003",
+      "question": "Which asset does Oakhaven Holdings Limited own according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Juniper Data Centre",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 19,
+          "sentence_id": "s19",
+          "quote": "Oakhaven Holdings Limited owns Juniper Data Centre."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0011"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Ownership qualified by target type 'asset'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00004",
+      "question": "Which company does Oakhaven Holdings Limited own according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Quarrystone Industries Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Oakhaven Holdings Limited owns Quarrystone Industries Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0001"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Ownership qualified by target type 'company'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00005",
+      "question": "What amount did Northbank Bank Limited lend to Oakhaven Holdings Limited on 9 February 2022 according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 12 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 15,
+          "sentence_id": "s15",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 12 million on 9 February 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0005"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00006",
+      "question": "How much does Oakhaven Holdings Limited owe Northbank Bank Limited as at 14 February 2022 according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 4 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 17,
+          "sentence_id": "s17",
+          "quote": "Oakhaven Holdings Limited owes Northbank Bank Limited GBP 4 million as at 14 February 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0006"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00007",
+      "question": "What period does FY2024 cover in gen_doc_00000_board_minutes.txt?",
+      "query_type": "temporal",
+      "expected_answer": "1 July 2023 to 30 June 2024",
+      "answer_type": "period",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 27,
+          "sentence_id": "s27",
+          "quote": "1 July 2023 to 30 June 2024"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Fiscal period is stated explicitly in the document; no external fiscal-year assumption is required.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00008",
+      "question": "On what date did Amina Kerr become chair of Oakhaven Holdings Limited according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "temporal",
+      "expected_answer": "1 July 2023",
+      "answer_type": "date",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 12,
+          "sentence_id": "s12",
+          "quote": "1 July 2023"
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0004"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Explicit appointment date.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00009",
+      "question": "Who chaired Oakhaven Holdings Limited until 30 June 2023 according to gen_doc_00000_board_minutes.txt?",
+      "query_type": "historical_change",
+      "expected_answer": "Jarrah Dunmore",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 11,
+          "sentence_id": "s11",
+          "quote": "Jarrah Dunmore served as chair of Oakhaven Holdings Limited until 30 June 2023."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0003"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000"
+      ],
+      "notes": "Historical office-holder, not the current chair.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00010",
+      "question": "Which company's name appears in the title of gen_doc_00001_financial_agreement.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Quarrystone Industries Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Facility agreement between Silvergate Bank Limited and Quarrystone Industries Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00011",
+      "question": "Which entity does Quarrystone Industries Limited own according to gen_doc_00001_financial_agreement.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Thornbury Group Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 7,
+          "sentence_id": "s7",
+          "quote": "Quarrystone Industries Limited owns Thornbury Group Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0016"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Unique ownership statement in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00012",
+      "question": "Which company guaranteed the loan to Quarrystone Industries Limited according to gen_doc_00001_financial_agreement.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Fenwick Logistics Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 9,
+          "sentence_id": "s9",
+          "quote": "Fenwick Logistics Limited guaranteed the loan to Quarrystone Industries Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0022"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Critical relation: guarantor_for.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00013",
+      "question": "According to gen_doc_00001_financial_agreement.txt, how much did Silvergate Bank Limited lend to Quarrystone Industries Limited on 20 February 2022?",
+      "query_type": "financial",
+      "expected_answer": "GBP 14 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Silvergate Bank Limited lent Quarrystone Industries Limited GBP 14 million on 20 February 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0020"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00014",
+      "question": "According to gen_doc_00001_financial_agreement.txt, how much did Northbank Bank Limited lend to Oakhaven Holdings Limited on 15 January 2024?",
+      "query_type": "financial",
+      "expected_answer": "GBP 42 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 23,
+          "sentence_id": "s23",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_conflict_42m"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00015",
+      "question": "What original facility capacity is stated in gen_doc_00001_financial_agreement.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 20 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 13,
+          "sentence_id": "s13",
+          "quote": "Silvergate Bank Limited provided a facility of GBP 20 million to Quarrystone Industries Limited on 1 June 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0343"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Original facility capacity; not a completed loan or a disbursement.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00016",
+      "question": "What was the facility increased to according to gen_doc_00001_financial_agreement.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 35 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 14,
+          "sentence_id": "s14",
+          "quote": "Silvergate Bank Limited increased the facility available to Quarrystone Industries Limited to GBP 35 million on 1 June 2023."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0344"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Facility capacity increase; not a completed loan or a disbursement.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00017",
+      "question": "How much does Quarrystone Industries Limited owe Silvergate Bank Limited as at 25 February 2022 according to gen_doc_00001_financial_agreement.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 5 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Quarrystone Industries Limited owes Silvergate Bank Limited GBP 5 million as at 25 February 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0021"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00018",
+      "question": "When will the facility described in gen_doc_00001_financial_agreement.txt be reviewed?",
+      "query_type": "temporal",
+      "expected_answer": "8 August 2024",
+      "answer_type": "date",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 25,
+          "sentence_id": "s25",
+          "quote": "six months after the date of this note"
+        },
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 1,
+          "sentence_id": "s1",
+          "quote": "8 February 2024"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00001"
+      ],
+      "notes": "Relative date resolved from the document date.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00019",
+      "question": "Which company's name appears in the title of gen_doc_00002_due_diligence.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Thornbury Group Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Due diligence report on Thornbury Group Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00020",
+      "question": "Which law firm acts for Thornbury Group Limited in gen_doc_00002_due_diligence.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Cairn & Sable LLP",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Cairn & Sable LLP represents Thornbury Group Limited in the matter."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0038"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Critical relation: represents; direction follows the gold edge.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00021",
+      "question": "Which asset does Thornbury Group Limited own according to gen_doc_00002_due_diligence.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Larkspur Quay",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Thornbury Group Limited owns Larkspur Quay."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0041"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Ownership qualified by target type 'asset'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00022",
+      "question": "Which company is owned by Thornbury Group Limited according to gen_doc_00002_due_diligence.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Fenwick Logistics Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 7,
+          "sentence_id": "s7",
+          "quote": "Thornbury Group Limited owns Fenwick Logistics Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0031"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Ownership qualified by target type 'company'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00023",
+      "question": "What amount did Caldervale Bank Limited lend to Thornbury Group Limited on 3 March 2022 according to gen_doc_00002_due_diligence.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 16 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 15,
+          "sentence_id": "s15",
+          "quote": "Caldervale Bank Limited lent Thornbury Group Limited GBP 16 million on 3 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0035"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00024",
+      "question": "How much does Thornbury Group Limited owe Caldervale Bank Limited as at 8 March 2022 according to gen_doc_00002_due_diligence.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 6 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 17,
+          "sentence_id": "s17",
+          "quote": "Thornbury Group Limited owes Caldervale Bank Limited GBP 6 million as at 8 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0036"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00025",
+      "question": "What period does FY2024 cover in gen_doc_00002_due_diligence.txt?",
+      "query_type": "temporal",
+      "expected_answer": "1 July 2023 to 30 June 2024",
+      "answer_type": "period",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 25,
+          "sentence_id": "s25",
+          "quote": "1 July 2023 to 30 June 2024"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Fiscal period is stated explicitly in the document; no external fiscal-year assumption is required.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00026",
+      "question": "Which person is also known as Petra Alden in gen_doc_00002_due_diligence.txt?",
+      "query_type": "identity_resolution",
+      "expected_answer": "Petra Hale",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 24,
+          "sentence_id": "s24",
+          "quote": "Petra Hale, also known as Petra Alden, confirmed the treasury report."
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Alias resolution: both names occur in the same sentence.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00027",
+      "question": "According to gen_doc_00002_due_diligence.txt, was the claim that Thornbury Group Limited misstated its revenue alleged or proven?",
+      "query_type": "alleged_status",
+      "expected_answer": "Alleged",
+      "answer_type": "text",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 27,
+          "sentence_id": "s27",
+          "quote": "Quin Pell noted that a former employee alleged that Thornbury Group Limited misstated its revenue."
+        }
+      ],
+      "gold_fact_ids": [
+        "gen_doc_00002_allegation"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002"
+      ],
+      "notes": "Allegation, not a proven finding. The speaker is an unnamed former employee; the named person only reported the allegation.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00028",
+      "question": "Which company's name appears in the title of gen_doc_00003_memorandum.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Fenwick Logistics Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Memorandum regarding Fenwick Logistics Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00029",
+      "question": "Of whom is Marek Nyle a family member according to gen_doc_00003_memorandum.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Petra Hale",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Marek Nyle is a family member of Petra Hale."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0060"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "Critical relation: family_of; direction follows the gold edge.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00030",
+      "question": "What amount did Dunmore Bank Limited lend to Fenwick Logistics Limited on 14 March 2022 according to gen_doc_00003_memorandum.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 18 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 13,
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited lent Fenwick Logistics Limited GBP 18 million on 14 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0050"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00031",
+      "question": "How much does Fenwick Logistics Limited owe Dunmore Bank Limited as at 19 March 2022 according to gen_doc_00003_memorandum.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 7 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 15,
+          "sentence_id": "s15",
+          "quote": "Fenwick Logistics Limited owes Dunmore Bank Limited GBP 7 million as at 19 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0051"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00032",
+      "question": "What period does FY2024 cover in gen_doc_00003_memorandum.txt?",
+      "query_type": "temporal",
+      "expected_answer": "1 July 2023 to 30 June 2024",
+      "answer_type": "period",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 27,
+          "sentence_id": "s27",
+          "quote": "1 July 2023 to 30 June 2024"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "Fiscal period is stated explicitly in the document; no external fiscal-year assumption is required.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00033",
+      "question": "Are Nadia Zell of the Treasury Department and Nadia Zell of the Compliance Department in gen_doc_00003_memorandum.txt the same person?",
+      "query_type": "identity_resolution",
+      "expected_answer": "No",
+      "answer_type": "boolean",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 23,
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department and Nadia Zell of the Compliance Department are different individuals."
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "The document explicitly distinguishes the two namesakes.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00034",
+      "question": "Which company did Fenwick Logistics Limited propose to acquire according to gen_doc_00003_memorandum.txt?",
+      "query_type": "proposed_vs_completed",
+      "expected_answer": "Silverbeck Holdings Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 24,
+          "sentence_id": "s24",
+          "quote": "Nadia Jarvis, chair of Fenwick Logistics Limited, proposed to acquire Silverbeck Holdings Limited on 22 February 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "gen_doc_00003_proposal"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "Proposal, not a completed acquisition.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00035",
+      "question": "Applying this corpus's closed-world assumption to completed acquisitions, had Fenwick Logistics Limited completed the acquisition of Silverbeck Holdings Limited when gen_doc_00003_memorandum.txt was written?",
+      "query_type": "proposed_vs_completed",
+      "expected_answer": "No",
+      "answer_type": "boolean",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 24,
+          "sentence_id": "s24",
+          "quote": "Nadia Jarvis, chair of Fenwick Logistics Limited, proposed to acquire Silverbeck Holdings Limited on 22 February 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "gen_doc_00003_proposal"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "The proposition status is proposed, not completed. Closed-world: no document in this corpus records a completed acquisition of Silverbeck Holdings Limited by Fenwick Logistics Limited.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00036",
+      "question": "Which generated document carries the reference GEN-00003?",
+      "query_type": "provenance",
+      "expected_answer": "gen_doc_00003_memorandum.txt",
+      "answer_type": "document",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 2,
+          "sentence_id": "s2",
+          "quote": "Document reference: GEN-00003."
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00003"
+      ],
+      "notes": "Unique document reference in the corpus.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00037",
+      "question": "What organization is named in the document title of gen_doc_00004_case_notes.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Caldervale Holdings Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Case notes for Caldervale Holdings Limited against Marrowgate Logistics Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00038",
+      "question": "Of whom is Petra Hale a family member according to gen_doc_00004_case_notes.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Ines Alden",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 17,
+          "sentence_id": "s17",
+          "quote": "Petra Hale is a family member of Ines Alden."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0075"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Critical relation: family_of; direction follows the gold edge.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00039",
+      "question": "Which entity does Caldervale Holdings Limited own according to gen_doc_00004_case_notes.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Juniper Industries Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 20,
+          "sentence_id": "s20",
+          "quote": "Caldervale Holdings Limited owns Juniper Industries Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0061"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Unique ownership statement in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00040",
+      "question": "How much did Eastmere Bank Limited lend to Caldervale Holdings Limited on 25 March 2022 according to gen_doc_00004_case_notes.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 20 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 13,
+          "sentence_id": "s13",
+          "quote": "Eastmere Bank Limited lent Caldervale Holdings Limited GBP 20 million on 25 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0065"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00041",
+      "question": "What amount does Caldervale Holdings Limited owe Eastmere Bank Limited as at 30 March 2022 according to gen_doc_00004_case_notes.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 8 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 15,
+          "sentence_id": "s15",
+          "quote": "Caldervale Holdings Limited owes Eastmere Bank Limited GBP 8 million as at 30 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0066"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00042",
+      "question": "On what date will the facility in gen_doc_00004_case_notes.txt be reviewed?",
+      "query_type": "temporal",
+      "expected_answer": "29 August 2024",
+      "answer_type": "date",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 24,
+          "sentence_id": "s24",
+          "quote": "six months after the date of this note"
+        },
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 1,
+          "sentence_id": "s1",
+          "quote": "29 February 2024"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Relative date resolved from the document date.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00043",
+      "question": "On what date did Rhea Rook become chair of Caldervale Holdings Limited according to gen_doc_00004_case_notes.txt?",
+      "query_type": "temporal",
+      "expected_answer": "1 July 2023",
+      "answer_type": "date",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "1 July 2023"
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0064"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Explicit appointment date.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00044",
+      "question": "Who chaired Caldervale Holdings Limited until 30 June 2023 according to gen_doc_00004_case_notes.txt?",
+      "query_type": "historical_change",
+      "expected_answer": "Petra Hale",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 9,
+          "sentence_id": "s9",
+          "quote": "Petra Hale served as chair of Caldervale Holdings Limited until 30 June 2023."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0063"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "Historical office-holder, not the current chair.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00045",
+      "question": "Did Caldervale Holdings Limited guarantee the facility for Marrowgate Logistics Limited on 29 February 2024 according to gen_doc_00004_case_notes.txt?",
+      "query_type": "negation",
+      "expected_answer": "No",
+      "answer_type": "boolean",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 23,
+          "sentence_id": "s23",
+          "quote": "Caldervale Holdings Limited did not guarantee the facility for Marrowgate Logistics Limited on 29 February 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "gen_doc_00004_neg_guarantee"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004"
+      ],
+      "notes": "The relationship is explicitly negated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00046",
+      "question": "Which organization is identified in the title of gen_doc_00005_correspondence.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Juniper Industries Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Letter from Yarrow & Zell LLP on behalf of Juniper Industries Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00047",
+      "question": "Which asset does Juniper Industries Limited own according to gen_doc_00005_correspondence.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Oakhaven Yard",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 14,
+          "sentence_id": "s14",
+          "quote": "Juniper Industries Limited owns Oakhaven Yard."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0086"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Ownership qualified by target type 'asset'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00048",
+      "question": "Which company is owned by Juniper Industries Limited according to gen_doc_00005_correspondence.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Valebrook Group Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Juniper Industries Limited owns Valebrook Group Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0076"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Ownership qualified by target type 'company'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00049",
+      "question": "How much did Fenwick Bank Limited lend to Juniper Industries Limited on 5 April 2022 according to gen_doc_00005_correspondence.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 22 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 11,
+          "sentence_id": "s11",
+          "quote": "Fenwick Bank Limited lent Juniper Industries Limited GBP 22 million on 5 April 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0080"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00050",
+      "question": "What amount did Northbank Bank Limited lend to Oakhaven Holdings Limited on 15 January 2024 according to gen_doc_00005_correspondence.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 55 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 20,
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_conflict_55m"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00051",
+      "question": "How much does Juniper Industries Limited owe Fenwick Bank Limited as at 10 April 2022 according to gen_doc_00005_correspondence.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 9 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 13,
+          "sentence_id": "s13",
+          "quote": "Juniper Industries Limited owes Fenwick Bank Limited GBP 9 million as at 10 April 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0081"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00052",
+      "question": "Which person is also known as Petra Alden in gen_doc_00005_correspondence.txt?",
+      "query_type": "identity_resolution",
+      "expected_answer": "Petra Hale",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 21,
+          "sentence_id": "s21",
+          "quote": "Petra Hale, also known as Petra Alden, confirmed the treasury report."
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Alias resolution: both names occur in the same sentence.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00053",
+      "question": "What did Juniper Industries Limited propose to acquire according to gen_doc_00005_correspondence.txt?",
+      "query_type": "proposed_vs_completed",
+      "expected_answer": "Elderglen Group Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 22,
+          "sentence_id": "s22",
+          "quote": "Cora Vale, chair of Juniper Industries Limited, proposed to acquire Elderglen Group Limited on 7 March 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "gen_doc_00005_proposal"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "Proposal, not a completed acquisition.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00054",
+      "question": "Applying this corpus's closed-world assumption to completed acquisitions, had Juniper Industries Limited completed the acquisition of Elderglen Group Limited when gen_doc_00005_correspondence.txt was written?",
+      "query_type": "proposed_vs_completed",
+      "expected_answer": "No",
+      "answer_type": "boolean",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 22,
+          "sentence_id": "s22",
+          "quote": "Cora Vale, chair of Juniper Industries Limited, proposed to acquire Elderglen Group Limited on 7 March 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "gen_doc_00005_proposal"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005"
+      ],
+      "notes": "The proposition status is proposed, not completed. Closed-world: no document in this corpus records a completed acquisition of Elderglen Group Limited by Juniper Industries Limited.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00055",
+      "question": "Which organization is identified in the title of gen_doc_00006_press_release.txt?",
+      "query_type": "entity_lookup",
+      "expected_answer": "Valebrook Group Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 0,
+          "sentence_id": "s0",
+          "quote": "Press release concerning Valebrook Group Limited"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "The document title names the subject organization.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00056",
+      "question": "Who is a shareholder of Valebrook Group Limited according to gen_doc_00006_press_release.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Bram Nyle",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 6,
+          "sentence_id": "s6",
+          "quote": "Bram Nyle is a shareholder of Valebrook Group Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0092"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Critical relation: shareholder_of; direction follows the gold edge.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00057",
+      "question": "Which asset is owned by Valebrook Group Limited according to gen_doc_00006_press_release.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Pinehurst Silo",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 13,
+          "sentence_id": "s13",
+          "quote": "Valebrook Group Limited owns Pinehurst Silo."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0100"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Ownership qualified by target type 'asset'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00058",
+      "question": "Which company does Valebrook Group Limited own according to gen_doc_00006_press_release.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Marrowgate Logistics Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 5,
+          "sentence_id": "s5",
+          "quote": "Valebrook Group Limited owns Marrowgate Logistics Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0091"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Ownership qualified by target type 'company'; exactly one valid answer in this document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00059",
+      "question": "Which company guaranteed the loan to Valebrook Group Limited according to gen_doc_00006_press_release.txt?",
+      "query_type": "relationship_lookup",
+      "expected_answer": "Silverbeck Holdings Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 9,
+          "sentence_id": "s9",
+          "quote": "Silverbeck Holdings Limited guaranteed the loan to Valebrook Group Limited."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0096"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Critical relation: guarantor_for.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00060",
+      "question": "How much did Greyhaven Bank Limited lend to Valebrook Group Limited on 16 April 2022 according to gen_doc_00006_press_release.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 24 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited lent Valebrook Group Limited GBP 24 million on 16 April 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0094"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Completed loan amount stated in the document.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00061",
+      "question": "How much does Valebrook Group Limited owe Greyhaven Bank Limited as at 21 April 2022 according to gen_doc_00006_press_release.txt?",
+      "query_type": "financial",
+      "expected_answer": "GBP 10 million",
+      "answer_type": "money",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Valebrook Group Limited owes Greyhaven Bank Limited GBP 10 million as at 21 April 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0095"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Outstanding amount as at the stated date; not a payment.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "q_00062",
+      "question": "What period does FY2024 cover in gen_doc_00006_press_release.txt?",
+      "query_type": "temporal",
+      "expected_answer": "1 July 2023 to 30 June 2024",
+      "answer_type": "period",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 22,
+          "sentence_id": "s22",
+          "quote": "1 July 2023 to 30 June 2024"
+        }
+      ],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [
+        "gen_doc_00006"
+      ],
+      "notes": "Fiscal period is stated explicitly in the document; no external fiscal-year assumption is required.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00001",
+      "question": "Which bank lent money to the company owned by Oakhaven Holdings Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Silvergate Bank Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00000",
+          "filename": "gen_doc_00000_board_minutes.txt",
+          "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Oakhaven Holdings Limited owns Quarrystone Industries Limited."
+        },
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Silvergate Bank Limited lent Quarrystone Industries Limited GBP 14 million on 20 February 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0001",
+        "fact_0020"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00000",
+        "gen_doc_00001"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00000_board_minutes.txt; lending in gen_doc_00001_financial_agreement.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00002",
+      "question": "Which law firm represents the company owned by Quarrystone Industries Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Cairn & Sable LLP",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 7,
+          "sentence_id": "s7",
+          "quote": "Quarrystone Industries Limited owns Thornbury Group Limited."
+        },
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 10,
+          "sentence_id": "s10",
+          "quote": "Cairn & Sable LLP represents Thornbury Group Limited in the matter."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0016",
+        "fact_0038"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001",
+        "gen_doc_00002"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00001_financial_agreement.txt; representation in gen_doc_00002_due_diligence.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00003",
+      "question": "Which bank provided lending to the company owned by Quarrystone Industries Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Caldervale Bank Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 7,
+          "sentence_id": "s7",
+          "quote": "Quarrystone Industries Limited owns Thornbury Group Limited."
+        },
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 15,
+          "sentence_id": "s15",
+          "quote": "Caldervale Bank Limited lent Thornbury Group Limited GBP 16 million on 3 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0016",
+        "fact_0035"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001",
+        "gen_doc_00002"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00001_financial_agreement.txt; lending in gen_doc_00002_due_diligence.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00004",
+      "question": "Which law firm acts for the company owned by Thornbury Group Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Pell & Ward LLP",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 7,
+          "sentence_id": "s7",
+          "quote": "Thornbury Group Limited owns Fenwick Logistics Limited."
+        },
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 16,
+          "sentence_id": "s16",
+          "quote": "Pell & Ward LLP represents Fenwick Logistics Limited in the matter."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0031",
+        "fact_0053"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002",
+        "gen_doc_00003"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00002_due_diligence.txt; representation in gen_doc_00003_memorandum.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00005",
+      "question": "Which bank provided lending to the company owned by Thornbury Group Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Dunmore Bank Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00002",
+          "filename": "gen_doc_00002_due_diligence.txt",
+          "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+          "sentence_idx": 7,
+          "sentence_id": "s7",
+          "quote": "Thornbury Group Limited owns Fenwick Logistics Limited."
+        },
+        {
+          "document_id": "gen_doc_00003",
+          "filename": "gen_doc_00003_memorandum.txt",
+          "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+          "sentence_idx": 13,
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited lent Fenwick Logistics Limited GBP 18 million on 14 March 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0031",
+        "fact_0050"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00002",
+        "gen_doc_00003"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00002_due_diligence.txt; lending in gen_doc_00003_memorandum.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00006",
+      "question": "Which bank provided lending to the company owned by Caldervale Holdings Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Fenwick Bank Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00004",
+          "filename": "gen_doc_00004_case_notes.txt",
+          "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+          "sentence_idx": 20,
+          "sentence_id": "s20",
+          "quote": "Caldervale Holdings Limited owns Juniper Industries Limited."
+        },
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 11,
+          "sentence_id": "s11",
+          "quote": "Fenwick Bank Limited lent Juniper Industries Limited GBP 22 million on 5 April 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0061",
+        "fact_0080"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00004",
+        "gen_doc_00005"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00004_case_notes.txt; lending in gen_doc_00005_correspondence.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00007",
+      "question": "Which bank provided lending to the company owned by Juniper Industries Limited?",
+      "query_type": "multi_hop",
+      "expected_answer": "Greyhaven Bank Limited",
+      "answer_type": "entity",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Juniper Industries Limited owns Valebrook Group Limited."
+        },
+        {
+          "document_id": "gen_doc_00006",
+          "filename": "gen_doc_00006_press_release.txt",
+          "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+          "sentence_idx": 8,
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited lent Valebrook Group Limited GBP 24 million on 16 April 2022."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_0076",
+        "fact_0094"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00005",
+        "gen_doc_00006"
+      ],
+      "notes": "Cross-document join: ownership in gen_doc_00005_correspondence.txt; lending in gen_doc_00006_press_release.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "xq_00008",
+      "question": "Which amount did Northbank Bank Limited lend to Oakhaven Holdings Limited on 15 January 2024?",
+      "query_type": "contradiction",
+      "expected_answer": "The documents conflict: GBP 42 million and GBP 55 million.",
+      "answer_type": "contradiction",
+      "answerable": true,
+      "supporting_evidence": [
+        {
+          "document_id": "gen_doc_00001",
+          "filename": "gen_doc_00001_financial_agreement.txt",
+          "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+          "sentence_idx": 23,
+          "sentence_id": "s23",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024."
+        },
+        {
+          "document_id": "gen_doc_00005",
+          "filename": "gen_doc_00005_correspondence.txt",
+          "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+          "sentence_idx": 20,
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024."
+        }
+      ],
+      "gold_fact_ids": [
+        "fact_conflict_42m",
+        "fact_conflict_55m"
+      ],
+      "relevant_document_ids": [
+        "gen_doc_00001",
+        "gen_doc_00005"
+      ],
+      "notes": "The same loan is stated as GBP 42 million in one document and GBP 55 million in another. Sources: gen_doc_00001_financial_agreement.txt, gen_doc_00005_correspondence.txt.",
+      "unanswerable_kind": null,
+      "unanswerable_proof": null
+    },
+    {
+      "query_id": "uq_00001",
+      "question": "Which firm audited the accounts of Quarrystone Industries Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Quarrystone Industries Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity.",
+      "unanswerable_kind": "absent_attribute",
+      "unanswerable_proof": {
+        "kind": "absent_attribute",
+        "subject_id": "company_01",
+        "relation": null,
+        "object_id": null,
+        "attribute": "auditor",
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0016",
+          "fact_0021",
+          "fact_0026",
+          "fact_0028",
+          "fact_0334",
+          "fact_0343",
+          "fact_0344",
+          "gen_doc_00001_neg_guarantee",
+          "fact_0001",
+          "fact_0017",
+          "fact_0018",
+          "fact_0019"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00000"
+        ],
+        "explanation": "Quarrystone Industries Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity."
+      }
+    },
+    {
+      "query_id": "uq_00002",
+      "question": "Who is the auditor of Thornbury Group Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Thornbury Group Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity.",
+      "unanswerable_kind": "absent_attribute",
+      "unanswerable_proof": {
+        "kind": "absent_attribute",
+        "subject_id": "company_02",
+        "relation": null,
+        "object_id": null,
+        "attribute": "auditor",
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0007",
+          "fact_0031",
+          "fact_0036",
+          "fact_0041",
+          "fact_0043",
+          "gen_doc_00002_allegation",
+          "fact_0016",
+          "fact_0032",
+          "fact_0033",
+          "fact_0034",
+          "fact_0035",
+          "fact_0037"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00002",
+          "gen_doc_00001"
+        ],
+        "explanation": "Thornbury Group Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity."
+      }
+    },
+    {
+      "query_id": "uq_00003",
+      "question": "Which firm audited the accounts of Caldervale Holdings Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Caldervale Holdings Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity.",
+      "unanswerable_kind": "absent_attribute",
+      "unanswerable_proof": {
+        "kind": "absent_attribute",
+        "subject_id": "company_04",
+        "relation": null,
+        "object_id": null,
+        "attribute": "auditor",
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0037",
+          "fact_0061",
+          "fact_0066",
+          "fact_0071",
+          "fact_0073",
+          "gen_doc_00004_neg_guarantee",
+          "gen_doc_00004_allegation",
+          "fact_0062",
+          "fact_0063",
+          "fact_0064",
+          "fact_0065",
+          "fact_0067"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00002",
+          "gen_doc_00004",
+          "gen_doc_00001"
+        ],
+        "explanation": "Caldervale Holdings Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity."
+      }
+    },
+    {
+      "query_id": "uq_00004",
+      "question": "Who is the auditor of Juniper Industries Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Juniper Industries Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity.",
+      "unanswerable_kind": "absent_attribute",
+      "unanswerable_proof": {
+        "kind": "absent_attribute",
+        "subject_id": "company_05",
+        "relation": null,
+        "object_id": null,
+        "attribute": "auditor",
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0052",
+          "fact_0076",
+          "fact_0081",
+          "fact_0086",
+          "fact_0088",
+          "gen_doc_00005_proposal",
+          "gen_doc_00005_approval",
+          "fact_0061",
+          "fact_0077",
+          "fact_0078",
+          "fact_0079",
+          "fact_0080"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00003",
+          "gen_doc_00005",
+          "gen_doc_00004",
+          "gen_doc_00000"
+        ],
+        "explanation": "Juniper Industries Limited has no auditor attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has auditor='Alder Audit 1 LLP', but that value belongs to a different entity."
+      }
+    },
+    {
+      "query_id": "uq_00005",
+      "question": "Which VAT registration number is recorded for Fenwick Logistics Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Fenwick Logistics Limited has no vat_registration_number attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has vat_registration_number='GB 100 00 41', but that value belongs to a different entity.",
+      "unanswerable_kind": "absent_attribute",
+      "unanswerable_proof": {
+        "kind": "absent_attribute",
+        "subject_id": "company_03",
+        "relation": null,
+        "object_id": null,
+        "attribute": "vat_registration_number",
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0022",
+          "fact_0046",
+          "fact_0051",
+          "fact_0056",
+          "fact_0058",
+          "gen_doc_00003_proposal",
+          "gen_doc_00003_approval",
+          "fact_0031",
+          "fact_0047",
+          "fact_0048",
+          "fact_0049",
+          "fact_0050"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00003",
+          "gen_doc_00002"
+        ],
+        "explanation": "Fenwick Logistics Limited has no vat_registration_number attribute in the world model, and none of the 12 indexed facts involving it states one. Oakhaven Holdings Limited has vat_registration_number='GB 100 00 41', but that value belongs to a different entity."
+      }
+    },
+    {
+      "query_id": "uq_00006",
+      "question": "Which law firm acts as adviser to Oakhaven Holdings Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No edge with relation 'advises' has Oakhaven Holdings Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate.",
+      "unanswerable_kind": "absent_relationship",
+      "unanswerable_proof": {
+        "kind": "absent_relationship",
+        "subject_id": "company_00",
+        "relation": "advises",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0008"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001",
+          "gen_doc_00005"
+        ],
+        "explanation": "No edge with relation 'advises' has Oakhaven Holdings Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate."
+      }
+    },
+    {
+      "query_id": "uq_00007",
+      "question": "Which law firm acts as adviser to Quarrystone Industries Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No edge with relation 'advises' has Quarrystone Industries Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate.",
+      "unanswerable_kind": "absent_relationship",
+      "unanswerable_proof": {
+        "kind": "absent_relationship",
+        "subject_id": "company_01",
+        "relation": "advises",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0023"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001"
+        ],
+        "explanation": "No edge with relation 'advises' has Quarrystone Industries Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate."
+      }
+    },
+    {
+      "query_id": "uq_00008",
+      "question": "Which law firm acts as adviser to Thornbury Group Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No edge with relation 'advises' has Thornbury Group Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate.",
+      "unanswerable_kind": "absent_relationship",
+      "unanswerable_proof": {
+        "kind": "absent_relationship",
+        "subject_id": "company_02",
+        "relation": "advises",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0038"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00002",
+          "gen_doc_00000",
+          "gen_doc_00001"
+        ],
+        "explanation": "No edge with relation 'advises' has Thornbury Group Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate."
+      }
+    },
+    {
+      "query_id": "uq_00009",
+      "question": "Which law firm advises Fenwick Logistics Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No edge with relation 'advises' has Fenwick Logistics Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate.",
+      "unanswerable_kind": "absent_relationship",
+      "unanswerable_proof": {
+        "kind": "absent_relationship",
+        "subject_id": "company_03",
+        "relation": "advises",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0053"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00003",
+          "gen_doc_00001",
+          "gen_doc_00002"
+        ],
+        "explanation": "No edge with relation 'advises' has Fenwick Logistics Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate."
+      }
+    },
+    {
+      "query_id": "uq_00010",
+      "question": "Which law firm acts as adviser to Caldervale Holdings Limited?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No edge with relation 'advises' has Caldervale Holdings Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate.",
+      "unanswerable_kind": "absent_relationship",
+      "unanswerable_proof": {
+        "kind": "absent_relationship",
+        "subject_id": "company_04",
+        "relation": "advises",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": null,
+        "checked_fact_ids": [
+          "fact_0068"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00002",
+          "gen_doc_00004"
+        ],
+        "explanation": "No edge with relation 'advises' has Caldervale Holdings Limited as subject anywhere in the world or the corpus. The nearest professional relationship is a representation edge (1 fact(s)), which does not establish an advisory mandate."
+      }
+    },
+    {
+      "query_id": "uq_00011",
+      "question": "Who chaired Oakhaven Holdings Limited on 2 January 2020?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "The earliest indexed chair_of fact for Oakhaven Holdings Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported.",
+      "unanswerable_kind": "unsupported_historical_date",
+      "unanswerable_proof": {
+        "kind": "unsupported_historical_date",
+        "subject_id": "company_00",
+        "relation": "chair_of",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": "2020-01-02",
+        "checked_fact_ids": [
+          "fact_0003",
+          "fact_0004"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001",
+          "gen_doc_00005"
+        ],
+        "explanation": "The earliest indexed chair_of fact for Oakhaven Holdings Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported."
+      }
+    },
+    {
+      "query_id": "uq_00012",
+      "question": "Who chaired Quarrystone Industries Limited on 2 January 2020?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "The earliest indexed chair_of fact for Quarrystone Industries Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported.",
+      "unanswerable_kind": "unsupported_historical_date",
+      "unanswerable_proof": {
+        "kind": "unsupported_historical_date",
+        "subject_id": "company_01",
+        "relation": "chair_of",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": "2020-01-02",
+        "checked_fact_ids": [
+          "fact_0018",
+          "fact_0019"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001"
+        ],
+        "explanation": "The earliest indexed chair_of fact for Quarrystone Industries Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported."
+      }
+    },
+    {
+      "query_id": "uq_00013",
+      "question": "Who was the chair of Thornbury Group Limited on 2 January 2020?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "The earliest indexed chair_of fact for Thornbury Group Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported.",
+      "unanswerable_kind": "unsupported_historical_date",
+      "unanswerable_proof": {
+        "kind": "unsupported_historical_date",
+        "subject_id": "company_02",
+        "relation": "chair_of",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": "2020-01-02",
+        "checked_fact_ids": [
+          "fact_0033",
+          "fact_0034"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001",
+          "gen_doc_00002"
+        ],
+        "explanation": "The earliest indexed chair_of fact for Thornbury Group Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported."
+      }
+    },
+    {
+      "query_id": "uq_00014",
+      "question": "Who was the chair of Fenwick Logistics Limited on 2 January 2020?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "The earliest indexed chair_of fact for Fenwick Logistics Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported.",
+      "unanswerable_kind": "unsupported_historical_date",
+      "unanswerable_proof": {
+        "kind": "unsupported_historical_date",
+        "subject_id": "company_03",
+        "relation": "chair_of",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": "2020-01-02",
+        "checked_fact_ids": [
+          "fact_0048",
+          "fact_0049"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00002",
+          "gen_doc_00003"
+        ],
+        "explanation": "The earliest indexed chair_of fact for Fenwick Logistics Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported."
+      }
+    },
+    {
+      "query_id": "uq_00015",
+      "question": "Who was the chair of Caldervale Holdings Limited on 2 January 2020?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "The earliest indexed chair_of fact for Caldervale Holdings Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported.",
+      "unanswerable_kind": "unsupported_historical_date",
+      "unanswerable_proof": {
+        "kind": "unsupported_historical_date",
+        "subject_id": "company_04",
+        "relation": "chair_of",
+        "object_id": null,
+        "attribute": null,
+        "reference_date": "2020-01-02",
+        "checked_fact_ids": [
+          "fact_0063",
+          "fact_0064"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00004",
+          "gen_doc_00001",
+          "gen_doc_00002"
+        ],
+        "explanation": "The earliest indexed chair_of fact for Caldervale Holdings Limited starts on 1 January 2021. No chair fact covers 2 January 2020, so the historical office-holder on that date is unsupported."
+      }
+    },
+    {
+      "query_id": "uq_00016",
+      "question": "How much did Oakhaven Holdings Limited pay in dividends in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No fact in the world or corpus records a dividend for Oakhaven Holdings Limited. Its indexed financial facts are lending, balances or fees (6 fact(s), checked), none of which is a dividend in 2024.",
+      "unanswerable_kind": "absent_financial_information",
+      "unanswerable_proof": {
+        "kind": "absent_financial_information",
+        "subject_id": "company_00",
+        "relation": null,
+        "object_id": null,
+        "attribute": "dividend",
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0005",
+          "fact_0006",
+          "fact_0007",
+          "fact_0320",
+          "fact_conflict_42m",
+          "fact_conflict_55m"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001",
+          "gen_doc_00005"
+        ],
+        "explanation": "No fact in the world or corpus records a dividend for Oakhaven Holdings Limited. Its indexed financial facts are lending, balances or fees (6 fact(s), checked), none of which is a dividend in 2024."
+      }
+    },
+    {
+      "query_id": "uq_00017",
+      "question": "How much did Quarrystone Industries Limited pay in dividends in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No fact in the world or corpus records a dividend for Quarrystone Industries Limited. Its indexed financial facts are lending, balances or fees (7 fact(s), checked), none of which is a dividend in 2024.",
+      "unanswerable_kind": "absent_financial_information",
+      "unanswerable_proof": {
+        "kind": "absent_financial_information",
+        "subject_id": "company_01",
+        "relation": null,
+        "object_id": null,
+        "attribute": "dividend",
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0020",
+          "fact_0021",
+          "fact_0022",
+          "fact_0334",
+          "fact_0343",
+          "fact_0344",
+          "gen_doc_00001_neg_guarantee"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00000"
+        ],
+        "explanation": "No fact in the world or corpus records a dividend for Quarrystone Industries Limited. Its indexed financial facts are lending, balances or fees (7 fact(s), checked), none of which is a dividend in 2024."
+      }
+    },
+    {
+      "query_id": "uq_00018",
+      "question": "What dividend did Thornbury Group Limited pay in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No fact in the world or corpus records a dividend for Thornbury Group Limited. Its indexed financial facts are lending, balances or fees (4 fact(s), checked), none of which is a dividend in 2024.",
+      "unanswerable_kind": "absent_financial_information",
+      "unanswerable_proof": {
+        "kind": "absent_financial_information",
+        "subject_id": "company_02",
+        "relation": null,
+        "object_id": null,
+        "attribute": "dividend",
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0007",
+          "fact_0035",
+          "fact_0036",
+          "fact_0037"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00002",
+          "gen_doc_00001"
+        ],
+        "explanation": "No fact in the world or corpus records a dividend for Thornbury Group Limited. Its indexed financial facts are lending, balances or fees (4 fact(s), checked), none of which is a dividend in 2024."
+      }
+    },
+    {
+      "query_id": "uq_00019",
+      "question": "What dividend did Fenwick Logistics Limited pay in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No fact in the world or corpus records a dividend for Fenwick Logistics Limited. Its indexed financial facts are lending, balances or fees (4 fact(s), checked), none of which is a dividend in 2024.",
+      "unanswerable_kind": "absent_financial_information",
+      "unanswerable_proof": {
+        "kind": "absent_financial_information",
+        "subject_id": "company_03",
+        "relation": null,
+        "object_id": null,
+        "attribute": "dividend",
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0022",
+          "fact_0050",
+          "fact_0051",
+          "fact_0052"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00003",
+          "gen_doc_00002"
+        ],
+        "explanation": "No fact in the world or corpus records a dividend for Fenwick Logistics Limited. Its indexed financial facts are lending, balances or fees (4 fact(s), checked), none of which is a dividend in 2024."
+      }
+    },
+    {
+      "query_id": "uq_00020",
+      "question": "What dividend did Caldervale Holdings Limited pay in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "No fact in the world or corpus records a dividend for Caldervale Holdings Limited. Its indexed financial facts are lending, balances or fees (6 fact(s), checked), none of which is a dividend in 2024.",
+      "unanswerable_kind": "absent_financial_information",
+      "unanswerable_proof": {
+        "kind": "absent_financial_information",
+        "subject_id": "company_04",
+        "relation": null,
+        "object_id": null,
+        "attribute": "dividend",
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0037",
+          "fact_0065",
+          "fact_0066",
+          "fact_0067",
+          "gen_doc_00001_neg_guarantee",
+          "gen_doc_00004_neg_guarantee"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00002",
+          "gen_doc_00004",
+          "gen_doc_00001"
+        ],
+        "explanation": "No fact in the world or corpus records a dividend for Caldervale Holdings Limited. Its indexed financial facts are lending, balances or fees (6 fact(s), checked), none of which is a dividend in 2024."
+      }
+    },
+    {
+      "query_id": "uq_00021",
+      "question": "What was the reason for the acquisition of Juniper Industries Limited by Oakhaven Holdings Limited in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Oakhaven Holdings Limited has no completed ownership or acquisition edge to Juniper Industries Limited anywhere in the world or corpus. The only acquisition-related statement is a proposal dated 1 February 2024; it has status 'proposed', not a completed acquisition. The why/reason presupposition is therefore false.",
+      "unanswerable_kind": "false_presupposition",
+      "unanswerable_proof": {
+        "kind": "false_presupposition",
+        "subject_id": "company_00",
+        "relation": "owns",
+        "object_id": "company_05",
+        "attribute": null,
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "gen_doc_00000_proposal",
+          "fact_0001",
+          "fact_0011"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00000",
+          "gen_doc_00001",
+          "gen_doc_00005"
+        ],
+        "explanation": "Oakhaven Holdings Limited has no completed ownership or acquisition edge to Juniper Industries Limited anywhere in the world or corpus. The only acquisition-related statement is a proposal dated 1 February 2024; it has status 'proposed', not a completed acquisition. The why/reason presupposition is therefore false."
+      }
+    },
+    {
+      "query_id": "uq_00022",
+      "question": "What was the reason for the acquisition of Silverbeck Holdings Limited by Fenwick Logistics Limited in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Fenwick Logistics Limited has no completed ownership or acquisition edge to Silverbeck Holdings Limited anywhere in the world or corpus. The only acquisition-related statement is a proposal dated 22 February 2024; it has status 'proposed', not a completed acquisition. The why/reason presupposition is therefore false.",
+      "unanswerable_kind": "false_presupposition",
+      "unanswerable_proof": {
+        "kind": "false_presupposition",
+        "subject_id": "company_03",
+        "relation": "owns",
+        "object_id": "company_08",
+        "attribute": null,
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "gen_doc_00003_proposal",
+          "fact_0046",
+          "fact_0056"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00003",
+          "gen_doc_00001",
+          "gen_doc_00002"
+        ],
+        "explanation": "Fenwick Logistics Limited has no completed ownership or acquisition edge to Silverbeck Holdings Limited anywhere in the world or corpus. The only acquisition-related statement is a proposal dated 22 February 2024; it has status 'proposed', not a completed acquisition. The why/reason presupposition is therefore false."
+      }
+    },
+    {
+      "query_id": "uq_00023",
+      "question": "What was the reason for the acquisition of Elderglen Group Limited by Juniper Industries Limited in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Juniper Industries Limited has no completed ownership or acquisition edge to Elderglen Group Limited anywhere in the world or corpus. The only acquisition-related statement is a proposal dated 7 March 2024; it has status 'proposed', not a completed acquisition. The why/reason presupposition is therefore false.",
+      "unanswerable_kind": "false_presupposition",
+      "unanswerable_proof": {
+        "kind": "false_presupposition",
+        "subject_id": "company_05",
+        "relation": "owns",
+        "object_id": "company_10",
+        "attribute": null,
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "gen_doc_00005_proposal",
+          "fact_0076",
+          "fact_0086"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00005",
+          "gen_doc_00000",
+          "gen_doc_00003",
+          "gen_doc_00004"
+        ],
+        "explanation": "Juniper Industries Limited has no completed ownership or acquisition edge to Elderglen Group Limited anywhere in the world or corpus. The only acquisition-related statement is a proposal dated 7 March 2024; it has status 'proposed', not a completed acquisition. The why/reason presupposition is therefore false."
+      }
+    },
+    {
+      "query_id": "uq_00024",
+      "question": "What was the reason for the acquisition of Oakhaven Holdings Limited by Quarrystone Industries Limited in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Quarrystone Industries Limited has no completed ownership or acquisition edge to Oakhaven Holdings Limited anywhere in the world or corpus. No related proposal or ownership edge connects the parties. The why/reason presupposition is therefore false.",
+      "unanswerable_kind": "false_presupposition",
+      "unanswerable_proof": {
+        "kind": "false_presupposition",
+        "subject_id": "company_01",
+        "relation": "owns",
+        "object_id": "company_00",
+        "attribute": null,
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0016",
+          "fact_0026"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00001",
+          "gen_doc_00000"
+        ],
+        "explanation": "Quarrystone Industries Limited has no completed ownership or acquisition edge to Oakhaven Holdings Limited anywhere in the world or corpus. No related proposal or ownership edge connects the parties. The why/reason presupposition is therefore false."
+      }
+    },
+    {
+      "query_id": "uq_00025",
+      "question": "Why did Thornbury Group Limited acquire Oakhaven Holdings Limited in 2024?",
+      "query_type": "unanswerable",
+      "expected_answer": "",
+      "answer_type": "unanswerable",
+      "answerable": false,
+      "supporting_evidence": [],
+      "gold_fact_ids": [],
+      "relevant_document_ids": [],
+      "notes": "Thornbury Group Limited has no completed ownership or acquisition edge to Oakhaven Holdings Limited anywhere in the world or corpus. No related proposal or ownership edge connects the parties. The why/reason presupposition is therefore false.",
+      "unanswerable_kind": "false_presupposition",
+      "unanswerable_proof": {
+        "kind": "false_presupposition",
+        "subject_id": "company_02",
+        "relation": "owns",
+        "object_id": "company_00",
+        "attribute": null,
+        "reference_date": "2024-12-31",
+        "checked_fact_ids": [
+          "fact_0031",
+          "fact_0041"
+        ],
+        "checked_document_ids": [
+          "gen_doc_00002",
+          "gen_doc_00000",
+          "gen_doc_00001"
+        ],
+        "explanation": "Thornbury Group Limited has no completed ownership or acquisition edge to Oakhaven Holdings Limited anywhere in the world or corpus. No related proposal or ownership edge connects the parties. The why/reason presupposition is therefore false."
+      }
+    }
+  ],
+  "notes": "Phase 2 improved benchmark. Expected answers are derived programmatically from the structured world and document plans; unanswerable queries carry a fact-index proof."
+}

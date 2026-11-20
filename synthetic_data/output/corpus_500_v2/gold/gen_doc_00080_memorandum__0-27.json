@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00080_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "3d388c11f0f0719964bc6b0d147092f3fe86ee4790dcc67f9ac65b810ba6df30"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_54",
+      "name": "Dunhollow Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_54",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Dunhollow Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_02",
+      "name": "Caldervale Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_02",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Caldervale Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Caldervale Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_163",
+      "name": "Lowmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_163",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_164",
+      "name": "Lowmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_164",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_165",
+      "name": "Lowmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_165",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_168",
+      "name": "Lowmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_168",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_21",
+      "name": "Alden & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_21",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_37",
+      "name": "Security Agreement LEG-037",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_37",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Security Agreement LEG-037",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-037",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_163",
+      "name": "Calder Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_163",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_164",
+      "name": "Calder Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_164",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_171",
+      "name": "Calder Grenville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_171",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_84",
+      "name": "Amina Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_84",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_50",
+      "name": "Norwood",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_50",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Norwood",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002154",
+      "subject": "company_163",
+      "rel": "owns",
+      "object": "company_164",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Capital Limited owns Lowmoor Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002155",
+      "subject": "person_171",
+      "rel": "shareholder_of",
+      "object": "company_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Grenville is a shareholder of Lowmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002167",
+      "subject": "person_163",
+      "rel": "family_of",
+      "object": "person_164",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Yarrow is a family member of Calder Zell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002157",
+      "subject": "bank_02",
+      "rel": "lent_to",
+      "object": "company_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-02",
+          "value_end": "2022-05-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Caldervale Bank Limited lent Lowmoor Capital Limited GBP 16 million on 2 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002159",
+      "subject": "company_165",
+      "rel": "guarantor_for",
+      "object": "company_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Energy Limited guaranteed the loan to Lowmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002158",
+      "subject": "company_163",
+      "rel": "owes",
+      "object": "bank_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-07",
+          "value_end": "2022-05-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Capital Limited owes Caldervale Bank Limited GBP 6 million as at 7 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002160",
+      "subject": "lawfirm_13",
+      "rel": "represents",
+      "object": "company_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Hale LLP represents Lowmoor Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002163",
+      "subject": "company_163",
+      "rel": "owns",
+      "object": "asset_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Capital Limited owns Dunhollow Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002164",
+      "subject": "asset_54",
+      "rel": "located_in",
+      "object": "place_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Mill is located in Norwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002165",
+      "subject": "company_163",
+      "rel": "party_to",
+      "object": "legal_37",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Capital Limited is a party to the Security Agreement LEG-037.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002166",
+      "subject": "person_164",
+      "rel": "signed",
+      "object": "legal_37",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Zell signed the Security Agreement LEG-037.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00080_proposal",
+      "text": "The acquisition of Lowmoor Systems Limited by Lowmoor Capital Limited",
+      "speaker": "person_84",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Underwood, chair of Lowmoor Capital Limited, proposed to acquire Lowmoor Systems Limited on 14 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00080_approval",
+      "text": "Regulatory approval for the acquisition of Lowmoor Systems Limited",
+      "speaker": "person_84",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Underwood confirmed that regulatory approval for the acquisition of Lowmoor Systems Limited by Lowmoor Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00080_link_conditional",
+      "src": "gen_doc_00080_proposal",
+      "dst": "gen_doc_00080_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Lowmoor Systems Limited by Lowmoor Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00080",
+      "surface": "14 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-14",
+      "value_end": "2025-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002157",
+      "surface": "2 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-02",
+      "value_end": "2022-05-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "2 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002158",
+      "surface": "7 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-07",
+      "value_end": "2022-05-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "7 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00080",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

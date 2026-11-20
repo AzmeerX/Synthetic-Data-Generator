@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00268_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e9d9baf7b5d0a270fac5707d355c3671acbdc5ffe6d9bb4e234c7981bce40227"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_46",
+      "name": "Dunhollow Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_46",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_43",
+      "name": "Fair Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_43",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1231",
+      "name": "Ennerdale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1231",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Ennerdale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1232",
+      "name": "Ennerdale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1232",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1233",
+      "name": "Ennerdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1233",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_61",
+      "name": "Briar & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_61",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_19",
+      "name": "Services Agreement LEG-019",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_19",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-019",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-019",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1231",
+      "name": "Yara Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1231",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1232",
+      "name": "Yara Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1232",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1239",
+      "name": "Yara Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1239",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_272",
+      "name": "Elias Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_272",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_158",
+      "name": "Kelbrook Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_158",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018806",
+      "subject": "company_1231",
+      "rel": "owns",
+      "object": "company_1232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Marine Limited owns Ennerdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018815",
+      "subject": "company_1231",
+      "rel": "owns",
+      "object": "asset_46",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Marine Limited owns Dunhollow Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018816",
+      "subject": "asset_46",
+      "rel": "located_in",
+      "object": "place_158",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Foundry is located in Kelbrook Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018812",
+      "subject": "lawfirm_61",
+      "rel": "represents",
+      "object": "company_1231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Garrow LLP represents Ennerdale Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018807",
+      "subject": "person_1239",
+      "rel": "shareholder_of",
+      "object": "company_1231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Vale is a shareholder of Ennerdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018819",
+      "subject": "person_1231",
+      "rel": "family_of",
+      "object": "person_1232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Mercer is a family member of Yara Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018809",
+      "subject": "bank_43",
+      "rel": "lent_to",
+      "object": "company_1231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-28",
+          "value_end": "2026-07-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Private Bank Limited lent Ennerdale Marine Limited GBP 32 million on 28 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018811",
+      "subject": "company_1233",
+      "rel": "guarantor_for",
+      "object": "company_1231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Property Limited guaranteed the loan to Ennerdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018810",
+      "subject": "company_1231",
+      "rel": "owes",
+      "object": "bank_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-02",
+          "value_end": "2026-08-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Marine Limited owes Fair Private Bank Limited GBP 4 million as at 2 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018817",
+      "subject": "company_1231",
+      "rel": "party_to",
+      "object": "legal_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ennerdale Marine Limited is a party to the Services Agreement LEG-019.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018818",
+      "subject": "person_1232",
+      "rel": "signed",
+      "object": "legal_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Nyle signed the Services Agreement LEG-019.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00268_allegation",
+      "text": "A former employee alleged that Ennerdale Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Jeffreys noted that a former employee alleged that Ennerdale Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00268",
+      "surface": "8 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-08",
+      "value_end": "2025-12-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018809",
+      "surface": "28 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-28",
+      "value_end": "2026-07-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018810",
+      "surface": "2 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-02",
+      "value_end": "2026-08-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "2 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00268",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

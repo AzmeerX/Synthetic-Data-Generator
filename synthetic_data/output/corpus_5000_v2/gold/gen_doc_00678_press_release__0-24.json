@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00678_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "b8f10030c4f4a6daccd0526962445ea8af6a228179e995862c0ecd56a1e5a212"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_411",
+      "name": "Harrow Bay Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_411",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Harrow Bay Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_415",
+      "name": "Invermere Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_415",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Invermere Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Invermere Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1600",
+      "name": "North Lowmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1600",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1602",
+      "name": "North Lowmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1602",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_117",
+      "name": "Cairn & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_117",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_388",
+      "name": "Board Resolution LEG-388",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_388",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Board Resolution LEG-388",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Board Resolution LEG-388",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_208",
+      "name": "Daria Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_208",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_209",
+      "name": "Daria Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_209",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_216",
+      "name": "Daria Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_216",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Daria Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_682",
+      "name": "Nadia Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_682",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_167",
+      "name": "Merrivale Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_167",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merrivale Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024561",
+      "subject": "company_1600",
+      "rel": "owns",
+      "object": "asset_411",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Lowmoor Trading Limited owns Harrow Bay Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024562",
+      "subject": "person_216",
+      "rel": "shareholder_of",
+      "object": "company_1600",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Daria Cavendish is a shareholder of North Lowmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024574",
+      "subject": "person_208",
+      "rel": "family_of",
+      "object": "person_209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Thorne is a family member of Daria Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024564",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_1600",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-09-21",
+          "value_end": "2023-09-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Merchant Bank Limited lent North Lowmoor Trading Limited GBP 50 million on 21 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024566",
+      "subject": "company_1602",
+      "rel": "guarantor_for",
+      "object": "company_1600",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Lowmoor Capital Limited guaranteed the loan to North Lowmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024565",
+      "subject": "company_1600",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-09-26",
+          "value_end": "2023-09-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Lowmoor Trading Limited owes Bexley Merchant Bank Limited GBP 13 million as at 26 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024570",
+      "subject": "company_1600",
+      "rel": "owns",
+      "object": "asset_415",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Lowmoor Trading Limited owns Invermere Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024571",
+      "subject": "asset_415",
+      "rel": "located_in",
+      "object": "place_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Invermere Cold Store is located in Merrivale Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024572",
+      "subject": "company_1600",
+      "rel": "party_to",
+      "object": "legal_388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Lowmoor Trading Limited is a party to the Board Resolution LEG-388.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024573",
+      "subject": "person_209",
+      "rel": "signed",
+      "object": "legal_388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Ulric signed the Board Resolution LEG-388.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00678_allegation",
+      "text": "A former employee alleged that North Lowmoor Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Dunmore noted that a former employee alleged that North Lowmoor Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00678",
+      "surface": "23 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-23",
+      "value_end": "2027-03-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024564",
+      "surface": "21 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-21",
+      "value_end": "2023-09-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "21 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024565",
+      "surface": "26 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-26",
+      "value_end": "2023-09-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "26 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00678",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

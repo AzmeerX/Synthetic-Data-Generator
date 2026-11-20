@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00548_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4beb085d0ff87695273ff99fd22726948be04931cf70766ad4202964118efe07"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_295",
+      "name": "Carrow Bay Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_295",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Carrow Bay Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_299",
+      "name": "Carrow Bay Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_299",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Bay Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Bay Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_32",
+      "name": "Denmoor International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_32",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1484",
+      "name": "North Belmont Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1484",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Belmont Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1486",
+      "name": "North Belmont Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1486",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Belmont Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_54",
+      "name": "Alden & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_54",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_272",
+      "name": "Side Letter LEG-272",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_272",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-272",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-272",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_100",
+      "name": "Bastian Kerr",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_100",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_552",
+      "name": "Kellan Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_552",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Kellan Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_92",
+      "name": "Bastian Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_92",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_93",
+      "name": "Bastian Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_93",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_51",
+      "name": "Overdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_51",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Overdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022753",
+      "subject": "company_1484",
+      "rel": "owns",
+      "object": "asset_295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Belmont Energy Limited owns Carrow Bay Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022762",
+      "subject": "company_1484",
+      "rel": "owns",
+      "object": "asset_299",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Belmont Energy Limited owns Carrow Bay Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022763",
+      "subject": "asset_299",
+      "rel": "located_in",
+      "object": "place_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Bay Data Centre is located in Overdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022759",
+      "subject": "lawfirm_54",
+      "rel": "represents",
+      "object": "company_1484",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Yardley LLP represents North Belmont Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022754",
+      "subject": "person_100",
+      "rel": "shareholder_of",
+      "object": "company_1484",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Kerr is a shareholder of North Belmont Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022766",
+      "subject": "person_92",
+      "rel": "family_of",
+      "object": "person_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Cairn is a family member of Bastian Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022756",
+      "subject": "bank_32",
+      "rel": "lent_to",
+      "object": "company_1484",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-18",
+          "value_end": "2024-11-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor International Bank Limited lent North Belmont Energy Limited GBP 18 million on 18 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022758",
+      "subject": "company_1486",
+      "rel": "guarantor_for",
+      "object": "company_1484",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Belmont Ventures Limited guaranteed the loan to North Belmont Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022757",
+      "subject": "company_1484",
+      "rel": "owes",
+      "object": "bank_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-23",
+          "value_end": "2024-11-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Belmont Energy Limited owes Denmoor International Bank Limited GBP 7 million as at 23 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022764",
+      "subject": "company_1484",
+      "rel": "party_to",
+      "object": "legal_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Belmont Energy Limited is a party to the Side Letter LEG-272.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022765",
+      "subject": "person_93",
+      "rel": "signed",
+      "object": "legal_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Dunmore signed the Side Letter LEG-272.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00548_allegation",
+      "text": "A former employee alleged that North Belmont Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Kellan Ulric noted that a former employee alleged that North Belmont Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00548",
+      "surface": "24 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-24",
+      "value_end": "2024-09-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022756",
+      "surface": "18 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-18",
+      "value_end": "2024-11-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022757",
+      "surface": "23 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-23",
+      "value_end": "2024-11-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "23 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00548",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

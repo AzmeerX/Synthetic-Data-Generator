@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01479_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d57b703e991399e2cf873bdf442b739d8446f2e46fc3535815cf169b831d6e2b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_541",
+      "name": "Oakhurst Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_541",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_78",
+      "name": "Low Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_78",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2322",
+      "name": "North Yardley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2322",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2323",
+      "name": "North Yardley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2323",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Yardley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2324",
+      "name": "North Yardley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2324",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_112",
+      "name": "Cairn & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_112",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_504",
+      "name": "Lease LEG-504",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_504",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-504",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-504",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_91",
+      "name": "Bastian Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_91",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_930",
+      "name": "Silas Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_930",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_931",
+      "name": "Silas Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_931",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_938",
+      "name": "Silas Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_938",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_169",
+      "name": "Merrivale Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_169",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035820",
+      "subject": "company_2322",
+      "rel": "owns",
+      "object": "company_2323",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Yardley Capital Limited owns North Yardley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035829",
+      "subject": "company_2322",
+      "rel": "owns",
+      "object": "asset_541",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Capital Limited owns Oakhurst Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035830",
+      "subject": "asset_541",
+      "rel": "located_in",
+      "object": "place_169",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Quay is located in Merrivale Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035826",
+      "subject": "lawfirm_112",
+      "rel": "represents",
+      "object": "company_2322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ivers LLP represents North Yardley Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035821",
+      "subject": "person_938",
+      "rel": "shareholder_of",
+      "object": "company_2322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Rook is a shareholder of North Yardley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035833",
+      "subject": "person_930",
+      "rel": "family_of",
+      "object": "person_931",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Jarvis is a family member of Silas Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035823",
+      "subject": "bank_78",
+      "rel": "lent_to",
+      "object": "company_2322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-12",
+          "value_end": "2022-03-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Commercial Bank Limited lent North Yardley Capital Limited GBP 14 million on 12 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035825",
+      "subject": "company_2324",
+      "rel": "guarantor_for",
+      "object": "company_2322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Energy Limited guaranteed the loan to North Yardley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035824",
+      "subject": "company_2322",
+      "rel": "owes",
+      "object": "bank_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-17",
+          "value_end": "2022-03-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Capital Limited owes Low Commercial Bank Limited GBP 5 million as at 17 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035831",
+      "subject": "company_2322",
+      "rel": "party_to",
+      "object": "legal_504",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Yardley Capital Limited is a party to the Lease LEG-504.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035832",
+      "subject": "person_931",
+      "rel": "signed",
+      "object": "legal_504",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Kerr signed the Lease LEG-504.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01479_allegation",
+      "text": "A former employee alleged that North Yardley Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Briar noted that a former employee alleged that North Yardley Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01479",
+      "surface": "23 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-23",
+      "value_end": "2026-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035823",
+      "surface": "12 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-12",
+      "value_end": "2022-03-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "12 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035824",
+      "surface": "17 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-17",
+      "value_end": "2022-03-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "17 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01479",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

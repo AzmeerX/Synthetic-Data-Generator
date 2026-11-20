@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00559_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "b9e032ec2ca3a7a268fb0a8138b9cdf7a6a653a674b76d28de1e0e6ade160f73"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_309",
+      "name": "Carrow Bay Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_309",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Bay Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Bay Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_42",
+      "name": "Fair Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_42",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1494",
+      "name": "North Carrow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1494",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Carrow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1495",
+      "name": "North Carrow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1495",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Carrow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1496",
+      "name": "North Carrow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1496",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_127",
+      "name": "Cairn & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_127",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_282",
+      "name": "Settlement Agreement LEG-282",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_282",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Settlement Agreement LEG-282",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-282",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_102",
+      "name": "Bastian Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_102",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Bastian Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_103",
+      "name": "Bastian Nyle",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_103",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Bastian Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bastian Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_110",
+      "name": "Bastian Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_110",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Bastian Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_563",
+      "name": "Kellan Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_563",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Kellan Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_61",
+      "name": "Amberley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_61",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Amberley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022909",
+      "subject": "company_1494",
+      "rel": "owns",
+      "object": "company_1495",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Carrow Capital Limited owns North Carrow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022910",
+      "subject": "person_110",
+      "rel": "shareholder_of",
+      "object": "company_1494",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Bastian Ulric is a shareholder of North Carrow Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022922",
+      "subject": "person_102",
+      "rel": "family_of",
+      "object": "person_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Bastian Mercer is a family member of Bastian Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022912",
+      "subject": "bank_42",
+      "rel": "lent_to",
+      "object": "company_1494",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-08",
+          "value_end": "2025-03-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fair Commercial Bank Limited lent North Carrow Capital Limited GBP 38 million on 8 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022914",
+      "subject": "company_1496",
+      "rel": "guarantor_for",
+      "object": "company_1494",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Carrow Energy Limited guaranteed the loan to North Carrow Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022913",
+      "subject": "company_1494",
+      "rel": "owes",
+      "object": "bank_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-13",
+          "value_end": "2025-03-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Carrow Capital Limited owes Fair Commercial Bank Limited GBP 7 million as at 13 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022918",
+      "subject": "company_1494",
+      "rel": "owns",
+      "object": "asset_309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Carrow Capital Limited owns Carrow Bay Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022919",
+      "subject": "asset_309",
+      "rel": "located_in",
+      "object": "place_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Bay Estate is located in Amberley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022920",
+      "subject": "company_1494",
+      "rel": "party_to",
+      "object": "legal_282",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Carrow Capital Limited is a party to the Settlement Agreement LEG-282.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022921",
+      "subject": "person_103",
+      "rel": "signed",
+      "object": "legal_282",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Bastian Nyle signed the Settlement Agreement LEG-282.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00559_allegation",
+      "text": "A former employee alleged that North Carrow Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Kellan Grenville noted that a former employee alleged that North Carrow Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00559",
+      "surface": "10 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-10",
+      "value_end": "2024-12-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022912",
+      "surface": "8 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-08",
+      "value_end": "2025-03-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "8 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022913",
+      "surface": "13 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-13",
+      "value_end": "2025-03-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "13 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00559",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

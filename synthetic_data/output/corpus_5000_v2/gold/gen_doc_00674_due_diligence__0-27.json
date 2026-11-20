@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00674_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "95da0ec2483e9abc81e72ac7c9a70f59b54d03d90f3ccebd62dd925fcbbfc59b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_413",
+      "name": "Invermere Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_413",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_14",
+      "name": "Alder International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_14",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1598",
+      "name": "North Lowmoor Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1598",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Lowmoor Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1599",
+      "name": "North Lowmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1599",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1600",
+      "name": "North Lowmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1600",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lowmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_38",
+      "name": "Alden & Hastings LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_38",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Hastings LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_386",
+      "name": "Facility Agreement LEG-386",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_386",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-386",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-386",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_206",
+      "name": "Daria Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_206",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_207",
+      "name": "Daria Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_207",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_214",
+      "name": "Daria Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_214",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_678",
+      "name": "Marek Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_678",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Marek Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_165",
+      "name": "Lowmoor Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_165",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024532",
+      "subject": "company_1598",
+      "rel": "owns",
+      "object": "company_1599",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Group Limited owns North Lowmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024541",
+      "subject": "company_1598",
+      "rel": "owns",
+      "object": "asset_413",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lowmoor Group Limited owns Invermere Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024542",
+      "subject": "asset_413",
+      "rel": "located_in",
+      "object": "place_165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Rail Depot is located in Lowmoor Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024538",
+      "subject": "lawfirm_38",
+      "rel": "represents",
+      "object": "company_1598",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Hastings LLP represents North Lowmoor Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024533",
+      "subject": "person_214",
+      "rel": "shareholder_of",
+      "object": "company_1598",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Ashby is a shareholder of North Lowmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024545",
+      "subject": "person_206",
+      "rel": "family_of",
+      "object": "person_207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Rook is a family member of Daria Sable.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024535",
+      "subject": "bank_14",
+      "rel": "lent_to",
+      "object": "company_1598",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-30",
+          "value_end": "2023-08-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder International Bank Limited lent North Lowmoor Group Limited GBP 46 million on 30 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024537",
+      "subject": "company_1600",
+      "rel": "guarantor_for",
+      "object": "company_1598",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lowmoor Trading Limited guaranteed the loan to North Lowmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024536",
+      "subject": "company_1598",
+      "rel": "owes",
+      "object": "bank_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-09-04",
+          "value_end": "2023-09-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Lowmoor Group Limited owes Alder International Bank Limited GBP 11 million as at 4 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024543",
+      "subject": "company_1598",
+      "rel": "party_to",
+      "object": "legal_386",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Lowmoor Group Limited is a party to the Facility Agreement LEG-386.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024544",
+      "subject": "person_207",
+      "rel": "signed",
+      "object": "legal_386",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Sable signed the Facility Agreement LEG-386.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00674_allegation",
+      "text": "A former employee alleged that North Lowmoor Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Marek Zouch noted that a former employee alleged that North Lowmoor Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00674",
+      "surface": "23 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-23",
+      "value_end": "2027-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024535",
+      "surface": "30 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-30",
+      "value_end": "2023-08-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "30 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024536",
+      "surface": "4 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-04",
+      "value_end": "2023-09-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "4 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00674",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

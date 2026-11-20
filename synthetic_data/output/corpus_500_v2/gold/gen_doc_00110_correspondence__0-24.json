@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00110_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "fc5878573968b3f918916014e9dfef3824f3f20070b03fec26f6d9006279ccda"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_81",
+      "name": "Fenwick Bay Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_81",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bay Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_30",
+      "name": "Denmoor Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_30",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_190",
+      "name": "Netherby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_190",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Netherby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_191",
+      "name": "Netherby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_191",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_192",
+      "name": "Netherby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_192",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Netherby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_193",
+      "name": "Oakhurst Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_193",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Oakhurst Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_195",
+      "name": "Oakhurst Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_195",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_21",
+      "name": "Alden & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_21",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_64",
+      "name": "Side Letter LEG-064",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_64",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_114",
+      "name": "Bastian Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_114",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_190",
+      "name": "Daria Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_190",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_191",
+      "name": "Daria Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_191",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_198",
+      "name": "Daria Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_198",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_17",
+      "name": "Elmford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_17",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elmford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002575",
+      "subject": "company_190",
+      "rel": "owns",
+      "object": "company_191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Property Limited owns Netherby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002576",
+      "subject": "person_198",
+      "rel": "shareholder_of",
+      "object": "company_190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Jarvis is a shareholder of Netherby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002588",
+      "subject": "person_190",
+      "rel": "family_of",
+      "object": "person_191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Alden is a family member of Daria Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002578",
+      "subject": "bank_30",
+      "rel": "lent_to",
+      "object": "company_190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-23",
+          "value_end": "2023-02-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Commercial Bank Limited lent Netherby Property Limited GBP 30 million on 23 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002580",
+      "subject": "company_192",
+      "rel": "guarantor_for",
+      "object": "company_190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Netherby Systems Limited guaranteed the loan to Netherby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002579",
+      "subject": "company_190",
+      "rel": "owes",
+      "object": "bank_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-28",
+          "value_end": "2023-02-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Netherby Property Limited owes Denmoor Commercial Bank Limited GBP 13 million as at 28 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002584",
+      "subject": "company_190",
+      "rel": "owns",
+      "object": "asset_81",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Property Limited owns Fenwick Bay Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002585",
+      "subject": "asset_81",
+      "rel": "located_in",
+      "object": "place_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bay Terminal is located in Elmford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002586",
+      "subject": "company_190",
+      "rel": "party_to",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Property Limited is a party to the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002587",
+      "subject": "person_191",
+      "rel": "signed",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Briar signed the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00110_proposal",
+      "text": "The acquisition of Oakhurst Group Limited by Netherby Property Limited",
+      "speaker": "person_114",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Zell, chair of Netherby Property Limited, proposed to acquire Oakhurst Group Limited on 12 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00110_approval",
+      "text": "Regulatory approval for the acquisition of Oakhurst Group Limited",
+      "speaker": "person_114",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Zell confirmed that regulatory approval for the acquisition of Oakhurst Group Limited by Netherby Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00110_link_conditional",
+      "src": "gen_doc_00110_proposal",
+      "dst": "gen_doc_00110_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Oakhurst Group Limited by Netherby Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00106_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00110",
+      "surface": "12 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-12",
+      "value_end": "2026-03-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002578",
+      "surface": "23 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-23",
+      "value_end": "2023-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "23 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002579",
+      "surface": "28 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-28",
+      "value_end": "2023-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "28 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

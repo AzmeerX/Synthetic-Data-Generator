@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00889_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "a4d9778763dd5cd03ec800d55faf87020ae7eef050f21cebb3bdfc28678925d4"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_10",
+      "name": "Larkspur Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_10",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Larkspur Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_75",
+      "name": "Low Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_75",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Low Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1791",
+      "name": "North Draycott Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1791",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Draycott Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1792",
+      "name": "North Draycott Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1792",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Draycott Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1793",
+      "name": "North Draycott Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1793",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1796",
+      "name": "North Draycott Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1796",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Draycott Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Draycott Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_101",
+      "name": "Briar & Whitlock LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_101",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Whitlock LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_79",
+      "name": "Briar & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_79",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_579",
+      "name": "Guarantee Deed LEG-579",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_579",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-579",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-579",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_399",
+      "name": "Hana Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_399",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_400",
+      "name": "Hana Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_400",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_402",
+      "name": "Hana Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_402",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_404",
+      "name": "Hana Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_404",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_407",
+      "name": "Hana Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_407",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_893",
+      "name": "Rhea Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_893",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Rhea Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_178",
+      "name": "Netherby Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_178",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Netherby Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027539",
+      "subject": "company_1791",
+      "rel": "owns",
+      "object": "company_1792",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Draycott Logistics Limited owns North Draycott Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027541",
+      "subject": "person_402",
+      "rel": "chair_of",
+      "object": "company_1791",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Rook is the chair of North Draycott Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027540",
+      "subject": "person_407",
+      "rel": "shareholder_of",
+      "object": "company_1791",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Ward is a shareholder of North Draycott Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027552",
+      "subject": "person_399",
+      "rel": "family_of",
+      "object": "person_400",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Orrick is a family member of Hana Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027542",
+      "subject": "bank_75",
+      "rel": "lent_to",
+      "object": "company_1791",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-26",
+          "value_end": "2024-10-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low Bank Limited lent North Draycott Logistics Limited GBP 32 million on 26 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027544",
+      "subject": "company_1793",
+      "rel": "guarantor_for",
+      "object": "company_1791",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Draycott Partners Limited guaranteed the loan to North Draycott Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027543",
+      "subject": "company_1791",
+      "rel": "owes",
+      "object": "bank_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-31",
+          "value_end": "2024-10-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Draycott Logistics Limited owes Low Bank Limited GBP 4 million as at 31 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027545",
+      "subject": "lawfirm_101",
+      "rel": "represents",
+      "object": "company_1791",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Whitlock LLP represents North Draycott Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027548",
+      "subject": "company_1791",
+      "rel": "owns",
+      "object": "asset_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Draycott Logistics Limited owns Larkspur Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027549",
+      "subject": "asset_10",
+      "rel": "located_in",
+      "object": "place_178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur Quay is located in Netherby Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027550",
+      "subject": "company_1791",
+      "rel": "party_to",
+      "object": "legal_579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Draycott Logistics Limited is a party to the Guarantee Deed LEG-579.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027551",
+      "subject": "person_400",
+      "rel": "signed",
+      "object": "legal_579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Pell signed the Guarantee Deed LEG-579.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00889_proposal",
+      "text": "The acquisition of North Draycott Energy Limited by North Draycott Logistics Limited",
+      "speaker": "person_893",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Rhea Ward, chair of North Draycott Logistics Limited, proposed to acquire North Draycott Energy Limited on 11 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00889_approval",
+      "text": "Regulatory approval for the acquisition of North Draycott Energy Limited",
+      "speaker": "person_893",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Ward confirmed that regulatory approval for the acquisition of North Draycott Energy Limited by North Draycott Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00889_link_conditional",
+      "src": "gen_doc_00889_proposal",
+      "dst": "gen_doc_00889_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Draycott Energy Limited by North Draycott Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00889",
+      "surface": "11 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-11",
+      "value_end": "2024-09-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027542",
+      "surface": "26 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-26",
+      "value_end": "2024-10-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "26 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027543",
+      "surface": "31 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-31",
+      "value_end": "2024-10-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "31 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00889",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

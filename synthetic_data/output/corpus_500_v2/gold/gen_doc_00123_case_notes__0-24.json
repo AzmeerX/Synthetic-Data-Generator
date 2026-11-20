@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00123_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "41afb0e60353980bb39a07ee99a22a8530452b216a167335324f653fb41fa7de"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_202",
+      "name": "Oakhurst Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_202",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_203",
+      "name": "Oakhurst Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_203",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_204",
+      "name": "Oakhurst Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_204",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_205",
+      "name": "Pemberton Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_205",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Pemberton Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_76",
+      "name": "Shareholder Agreement LEG-076",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_76",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Shareholder Agreement LEG-076",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Shareholder Agreement LEG-076",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_127",
+      "name": "Bastian Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_127",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_202",
+      "name": "Daria Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_202",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_203",
+      "name": "Daria Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_203",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Daria Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_205",
+      "name": "Daria Quade",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_205",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_210",
+      "name": "Daria Vale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_210",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Daria Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002774",
+      "subject": "company_202",
+      "rel": "party_to",
+      "object": "legal_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Property Limited is a party to the Shareholder Agreement LEG-076.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002775",
+      "subject": "person_203",
+      "rel": "signed",
+      "object": "legal_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Daria Orrick signed the Shareholder Agreement LEG-076.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002765",
+      "subject": "person_205",
+      "rel": "chair_of",
+      "object": "company_202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Quade is the chair of Oakhurst Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002766",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-07-05",
+          "value_end": "2023-07-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Alder Merchant Bank Limited lent Oakhurst Property Limited GBP 14 million on 5 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002768",
+      "subject": "company_204",
+      "rel": "guarantor_for",
+      "object": "company_202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Systems Limited guaranteed the loan to Oakhurst Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002767",
+      "subject": "company_202",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-07-10",
+          "value_end": "2023-07-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Property Limited owes Alder Merchant Bank Limited GBP 5 million as at 10 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002764",
+      "subject": "person_210",
+      "rel": "shareholder_of",
+      "object": "company_202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Daria Vale is a shareholder of Oakhurst Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002776",
+      "subject": "person_202",
+      "rel": "family_of",
+      "object": "person_203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Nyle is a family member of Daria Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002763",
+      "subject": "company_202",
+      "rel": "owns",
+      "object": "company_203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Property Limited owns Oakhurst Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00123_neg_guarantee",
+      "subject": "company_202",
+      "rel": "guarantor_for",
+      "object": "company_205",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Property Limited did not guarantee the facility for Pemberton Holdings Limited on 11 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00123_allegation",
+      "text": "A former employee alleged that Oakhurst Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Montague noted that a former employee alleged that Oakhurst Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00123",
+      "surface": "11 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-11",
+      "value_end": "2026-06-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002766",
+      "surface": "5 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-05",
+      "value_end": "2023-07-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "5 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002767",
+      "surface": "10 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-10",
+      "value_end": "2023-07-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "10 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00123",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2026-12-11",
+      "value_end": "2026-12-11",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

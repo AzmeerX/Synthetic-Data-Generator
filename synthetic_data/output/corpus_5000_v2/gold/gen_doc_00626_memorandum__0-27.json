@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00626_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "63877ca7cc5344cb721f77bde85207bec7d2eb2e44dc86e6e2d2b7644a0ea886"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_369",
+      "name": "Fairmouth Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_369",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fairmouth Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Fairmouth Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_102",
+      "name": "Pember Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_102",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1554",
+      "name": "North Harrowden Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1554",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1555",
+      "name": "North Harrowden Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1555",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Harrowden Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1556",
+      "name": "North Harrowden Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1556",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Harrowden Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1559",
+      "name": "North Harrowden Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1559",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Harrowden Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Harrowden Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_124",
+      "name": "Cairn & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_124",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_76",
+      "name": "Briar & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_76",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_342",
+      "name": "Loan Note LEG-342",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_342",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Loan Note LEG-342",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-342",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_162",
+      "name": "Calder Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_162",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_163",
+      "name": "Calder Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_163",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_170",
+      "name": "Calder Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_170",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_630",
+      "name": "Lena Zouch",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_630",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lena Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lena Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_121",
+      "name": "Glenmoor Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_121",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenmoor Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023844",
+      "subject": "company_1554",
+      "rel": "owns",
+      "object": "company_1555",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Harrowden Capital Limited owns North Harrowden Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023845",
+      "subject": "person_170",
+      "rel": "shareholder_of",
+      "object": "company_1554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Fairfax is a shareholder of North Harrowden Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023857",
+      "subject": "person_162",
+      "rel": "family_of",
+      "object": "person_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Ward is a family member of Calder Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023847",
+      "subject": "bank_102",
+      "rel": "lent_to",
+      "object": "company_1554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-03",
+          "value_end": "2022-05-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Commercial Bank Limited lent North Harrowden Capital Limited GBP 38 million on 3 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023849",
+      "subject": "company_1556",
+      "rel": "guarantor_for",
+      "object": "company_1554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Harrowden Energy Limited guaranteed the loan to North Harrowden Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023848",
+      "subject": "company_1554",
+      "rel": "owes",
+      "object": "bank_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-08",
+          "value_end": "2022-05-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Harrowden Capital Limited owes Pember Commercial Bank Limited GBP 7 million as at 8 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023850",
+      "subject": "lawfirm_124",
+      "rel": "represents",
+      "object": "company_1554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Vale LLP represents North Harrowden Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023853",
+      "subject": "company_1554",
+      "rel": "owns",
+      "object": "asset_369",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Harrowden Capital Limited owns Fairmouth Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023854",
+      "subject": "asset_369",
+      "rel": "located_in",
+      "object": "place_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairmouth Estate is located in Glenmoor Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023855",
+      "subject": "company_1554",
+      "rel": "party_to",
+      "object": "legal_342",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Harrowden Capital Limited is a party to the Loan Note LEG-342.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023856",
+      "subject": "person_163",
+      "rel": "signed",
+      "object": "legal_342",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Yarrow signed the Loan Note LEG-342.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00626_proposal",
+      "text": "The acquisition of North Harrowden Systems Limited by North Harrowden Capital Limited",
+      "speaker": "person_630",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lena Zouch, chair of North Harrowden Capital Limited, proposed to acquire North Harrowden Systems Limited on 24 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00626_approval",
+      "text": "Regulatory approval for the acquisition of North Harrowden Systems Limited",
+      "speaker": "person_630",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Lena Zouch confirmed that regulatory approval for the acquisition of North Harrowden Systems Limited by North Harrowden Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00626_link_conditional",
+      "src": "gen_doc_00626_proposal",
+      "dst": "gen_doc_00626_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Harrowden Systems Limited by North Harrowden Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00626",
+      "surface": "24 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-24",
+      "value_end": "2026-03-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023847",
+      "surface": "3 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-03",
+      "value_end": "2022-05-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "3 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023848",
+      "surface": "8 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-08",
+      "value_end": "2022-05-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00626",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

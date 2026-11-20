@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01560_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "85bfedcdb024f59d67fce824c508075d84e9b5b950d2eda1f3b700309da2b21f"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_15",
+      "name": "Quarrystone Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_15",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_19",
+      "name": "Valebrook Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_19",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Valebrook Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Valebrook Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_20",
+      "name": "Bexley International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_20",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2396",
+      "name": "North Fingal Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2396",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fingal Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2398",
+      "name": "North Fingal Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2398",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Fingal Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_01",
+      "name": "Harrow & Finch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_01",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrow & Finch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_578",
+      "name": "Facility Agreement LEG-578",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_578",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-578",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-578",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1004",
+      "name": "Tamsin Jeffreys",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1004",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1005",
+      "name": "Tamsin Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1005",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1012",
+      "name": "Tamsin Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1012",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Tamsin Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_172",
+      "name": "Calder Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_172",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_63",
+      "name": "Clifford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_63",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Clifford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036974",
+      "subject": "company_2396",
+      "rel": "owns",
+      "object": "asset_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Fingal Energy Limited owns Quarrystone Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036975",
+      "subject": "person_1012",
+      "rel": "shareholder_of",
+      "object": "company_2396",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Tamsin Sinclair is a shareholder of North Fingal Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036987",
+      "subject": "person_1004",
+      "rel": "family_of",
+      "object": "person_1005",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Jeffreys is a family member of Tamsin Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036977",
+      "subject": "bank_20",
+      "rel": "lent_to",
+      "object": "company_2396",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-06-03",
+          "value_end": "2024-06-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley International Bank Limited lent North Fingal Energy Limited GBP 42 million on 3 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036979",
+      "subject": "company_2398",
+      "rel": "guarantor_for",
+      "object": "company_2396",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Fingal Ventures Limited guaranteed the loan to North Fingal Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036978",
+      "subject": "company_2396",
+      "rel": "owes",
+      "object": "bank_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-08",
+          "value_end": "2024-06-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Fingal Energy Limited owes Bexley International Bank Limited GBP 9 million as at 8 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036983",
+      "subject": "company_2396",
+      "rel": "owns",
+      "object": "asset_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Fingal Energy Limited owns Valebrook Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036984",
+      "subject": "asset_19",
+      "rel": "located_in",
+      "object": "place_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Valebrook Farm is located in Clifford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036985",
+      "subject": "company_2396",
+      "rel": "party_to",
+      "object": "legal_578",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Fingal Energy Limited is a party to the Facility Agreement LEG-578.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036986",
+      "subject": "person_1005",
+      "rel": "signed",
+      "object": "legal_578",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Kingsley signed the Facility Agreement LEG-578.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01560_allegation",
+      "text": "A former employee alleged that North Fingal Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Hastings noted that a former employee alleged that North Fingal Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01560",
+      "surface": "31 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-31",
+      "value_end": "2024-05-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036977",
+      "surface": "3 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-03",
+      "value_end": "2024-06-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "3 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036978",
+      "surface": "8 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-08",
+      "value_end": "2024-06-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "8 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01560",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

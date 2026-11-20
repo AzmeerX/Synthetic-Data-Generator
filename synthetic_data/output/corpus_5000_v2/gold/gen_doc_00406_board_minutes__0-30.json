@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00406_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "742750defeb7cb38172c66309214596ca91750bb11179b8f02d74ec577d8041e"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_167",
+      "name": "Juniper Cross Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_167",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juniper Cross Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_171",
+      "name": "Juniper Cross Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_171",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Juniper Cross Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_36",
+      "name": "Elm Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_36",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1356",
+      "name": "Pembroke Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1356",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Pembroke Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1358",
+      "name": "Pembroke Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1358",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1360",
+      "name": "Pembroke Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1360",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_106",
+      "name": "Cairn & Briar LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_106",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cairn & Briar LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_56",
+      "name": "Briar & Alden LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_56",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Alden LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_144",
+      "name": "Side Letter LEG-144",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_144",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-144",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-144",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1356",
+      "name": "Anika Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1356",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Anika Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1357",
+      "name": "Anika Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1357",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Anika Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1359",
+      "name": "Anika Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1359",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Anika Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1361",
+      "name": "Anika Underwood",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1361",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Anika Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1364",
+      "name": "Anika Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1364",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_18",
+      "name": "Farah Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_18",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_103",
+      "name": "Dunmere Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_103",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Dunmere Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020756",
+      "subject": "company_1356",
+      "rel": "owns",
+      "object": "asset_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pembroke Holdings Limited owns Juniper Cross Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020758",
+      "subject": "person_1359",
+      "rel": "chair_of",
+      "object": "company_1356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Sinclair is the chair of Pembroke Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020757",
+      "subject": "person_1364",
+      "rel": "shareholder_of",
+      "object": "company_1356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Wyndham is a shareholder of Pembroke Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020769",
+      "subject": "person_1356",
+      "rel": "family_of",
+      "object": "person_1357",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Anika Osborne is a family member of Anika Pemberton.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020759",
+      "subject": "bank_36",
+      "rel": "lent_to",
+      "object": "company_1356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-09-06",
+          "value_end": "2025-09-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elm Commercial Bank Limited lent Pembroke Holdings Limited GBP 42 million on 6 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020761",
+      "subject": "company_1358",
+      "rel": "guarantor_for",
+      "object": "company_1356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pembroke Group Limited guaranteed the loan to Pembroke Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020760",
+      "subject": "company_1356",
+      "rel": "owes",
+      "object": "bank_36",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-09-11",
+          "value_end": "2025-09-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Holdings Limited owes Elm Commercial Bank Limited GBP 9 million as at 11 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020762",
+      "subject": "lawfirm_56",
+      "rel": "represents",
+      "object": "company_1356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Alden LLP represents Pembroke Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020765",
+      "subject": "company_1356",
+      "rel": "owns",
+      "object": "asset_171",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Pembroke Holdings Limited owns Juniper Cross Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020766",
+      "subject": "asset_171",
+      "rel": "located_in",
+      "object": "place_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Juniper Cross Dock is located in Dunmere Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020767",
+      "subject": "company_1356",
+      "rel": "party_to",
+      "object": "legal_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Pembroke Holdings Limited is a party to the Side Letter LEG-144.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020768",
+      "subject": "person_1357",
+      "rel": "signed",
+      "object": "legal_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Pemberton signed the Side Letter LEG-144.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00406_proposal",
+      "text": "The acquisition of Pembroke Trading Limited by Pembroke Holdings Limited",
+      "speaker": "person_18",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Orrick, chair of Pembroke Holdings Limited, proposed to acquire Pembroke Trading Limited on 18 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00406_approval",
+      "text": "Regulatory approval for the acquisition of Pembroke Trading Limited",
+      "speaker": "person_18",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Orrick confirmed that regulatory approval for the acquisition of Pembroke Trading Limited by Pembroke Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00406_link_conditional",
+      "src": "gen_doc_00406_proposal",
+      "dst": "gen_doc_00406_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Pembroke Trading Limited by Pembroke Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00406",
+      "surface": "18 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-18",
+      "value_end": "2025-04-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020759",
+      "surface": "6 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-06",
+      "value_end": "2025-09-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "6 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020760",
+      "surface": "11 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-11",
+      "value_end": "2025-09-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "11 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00406",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00849_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "5642b331fe6c7d3c8a9f793f35799606975d8927faedbdbd8fcdaba256bab132"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_570",
+      "name": "Pemberton Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_570",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_39",
+      "name": "Fair Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_39",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1755",
+      "name": "North Aldergate Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1755",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Aldergate Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1756",
+      "name": "North Aldergate Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1756",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Aldergate Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1757",
+      "name": "North Aldergate Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1757",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Aldergate Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_65",
+      "name": "Briar & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_65",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_543",
+      "name": "Power of Attorney LEG-543",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_543",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-543",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-543",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_363",
+      "name": "Gideon Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_363",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_364",
+      "name": "Gideon Everard",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_364",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_371",
+      "name": "Gideon Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_371",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_853",
+      "name": "Quin Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_853",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_142",
+      "name": "Inglemere Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_142",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Inglemere Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026978",
+      "subject": "company_1755",
+      "rel": "owns",
+      "object": "company_1756",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Aldergate Logistics Limited owns North Aldergate Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026987",
+      "subject": "company_1755",
+      "rel": "owns",
+      "object": "asset_570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Aldergate Logistics Limited owns Pemberton Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026988",
+      "subject": "asset_570",
+      "rel": "located_in",
+      "object": "place_142",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Farm is located in Inglemere Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026984",
+      "subject": "lawfirm_65",
+      "rel": "represents",
+      "object": "company_1755",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Kerr LLP represents North Aldergate Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026979",
+      "subject": "person_371",
+      "rel": "shareholder_of",
+      "object": "company_1755",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Langford is a shareholder of North Aldergate Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026991",
+      "subject": "person_363",
+      "rel": "family_of",
+      "object": "person_364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Delacourt is a family member of Gideon Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026981",
+      "subject": "bank_39",
+      "rel": "lent_to",
+      "object": "company_1755",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-09-26",
+          "value_end": "2023-09-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Bank Limited lent North Aldergate Logistics Limited GBP 40 million on 26 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026983",
+      "subject": "company_1757",
+      "rel": "guarantor_for",
+      "object": "company_1755",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Aldergate Partners Limited guaranteed the loan to North Aldergate Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026982",
+      "subject": "company_1755",
+      "rel": "owes",
+      "object": "bank_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-01",
+          "value_end": "2023-10-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Aldergate Logistics Limited owes Fair Bank Limited GBP 8 million as at 1 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026989",
+      "subject": "company_1755",
+      "rel": "party_to",
+      "object": "legal_543",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Aldergate Logistics Limited is a party to the Power of Attorney LEG-543.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026990",
+      "subject": "person_364",
+      "rel": "signed",
+      "object": "legal_543",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Everard signed the Power of Attorney LEG-543.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00849_allegation",
+      "text": "A former employee alleged that North Aldergate Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Fairfax noted that a former employee alleged that North Aldergate Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00849",
+      "surface": "20 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-20",
+      "value_end": "2027-03-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026981",
+      "surface": "26 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-26",
+      "value_end": "2023-09-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026982",
+      "surface": "1 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-01",
+      "value_end": "2023-10-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00849",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

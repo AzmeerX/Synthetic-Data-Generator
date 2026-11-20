@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01416_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "62e894fee3db9965ed229bb33c4fecc9b444dc241431fde2a23e2167522bb14e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_485",
+      "name": "Lowmoor Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_485",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_22",
+      "name": "Carrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_22",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2266",
+      "name": "North Southwold Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2266",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Southwold Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2267",
+      "name": "North Southwold Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2267",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2268",
+      "name": "North Thurlow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2268",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Thurlow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_56",
+      "name": "Briar & Alden LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_56",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Alden LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_448",
+      "name": "Side Letter LEG-448",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_448",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-448",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-448",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_28",
+      "name": "Ivo Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_28",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_874",
+      "name": "Rhea Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_874",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_875",
+      "name": "Rhea Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_875",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_882",
+      "name": "Rhea Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_882",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_113",
+      "name": "Fairhaven Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_113",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairhaven Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034946",
+      "subject": "company_2266",
+      "rel": "owns",
+      "object": "company_2267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Southwold Ventures Limited owns North Southwold Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034955",
+      "subject": "company_2266",
+      "rel": "owns",
+      "object": "asset_485",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Ventures Limited owns Lowmoor Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034956",
+      "subject": "asset_485",
+      "rel": "located_in",
+      "object": "place_113",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Silo is located in Fairhaven Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034952",
+      "subject": "lawfirm_56",
+      "rel": "represents",
+      "object": "company_2266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Alden LLP represents North Southwold Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034947",
+      "subject": "person_882",
+      "rel": "shareholder_of",
+      "object": "company_2266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Jarvis is a shareholder of North Southwold Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034959",
+      "subject": "person_874",
+      "rel": "family_of",
+      "object": "person_875",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Briar is a family member of Rhea Cairn.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034949",
+      "subject": "bank_22",
+      "rel": "lent_to",
+      "object": "company_2266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-02-28",
+          "value_end": "2025-02-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Merchant Bank Limited lent North Southwold Ventures Limited GBP 22 million on 28 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034951",
+      "subject": "company_2268",
+      "rel": "guarantor_for",
+      "object": "company_2266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Thurlow Holdings Limited guaranteed the loan to North Southwold Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034950",
+      "subject": "company_2266",
+      "rel": "owes",
+      "object": "bank_22",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-05",
+          "value_end": "2025-03-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Southwold Ventures Limited owes Carrow Merchant Bank Limited GBP 9 million as at 5 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034957",
+      "subject": "company_2266",
+      "rel": "party_to",
+      "object": "legal_448",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Southwold Ventures Limited is a party to the Side Letter LEG-448.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034958",
+      "subject": "person_875",
+      "rel": "signed",
+      "object": "legal_448",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Cairn signed the Side Letter LEG-448.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01416_allegation",
+      "text": "A former employee alleged that North Southwold Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Orrick noted that a former employee alleged that North Southwold Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01416",
+      "surface": "9 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-09",
+      "value_end": "2024-12-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034949",
+      "surface": "28 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-28",
+      "value_end": "2025-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034950",
+      "surface": "5 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-05",
+      "value_end": "2025-03-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "5 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01416",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

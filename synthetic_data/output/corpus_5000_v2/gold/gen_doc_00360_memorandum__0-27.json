@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00360_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "f21dd7de4e107a5351c45ca9ba97a89bcd2b287d21275971fbf2c03885737cc4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_129",
+      "name": "Harrowgate Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_129",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowgate Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowgate Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_126",
+      "name": "Tarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_126",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1314",
+      "name": "Lorne Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1314",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1315",
+      "name": "Lorne Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1315",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lorne Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1316",
+      "name": "Lorne Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1316",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lorne Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1319",
+      "name": "Lorne Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1319",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lorne Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_70",
+      "name": "Briar & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_70",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_102",
+      "name": "Loan Note LEG-102",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_102",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Loan Note LEG-102",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-102",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1314",
+      "name": "Zane Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1314",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Zane Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1315",
+      "name": "Zane Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1315",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Zane Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Zane Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1322",
+      "name": "Anika Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1322",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_364",
+      "name": "Gideon Everard",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_364",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gideon Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Gideon Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_61",
+      "name": "Amberley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_61",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Amberley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020102",
+      "subject": "company_1314",
+      "rel": "owns",
+      "object": "company_1315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lorne Capital Limited owns Lorne Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020103",
+      "subject": "person_1322",
+      "rel": "shareholder_of",
+      "object": "company_1314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Fenwick is a shareholder of Lorne Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020115",
+      "subject": "person_1314",
+      "rel": "family_of",
+      "object": "person_1315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Zane Whitlock is a family member of Zane Wyndham.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020105",
+      "subject": "bank_126",
+      "rel": "lent_to",
+      "object": "company_1314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-06-01",
+          "value_end": "2024-06-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Commercial Bank Limited lent Lorne Capital Limited GBP 38 million on 1 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020107",
+      "subject": "company_1316",
+      "rel": "guarantor_for",
+      "object": "company_1314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lorne Energy Limited guaranteed the loan to Lorne Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020106",
+      "subject": "company_1314",
+      "rel": "owes",
+      "object": "bank_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-06",
+          "value_end": "2024-06-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lorne Capital Limited owes Tarrow Commercial Bank Limited GBP 7 million as at 6 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020108",
+      "subject": "lawfirm_14",
+      "rel": "represents",
+      "object": "company_1314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ivers LLP represents Lorne Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020111",
+      "subject": "company_1314",
+      "rel": "owns",
+      "object": "asset_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lorne Capital Limited owns Harrowgate Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020112",
+      "subject": "asset_129",
+      "rel": "located_in",
+      "object": "place_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowgate Yard is located in Amberley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020113",
+      "subject": "company_1314",
+      "rel": "party_to",
+      "object": "legal_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lorne Capital Limited is a party to the Loan Note LEG-102.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020114",
+      "subject": "person_1315",
+      "rel": "signed",
+      "object": "legal_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Zane Wyndham signed the Loan Note LEG-102.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00360_proposal",
+      "text": "The acquisition of Lorne Systems Limited by Lorne Capital Limited",
+      "speaker": "person_364",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gideon Everard, chair of Lorne Capital Limited, proposed to acquire Lorne Systems Limited on 31 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00360_approval",
+      "text": "Regulatory approval for the acquisition of Lorne Systems Limited",
+      "speaker": "person_364",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Gideon Everard confirmed that regulatory approval for the acquisition of Lorne Systems Limited by Lorne Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00360_link_conditional",
+      "src": "gen_doc_00360_proposal",
+      "dst": "gen_doc_00360_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Lorne Systems Limited by Lorne Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00360",
+      "surface": "31 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-31",
+      "value_end": "2024-05-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020105",
+      "surface": "1 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-01",
+      "value_end": "2024-06-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "1 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020106",
+      "surface": "6 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-06",
+      "value_end": "2024-06-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "6 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00360",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

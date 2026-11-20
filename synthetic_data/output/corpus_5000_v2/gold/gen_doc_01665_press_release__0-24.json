@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01665_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "09dfed0c7a54a03e0bb9b5a3fe6b42bcd0310008057e98d30431287b0623943f"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_131",
+      "name": "Harrowgate Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_131",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Harrowgate Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_135",
+      "name": "Harrowgate Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_135",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Harrowgate Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowgate Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_12",
+      "name": "Alder Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_12",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_324",
+      "name": "Aldergate Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_324",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_326",
+      "name": "Barrowfield Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_326",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_75",
+      "name": "Briar & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_75",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_118",
+      "name": "Loan Note LEG-118",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_118",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Loan Note LEG-118",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-118",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_277",
+      "name": "Elias Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_277",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_324",
+      "name": "Farah Neville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_324",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_325",
+      "name": "Farah Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_325",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_332",
+      "name": "Farah Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_332",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_31",
+      "name": "Stanbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_31",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Stanbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004665",
+      "subject": "company_324",
+      "rel": "owns",
+      "object": "asset_131",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Aldergate Systems Limited owns Harrowgate Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004666",
+      "subject": "person_332",
+      "rel": "shareholder_of",
+      "object": "company_324",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Whitlock is a shareholder of Aldergate Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004678",
+      "subject": "person_324",
+      "rel": "family_of",
+      "object": "person_325",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Neville is a family member of Farah Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004668",
+      "subject": "bank_12",
+      "rel": "lent_to",
+      "object": "company_324",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-07-12",
+          "value_end": "2022-07-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Commercial Bank Limited lent Aldergate Systems Limited GBP 18 million on 12 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004670",
+      "subject": "company_326",
+      "rel": "guarantor_for",
+      "object": "company_324",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield Industries Limited guaranteed the loan to Aldergate Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004669",
+      "subject": "company_324",
+      "rel": "owes",
+      "object": "bank_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-17",
+          "value_end": "2022-07-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Aldergate Systems Limited owes Alder Commercial Bank Limited GBP 7 million as at 17 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004674",
+      "subject": "company_324",
+      "rel": "owns",
+      "object": "asset_135",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Aldergate Systems Limited owns Harrowgate Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004675",
+      "subject": "asset_135",
+      "rel": "located_in",
+      "object": "place_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowgate Farm is located in Stanbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004676",
+      "subject": "company_324",
+      "rel": "party_to",
+      "object": "legal_118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Aldergate Systems Limited is a party to the Loan Note LEG-118.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004677",
+      "subject": "person_325",
+      "rel": "signed",
+      "object": "legal_118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Osborne signed the Loan Note LEG-118.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01665_allegation",
+      "text": "A former employee alleged that Aldergate Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Osborne noted that a former employee alleged that Aldergate Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01665",
+      "surface": "5 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-05",
+      "value_end": "2026-06-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004668",
+      "surface": "12 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-12",
+      "value_end": "2022-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "12 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004669",
+      "surface": "17 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-17",
+      "value_end": "2022-07-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "17 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01665",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

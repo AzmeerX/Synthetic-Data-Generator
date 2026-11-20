@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00985_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "b8c46ab191e4855f4d3308fc6b79150b3f22d6a942de59721ba80513ae5fd994"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_97",
+      "name": "Fenwick Bay Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_97",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bay Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_30",
+      "name": "Denmoor Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_30",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1878",
+      "name": "North Kirkby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1878",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1879",
+      "name": "North Kirkby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1879",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Kirkby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1880",
+      "name": "North Kirkby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1880",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Kirkby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Kirkby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1882",
+      "name": "North Kirkby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1882",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Kirkby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Kirkby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_45",
+      "name": "Alden & Osborne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_45",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Osborne LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Osborne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_60",
+      "name": "Shareholder Agreement LEG-060",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_60",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-060",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-060",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_486",
+      "name": "Juno Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_486",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_487",
+      "name": "Juno Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_487",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Juno Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_494",
+      "name": "Juno Lorne",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_494",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juno Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_989",
+      "name": "Tamsin Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_989",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Tamsin Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_85",
+      "name": "Belmont Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_85",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Belmont Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028897",
+      "subject": "company_1878",
+      "rel": "owns",
+      "object": "company_1879",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Kirkby Capital Limited owns North Kirkby Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028898",
+      "subject": "person_494",
+      "rel": "shareholder_of",
+      "object": "company_1878",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juno Lorne is a shareholder of North Kirkby Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028910",
+      "subject": "person_486",
+      "rel": "family_of",
+      "object": "person_487",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Dunmore is a family member of Juno Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028900",
+      "subject": "bank_30",
+      "rel": "lent_to",
+      "object": "company_1878",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-14",
+          "value_end": "2022-10-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Commercial Bank Limited lent North Kirkby Capital Limited GBP 46 million on 14 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028902",
+      "subject": "company_1880",
+      "rel": "guarantor_for",
+      "object": "company_1878",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Kirkby Energy Limited guaranteed the loan to North Kirkby Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028901",
+      "subject": "company_1878",
+      "rel": "owes",
+      "object": "bank_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-19",
+          "value_end": "2022-10-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Kirkby Capital Limited owes Denmoor Commercial Bank Limited GBP 11 million as at 19 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028906",
+      "subject": "company_1878",
+      "rel": "owns",
+      "object": "asset_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Kirkby Capital Limited owns Fenwick Bay Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028907",
+      "subject": "asset_97",
+      "rel": "located_in",
+      "object": "place_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bay Farm is located in Belmont Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028908",
+      "subject": "company_1878",
+      "rel": "party_to",
+      "object": "legal_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Capital Limited is a party to the Shareholder Agreement LEG-060.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028909",
+      "subject": "person_487",
+      "rel": "signed",
+      "object": "legal_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Juno Ellery signed the Shareholder Agreement LEG-060.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00985_proposal",
+      "text": "The acquisition of North Kirkby Ventures Limited by North Kirkby Capital Limited",
+      "speaker": "person_989",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Tamsin Thorne, chair of North Kirkby Capital Limited, proposed to acquire North Kirkby Ventures Limited on 15 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00985_approval",
+      "text": "Regulatory approval for the acquisition of North Kirkby Ventures Limited",
+      "speaker": "person_989",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Thorne confirmed that regulatory approval for the acquisition of North Kirkby Ventures Limited by North Kirkby Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00985_link_conditional",
+      "src": "gen_doc_00985_proposal",
+      "dst": "gen_doc_00985_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Kirkby Ventures Limited by North Kirkby Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00981_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00985",
+      "surface": "15 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-15",
+      "value_end": "2026-07-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028900",
+      "surface": "14 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-14",
+      "value_end": "2022-10-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "14 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028901",
+      "surface": "19 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-19",
+      "value_end": "2022-10-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "19 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

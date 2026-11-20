@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00313_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "d08bb00ae63fcfef836785cfa61c0532ac08999679767264fb8e1b01af348e06"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_83",
+      "name": "Fenwick Bay Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_83",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_87",
+      "name": "Fenwick Bay Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_87",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bay Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_84",
+      "name": "Merri Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_84",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Merri Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Merri Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1272",
+      "name": "Isbourne Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1272",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Isbourne Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1274",
+      "name": "Isbourne Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1274",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Isbourne Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1275",
+      "name": "Isbourne Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1275",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Isbourne Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1277",
+      "name": "Isbourne Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1277",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Isbourne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Isbourne Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_23",
+      "name": "Alden & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_23",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_60",
+      "name": "Shareholder Agreement LEG-060",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_60",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-060",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-060",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1272",
+      "name": "Zane Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1272",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Zane Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1273",
+      "name": "Zane Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1273",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Zane Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Zane Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1280",
+      "name": "Zane Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1280",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zane Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_317",
+      "name": "Farah Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_317",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_19",
+      "name": "Glenport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_19",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glenport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019447",
+      "subject": "company_1272",
+      "rel": "owns",
+      "object": "asset_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Isbourne Holdings Limited owns Fenwick Bay Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019448",
+      "subject": "person_1280",
+      "rel": "shareholder_of",
+      "object": "company_1272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zane Mercer is a shareholder of Isbourne Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019460",
+      "subject": "person_1272",
+      "rel": "family_of",
+      "object": "person_1273",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Zane Ellery is a family member of Zane Fenwick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019450",
+      "subject": "bank_84",
+      "rel": "lent_to",
+      "object": "company_1272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-25",
+          "value_end": "2023-02-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Merri Commercial Bank Limited lent Isbourne Holdings Limited GBP 34 million on 25 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019452",
+      "subject": "company_1274",
+      "rel": "guarantor_for",
+      "object": "company_1272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Isbourne Group Limited guaranteed the loan to Isbourne Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019451",
+      "subject": "company_1272",
+      "rel": "owes",
+      "object": "bank_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-02",
+          "value_end": "2023-03-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Isbourne Holdings Limited owes Merri Commercial Bank Limited GBP 5 million as at 2 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019456",
+      "subject": "company_1272",
+      "rel": "owns",
+      "object": "asset_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Isbourne Holdings Limited owns Fenwick Bay Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019457",
+      "subject": "asset_87",
+      "rel": "located_in",
+      "object": "place_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bay Hangar is located in Glenport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019458",
+      "subject": "company_1272",
+      "rel": "party_to",
+      "object": "legal_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Isbourne Holdings Limited is a party to the Shareholder Agreement LEG-060.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019459",
+      "subject": "person_1273",
+      "rel": "signed",
+      "object": "legal_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Zane Fenwick signed the Shareholder Agreement LEG-060.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00313_proposal",
+      "text": "The acquisition of Isbourne Partners Limited by Isbourne Holdings Limited",
+      "speaker": "person_317",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Grenville, chair of Isbourne Holdings Limited, proposed to acquire Isbourne Partners Limited on 19 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00313_approval",
+      "text": "Regulatory approval for the acquisition of Isbourne Partners Limited",
+      "speaker": "person_317",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Grenville confirmed that regulatory approval for the acquisition of Isbourne Partners Limited by Isbourne Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00313_link_conditional",
+      "src": "gen_doc_00313_proposal",
+      "dst": "gen_doc_00313_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Isbourne Partners Limited by Isbourne Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00309_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00313",
+      "surface": "19 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-19",
+      "value_end": "2026-10-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019450",
+      "surface": "25 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-25",
+      "value_end": "2023-02-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "25 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019451",
+      "surface": "2 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-02",
+      "value_end": "2023-03-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "2 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

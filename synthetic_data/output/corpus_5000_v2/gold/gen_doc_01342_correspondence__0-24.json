@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01342_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "6edc995e711528994123220b883ff5e57be3f4b7a3c65acd38ab3e013fa27df2"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_10",
+      "name": "Larkspur Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_10",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_22",
+      "name": "Northcliff Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_22",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Northcliff Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2201",
+      "name": "North Norbury Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2201",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Norbury Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2203",
+      "name": "North Norbury Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2203",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Norbury Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Norbury Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_23",
+      "name": "Westmarch Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_23",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Westmarch Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_23",
+      "name": "Lease LEG-023",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_23",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-023",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lease LEG-023",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1346",
+      "name": "Anika Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1346",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Anika Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_23",
+      "name": "Quin Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_23",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_24",
+      "name": "Nadia Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_24",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nadia Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_31",
+      "name": "Elias Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_31",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_06",
+      "name": "Harrowgate",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_06",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "fact_0315",
+      "subject": "company_22",
+      "rel": "owns",
+      "object": "company_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Group Limited owns Westmarch Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0316",
+      "subject": "person_31",
+      "rel": "shareholder_of",
+      "object": "company_22",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Orrick is a shareholder of Northcliff Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0328",
+      "subject": "person_23",
+      "rel": "family_of",
+      "object": "person_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Pell is a family member of Nadia Jarvis.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0318",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_22",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-09",
+          "value_end": "2022-10-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Greyhaven Bank Limited lent Northcliff Group Limited GBP 56 million on 9 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0320",
+      "subject": "company_00",
+      "rel": "guarantor_for",
+      "object": "company_22",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oakhaven Holdings Limited guaranteed the loan to Northcliff Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0319",
+      "subject": "company_22",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-14",
+          "value_end": "2022-10-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Northcliff Group Limited owes Greyhaven Bank Limited GBP 26 million as at 14 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0324",
+      "subject": "company_22",
+      "rel": "owns",
+      "object": "asset_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Northcliff Group Limited owns Larkspur Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0325",
+      "subject": "asset_10",
+      "rel": "located_in",
+      "object": "place_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Quay is located in Harrowgate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0326",
+      "subject": "company_22",
+      "rel": "party_to",
+      "object": "legal_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Northcliff Group Limited is a party to the Lease LEG-023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0327",
+      "subject": "person_24",
+      "rel": "signed",
+      "object": "legal_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Nadia Jarvis signed the Lease LEG-023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01342_proposal",
+      "text": "The acquisition of North Norbury Marine Limited by Northcliff Group Limited",
+      "speaker": "person_1346",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Anika Everard, chair of Northcliff Group Limited, proposed to acquire North Norbury Marine Limited on 22 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01342_approval",
+      "text": "Regulatory approval for the acquisition of North Norbury Marine Limited",
+      "speaker": "person_1346",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Everard confirmed that regulatory approval for the acquisition of North Norbury Marine Limited by Northcliff Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01342_link_conditional",
+      "src": "gen_doc_01342_proposal",
+      "dst": "gen_doc_01342_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Norbury Marine Limited by Northcliff Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01338_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01342",
+      "surface": "22 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-22",
+      "value_end": "2026-10-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0318",
+      "surface": "9 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-09",
+      "value_end": "2022-10-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "9 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0319",
+      "surface": "14 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-14",
+      "value_end": "2022-10-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

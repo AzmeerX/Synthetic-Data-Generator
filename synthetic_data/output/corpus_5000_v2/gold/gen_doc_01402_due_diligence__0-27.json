@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01402_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c7e9e56f7a8391ab033fd298348b224c056be191e9f501754c8e040c96ede52f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_472",
+      "name": "Lowmoor Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_472",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2253",
+      "name": "North Ravensby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2253",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Ravensby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2254",
+      "name": "North Ravensby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2254",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ravensby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2255",
+      "name": "North Ravensby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2255",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_43",
+      "name": "Alden & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_43",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_435",
+      "name": "Guarantee Deed LEG-435",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_435",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-435",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-435",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_14",
+      "name": "Daria Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_14",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_861",
+      "name": "Quin Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_861",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_862",
+      "name": "Quin Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_862",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_869",
+      "name": "Quin Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_869",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_100",
+      "name": "Dunmere Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_100",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034743",
+      "subject": "company_2253",
+      "rel": "owns",
+      "object": "company_2254",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ravensby Property Limited owns North Ravensby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034752",
+      "subject": "company_2253",
+      "rel": "owns",
+      "object": "asset_472",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Property Limited owns Lowmoor Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034753",
+      "subject": "asset_472",
+      "rel": "located_in",
+      "object": "place_100",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Wharf is located in Dunmere Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034749",
+      "subject": "lawfirm_43",
+      "rel": "represents",
+      "object": "company_2253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Montague LLP represents North Ravensby Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034744",
+      "subject": "person_869",
+      "rel": "shareholder_of",
+      "object": "company_2253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Whitlock is a shareholder of North Ravensby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034756",
+      "subject": "person_861",
+      "rel": "family_of",
+      "object": "person_862",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Neville is a family member of Quin Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034746",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_2253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-08",
+          "value_end": "2024-10-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited lent North Ravensby Property Limited GBP 36 million on 8 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034748",
+      "subject": "company_2255",
+      "rel": "guarantor_for",
+      "object": "company_2253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Systems Limited guaranteed the loan to North Ravensby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034747",
+      "subject": "company_2253",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-13",
+          "value_end": "2024-10-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ravensby Property Limited owes Alder Bank Limited GBP 6 million as at 13 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034754",
+      "subject": "company_2253",
+      "rel": "party_to",
+      "object": "legal_435",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Ravensby Property Limited is a party to the Guarantee Deed LEG-435.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034755",
+      "subject": "person_862",
+      "rel": "signed",
+      "object": "legal_435",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Osborne signed the Guarantee Deed LEG-435.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01402_allegation",
+      "text": "A former employee alleged that North Ravensby Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Garrow noted that a former employee alleged that North Ravensby Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01402",
+      "surface": "2 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-02",
+      "value_end": "2024-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034746",
+      "surface": "8 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-08",
+      "value_end": "2024-10-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034747",
+      "surface": "13 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-13",
+      "value_end": "2024-10-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "13 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01402",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

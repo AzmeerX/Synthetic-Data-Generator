@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00604_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "54781966bcd2fb7c830ce5ae081e602112f2554ae28d0236c7b59182a1ce5a9e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_349",
+      "name": "Elmford Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_349",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elmford Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_82",
+      "name": "Merri Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_82",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merri Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Merri Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1534",
+      "name": "North Fairhaven Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1534",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1535",
+      "name": "North Fairhaven Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1535",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fairhaven Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1536",
+      "name": "North Glenmoor Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1536",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_104",
+      "name": "Briar & Zouch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_104",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Zouch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_322",
+      "name": "Facility Agreement LEG-322",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_322",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-322",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-322",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_142",
+      "name": "Calder Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_142",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_143",
+      "name": "Calder Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_143",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_150",
+      "name": "Calder Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_150",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_608",
+      "name": "Lena Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_608",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_101",
+      "name": "Dunmere Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_101",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023532",
+      "subject": "company_1534",
+      "rel": "owns",
+      "object": "company_1535",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fairhaven Ventures Limited owns North Fairhaven Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023541",
+      "subject": "company_1534",
+      "rel": "owns",
+      "object": "asset_349",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Fairhaven Ventures Limited owns Elmford Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023542",
+      "subject": "asset_349",
+      "rel": "located_in",
+      "object": "place_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Estate is located in Dunmere Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023538",
+      "subject": "lawfirm_104",
+      "rel": "represents",
+      "object": "company_1534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Zouch LLP represents North Fairhaven Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023533",
+      "subject": "person_150",
+      "rel": "shareholder_of",
+      "object": "company_1534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Kerr is a shareholder of North Fairhaven Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023545",
+      "subject": "person_142",
+      "rel": "family_of",
+      "object": "person_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Cairn is a family member of Calder Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023535",
+      "subject": "bank_82",
+      "rel": "lent_to",
+      "object": "company_1534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-22",
+          "value_end": "2026-05-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merri Merchant Bank Limited lent North Fairhaven Ventures Limited GBP 38 million on 22 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023537",
+      "subject": "company_1536",
+      "rel": "guarantor_for",
+      "object": "company_1534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Holdings Limited guaranteed the loan to North Fairhaven Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023536",
+      "subject": "company_1534",
+      "rel": "owes",
+      "object": "bank_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-27",
+          "value_end": "2026-05-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Fairhaven Ventures Limited owes Merri Merchant Bank Limited GBP 7 million as at 27 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023543",
+      "subject": "company_1534",
+      "rel": "party_to",
+      "object": "legal_322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Fairhaven Ventures Limited is a party to the Facility Agreement LEG-322.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023544",
+      "subject": "person_143",
+      "rel": "signed",
+      "object": "legal_322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Dunmore signed the Facility Agreement LEG-322.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00604_allegation",
+      "text": "A former employee alleged that North Fairhaven Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Cavendish noted that a former employee alleged that North Fairhaven Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00604",
+      "surface": "21 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-21",
+      "value_end": "2025-10-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023535",
+      "surface": "22 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-22",
+      "value_end": "2026-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "22 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023536",
+      "surface": "27 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-27",
+      "value_end": "2026-05-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "27 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00604",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00304_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "64b3a19f2b529b8b9ab3acef92af6a8bd318b81ee0b758a5a9bffd179b0ce45d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_75",
+      "name": "Eastmere Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_75",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_79",
+      "name": "Fenwick Bay Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_79",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fenwick Bay Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_76",
+      "name": "Low Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_76",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1264",
+      "name": "Hereford Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1264",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1266",
+      "name": "Hereford Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1266",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Hereford Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1269",
+      "name": "Hereford Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1269",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Hereford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Hereford Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_94",
+      "name": "Briar & Osborne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_94",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Osborne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_52",
+      "name": "Board Resolution LEG-052",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_52",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Board Resolution LEG-052",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-052",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1264",
+      "name": "Yara Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1264",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1265",
+      "name": "Yara Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1265",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1272",
+      "name": "Zane Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1272",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zane Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_308",
+      "name": "Farah Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_308",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Farah Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_11",
+      "name": "Marrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_11",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Marrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019322",
+      "subject": "company_1264",
+      "rel": "owns",
+      "object": "asset_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hereford Trading Limited owns Eastmere Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019323",
+      "subject": "person_1272",
+      "rel": "shareholder_of",
+      "object": "company_1264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zane Ellery is a shareholder of Hereford Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019335",
+      "subject": "person_1264",
+      "rel": "family_of",
+      "object": "person_1265",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Whitlock is a family member of Yara Wyndham.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019325",
+      "subject": "bank_76",
+      "rel": "lent_to",
+      "object": "company_1264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-29",
+          "value_end": "2022-11-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Low Merchant Bank Limited lent Hereford Trading Limited GBP 18 million on 29 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019327",
+      "subject": "company_1266",
+      "rel": "guarantor_for",
+      "object": "company_1264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Hereford Capital Limited guaranteed the loan to Hereford Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019326",
+      "subject": "company_1264",
+      "rel": "owes",
+      "object": "bank_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-04",
+          "value_end": "2022-12-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Hereford Trading Limited owes Low Merchant Bank Limited GBP 7 million as at 4 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019328",
+      "subject": "lawfirm_94",
+      "rel": "represents",
+      "object": "company_1264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Osborne LLP represents Hereford Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019331",
+      "subject": "company_1264",
+      "rel": "owns",
+      "object": "asset_79",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Hereford Trading Limited owns Fenwick Bay Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019332",
+      "subject": "asset_79",
+      "rel": "located_in",
+      "object": "place_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Wharf is located in Marrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019333",
+      "subject": "company_1264",
+      "rel": "party_to",
+      "object": "legal_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Hereford Trading Limited is a party to the Board Resolution LEG-052.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019334",
+      "subject": "person_1265",
+      "rel": "signed",
+      "object": "legal_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Wyndham signed the Board Resolution LEG-052.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00304_proposal",
+      "text": "The acquisition of Hereford Property Limited by Hereford Trading Limited",
+      "speaker": "person_308",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Ward, chair of Hereford Trading Limited, proposed to acquire Hereford Property Limited on 17 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00304_approval",
+      "text": "Regulatory approval for the acquisition of Hereford Property Limited",
+      "speaker": "person_308",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Farah Ward confirmed that regulatory approval for the acquisition of Hereford Property Limited by Hereford Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00304_link_conditional",
+      "src": "gen_doc_00304_proposal",
+      "dst": "gen_doc_00304_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Hereford Property Limited by Hereford Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00304",
+      "surface": "17 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-17",
+      "value_end": "2026-08-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019325",
+      "surface": "29 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-29",
+      "value_end": "2022-11-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "29 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019326",
+      "surface": "4 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-04",
+      "value_end": "2022-12-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "4 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00304",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

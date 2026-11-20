@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01329_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "5182b11d61b65f71d9a24b97b69dc2e70f7a55a7a3955b9fe611e90b91dd3503"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_403",
+      "name": "Harrow Bay Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_403",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Harrow Bay Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_407",
+      "name": "Harrow Bay Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_407",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Bay Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Harrow Bay Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_76",
+      "name": "Low Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_76",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2188",
+      "name": "North Maplebury Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2188",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Maplebury Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2190",
+      "name": "North Maplebury Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2190",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_118",
+      "name": "Cairn & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_118",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_370",
+      "name": "Facility Agreement LEG-370",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_370",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-370",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-370",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1333",
+      "name": "Anika Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1333",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_796",
+      "name": "Petra Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_796",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Petra Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_797",
+      "name": "Petra Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_797",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Petra Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Petra Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_804",
+      "name": "Petra Fairfax",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_804",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Petra Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_35",
+      "name": "Westerby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_35",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Westerby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033730",
+      "subject": "company_2188",
+      "rel": "owns",
+      "object": "asset_403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Maplebury Trading Limited owns Harrow Bay Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033731",
+      "subject": "person_804",
+      "rel": "shareholder_of",
+      "object": "company_2188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Petra Fairfax is a shareholder of North Maplebury Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033743",
+      "subject": "person_796",
+      "rel": "family_of",
+      "object": "person_797",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Petra Ward is a family member of Petra Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033733",
+      "subject": "bank_76",
+      "rel": "lent_to",
+      "object": "company_2188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-24",
+          "value_end": "2022-10-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Low Merchant Bank Limited lent North Maplebury Trading Limited GBP 26 million on 24 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033735",
+      "subject": "company_2190",
+      "rel": "guarantor_for",
+      "object": "company_2188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Maplebury Capital Limited guaranteed the loan to North Maplebury Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033734",
+      "subject": "company_2188",
+      "rel": "owes",
+      "object": "bank_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-29",
+          "value_end": "2022-10-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Maplebury Trading Limited owes Low Merchant Bank Limited GBP 11 million as at 29 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033739",
+      "subject": "company_2188",
+      "rel": "owns",
+      "object": "asset_407",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Maplebury Trading Limited owns Harrow Bay Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033740",
+      "subject": "asset_407",
+      "rel": "located_in",
+      "object": "place_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrow Bay Dock is located in Westerby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033741",
+      "subject": "company_2188",
+      "rel": "party_to",
+      "object": "legal_370",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Maplebury Trading Limited is a party to the Facility Agreement LEG-370.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033742",
+      "subject": "person_797",
+      "rel": "signed",
+      "object": "legal_370",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Petra Yarrow signed the Facility Agreement LEG-370.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01329_allegation",
+      "text": "A former employee alleged that North Maplebury Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Quade noted that a former employee alleged that North Maplebury Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01329",
+      "surface": "23 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-23",
+      "value_end": "2026-07-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033733",
+      "surface": "24 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-24",
+      "value_end": "2022-10-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "24 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033734",
+      "surface": "29 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-29",
+      "value_end": "2022-10-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "29 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01329",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

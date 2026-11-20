@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00903_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "b1a428b59af259aecf7dddf91ea718f68b0fb7fa3a1ff58399de30f138b6195a"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_22",
+      "name": "Calderport Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_22",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Calderport Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_87",
+      "name": "Nether Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_87",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nether Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nether Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1803",
+      "name": "North Eastmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1803",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eastmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1804",
+      "name": "North Eastmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1804",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Eastmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1805",
+      "name": "North Eastmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1805",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1808",
+      "name": "North Eastmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1808",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_113",
+      "name": "Cairn & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_113",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_93",
+      "name": "Briar & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_93",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_591",
+      "name": "Power of Attorney LEG-591",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_591",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-591",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-591",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_411",
+      "name": "Hana Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_411",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_412",
+      "name": "Hana Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_412",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Cavendish",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_414",
+      "name": "Hana Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_414",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_416",
+      "name": "Hana Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_416",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_419",
+      "name": "Hana Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_419",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_907",
+      "name": "Rhea Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_907",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Rhea Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_10",
+      "name": "Larkspur",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_10",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027727",
+      "subject": "company_1803",
+      "rel": "owns",
+      "object": "company_1804",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Eastmoor Logistics Limited owns North Eastmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027729",
+      "subject": "person_414",
+      "rel": "chair_of",
+      "object": "company_1803",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Everard is the chair of North Eastmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027728",
+      "subject": "person_419",
+      "rel": "shareholder_of",
+      "object": "company_1803",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Jeffreys is a shareholder of North Eastmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027740",
+      "subject": "person_411",
+      "rel": "family_of",
+      "object": "person_412",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Balfour is a family member of Hana Cavendish.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027730",
+      "subject": "bank_87",
+      "rel": "lent_to",
+      "object": "company_1803",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-07",
+          "value_end": "2025-03-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nether Bank Limited lent North Eastmoor Logistics Limited GBP 16 million on 7 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027732",
+      "subject": "company_1805",
+      "rel": "guarantor_for",
+      "object": "company_1803",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eastmoor Partners Limited guaranteed the loan to North Eastmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027731",
+      "subject": "company_1803",
+      "rel": "owes",
+      "object": "bank_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-12",
+          "value_end": "2025-03-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Logistics Limited owes Nether Bank Limited GBP 6 million as at 12 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027733",
+      "subject": "lawfirm_113",
+      "rel": "represents",
+      "object": "company_1803",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Jarvis LLP represents North Eastmoor Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027736",
+      "subject": "company_1803",
+      "rel": "owns",
+      "object": "asset_22",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Eastmoor Logistics Limited owns Calderport Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027737",
+      "subject": "asset_22",
+      "rel": "located_in",
+      "object": "place_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Calderport Rail Depot is located in Larkspur.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027738",
+      "subject": "company_1803",
+      "rel": "party_to",
+      "object": "legal_591",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Eastmoor Logistics Limited is a party to the Power of Attorney LEG-591.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027739",
+      "subject": "person_412",
+      "rel": "signed",
+      "object": "legal_591",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Cavendish signed the Power of Attorney LEG-591.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00903_proposal",
+      "text": "The acquisition of North Eastmoor Energy Limited by North Eastmoor Logistics Limited",
+      "speaker": "person_907",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Rhea Langford, chair of North Eastmoor Logistics Limited, proposed to acquire North Eastmoor Energy Limited on 18 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00903_approval",
+      "text": "Regulatory approval for the acquisition of North Eastmoor Energy Limited",
+      "speaker": "person_907",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Langford confirmed that regulatory approval for the acquisition of North Eastmoor Energy Limited by North Eastmoor Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00903_link_conditional",
+      "src": "gen_doc_00903_proposal",
+      "dst": "gen_doc_00903_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Eastmoor Energy Limited by North Eastmoor Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00903",
+      "surface": "18 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-18",
+      "value_end": "2024-12-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027730",
+      "surface": "7 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-07",
+      "value_end": "2025-03-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "7 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027731",
+      "surface": "12 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-12",
+      "value_end": "2025-03-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "12 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00903",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01157_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "0a06bb35e881b505c2558d1765e06dad5aa4be91076145e1c8064323020d907b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_247",
+      "name": "Northcliff Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_247",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Northcliff Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_251",
+      "name": "Northcliff Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_251",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_52",
+      "name": "Harrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_52",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2032",
+      "name": "North Yewdale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2032",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Yewdale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2034",
+      "name": "North Yewdale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2034",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_82",
+      "name": "Briar & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_82",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_214",
+      "name": "Loan Note LEG-214",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_214",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-214",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-214",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1161",
+      "name": "Wren Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1161",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_640",
+      "name": "Marek Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_640",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_641",
+      "name": "Marek Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_641",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_648",
+      "name": "Marek Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_648",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_59",
+      "name": "Whitbourne",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_59",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Whitbourne",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031298",
+      "subject": "company_2032",
+      "rel": "owns",
+      "object": "asset_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Yewdale Trading Limited owns Northcliff Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031307",
+      "subject": "company_2032",
+      "rel": "owns",
+      "object": "asset_251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yewdale Trading Limited owns Northcliff Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031308",
+      "subject": "asset_251",
+      "rel": "located_in",
+      "object": "place_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Office Park is located in Whitbourne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031304",
+      "subject": "lawfirm_82",
+      "rel": "represents",
+      "object": "company_2032",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Cavendish LLP represents North Yewdale Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031299",
+      "subject": "person_648",
+      "rel": "shareholder_of",
+      "object": "company_2032",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Thorne is a shareholder of North Yewdale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031311",
+      "subject": "person_640",
+      "rel": "family_of",
+      "object": "person_641",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Jarvis is a family member of Marek Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031301",
+      "subject": "bank_52",
+      "rel": "lent_to",
+      "object": "company_2032",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-08",
+          "value_end": "2022-10-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Merchant Bank Limited lent North Yewdale Trading Limited GBP 34 million on 8 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031303",
+      "subject": "company_2034",
+      "rel": "guarantor_for",
+      "object": "company_2032",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Capital Limited guaranteed the loan to North Yewdale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031302",
+      "subject": "company_2032",
+      "rel": "owes",
+      "object": "bank_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-13",
+          "value_end": "2022-10-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Yewdale Trading Limited owes Harrow Merchant Bank Limited GBP 5 million as at 13 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031309",
+      "subject": "company_2032",
+      "rel": "party_to",
+      "object": "legal_214",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Yewdale Trading Limited is a party to the Loan Note LEG-214.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031310",
+      "subject": "person_641",
+      "rel": "signed",
+      "object": "legal_214",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Kerr signed the Loan Note LEG-214.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01157_allegation",
+      "text": "A former employee alleged that North Yewdale Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Ravenscroft noted that a former employee alleged that North Yewdale Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01157",
+      "surface": "19 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-19",
+      "value_end": "2026-07-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031301",
+      "surface": "8 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-08",
+      "value_end": "2022-10-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031302",
+      "surface": "13 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-13",
+      "value_end": "2022-10-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "13 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01157",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

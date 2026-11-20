@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01360_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "ee10d606652ace9535237b35e611c61e6e1acc878e19c2d2fc2bed59e1a68c26"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_434",
+      "name": "Jarrow Cross Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_434",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Cross Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Cross Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_103",
+      "name": "Pember Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_103",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2215",
+      "name": "North Osterley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2215",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Osterley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2216",
+      "name": "North Osterley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2216",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2217",
+      "name": "North Osterley Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2217",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Osterley Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_05",
+      "name": "Quade & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_05",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quade & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_397",
+      "name": "Supply Agreement LEG-397",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_397",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-397",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Supply Agreement LEG-397",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1364",
+      "name": "Anika Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1364",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_823",
+      "name": "Petra Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_823",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_824",
+      "name": "Quin Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_824",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_831",
+      "name": "Quin Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_831",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_62",
+      "name": "Bexley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_62",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bexley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034150",
+      "subject": "company_2215",
+      "rel": "owns",
+      "object": "company_2216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Osterley Marine Limited owns North Osterley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034159",
+      "subject": "company_2215",
+      "rel": "owns",
+      "object": "asset_434",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Marine Limited owns Jarrow Cross Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034160",
+      "subject": "asset_434",
+      "rel": "located_in",
+      "object": "place_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Cross Terminal is located in Bexley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034156",
+      "subject": "lawfirm_05",
+      "rel": "represents",
+      "object": "company_2215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quade & Thorne LLP represents North Osterley Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034151",
+      "subject": "person_831",
+      "rel": "shareholder_of",
+      "object": "company_2215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Hale is a shareholder of North Osterley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034163",
+      "subject": "person_823",
+      "rel": "family_of",
+      "object": "person_824",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Zouch is a family member of Quin Alden.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034153",
+      "subject": "bank_103",
+      "rel": "lent_to",
+      "object": "company_2215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-17",
+          "value_end": "2023-08-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Private Bank Limited lent North Osterley Marine Limited GBP 40 million on 17 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034155",
+      "subject": "company_2217",
+      "rel": "guarantor_for",
+      "object": "company_2215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Osterley Property Limited guaranteed the loan to North Osterley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034154",
+      "subject": "company_2215",
+      "rel": "owes",
+      "object": "bank_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-08-22",
+          "value_end": "2023-08-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Osterley Marine Limited owes Pember Private Bank Limited GBP 8 million as at 22 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034161",
+      "subject": "company_2215",
+      "rel": "party_to",
+      "object": "legal_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Osterley Marine Limited is a party to the Supply Agreement LEG-397.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034162",
+      "subject": "person_824",
+      "rel": "signed",
+      "object": "legal_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Alden signed the Supply Agreement LEG-397.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01360_allegation",
+      "text": "A former employee alleged that North Osterley Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Wyndham noted that a former employee alleged that North Osterley Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01360",
+      "surface": "25 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-25",
+      "value_end": "2027-02-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "25 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034153",
+      "surface": "17 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-17",
+      "value_end": "2023-08-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "17 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034154",
+      "surface": "22 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-22",
+      "value_end": "2023-08-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "22 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01360",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

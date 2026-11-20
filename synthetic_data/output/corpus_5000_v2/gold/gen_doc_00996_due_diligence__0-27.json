@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00996_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "a4a726d18e57b6c2f9f0391019fdad2543bddcf4ff654881735db4050190c9f4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_103",
+      "name": "Greyhaven Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_103",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Greyhaven Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_107",
+      "name": "Greyhaven Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_107",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_40",
+      "name": "Fair Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_40",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1888",
+      "name": "North Lambley Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1888",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Lambley Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1890",
+      "name": "North Lambley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1890",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_68",
+      "name": "Briar & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_68",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_70",
+      "name": "Loan Note LEG-070",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_70",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-070",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-070",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1000",
+      "name": "Tamsin Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1000",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_496",
+      "name": "Juno Nyle",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_496",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_497",
+      "name": "Juno Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_497",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_504",
+      "name": "Juno Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_504",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_95",
+      "name": "Carrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_95",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029052",
+      "subject": "company_1888",
+      "rel": "owns",
+      "object": "asset_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lambley Trading Limited owns Greyhaven Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029061",
+      "subject": "company_1888",
+      "rel": "owns",
+      "object": "asset_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Trading Limited owns Greyhaven Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029062",
+      "subject": "asset_107",
+      "rel": "located_in",
+      "object": "place_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Quay is located in Carrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029058",
+      "subject": "lawfirm_68",
+      "rel": "represents",
+      "object": "company_1888",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Nyle LLP represents North Lambley Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029053",
+      "subject": "person_504",
+      "rel": "shareholder_of",
+      "object": "company_1888",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Vale is a shareholder of North Lambley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029065",
+      "subject": "person_496",
+      "rel": "family_of",
+      "object": "person_497",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Nyle is a family member of Juno Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029055",
+      "subject": "bank_40",
+      "rel": "lent_to",
+      "object": "company_1888",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-01",
+          "value_end": "2023-02-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Merchant Bank Limited lent North Lambley Trading Limited GBP 26 million on 1 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029057",
+      "subject": "company_1890",
+      "rel": "guarantor_for",
+      "object": "company_1888",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Capital Limited guaranteed the loan to North Lambley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029056",
+      "subject": "company_1888",
+      "rel": "owes",
+      "object": "bank_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-06",
+          "value_end": "2023-02-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Lambley Trading Limited owes Fair Merchant Bank Limited GBP 11 million as at 6 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029063",
+      "subject": "company_1888",
+      "rel": "party_to",
+      "object": "legal_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Lambley Trading Limited is a party to the Loan Note LEG-070.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029064",
+      "subject": "person_497",
+      "rel": "signed",
+      "object": "legal_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Orrick signed the Loan Note LEG-070.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00996_allegation",
+      "text": "A former employee alleged that North Lambley Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Fairfax noted that a former employee alleged that North Lambley Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00996",
+      "surface": "30 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-30",
+      "value_end": "2026-09-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029055",
+      "surface": "1 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-01",
+      "value_end": "2023-02-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "1 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029056",
+      "surface": "6 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-06",
+      "value_end": "2023-02-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "6 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00996",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

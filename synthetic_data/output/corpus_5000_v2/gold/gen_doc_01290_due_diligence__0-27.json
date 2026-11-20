@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01290_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "bf17e7f81b113f47db0c162a8fbed1a9df68042b25858b78a49f76f2e714698d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_367",
+      "name": "Fairmouth Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_367",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fairmouth Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_371",
+      "name": "Fairmouth Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_371",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fairmouth Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_40",
+      "name": "Fair Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_40",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2152",
+      "name": "North Juniper Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2152",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Juniper Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2154",
+      "name": "North Juniper Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2154",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Juniper Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_72",
+      "name": "Briar & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_72",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_334",
+      "name": "Licence LEG-334",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_334",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-334",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-334",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1294",
+      "name": "Zane Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1294",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_760",
+      "name": "Oren Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_760",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_761",
+      "name": "Oren Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_761",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_768",
+      "name": "Oren Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_768",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_179",
+      "name": "Netherby Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_179",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033169",
+      "subject": "company_2152",
+      "rel": "owns",
+      "object": "asset_367",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Juniper Trading Limited owns Fairmouth Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033178",
+      "subject": "company_2152",
+      "rel": "owns",
+      "object": "asset_371",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Juniper Trading Limited owns Fairmouth Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033179",
+      "subject": "asset_371",
+      "rel": "located_in",
+      "object": "place_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Office Park is located in Netherby Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033175",
+      "subject": "lawfirm_72",
+      "rel": "represents",
+      "object": "company_2152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Rook LLP represents North Juniper Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033170",
+      "subject": "person_768",
+      "rel": "shareholder_of",
+      "object": "company_2152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Sinclair is a shareholder of North Juniper Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033182",
+      "subject": "person_760",
+      "rel": "family_of",
+      "object": "person_761",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Jeffreys is a family member of Oren Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033172",
+      "subject": "bank_40",
+      "rel": "lent_to",
+      "object": "company_2152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-20",
+          "value_end": "2026-05-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Merchant Bank Limited lent North Juniper Trading Limited GBP 34 million on 20 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033174",
+      "subject": "company_2154",
+      "rel": "guarantor_for",
+      "object": "company_2152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Juniper Capital Limited guaranteed the loan to North Juniper Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033173",
+      "subject": "company_2152",
+      "rel": "owes",
+      "object": "bank_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-25",
+          "value_end": "2026-05-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Juniper Trading Limited owes Fair Merchant Bank Limited GBP 5 million as at 25 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033180",
+      "subject": "company_2152",
+      "rel": "party_to",
+      "object": "legal_334",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Juniper Trading Limited is a party to the Licence LEG-334.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033181",
+      "subject": "person_761",
+      "rel": "signed",
+      "object": "legal_334",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Kingsley signed the Licence LEG-334.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01290_allegation",
+      "text": "A former employee alleged that North Juniper Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Balfour noted that a former employee alleged that North Juniper Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01290",
+      "surface": "23 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-23",
+      "value_end": "2025-10-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033172",
+      "surface": "20 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-20",
+      "value_end": "2026-05-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033173",
+      "surface": "25 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-25",
+      "value_end": "2026-05-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01290",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

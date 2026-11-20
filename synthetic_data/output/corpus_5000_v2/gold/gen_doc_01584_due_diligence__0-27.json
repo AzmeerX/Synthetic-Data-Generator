@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01584_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c3c407d371c0bf7a9680eec14b173f07af02b04caf4dbd5af35791b81c2b7b8c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_61",
+      "name": "Eastmere Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_61",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_42",
+      "name": "Fair Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_42",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_250",
+      "name": "Stanbrook Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_250",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Stanbrook Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_251",
+      "name": "Stanbrook Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_251",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_252",
+      "name": "Stanbrook Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_252",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_50",
+      "name": "Alden & Underwood LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_50",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Underwood LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_44",
+      "name": "Shareholder Agreement LEG-044",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_44",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-044",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-044",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_196",
+      "name": "Daria Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_196",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_250",
+      "name": "Elias Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_250",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_251",
+      "name": "Elias Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_251",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_258",
+      "name": "Elias Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_258",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_57",
+      "name": "Underhill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_57",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Underhill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003511",
+      "subject": "company_250",
+      "rel": "owns",
+      "object": "company_251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Property Limited owns Stanbrook Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003520",
+      "subject": "company_250",
+      "rel": "owns",
+      "object": "asset_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Property Limited owns Eastmere Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003521",
+      "subject": "asset_61",
+      "rel": "located_in",
+      "object": "place_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Rail Depot is located in Underhill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003517",
+      "subject": "lawfirm_50",
+      "rel": "represents",
+      "object": "company_250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Underwood LLP represents Stanbrook Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003512",
+      "subject": "person_258",
+      "rel": "shareholder_of",
+      "object": "company_250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ulric is a shareholder of Stanbrook Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003524",
+      "subject": "person_250",
+      "rel": "family_of",
+      "object": "person_251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Lorne is a family member of Elias Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003514",
+      "subject": "bank_42",
+      "rel": "lent_to",
+      "object": "company_250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-12-14",
+          "value_end": "2024-12-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Commercial Bank Limited lent Stanbrook Property Limited GBP 30 million on 14 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003516",
+      "subject": "company_252",
+      "rel": "guarantor_for",
+      "object": "company_250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Systems Limited guaranteed the loan to Stanbrook Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003515",
+      "subject": "company_250",
+      "rel": "owes",
+      "object": "bank_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-12-19",
+          "value_end": "2024-12-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Property Limited owes Fair Commercial Bank Limited GBP 13 million as at 19 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003522",
+      "subject": "company_250",
+      "rel": "party_to",
+      "object": "legal_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Property Limited is a party to the Shareholder Agreement LEG-044.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003523",
+      "subject": "person_251",
+      "rel": "signed",
+      "object": "legal_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Mercer signed the Shareholder Agreement LEG-044.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01584_allegation",
+      "text": "A former employee alleged that Stanbrook Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Hale noted that a former employee alleged that Stanbrook Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01584",
+      "surface": "15 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-15",
+      "value_end": "2024-11-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003514",
+      "surface": "14 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-14",
+      "value_end": "2024-12-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003515",
+      "surface": "19 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-19",
+      "value_end": "2024-12-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "19 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01584",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

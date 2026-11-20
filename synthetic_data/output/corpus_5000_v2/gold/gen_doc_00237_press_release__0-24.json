@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00237_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "75e35a0c558dc3fc16cac4025bac140fa2e06483930281450912ac76941f9707"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_18",
+      "name": "Thornbury Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_18",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Thornbury Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Thornbury Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_15",
+      "name": "Bexley Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_15",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1203",
+      "name": "Culm Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1203",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Culm Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1204",
+      "name": "Culm Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1204",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1205",
+      "name": "Culm Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1205",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Culm Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_77",
+      "name": "Briar & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_77",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_597",
+      "name": "Security Agreement LEG-597",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_597",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Security Agreement LEG-597",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-597",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1203",
+      "name": "Xander Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1203",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1204",
+      "name": "Xander Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1204",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1211",
+      "name": "Xander Sinclair",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1211",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Xander Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_241",
+      "name": "Elias Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_241",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_130",
+      "name": "Harrowden Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_130",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowden Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018371",
+      "subject": "company_1203",
+      "rel": "owns",
+      "object": "company_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Culm Logistics Limited owns Culm Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018372",
+      "subject": "person_1211",
+      "rel": "shareholder_of",
+      "object": "company_1203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Xander Sinclair is a shareholder of Culm Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018384",
+      "subject": "person_1203",
+      "rel": "family_of",
+      "object": "person_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Jeffreys is a family member of Xander Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018374",
+      "subject": "bank_15",
+      "rel": "lent_to",
+      "object": "company_1203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-09-23",
+          "value_end": "2025-09-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Bank Limited lent Culm Logistics Limited GBP 16 million on 23 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018376",
+      "subject": "company_1205",
+      "rel": "guarantor_for",
+      "object": "company_1203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Culm Partners Limited guaranteed the loan to Culm Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018375",
+      "subject": "company_1203",
+      "rel": "owes",
+      "object": "bank_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-09-28",
+          "value_end": "2025-09-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Culm Logistics Limited owes Bexley Bank Limited GBP 6 million as at 28 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018380",
+      "subject": "company_1203",
+      "rel": "owns",
+      "object": "asset_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Culm Logistics Limited owns Thornbury Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018381",
+      "subject": "asset_18",
+      "rel": "located_in",
+      "object": "place_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Thornbury Estate is located in Harrowden Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018382",
+      "subject": "company_1203",
+      "rel": "party_to",
+      "object": "legal_597",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Culm Logistics Limited is a party to the Security Agreement LEG-597.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018383",
+      "subject": "person_1204",
+      "rel": "signed",
+      "object": "legal_597",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Kingsley signed the Security Agreement LEG-597.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00237_allegation",
+      "text": "A former employee alleged that Culm Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Cairn noted that a former employee alleged that Culm Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00237",
+      "surface": "5 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-05",
+      "value_end": "2025-05-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018374",
+      "surface": "23 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-23",
+      "value_end": "2025-09-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "23 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018375",
+      "surface": "28 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-28",
+      "value_end": "2025-09-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "28 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00237",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

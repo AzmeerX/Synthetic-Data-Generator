@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01105_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "535e93ae9188ba520d6f6ca4d5791749d5ecdc33ff1437925304d1cac730adac"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_205",
+      "name": "Larkspur Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_205",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Larkspur Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1986",
+      "name": "North Trentvale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1986",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1987",
+      "name": "North Trentvale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1987",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Trentvale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1988",
+      "name": "North Trentvale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1988",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Trentvale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_35",
+      "name": "Alden & Everard LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_35",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Everard LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_168",
+      "name": "Lease LEG-168",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_168",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lease LEG-168",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-168",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1109",
+      "name": "Vera Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1109",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_594",
+      "name": "Lena Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_594",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lena Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_595",
+      "name": "Lena Nyle",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_595",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lena Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lena Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_602",
+      "name": "Lena Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_602",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Lena Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_13",
+      "name": "Alderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_13",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030580",
+      "subject": "company_1986",
+      "rel": "owns",
+      "object": "company_1987",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Trentvale Capital Limited owns North Trentvale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030581",
+      "subject": "person_602",
+      "rel": "shareholder_of",
+      "object": "company_1986",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Lena Vale is a shareholder of North Trentvale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030593",
+      "subject": "person_594",
+      "rel": "family_of",
+      "object": "person_595",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lena Mercer is a family member of Lena Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030583",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_1986",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-14",
+          "value_end": "2026-01-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bank Limited lent North Trentvale Capital Limited GBP 22 million on 14 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030585",
+      "subject": "company_1988",
+      "rel": "guarantor_for",
+      "object": "company_1986",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Trentvale Energy Limited guaranteed the loan to North Trentvale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030584",
+      "subject": "company_1986",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-19",
+          "value_end": "2026-01-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Trentvale Capital Limited owes Fenwick Bank Limited GBP 9 million as at 19 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030589",
+      "subject": "company_1986",
+      "rel": "owns",
+      "object": "asset_205",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Trentvale Capital Limited owns Larkspur Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030590",
+      "subject": "asset_205",
+      "rel": "located_in",
+      "object": "place_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Works is located in Alderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030591",
+      "subject": "company_1986",
+      "rel": "party_to",
+      "object": "legal_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Trentvale Capital Limited is a party to the Lease LEG-168.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030592",
+      "subject": "person_595",
+      "rel": "signed",
+      "object": "legal_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lena Nyle signed the Lease LEG-168.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01105_allegation",
+      "text": "A former employee alleged that North Trentvale Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Osborne noted that a former employee alleged that North Trentvale Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01105",
+      "surface": "20 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-20",
+      "value_end": "2025-07-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030583",
+      "surface": "14 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-14",
+      "value_end": "2026-01-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "14 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030584",
+      "surface": "19 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-19",
+      "value_end": "2026-01-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "19 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01105",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

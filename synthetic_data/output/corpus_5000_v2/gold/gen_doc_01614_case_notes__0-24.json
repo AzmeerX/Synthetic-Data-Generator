@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01614_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "e1779f4bd6a9d663a76e357d0335d3e04f3914231a389f82c52c19bcd5f7acb2"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_278",
+      "name": "Vellacott Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_278",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_279",
+      "name": "Vellacott Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_279",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Vellacott Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_280",
+      "name": "Vellacott Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_280",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vellacott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Vellacott Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_72",
+      "name": "Lease LEG-072",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_72",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_226",
+      "name": "Daria Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_226",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_278",
+      "name": "Elias Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_278",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_279",
+      "name": "Elias Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_279",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elias Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_281",
+      "name": "Elias Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_281",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_286",
+      "name": "Elias Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_286",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elias Yardley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003960",
+      "subject": "company_278",
+      "rel": "party_to",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Vellacott Industries Limited is a party to the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003961",
+      "subject": "person_279",
+      "rel": "signed",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elias Ravenscroft signed the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003951",
+      "subject": "person_281",
+      "rel": "chair_of",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Tremayne is the chair of Vellacott Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003952",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-18",
+          "value_end": "2025-10-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bexley Commercial Bank Limited lent Vellacott Industries Limited GBP 46 million on 18 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003954",
+      "subject": "company_280",
+      "rel": "guarantor_for",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Logistics Limited guaranteed the loan to Vellacott Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003953",
+      "subject": "company_278",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-23",
+          "value_end": "2025-10-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Vellacott Industries Limited owes Bexley Commercial Bank Limited GBP 11 million as at 23 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003950",
+      "subject": "person_286",
+      "rel": "shareholder_of",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elias Yardley is a shareholder of Vellacott Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003962",
+      "subject": "person_278",
+      "rel": "family_of",
+      "object": "person_279",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Pemberton is a family member of Elias Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003949",
+      "subject": "company_278",
+      "rel": "owns",
+      "object": "company_279",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Vellacott Industries Limited owns Vellacott Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01614_neg_guarantee",
+      "subject": "company_278",
+      "rel": "guarantor_for",
+      "object": "company_280",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vellacott Industries Limited did not guarantee the facility for Vellacott Logistics Limited on 13 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01614_allegation",
+      "text": "A former employee alleged that Vellacott Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Montague noted that a former employee alleged that Vellacott Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01614",
+      "surface": "13 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-13",
+      "value_end": "2025-06-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003952",
+      "surface": "18 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-18",
+      "value_end": "2025-10-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "18 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003953",
+      "surface": "23 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-23",
+      "value_end": "2025-10-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "23 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01614",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-12-13",
+      "value_end": "2025-12-13",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

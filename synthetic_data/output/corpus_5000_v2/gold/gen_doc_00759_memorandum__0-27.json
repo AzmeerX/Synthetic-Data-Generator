@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00759_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "d1ff197f01877f327bd0caf871e36be06057d8a42c2d54aad15cc9b4de3a91ed"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_489",
+      "name": "Lowmoor Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_489",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_90",
+      "name": "Nether Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_90",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nether Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1674",
+      "name": "North Redmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1674",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Redmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1675",
+      "name": "North Redmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1675",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Redmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1676",
+      "name": "North Redmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1676",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1679",
+      "name": "North Redmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1679",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Redmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Redmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_114",
+      "name": "Cairn & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_114",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_79",
+      "name": "Briar & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_79",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_462",
+      "name": "Licence LEG-462",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_462",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Licence LEG-462",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-462",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_282",
+      "name": "Elias Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_282",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_283",
+      "name": "Elias Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_283",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_290",
+      "name": "Farah Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_290",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_763",
+      "name": "Oren Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_763",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Oren Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_61",
+      "name": "Amberley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_61",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Amberley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025715",
+      "subject": "company_1674",
+      "rel": "owns",
+      "object": "company_1675",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Redmoor Capital Limited owns North Redmoor Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025716",
+      "subject": "person_290",
+      "rel": "shareholder_of",
+      "object": "company_1674",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Cairn is a shareholder of North Redmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025728",
+      "subject": "person_282",
+      "rel": "family_of",
+      "object": "person_283",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Underwood is a family member of Elias Villiers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025718",
+      "subject": "bank_90",
+      "rel": "lent_to",
+      "object": "company_1674",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-12-13",
+          "value_end": "2025-12-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nether Commercial Bank Limited lent North Redmoor Capital Limited GBP 38 million on 13 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025720",
+      "subject": "company_1676",
+      "rel": "guarantor_for",
+      "object": "company_1674",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Energy Limited guaranteed the loan to North Redmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025719",
+      "subject": "company_1674",
+      "rel": "owes",
+      "object": "bank_90",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-18",
+          "value_end": "2025-12-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Redmoor Capital Limited owes Nether Commercial Bank Limited GBP 7 million as at 18 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025721",
+      "subject": "lawfirm_114",
+      "rel": "represents",
+      "object": "company_1674",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Kerr LLP represents North Redmoor Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025724",
+      "subject": "company_1674",
+      "rel": "owns",
+      "object": "asset_489",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Redmoor Capital Limited owns Lowmoor Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025725",
+      "subject": "asset_489",
+      "rel": "located_in",
+      "object": "place_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Estate is located in Amberley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025726",
+      "subject": "company_1674",
+      "rel": "party_to",
+      "object": "legal_462",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Redmoor Capital Limited is a party to the Licence LEG-462.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025727",
+      "subject": "person_283",
+      "rel": "signed",
+      "object": "legal_462",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Villiers signed the Licence LEG-462.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00759_proposal",
+      "text": "The acquisition of North Redmoor Systems Limited by North Redmoor Capital Limited",
+      "speaker": "person_763",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Montague, chair of North Redmoor Capital Limited, proposed to acquire North Redmoor Systems Limited on 28 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00759_approval",
+      "text": "Regulatory approval for the acquisition of North Redmoor Systems Limited",
+      "speaker": "person_763",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Oren Montague confirmed that regulatory approval for the acquisition of North Redmoor Systems Limited by North Redmoor Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00759_link_conditional",
+      "src": "gen_doc_00759_proposal",
+      "dst": "gen_doc_00759_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Redmoor Systems Limited by North Redmoor Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00759",
+      "surface": "28 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-28",
+      "value_end": "2025-06-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025718",
+      "surface": "13 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-13",
+      "value_end": "2025-12-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "13 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025719",
+      "surface": "18 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-18",
+      "value_end": "2025-12-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00759",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

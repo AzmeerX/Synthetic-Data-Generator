@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00499_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e924c6bd086a27eb6da5ed94aa5926cfac5500e001926377981c837a06371c18"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_31",
+      "name": "Calderport Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_31",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Calderport Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_35",
+      "name": "Calderport Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_35",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_144",
+      "name": "Jarrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_144",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_146",
+      "name": "Kelbrook Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_146",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_24",
+      "name": "Alden & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_24",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_18",
+      "name": "Loan Note LEG-018",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_18",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-018",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-018",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_144",
+      "name": "Calder Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_144",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_145",
+      "name": "Calder Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_145",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_152",
+      "name": "Calder Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_152",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_503",
+      "name": "Juno Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_503",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_31",
+      "name": "Stanbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_31",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Stanbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001858",
+      "subject": "company_144",
+      "rel": "owns",
+      "object": "asset_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Systems Limited owns Calderport Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001867",
+      "subject": "company_144",
+      "rel": "owns",
+      "object": "asset_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Systems Limited owns Calderport Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001868",
+      "subject": "asset_35",
+      "rel": "located_in",
+      "object": "place_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Mill is located in Stanbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001864",
+      "subject": "lawfirm_24",
+      "rel": "represents",
+      "object": "company_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Sable LLP represents Jarrow Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001859",
+      "subject": "person_152",
+      "rel": "shareholder_of",
+      "object": "company_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Mercer is a shareholder of Jarrow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001871",
+      "subject": "person_144",
+      "rel": "family_of",
+      "object": "person_145",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ellery is a family member of Calder Fenwick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001861",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-01",
+          "value_end": "2026-06-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited lent Jarrow Systems Limited GBP 18 million on 1 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001863",
+      "subject": "company_146",
+      "rel": "guarantor_for",
+      "object": "company_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Industries Limited guaranteed the loan to Jarrow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001862",
+      "subject": "company_144",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-06",
+          "value_end": "2026-06-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Systems Limited owes Bexley Merchant Bank Limited GBP 7 million as at 6 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001869",
+      "subject": "company_144",
+      "rel": "party_to",
+      "object": "legal_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Jarrow Systems Limited is a party to the Loan Note LEG-018.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001870",
+      "subject": "person_145",
+      "rel": "signed",
+      "object": "legal_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Fenwick signed the Loan Note LEG-018.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00499_allegation",
+      "text": "A former employee alleged that Jarrow Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Ulric noted that a former employee alleged that Jarrow Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00499",
+      "surface": "29 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-29",
+      "value_end": "2027-01-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001861",
+      "surface": "1 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-01",
+      "value_end": "2026-06-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "1 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001862",
+      "surface": "6 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-06",
+      "value_end": "2026-06-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "6 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00499",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

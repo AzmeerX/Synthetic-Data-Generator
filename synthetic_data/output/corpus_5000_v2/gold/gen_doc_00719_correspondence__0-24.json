@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00719_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "a5865721d15ee234d9a6bc5c1907eb4eab90d1d176aa3daec568ea5360dd3a85"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_453",
+      "name": "Kelbrook Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_453",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_54",
+      "name": "Harrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_54",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1638",
+      "name": "North Oakhurst Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1638",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1639",
+      "name": "North Oakhurst Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1639",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Oakhurst Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1640",
+      "name": "North Oakhurst Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1640",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Oakhurst Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Oakhurst Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1642",
+      "name": "North Oakhurst Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1642",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Oakhurst Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Oakhurst Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_39",
+      "name": "Alden & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_39",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Ingram LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_426",
+      "name": "Settlement Agreement LEG-426",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_426",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-426",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Settlement Agreement LEG-426",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_246",
+      "name": "Elias Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_246",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_247",
+      "name": "Elias Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_247",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_254",
+      "name": "Elias Quade",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_254",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_723",
+      "name": "Nadia Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_723",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_25",
+      "name": "Merrivale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_25",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025154",
+      "subject": "company_1638",
+      "rel": "owns",
+      "object": "company_1639",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Oakhurst Capital Limited owns North Oakhurst Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025155",
+      "subject": "person_254",
+      "rel": "shareholder_of",
+      "object": "company_1638",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Quade is a shareholder of North Oakhurst Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025167",
+      "subject": "person_246",
+      "rel": "family_of",
+      "object": "person_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Hale is a family member of Elias Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025157",
+      "subject": "bank_54",
+      "rel": "lent_to",
+      "object": "company_1638",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-12",
+          "value_end": "2024-11-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Commercial Bank Limited lent North Oakhurst Capital Limited GBP 46 million on 12 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025159",
+      "subject": "company_1640",
+      "rel": "guarantor_for",
+      "object": "company_1638",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Oakhurst Energy Limited guaranteed the loan to North Oakhurst Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025158",
+      "subject": "company_1638",
+      "rel": "owes",
+      "object": "bank_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-17",
+          "value_end": "2024-11-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Oakhurst Capital Limited owes Harrow Commercial Bank Limited GBP 11 million as at 17 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025163",
+      "subject": "company_1638",
+      "rel": "owns",
+      "object": "asset_453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Oakhurst Capital Limited owns Kelbrook Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025164",
+      "subject": "asset_453",
+      "rel": "located_in",
+      "object": "place_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Rail Depot is located in Merrivale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025165",
+      "subject": "company_1638",
+      "rel": "party_to",
+      "object": "legal_426",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Oakhurst Capital Limited is a party to the Settlement Agreement LEG-426.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025166",
+      "subject": "person_247",
+      "rel": "signed",
+      "object": "legal_426",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Elias Ivers signed the Settlement Agreement LEG-426.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00719_proposal",
+      "text": "The acquisition of North Oakhurst Ventures Limited by North Oakhurst Capital Limited",
+      "speaker": "person_723",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Whitlock, chair of North Oakhurst Capital Limited, proposed to acquire North Oakhurst Ventures Limited on 21 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00719_approval",
+      "text": "Regulatory approval for the acquisition of North Oakhurst Ventures Limited",
+      "speaker": "person_723",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Whitlock confirmed that regulatory approval for the acquisition of North Oakhurst Ventures Limited by North Oakhurst Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00719_link_conditional",
+      "src": "gen_doc_00719_proposal",
+      "dst": "gen_doc_00719_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Oakhurst Ventures Limited by North Oakhurst Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00715_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00719",
+      "surface": "21 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-21",
+      "value_end": "2024-09-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025157",
+      "surface": "12 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-12",
+      "value_end": "2024-11-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "12 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025158",
+      "surface": "17 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-17",
+      "value_end": "2024-11-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "17 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

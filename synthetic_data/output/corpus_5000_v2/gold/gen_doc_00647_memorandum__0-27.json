@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00647_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "3b4f449ca31a26e107d3ecdf3914bdb45f9f503a4aa4da52b647ab5e8f0acf2c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_388",
+      "name": "Glenport Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_388",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Glenport Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_121",
+      "name": "Stan Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_121",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1573",
+      "name": "North Jarrow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1573",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Jarrow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1574",
+      "name": "North Jarrow Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1574",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Jarrow Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1575",
+      "name": "North Jarrow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1575",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Jarrow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1578",
+      "name": "North Jarrow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1578",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Jarrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Jarrow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_97",
+      "name": "Briar & Sinclair LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_97",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Sinclair LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_361",
+      "name": "Trust Deed LEG-361",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_361",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Trust Deed LEG-361",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-361",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_181",
+      "name": "Calder Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_181",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_182",
+      "name": "Calder Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_182",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_189",
+      "name": "Calder Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_189",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_651",
+      "name": "Marek Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_651",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Marek Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Marek Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_140",
+      "name": "Inglemere Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_140",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Inglemere Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024139",
+      "subject": "company_1573",
+      "rel": "owns",
+      "object": "company_1574",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Jarrow Industries Limited owns North Jarrow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024140",
+      "subject": "person_189",
+      "rel": "shareholder_of",
+      "object": "company_1573",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Zouch is a shareholder of North Jarrow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024152",
+      "subject": "person_181",
+      "rel": "family_of",
+      "object": "person_182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Ravenscroft is a family member of Calder Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024142",
+      "subject": "bank_121",
+      "rel": "lent_to",
+      "object": "company_1573",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-28",
+          "value_end": "2022-11-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stan Private Bank Limited lent North Jarrow Industries Limited GBP 36 million on 28 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024144",
+      "subject": "company_1575",
+      "rel": "guarantor_for",
+      "object": "company_1573",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Jarrow Logistics Limited guaranteed the loan to North Jarrow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024143",
+      "subject": "company_1573",
+      "rel": "owes",
+      "object": "bank_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-03",
+          "value_end": "2022-12-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Jarrow Industries Limited owes Stan Private Bank Limited GBP 6 million as at 3 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024145",
+      "subject": "lawfirm_13",
+      "rel": "represents",
+      "object": "company_1573",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Hale LLP represents North Jarrow Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024148",
+      "subject": "company_1573",
+      "rel": "owns",
+      "object": "asset_388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Jarrow Industries Limited owns Glenport Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024149",
+      "subject": "asset_388",
+      "rel": "located_in",
+      "object": "place_140",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport Plant is located in Inglemere Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024150",
+      "subject": "company_1573",
+      "rel": "party_to",
+      "object": "legal_361",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Jarrow Industries Limited is a party to the Trust Deed LEG-361.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024151",
+      "subject": "person_182",
+      "rel": "signed",
+      "object": "legal_361",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Sinclair signed the Trust Deed LEG-361.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00647_proposal",
+      "text": "The acquisition of North Jarrow Capital Limited by North Jarrow Industries Limited",
+      "speaker": "person_651",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Marek Ward, chair of North Jarrow Industries Limited, proposed to acquire North Jarrow Capital Limited on 18 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00647_approval",
+      "text": "Regulatory approval for the acquisition of North Jarrow Capital Limited",
+      "speaker": "person_651",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Marek Ward confirmed that regulatory approval for the acquisition of North Jarrow Capital Limited by North Jarrow Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00647_link_conditional",
+      "src": "gen_doc_00647_proposal",
+      "dst": "gen_doc_00647_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Jarrow Capital Limited by North Jarrow Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00647",
+      "surface": "18 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-18",
+      "value_end": "2026-08-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024142",
+      "surface": "28 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-28",
+      "value_end": "2022-11-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "28 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024143",
+      "surface": "3 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-03",
+      "value_end": "2022-12-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "3 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00647",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

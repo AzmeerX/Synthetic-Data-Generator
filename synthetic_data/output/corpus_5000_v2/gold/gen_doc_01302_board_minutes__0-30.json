@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01302_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "51960deb47f9f6805010418320c006429abc5459d4d5a3fa6beb6b8ac5cb5280"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_382",
+      "name": "Glenport Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_382",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Glenport Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_51",
+      "name": "Harrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_51",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Harrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2163",
+      "name": "North Kingsmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2163",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Kingsmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2164",
+      "name": "North Kingsmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2164",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Kingsmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2165",
+      "name": "North Kingsmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2165",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2168",
+      "name": "North Kingsmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2168",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_03",
+      "name": "Cairn & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_03",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_83",
+      "name": "Briar & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_83",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_345",
+      "name": "Trust Deed LEG-345",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_345",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-345",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-345",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1306",
+      "name": "Zane Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1306",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_771",
+      "name": "Oren Villiers",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_771",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_772",
+      "name": "Oren Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_772",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_774",
+      "name": "Oren Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_774",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oren Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_776",
+      "name": "Petra Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_776",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Petra Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_779",
+      "name": "Petra Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_779",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_10",
+      "name": "Larkspur",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_10",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033340",
+      "subject": "company_2163",
+      "rel": "owns",
+      "object": "company_2164",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Kingsmoor Logistics Limited owns North Kingsmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033342",
+      "subject": "person_774",
+      "rel": "chair_of",
+      "object": "company_2163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Yardley is the chair of North Kingsmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033341",
+      "subject": "person_779",
+      "rel": "shareholder_of",
+      "object": "company_2163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Ellery is a shareholder of North Kingsmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033353",
+      "subject": "person_771",
+      "rel": "family_of",
+      "object": "person_772",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Villiers is a family member of Oren Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033343",
+      "subject": "bank_51",
+      "rel": "lent_to",
+      "object": "company_2163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-18",
+          "value_end": "2026-09-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrow Bank Limited lent North Kingsmoor Logistics Limited GBP 16 million on 18 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033345",
+      "subject": "company_2165",
+      "rel": "guarantor_for",
+      "object": "company_2163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Kingsmoor Partners Limited guaranteed the loan to North Kingsmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033344",
+      "subject": "company_2163",
+      "rel": "owes",
+      "object": "bank_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-23",
+          "value_end": "2026-09-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Logistics Limited owes Harrow Bank Limited GBP 6 million as at 23 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033346",
+      "subject": "lawfirm_83",
+      "rel": "represents",
+      "object": "company_2163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Delacourt LLP represents North Kingsmoor Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033349",
+      "subject": "company_2163",
+      "rel": "owns",
+      "object": "asset_382",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Kingsmoor Logistics Limited owns Glenport Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033350",
+      "subject": "asset_382",
+      "rel": "located_in",
+      "object": "place_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Glenport Marina is located in Larkspur.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033351",
+      "subject": "company_2163",
+      "rel": "party_to",
+      "object": "legal_345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Kingsmoor Logistics Limited is a party to the Trust Deed LEG-345.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033352",
+      "subject": "person_772",
+      "rel": "signed",
+      "object": "legal_345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Whitlock signed the Trust Deed LEG-345.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01302_proposal",
+      "text": "The acquisition of North Kingsmoor Energy Limited by North Kingsmoor Logistics Limited",
+      "speaker": "person_1306",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Neville, chair of North Kingsmoor Logistics Limited, proposed to acquire North Kingsmoor Energy Limited on 15 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01302_approval",
+      "text": "Regulatory approval for the acquisition of North Kingsmoor Energy Limited",
+      "speaker": "person_1306",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Neville confirmed that regulatory approval for the acquisition of North Kingsmoor Energy Limited by North Kingsmoor Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01302_link_conditional",
+      "src": "gen_doc_01302_proposal",
+      "dst": "gen_doc_01302_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Kingsmoor Energy Limited by North Kingsmoor Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01302",
+      "surface": "15 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-15",
+      "value_end": "2026-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033343",
+      "surface": "18 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-18",
+      "value_end": "2026-09-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "18 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033344",
+      "surface": "23 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-23",
+      "value_end": "2026-09-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "23 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01302",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

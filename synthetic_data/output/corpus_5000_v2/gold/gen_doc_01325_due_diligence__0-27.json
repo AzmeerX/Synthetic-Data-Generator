@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01325_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "015227267359aec9e1817b31eda0a93bda4fb78492ffdca3b36bdb9bbf8862ce"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_399",
+      "name": "Harrow Bay Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_399",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Harrow Bay Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_403",
+      "name": "Harrow Bay Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_403",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrow Bay Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_72",
+      "name": "Kel Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_72",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2184",
+      "name": "North Maplebury Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2184",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2186",
+      "name": "North Maplebury Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2186",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Maplebury Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_104",
+      "name": "Briar & Zouch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_104",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Zouch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_366",
+      "name": "Licence LEG-366",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_366",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-366",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-366",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1329",
+      "name": "Anika Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1329",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_792",
+      "name": "Petra Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_792",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_793",
+      "name": "Petra Thorne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_793",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_800",
+      "name": "Petra Balfour",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_800",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_31",
+      "name": "Stanbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_31",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Stanbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033667",
+      "subject": "company_2184",
+      "rel": "owns",
+      "object": "asset_399",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Maplebury Holdings Limited owns Harrow Bay Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033676",
+      "subject": "company_2184",
+      "rel": "owns",
+      "object": "asset_403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Maplebury Holdings Limited owns Harrow Bay Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033677",
+      "subject": "asset_403",
+      "rel": "located_in",
+      "object": "place_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Works is located in Stanbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033673",
+      "subject": "lawfirm_104",
+      "rel": "represents",
+      "object": "company_2184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Zouch LLP represents North Maplebury Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033668",
+      "subject": "person_800",
+      "rel": "shareholder_of",
+      "object": "company_2184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Balfour is a shareholder of North Maplebury Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033680",
+      "subject": "person_792",
+      "rel": "family_of",
+      "object": "person_793",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Sable is a family member of Petra Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033670",
+      "subject": "bank_72",
+      "rel": "lent_to",
+      "object": "company_2184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-09-10",
+          "value_end": "2022-09-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Commercial Bank Limited lent North Maplebury Holdings Limited GBP 18 million on 10 September 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033672",
+      "subject": "company_2186",
+      "rel": "guarantor_for",
+      "object": "company_2184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Maplebury Group Limited guaranteed the loan to North Maplebury Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033671",
+      "subject": "company_2184",
+      "rel": "owes",
+      "object": "bank_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-09-15",
+          "value_end": "2022-09-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Maplebury Holdings Limited owes Kel Commercial Bank Limited GBP 7 million as at 15 September 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033678",
+      "subject": "company_2184",
+      "rel": "party_to",
+      "object": "legal_366",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Maplebury Holdings Limited is a party to the Licence LEG-366.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033679",
+      "subject": "person_793",
+      "rel": "signed",
+      "object": "legal_366",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Thorne signed the Licence LEG-366.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01325_allegation",
+      "text": "A former employee alleged that North Maplebury Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Mercer noted that a former employee alleged that North Maplebury Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01325",
+      "surface": "25 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-25",
+      "value_end": "2026-06-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "25 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033670",
+      "surface": "10 September 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-09-10",
+      "value_end": "2022-09-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 September 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033671",
+      "surface": "15 September 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-09-15",
+      "value_end": "2022-09-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "15 September 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01325",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

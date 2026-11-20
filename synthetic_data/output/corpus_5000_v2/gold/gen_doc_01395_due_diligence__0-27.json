@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01395_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4ad51a86cbe818f0c87b1e4f1bc059abed795fe4c18b7599ae59f5d2b3b4f898"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_466",
+      "name": "Kelbrook Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_466",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_02",
+      "name": "Caldervale Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_02",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Caldervale Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Caldervale Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2247",
+      "name": "North Ravensby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2247",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Ravensby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2248",
+      "name": "North Ravensby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2248",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2249",
+      "name": "North Ravensby Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2249",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_37",
+      "name": "Alden & Grenville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_37",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Grenville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_429",
+      "name": "Supply Agreement LEG-429",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_429",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-429",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Supply Agreement LEG-429",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_07",
+      "name": "Lorne Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_07",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lorne Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_855",
+      "name": "Quin Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_855",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_856",
+      "name": "Quin Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_856",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_863",
+      "name": "Quin Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_863",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_94",
+      "name": "Carrow Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_94",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034650",
+      "subject": "company_2247",
+      "rel": "owns",
+      "object": "company_2248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ravensby Logistics Limited owns North Ravensby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034659",
+      "subject": "company_2247",
+      "rel": "owns",
+      "object": "asset_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Logistics Limited owns Kelbrook Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034660",
+      "subject": "asset_466",
+      "rel": "located_in",
+      "object": "place_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Mill is located in Carrow Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034656",
+      "subject": "lawfirm_37",
+      "rel": "represents",
+      "object": "company_2247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Grenville LLP represents North Ravensby Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034651",
+      "subject": "person_863",
+      "rel": "shareholder_of",
+      "object": "company_2247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Pemberton is a shareholder of North Ravensby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034663",
+      "subject": "person_855",
+      "rel": "family_of",
+      "object": "person_856",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Hastings is a family member of Quin Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034653",
+      "subject": "bank_02",
+      "rel": "lent_to",
+      "object": "company_2247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-08-03",
+          "value_end": "2024-08-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Caldervale Bank Limited lent North Ravensby Logistics Limited GBP 24 million on 3 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034655",
+      "subject": "company_2249",
+      "rel": "guarantor_for",
+      "object": "company_2247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Partners Limited guaranteed the loan to North Ravensby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034654",
+      "subject": "company_2247",
+      "rel": "owes",
+      "object": "bank_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-08-08",
+          "value_end": "2024-08-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ravensby Logistics Limited owes Caldervale Bank Limited GBP 10 million as at 8 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034661",
+      "subject": "company_2247",
+      "rel": "party_to",
+      "object": "legal_429",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Ravensby Logistics Limited is a party to the Supply Agreement LEG-429.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034662",
+      "subject": "person_856",
+      "rel": "signed",
+      "object": "legal_429",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Ingram signed the Supply Agreement LEG-429.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01395_allegation",
+      "text": "A former employee alleged that North Ravensby Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lorne Cairn noted that a former employee alleged that North Ravensby Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01395",
+      "surface": "15 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-15",
+      "value_end": "2024-07-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034653",
+      "surface": "3 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-03",
+      "value_end": "2024-08-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "3 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034654",
+      "surface": "8 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-08",
+      "value_end": "2024-08-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "8 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01395",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

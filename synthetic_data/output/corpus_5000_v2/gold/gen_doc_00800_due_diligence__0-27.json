@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00800_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "420e0cf74e58d047afd87a150ae7252b05a3440bb51d80ef16ce6bf9298ddb4a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_525",
+      "name": "Netherby Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_525",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_126",
+      "name": "Tarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_126",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1710",
+      "name": "North Uldale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1710",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1711",
+      "name": "North Uldale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1711",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1712",
+      "name": "North Uldale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1712",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_498",
+      "name": "Facility Agreement LEG-498",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_498",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-498",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-498",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_318",
+      "name": "Farah Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_318",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_319",
+      "name": "Farah Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_319",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_326",
+      "name": "Farah Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_326",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_804",
+      "name": "Petra Fairfax",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_804",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Petra Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_97",
+      "name": "Dunmere Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_97",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026277",
+      "subject": "company_1710",
+      "rel": "owns",
+      "object": "company_1711",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Uldale Capital Limited owns North Uldale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026286",
+      "subject": "company_1710",
+      "rel": "owns",
+      "object": "asset_525",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Capital Limited owns Netherby Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026287",
+      "subject": "asset_525",
+      "rel": "located_in",
+      "object": "place_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Silo is located in Dunmere Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026283",
+      "subject": "lawfirm_20",
+      "rel": "represents",
+      "object": "company_1710",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Orrick LLP represents North Uldale Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026278",
+      "subject": "person_326",
+      "rel": "shareholder_of",
+      "object": "company_1710",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Pemberton is a shareholder of North Uldale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026290",
+      "subject": "person_318",
+      "rel": "family_of",
+      "object": "person_319",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Hastings is a family member of Farah Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026280",
+      "subject": "bank_126",
+      "rel": "lent_to",
+      "object": "company_1710",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-19",
+          "value_end": "2022-05-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Commercial Bank Limited lent North Uldale Capital Limited GBP 30 million on 19 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026282",
+      "subject": "company_1712",
+      "rel": "guarantor_for",
+      "object": "company_1710",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Energy Limited guaranteed the loan to North Uldale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026281",
+      "subject": "company_1710",
+      "rel": "owes",
+      "object": "bank_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-24",
+          "value_end": "2022-05-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Uldale Capital Limited owes Tarrow Commercial Bank Limited GBP 13 million as at 24 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026288",
+      "subject": "company_1710",
+      "rel": "party_to",
+      "object": "legal_498",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Uldale Capital Limited is a party to the Facility Agreement LEG-498.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026289",
+      "subject": "person_319",
+      "rel": "signed",
+      "object": "legal_498",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Ingram signed the Facility Agreement LEG-498.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00800_allegation",
+      "text": "A former employee alleged that North Uldale Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Petra Fairfax noted that a former employee alleged that North Uldale Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00800",
+      "surface": "11 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-11",
+      "value_end": "2026-04-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026280",
+      "surface": "19 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-19",
+      "value_end": "2022-05-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026281",
+      "surface": "24 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-24",
+      "value_end": "2022-05-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "24 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00800",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

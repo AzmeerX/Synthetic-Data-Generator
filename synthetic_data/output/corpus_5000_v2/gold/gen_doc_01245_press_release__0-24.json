@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01245_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "09ac2387764c72abac1eefab8ed81f21bacad1f927c158ac441eb36567798d86"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_330",
+      "name": "Denmoor Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_330",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_131",
+      "name": "Uldale Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_131",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uldale Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2111",
+      "name": "North Farnley Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2111",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Farnley Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2112",
+      "name": "North Gorse Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2112",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Gorse Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2113",
+      "name": "North Gorse Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2113",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Gorse Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_45",
+      "name": "Alden & Osborne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_45",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Osborne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_293",
+      "name": "Security Agreement LEG-293",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_293",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Security Agreement LEG-293",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-293",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1249",
+      "name": "Yara Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1249",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_719",
+      "name": "Nadia Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_719",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nadia Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_720",
+      "name": "Nadia Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_720",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nadia Tremayne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nadia Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_727",
+      "name": "Oren Alden",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_727",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Oren Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_138",
+      "name": "Inglemere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_138",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032529",
+      "subject": "company_2111",
+      "rel": "owns",
+      "object": "company_2112",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Farnley Systems Limited owns North Gorse Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032530",
+      "subject": "person_727",
+      "rel": "shareholder_of",
+      "object": "company_2111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Oren Alden is a shareholder of North Farnley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032542",
+      "subject": "person_719",
+      "rel": "family_of",
+      "object": "person_720",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nadia Sinclair is a family member of Nadia Tremayne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032532",
+      "subject": "bank_131",
+      "rel": "lent_to",
+      "object": "company_2111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-02-23",
+          "value_end": "2025-02-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Trust Bank Limited lent North Farnley Systems Limited GBP 32 million on 23 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032534",
+      "subject": "company_2113",
+      "rel": "guarantor_for",
+      "object": "company_2111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Gorse Industries Limited guaranteed the loan to North Farnley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032533",
+      "subject": "company_2111",
+      "rel": "owes",
+      "object": "bank_131",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-02-28",
+          "value_end": "2025-02-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Farnley Systems Limited owes Uldale Trust Bank Limited GBP 4 million as at 28 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032538",
+      "subject": "company_2111",
+      "rel": "owns",
+      "object": "asset_330",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Farnley Systems Limited owns Denmoor Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032539",
+      "subject": "asset_330",
+      "rel": "located_in",
+      "object": "place_138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Farm is located in Inglemere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032540",
+      "subject": "company_2111",
+      "rel": "party_to",
+      "object": "legal_293",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Farnley Systems Limited is a party to the Security Agreement LEG-293.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032541",
+      "subject": "person_720",
+      "rel": "signed",
+      "object": "legal_293",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Nadia Tremayne signed the Security Agreement LEG-293.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01245_allegation",
+      "text": "A former employee alleged that North Farnley Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Grenville noted that a former employee alleged that North Farnley Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01245",
+      "surface": "12 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-12",
+      "value_end": "2024-12-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032532",
+      "surface": "23 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-23",
+      "value_end": "2025-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "23 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032533",
+      "surface": "28 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-28",
+      "value_end": "2025-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "28 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01245",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

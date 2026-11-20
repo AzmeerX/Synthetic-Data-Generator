@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01259_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "c8eceed5009322353aa0a3b70fdcdc093b8000926df486b2104e403ed3ed8c79"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_339",
+      "name": "Elmford Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_339",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Elmford Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_343",
+      "name": "Elmford Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_343",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elmford Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Elmford Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_12",
+      "name": "Alder Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_12",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2124",
+      "name": "North Hampstead Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2124",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Hampstead Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2126",
+      "name": "North Hampstead Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2126",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Hampstead Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_59",
+      "name": "Briar & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_59",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_306",
+      "name": "Facility Agreement LEG-306",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_306",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-306",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-306",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1263",
+      "name": "Yara Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1263",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_732",
+      "name": "Oren Fenwick",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_732",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oren Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_733",
+      "name": "Oren Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_733",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oren Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Oren Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_740",
+      "name": "Oren Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_740",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Oren Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_151",
+      "name": "Kelbrook Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_151",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032732",
+      "subject": "company_2124",
+      "rel": "owns",
+      "object": "asset_339",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Hampstead Holdings Limited owns Elmford Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032733",
+      "subject": "person_740",
+      "rel": "shareholder_of",
+      "object": "company_2124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Oren Orrick is a shareholder of North Hampstead Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032745",
+      "subject": "person_732",
+      "rel": "family_of",
+      "object": "person_733",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oren Fenwick is a family member of Oren Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032735",
+      "subject": "bank_12",
+      "rel": "lent_to",
+      "object": "company_2124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-16",
+          "value_end": "2025-07-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Commercial Bank Limited lent North Hampstead Holdings Limited GBP 18 million on 16 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032737",
+      "subject": "company_2126",
+      "rel": "guarantor_for",
+      "object": "company_2124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Hampstead Group Limited guaranteed the loan to North Hampstead Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032736",
+      "subject": "company_2124",
+      "rel": "owes",
+      "object": "bank_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-07-21",
+          "value_end": "2025-07-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Hampstead Holdings Limited owes Alder Commercial Bank Limited GBP 7 million as at 21 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032741",
+      "subject": "company_2124",
+      "rel": "owns",
+      "object": "asset_343",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Hampstead Holdings Limited owns Elmford Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032742",
+      "subject": "asset_343",
+      "rel": "located_in",
+      "object": "place_151",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elmford Works is located in Kelbrook Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032743",
+      "subject": "company_2124",
+      "rel": "party_to",
+      "object": "legal_306",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Hampstead Holdings Limited is a party to the Facility Agreement LEG-306.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032744",
+      "subject": "person_733",
+      "rel": "signed",
+      "object": "legal_306",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Oren Garrow signed the Facility Agreement LEG-306.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01259_allegation",
+      "text": "A former employee alleged that North Hampstead Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Villiers noted that a former employee alleged that North Hampstead Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01259",
+      "surface": "20 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-20",
+      "value_end": "2025-03-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032735",
+      "surface": "16 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-16",
+      "value_end": "2025-07-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "16 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032736",
+      "surface": "21 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-21",
+      "value_end": "2025-07-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "21 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01259",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

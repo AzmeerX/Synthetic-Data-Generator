@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00241_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "4030c4d6f57ddd2e7a66dfff891df74f429776bfd8679f3769e77e0fabd38e75"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_121",
+      "name": "Harrowgate Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_121",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowgate Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowgate Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_50",
+      "name": "Glen International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_50",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Glen International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Glen International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_310",
+      "name": "Yarmouth Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_310",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_311",
+      "name": "Yarmouth Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_311",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_312",
+      "name": "Yarmouth Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_312",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_315",
+      "name": "Aldergate Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_315",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Aldergate Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Aldergate Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_42",
+      "name": "Alden & Langford LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_42",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Langford LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_104",
+      "name": "Lease LEG-104",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_104",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lease LEG-104",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-104",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_245",
+      "name": "Elias Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_245",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_310",
+      "name": "Farah Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_310",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_311",
+      "name": "Farah Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_311",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_318",
+      "name": "Farah Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_318",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_17",
+      "name": "Elmford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_17",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Elmford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004447",
+      "subject": "company_310",
+      "rel": "owns",
+      "object": "company_311",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Property Limited owns Yarmouth Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004448",
+      "subject": "person_318",
+      "rel": "shareholder_of",
+      "object": "company_310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Hastings is a shareholder of Yarmouth Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004460",
+      "subject": "person_310",
+      "rel": "family_of",
+      "object": "person_311",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Zell is a family member of Farah Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004450",
+      "subject": "bank_50",
+      "rel": "lent_to",
+      "object": "company_310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-10-05",
+          "value_end": "2026-10-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Glen International Bank Limited lent Yarmouth Property Limited GBP 30 million on 5 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004452",
+      "subject": "company_312",
+      "rel": "guarantor_for",
+      "object": "company_310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Systems Limited guaranteed the loan to Yarmouth Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004451",
+      "subject": "company_310",
+      "rel": "owes",
+      "object": "bank_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-10-10",
+          "value_end": "2026-10-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Property Limited owes Glen International Bank Limited GBP 13 million as at 10 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004453",
+      "subject": "lawfirm_10",
+      "rel": "represents",
+      "object": "company_310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ellery LLP represents Yarmouth Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004456",
+      "subject": "company_310",
+      "rel": "owns",
+      "object": "asset_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Yarmouth Property Limited owns Harrowgate Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004457",
+      "subject": "asset_121",
+      "rel": "located_in",
+      "object": "place_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowgate Cold Store is located in Elmford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004458",
+      "subject": "company_310",
+      "rel": "party_to",
+      "object": "legal_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Yarmouth Property Limited is a party to the Lease LEG-104.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004459",
+      "subject": "person_311",
+      "rel": "signed",
+      "object": "legal_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Ashby signed the Lease LEG-104.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00241_proposal",
+      "text": "The acquisition of Aldergate Group Limited by Yarmouth Property Limited",
+      "speaker": "person_245",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Garrow, chair of Yarmouth Property Limited, proposed to acquire Aldergate Group Limited on 2 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00241_approval",
+      "text": "Regulatory approval for the acquisition of Aldergate Group Limited",
+      "speaker": "person_245",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Garrow confirmed that regulatory approval for the acquisition of Aldergate Group Limited by Yarmouth Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00241_link_conditional",
+      "src": "gen_doc_00241_proposal",
+      "dst": "gen_doc_00241_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Aldergate Group Limited by Yarmouth Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00241",
+      "surface": "2 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-02",
+      "value_end": "2025-06-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004450",
+      "surface": "5 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-05",
+      "value_end": "2026-10-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "5 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004451",
+      "surface": "10 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-10",
+      "value_end": "2026-10-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00241",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

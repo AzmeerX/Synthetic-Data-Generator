@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00826_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "f6082cc1323a747b96773b2f7c50ec024a0f0ca97ce97535830c4d626b74ae42"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_549",
+      "name": "Oakhurst Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_549",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1734",
+      "name": "North Westerby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1734",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Westerby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1735",
+      "name": "North Westerby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1735",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Westerby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1736",
+      "name": "North Westerby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1736",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1739",
+      "name": "North Westerby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1739",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Westerby Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Westerby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_44",
+      "name": "Alden & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_44",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_522",
+      "name": "Settlement Agreement LEG-522",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_522",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-522",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-522",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_342",
+      "name": "Gideon Garrow",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_342",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Gideon Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_343",
+      "name": "Gideon Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_343",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Gideon Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_345",
+      "name": "Gideon Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_345",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Gideon Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_347",
+      "name": "Gideon Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_347",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Gideon Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_350",
+      "name": "Gideon Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_350",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_830",
+      "name": "Quin Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_830",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Quin Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_121",
+      "name": "Glenmoor Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_121",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Glenmoor Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026651",
+      "subject": "company_1734",
+      "rel": "owns",
+      "object": "company_1735",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Westerby Capital Limited owns North Westerby Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026653",
+      "subject": "person_345",
+      "rel": "chair_of",
+      "object": "company_1734",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Jarvis is the chair of North Westerby Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026652",
+      "subject": "person_350",
+      "rel": "shareholder_of",
+      "object": "company_1734",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Pell is a shareholder of North Westerby Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026664",
+      "subject": "person_342",
+      "rel": "family_of",
+      "object": "person_343",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Gideon Garrow is a family member of Gideon Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026654",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_1734",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-07",
+          "value_end": "2023-02-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Commercial Bank Limited lent North Westerby Capital Limited GBP 38 million on 7 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026656",
+      "subject": "company_1736",
+      "rel": "guarantor_for",
+      "object": "company_1734",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Westerby Energy Limited guaranteed the loan to North Westerby Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026655",
+      "subject": "company_1734",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-12",
+          "value_end": "2023-02-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Westerby Capital Limited owes Bexley Commercial Bank Limited GBP 7 million as at 12 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026657",
+      "subject": "lawfirm_44",
+      "rel": "represents",
+      "object": "company_1734",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Neville LLP represents North Westerby Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026660",
+      "subject": "company_1734",
+      "rel": "owns",
+      "object": "asset_549",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Westerby Capital Limited owns Oakhurst Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026661",
+      "subject": "asset_549",
+      "rel": "located_in",
+      "object": "place_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Estate is located in Glenmoor Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026662",
+      "subject": "company_1734",
+      "rel": "party_to",
+      "object": "legal_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Westerby Capital Limited is a party to the Settlement Agreement LEG-522.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026663",
+      "subject": "person_343",
+      "rel": "signed",
+      "object": "legal_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Hale signed the Settlement Agreement LEG-522.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00826_proposal",
+      "text": "The acquisition of North Westerby Systems Limited by North Westerby Capital Limited",
+      "speaker": "person_830",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Quin Garrow, chair of North Westerby Capital Limited, proposed to acquire North Westerby Systems Limited on 10 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00826_approval",
+      "text": "Regulatory approval for the acquisition of North Westerby Systems Limited",
+      "speaker": "person_830",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Garrow confirmed that regulatory approval for the acquisition of North Westerby Systems Limited by North Westerby Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00826_link_conditional",
+      "src": "gen_doc_00826_proposal",
+      "dst": "gen_doc_00826_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Westerby Systems Limited by North Westerby Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00826",
+      "surface": "10 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-10",
+      "value_end": "2026-10-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026654",
+      "surface": "7 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-07",
+      "value_end": "2023-02-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "7 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026655",
+      "surface": "12 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-12",
+      "value_end": "2023-02-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "12 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00826",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

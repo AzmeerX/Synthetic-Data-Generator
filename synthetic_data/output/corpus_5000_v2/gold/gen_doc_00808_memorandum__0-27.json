@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00808_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "e698643dadfad9bfe59662cea3fa523ee599968b95ab1662220f33048328be28"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_533",
+      "name": "Oakhurst Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_533",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1718",
+      "name": "North Vellacott Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1718",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Vellacott Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1719",
+      "name": "North Vellacott Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1719",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vellacott Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1720",
+      "name": "North Vellacott Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1720",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Vellacott Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1722",
+      "name": "North Vellacott Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1722",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Vellacott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Vellacott Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_117",
+      "name": "Cairn & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_117",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_506",
+      "name": "Settlement Agreement LEG-506",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_506",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Settlement Agreement LEG-506",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-506",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_326",
+      "name": "Farah Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_326",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_327",
+      "name": "Farah Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_327",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_334",
+      "name": "Farah Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_334",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_812",
+      "name": "Petra Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_812",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_105",
+      "name": "Elmsworth Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_105",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Elmsworth Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026403",
+      "subject": "company_1718",
+      "rel": "owns",
+      "object": "company_1719",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vellacott Group Limited owns North Vellacott Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026404",
+      "subject": "person_334",
+      "rel": "shareholder_of",
+      "object": "company_1718",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Yardley is a shareholder of North Vellacott Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026416",
+      "subject": "person_326",
+      "rel": "family_of",
+      "object": "person_327",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Pemberton is a family member of Farah Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026406",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_1718",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-15",
+          "value_end": "2022-08-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silvergate Bank Limited lent North Vellacott Group Limited GBP 46 million on 15 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026408",
+      "subject": "company_1720",
+      "rel": "guarantor_for",
+      "object": "company_1718",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Vellacott Trading Limited guaranteed the loan to North Vellacott Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026407",
+      "subject": "company_1718",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-20",
+          "value_end": "2022-08-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Vellacott Group Limited owes Silvergate Bank Limited GBP 11 million as at 20 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026409",
+      "subject": "lawfirm_28",
+      "rel": "represents",
+      "object": "company_1718",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ward LLP represents North Vellacott Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026412",
+      "subject": "company_1718",
+      "rel": "owns",
+      "object": "asset_533",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Vellacott Group Limited owns Oakhurst Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026413",
+      "subject": "asset_533",
+      "rel": "located_in",
+      "object": "place_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Rail Depot is located in Elmsworth Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026414",
+      "subject": "company_1718",
+      "rel": "party_to",
+      "object": "legal_506",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Vellacott Group Limited is a party to the Settlement Agreement LEG-506.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026415",
+      "subject": "person_327",
+      "rel": "signed",
+      "object": "legal_506",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Ravenscroft signed the Settlement Agreement LEG-506.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00808_proposal",
+      "text": "The acquisition of North Vellacott Capital Limited by North Vellacott Group Limited",
+      "speaker": "person_812",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Neville, chair of North Vellacott Group Limited, proposed to acquire North Vellacott Capital Limited on 6 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00808_approval",
+      "text": "Regulatory approval for the acquisition of North Vellacott Capital Limited",
+      "speaker": "person_812",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Neville confirmed that regulatory approval for the acquisition of North Vellacott Capital Limited by North Vellacott Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00808_link_conditional",
+      "src": "gen_doc_00808_proposal",
+      "dst": "gen_doc_00808_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Vellacott Capital Limited by North Vellacott Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00808",
+      "surface": "6 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-06",
+      "value_end": "2026-06-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026406",
+      "surface": "15 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-15",
+      "value_end": "2022-08-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026407",
+      "surface": "20 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-20",
+      "value_end": "2022-08-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00808",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

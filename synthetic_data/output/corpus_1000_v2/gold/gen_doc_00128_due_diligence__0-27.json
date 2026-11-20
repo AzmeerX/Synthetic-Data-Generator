@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00128_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d85f0e3eeab20120ebb29816aa8febcb0174662d6e3d60f4cbc40b896cdfa8a0"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_98",
+      "name": "Fenwick Bay Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_98",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_15",
+      "name": "Bexley Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_15",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_207",
+      "name": "Pemberton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_207",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_208",
+      "name": "Pemberton Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_208",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_27",
+      "name": "Alden & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_27",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_81",
+      "name": "Share Purchase Agreement LEG-081",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_81",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-081",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Share Purchase Agreement LEG-081",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_132",
+      "name": "Bastian Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_132",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_207",
+      "name": "Daria Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_207",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_208",
+      "name": "Daria Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_208",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_215",
+      "name": "Daria Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_215",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_34",
+      "name": "Vellacott",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_34",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002841",
+      "subject": "company_207",
+      "rel": "owns",
+      "object": "company_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pemberton Group Limited owns Pemberton Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002850",
+      "subject": "company_207",
+      "rel": "owns",
+      "object": "asset_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Group Limited owns Fenwick Bay Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002851",
+      "subject": "asset_98",
+      "rel": "located_in",
+      "object": "place_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Office Park is located in Vellacott.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002847",
+      "subject": "lawfirm_27",
+      "rel": "represents",
+      "object": "company_207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Vale LLP represents Pemberton Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002842",
+      "subject": "person_215",
+      "rel": "shareholder_of",
+      "object": "company_207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Balfour is a shareholder of Pemberton Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002854",
+      "subject": "person_207",
+      "rel": "family_of",
+      "object": "person_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Sable is a family member of Daria Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002844",
+      "subject": "bank_15",
+      "rel": "lent_to",
+      "object": "company_207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-29",
+          "value_end": "2023-08-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited lent Pemberton Group Limited GBP 24 million on 29 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002846",
+      "subject": "company_00",
+      "rel": "guarantor_for",
+      "object": "company_207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Oakhaven Holdings Limited guaranteed the loan to Pemberton Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002845",
+      "subject": "company_207",
+      "rel": "owes",
+      "object": "bank_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-09-03",
+          "value_end": "2023-09-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Pemberton Group Limited owes Bexley Bank Limited GBP 10 million as at 3 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002852",
+      "subject": "company_207",
+      "rel": "party_to",
+      "object": "legal_81",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Pemberton Group Limited is a party to the Share Purchase Agreement LEG-081.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002853",
+      "subject": "person_208",
+      "rel": "signed",
+      "object": "legal_81",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Thorne signed the Share Purchase Agreement LEG-081.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00128_allegation",
+      "text": "A former employee alleged that Pemberton Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Sinclair noted that a former employee alleged that Pemberton Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00128",
+      "surface": "16 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-16",
+      "value_end": "2026-07-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002844",
+      "surface": "29 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-29",
+      "value_end": "2023-08-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "29 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002845",
+      "surface": "3 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-03",
+      "value_end": "2023-09-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "3 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00128",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

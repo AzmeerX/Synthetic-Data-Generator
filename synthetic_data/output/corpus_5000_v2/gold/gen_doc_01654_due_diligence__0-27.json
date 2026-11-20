@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01654_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "526a1b989f6de06c931755088dbd882207e67cf404940d01175b8681e50a0a31"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_125",
+      "name": "Harrowgate Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_125",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowgate Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_314",
+      "name": "Aldergate Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_314",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Aldergate Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_315",
+      "name": "Aldergate Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_315",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_316",
+      "name": "Aldergate Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_316",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_108",
+      "name": "Shareholder Agreement LEG-108",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_108",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-108",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-108",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_266",
+      "name": "Elias Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_266",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_314",
+      "name": "Farah Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_314",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_315",
+      "name": "Farah Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_315",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_322",
+      "name": "Farah Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_322",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_21",
+      "name": "Invermere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_21",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004510",
+      "subject": "company_314",
+      "rel": "owns",
+      "object": "company_315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Industries Limited owns Aldergate Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004519",
+      "subject": "company_314",
+      "rel": "owns",
+      "object": "asset_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Industries Limited owns Harrowgate Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004520",
+      "subject": "asset_125",
+      "rel": "located_in",
+      "object": "place_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Hangar is located in Invermere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004516",
+      "subject": "lawfirm_14",
+      "rel": "represents",
+      "object": "company_314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ivers LLP represents Aldergate Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004511",
+      "subject": "person_322",
+      "rel": "shareholder_of",
+      "object": "company_314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Langford is a shareholder of Aldergate Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004523",
+      "subject": "person_314",
+      "rel": "family_of",
+      "object": "person_315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Delacourt is a family member of Farah Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004513",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-24",
+          "value_end": "2022-03-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited lent Aldergate Industries Limited GBP 38 million on 24 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004515",
+      "subject": "company_316",
+      "rel": "guarantor_for",
+      "object": "company_314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Logistics Limited guaranteed the loan to Aldergate Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004514",
+      "subject": "company_314",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-29",
+          "value_end": "2022-03-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Aldergate Industries Limited owes Silvergate Bank Limited GBP 7 million as at 29 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004521",
+      "subject": "company_314",
+      "rel": "party_to",
+      "object": "legal_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Aldergate Industries Limited is a party to the Shareholder Agreement LEG-108.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004522",
+      "subject": "person_315",
+      "rel": "signed",
+      "object": "legal_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Everard signed the Shareholder Agreement LEG-108.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01654_allegation",
+      "text": "A former employee alleged that Aldergate Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Delacourt noted that a former employee alleged that Aldergate Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01654",
+      "surface": "20 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-20",
+      "value_end": "2026-03-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004513",
+      "surface": "24 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-24",
+      "value_end": "2022-03-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004514",
+      "surface": "29 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-29",
+      "value_end": "2022-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01654",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

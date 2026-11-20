@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00243_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "cd88355491659eea24c7de864160476c16a6710fd4c96318d8d0c4546d457fc7"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_24",
+      "name": "Calderport Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_24",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Calderport Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Calderport Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_21",
+      "name": "Carrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_21",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1209",
+      "name": "Culm Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1209",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1210",
+      "name": "Culm Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1210",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Culm Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1211",
+      "name": "Culm Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1211",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Culm Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Culm Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1213",
+      "name": "Dartmoor Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1213",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Dartmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Dartmoor Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_83",
+      "name": "Briar & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_83",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Delacourt LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_603",
+      "name": "Debenture LEG-603",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_603",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Debenture LEG-603",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Debenture LEG-603",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1209",
+      "name": "Xander Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1209",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Xander Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1210",
+      "name": "Xander Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1210",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Xander Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Xander Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1217",
+      "name": "Xander Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1217",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Xander Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_247",
+      "name": "Elias Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_247",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_136",
+      "name": "Inglemere Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_136",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inglemere Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018464",
+      "subject": "company_1209",
+      "rel": "owns",
+      "object": "company_1210",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Culm Property Limited owns Culm Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018465",
+      "subject": "person_1217",
+      "rel": "shareholder_of",
+      "object": "company_1209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Xander Yardley is a shareholder of Culm Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018477",
+      "subject": "person_1209",
+      "rel": "family_of",
+      "object": "person_1210",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Xander Pemberton is a family member of Xander Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018467",
+      "subject": "bank_21",
+      "rel": "lent_to",
+      "object": "company_1209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-11-28",
+          "value_end": "2025-11-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Bank Limited lent Culm Property Limited GBP 28 million on 28 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018469",
+      "subject": "company_1211",
+      "rel": "guarantor_for",
+      "object": "company_1209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Culm Systems Limited guaranteed the loan to Culm Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018468",
+      "subject": "company_1209",
+      "rel": "owes",
+      "object": "bank_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-03",
+          "value_end": "2025-12-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Culm Property Limited owes Carrow Bank Limited GBP 12 million as at 3 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018473",
+      "subject": "company_1209",
+      "rel": "owns",
+      "object": "asset_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Culm Property Limited owns Calderport Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018474",
+      "subject": "asset_24",
+      "rel": "located_in",
+      "object": "place_136",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Calderport Cold Store is located in Inglemere Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018475",
+      "subject": "company_1209",
+      "rel": "party_to",
+      "object": "legal_603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Property Limited is a party to the Debenture LEG-603.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018476",
+      "subject": "person_1210",
+      "rel": "signed",
+      "object": "legal_603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Xander Ravenscroft signed the Debenture LEG-603.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00243_proposal",
+      "text": "The acquisition of Dartmoor Industries Limited by Culm Property Limited",
+      "speaker": "person_247",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Elias Ivers, chair of Culm Property Limited, proposed to acquire Dartmoor Industries Limited on 16 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00243_approval",
+      "text": "Regulatory approval for the acquisition of Dartmoor Industries Limited",
+      "speaker": "person_247",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Ivers confirmed that regulatory approval for the acquisition of Dartmoor Industries Limited by Culm Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00243_link_conditional",
+      "src": "gen_doc_00243_proposal",
+      "dst": "gen_doc_00243_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Dartmoor Industries Limited by Culm Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00239_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00243",
+      "surface": "16 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-16",
+      "value_end": "2025-06-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018467",
+      "surface": "28 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-28",
+      "value_end": "2025-11-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "28 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018468",
+      "surface": "3 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-03",
+      "value_end": "2025-12-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "3 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

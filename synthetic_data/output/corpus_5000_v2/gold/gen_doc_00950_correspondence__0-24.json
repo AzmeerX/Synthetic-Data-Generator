@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00950_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "7ac26f2b060057e98e7e66e71b55aac96b7c52bcfe9d339c9699e510543426c5"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_65",
+      "name": "Eastmere Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_65",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_130",
+      "name": "Uldale Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_130",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Uldale Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1846",
+      "name": "North Hazelmere Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1846",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Hazelmere Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1847",
+      "name": "North Hazelmere Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1847",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1848",
+      "name": "North Ivybridge Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1848",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1849",
+      "name": "North Ivybridge Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1849",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Ivybridge Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1850",
+      "name": "North Ivybridge Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1850",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Ivybridge Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Ivybridge Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_128",
+      "name": "Cairn & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_128",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Ashby LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_28",
+      "name": "Settlement Agreement LEG-028",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_28",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-028",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Settlement Agreement LEG-028",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_454",
+      "name": "Ivo Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_454",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_455",
+      "name": "Ivo Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_455",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ivo Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_462",
+      "name": "Ivo Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_462",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivo Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_954",
+      "name": "Silas Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_954",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Silas Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_53",
+      "name": "Quarrymere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_53",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quarrymere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028397",
+      "subject": "company_1846",
+      "rel": "owns",
+      "object": "company_1847",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Ventures Limited owns North Hazelmere Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028398",
+      "subject": "person_462",
+      "rel": "shareholder_of",
+      "object": "company_1846",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivo Everard is a shareholder of North Hazelmere Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028410",
+      "subject": "person_454",
+      "rel": "family_of",
+      "object": "person_455",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Vale is a family member of Ivo Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028400",
+      "subject": "bank_130",
+      "rel": "lent_to",
+      "object": "company_1846",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-23",
+          "value_end": "2026-06-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Uldale Merchant Bank Limited lent North Hazelmere Ventures Limited GBP 22 million on 23 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028402",
+      "subject": "company_1848",
+      "rel": "guarantor_for",
+      "object": "company_1846",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Ivybridge Holdings Limited guaranteed the loan to North Hazelmere Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028401",
+      "subject": "company_1846",
+      "rel": "owes",
+      "object": "bank_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-28",
+          "value_end": "2026-06-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Hazelmere Ventures Limited owes Uldale Merchant Bank Limited GBP 9 million as at 28 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028406",
+      "subject": "company_1846",
+      "rel": "owns",
+      "object": "asset_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Hazelmere Ventures Limited owns Eastmere Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028407",
+      "subject": "asset_65",
+      "rel": "located_in",
+      "object": "place_53",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Foundry is located in Quarrymere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028408",
+      "subject": "company_1846",
+      "rel": "party_to",
+      "object": "legal_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Ventures Limited is a party to the Settlement Agreement LEG-028.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028409",
+      "subject": "person_455",
+      "rel": "signed",
+      "object": "legal_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ivo Ward signed the Settlement Agreement LEG-028.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00950_proposal",
+      "text": "The acquisition of North Ivybridge Group Limited by North Hazelmere Ventures Limited",
+      "speaker": "person_954",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Silas Ingram, chair of North Hazelmere Ventures Limited, proposed to acquire North Ivybridge Group Limited on 12 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00950_approval",
+      "text": "Regulatory approval for the acquisition of North Ivybridge Group Limited",
+      "speaker": "person_954",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Ingram confirmed that regulatory approval for the acquisition of North Ivybridge Group Limited by North Hazelmere Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00950_link_conditional",
+      "src": "gen_doc_00950_proposal",
+      "dst": "gen_doc_00950_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Ivybridge Group Limited by North Hazelmere Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00946_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00950",
+      "surface": "12 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-12",
+      "value_end": "2025-11-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028400",
+      "surface": "23 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-23",
+      "value_end": "2026-06-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "23 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028401",
+      "surface": "28 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-28",
+      "value_end": "2026-06-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "28 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

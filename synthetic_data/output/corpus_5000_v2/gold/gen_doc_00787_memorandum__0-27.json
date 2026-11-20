@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00787_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "2181b775b24546af058c983fd96e0dffdc5fc27448169fac900b3c67fde25336"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_05",
+      "name": "Greyhaven Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_05",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Greyhaven Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Greyhaven Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_17",
+      "name": "Kestrel Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_17",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Kestrel Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1703",
+      "name": "North Tarrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1703",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Tarrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_18",
+      "name": "Brackenwold Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_18",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Brackenwold Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_19",
+      "name": "Pinehurst Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_19",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pinehurst Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_06",
+      "name": "Yarrow & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_06",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarrow & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_18",
+      "name": "Loan Note LEG-018",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_18",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Loan Note LEG-018",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-018",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_18",
+      "name": "Farah Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_18",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_19",
+      "name": "Marek Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_19",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Marek Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_26",
+      "name": "Cora Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_26",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Cora Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_791",
+      "name": "Petra Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_791",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_01",
+      "name": "Calderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_01",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "fact_0245",
+      "subject": "company_17",
+      "rel": "owns",
+      "object": "company_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrel Industries Limited owns Brackenwold Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0246",
+      "subject": "person_26",
+      "rel": "shareholder_of",
+      "object": "company_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Cora Vale is a shareholder of Kestrel Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0258",
+      "subject": "person_18",
+      "rel": "family_of",
+      "object": "person_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Orrick is a family member of Marek Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0248",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-15",
+          "value_end": "2022-08-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silvergate Bank Limited lent Kestrel Industries Limited GBP 46 million on 15 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0250",
+      "subject": "company_19",
+      "rel": "guarantor_for",
+      "object": "company_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pinehurst Logistics Limited guaranteed the loan to Kestrel Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0249",
+      "subject": "company_17",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-20",
+          "value_end": "2022-08-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrel Industries Limited owes Silvergate Bank Limited GBP 21 million as at 20 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0251",
+      "subject": "lawfirm_06",
+      "rel": "represents",
+      "object": "company_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarrow & Zell LLP represents Kestrel Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0254",
+      "subject": "company_17",
+      "rel": "owns",
+      "object": "asset_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kestrel Industries Limited owns Greyhaven Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0255",
+      "subject": "asset_05",
+      "rel": "located_in",
+      "object": "place_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Greyhaven Fleet is located in Calderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0256",
+      "subject": "company_17",
+      "rel": "party_to",
+      "object": "legal_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kestrel Industries Limited is a party to the Loan Note LEG-018.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0257",
+      "subject": "person_19",
+      "rel": "signed",
+      "object": "legal_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Marek Orrick signed the Loan Note LEG-018.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00787_proposal",
+      "text": "The acquisition of North Tarrow Systems Limited by Kestrel Industries Limited",
+      "speaker": "person_791",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Rook, chair of Kestrel Industries Limited, proposed to acquire North Tarrow Systems Limited on 10 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00787_approval",
+      "text": "Regulatory approval for the acquisition of North Tarrow Systems Limited",
+      "speaker": "person_791",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Rook confirmed that regulatory approval for the acquisition of North Tarrow Systems Limited by Kestrel Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00787_link_conditional",
+      "src": "gen_doc_00787_proposal",
+      "dst": "gen_doc_00787_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Tarrow Systems Limited by Kestrel Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00787",
+      "surface": "10 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-10",
+      "value_end": "2026-01-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0248",
+      "surface": "15 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-15",
+      "value_end": "2022-08-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0249",
+      "surface": "20 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-20",
+      "value_end": "2022-08-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00787",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

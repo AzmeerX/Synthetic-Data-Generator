@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00166_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "86b2b1725982df8ed8f0513dceccab0dd19c569464627fcb95138a703d694e80"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_65",
+      "name": "Eastmere Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_65",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_26",
+      "name": "Carrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_26",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_58",
+      "name": "Carrow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_58",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Carrow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_59",
+      "name": "Carrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_59",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_60",
+      "name": "Carrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_60",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Carrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_61",
+      "name": "Dunmere Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_61",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Dunmere Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_63",
+      "name": "Dunmere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_63",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Dunmere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Dunmere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_17",
+      "name": "Alden & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_17",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_58",
+      "name": "Settlement Agreement LEG-058",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_58",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-058",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Settlement Agreement LEG-058",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_170",
+      "name": "Calder Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_170",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_58",
+      "name": "Amina Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_58",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_59",
+      "name": "Amina Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_59",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_66",
+      "name": "Amina Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_66",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_05",
+      "name": "Greyhaven",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_05",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000518",
+      "subject": "company_58",
+      "rel": "owns",
+      "object": "company_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Property Limited owns Carrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000519",
+      "subject": "person_66",
+      "rel": "shareholder_of",
+      "object": "company_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Balfour is a shareholder of Carrow Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000531",
+      "subject": "person_58",
+      "rel": "family_of",
+      "object": "person_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Sable is a family member of Amina Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000521",
+      "subject": "bank_26",
+      "rel": "lent_to",
+      "object": "company_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-29",
+          "value_end": "2023-10-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow International Bank Limited lent Carrow Property Limited GBP 46 million on 29 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000523",
+      "subject": "company_60",
+      "rel": "guarantor_for",
+      "object": "company_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Carrow Systems Limited guaranteed the loan to Carrow Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000522",
+      "subject": "company_58",
+      "rel": "owes",
+      "object": "bank_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-11-03",
+          "value_end": "2023-11-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Property Limited owes Carrow International Bank Limited GBP 11 million as at 3 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000527",
+      "subject": "company_58",
+      "rel": "owns",
+      "object": "asset_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Property Limited owns Eastmere Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000528",
+      "subject": "asset_65",
+      "rel": "located_in",
+      "object": "place_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Foundry is located in Greyhaven.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000529",
+      "subject": "company_58",
+      "rel": "party_to",
+      "object": "legal_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Property Limited is a party to the Settlement Agreement LEG-058.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000530",
+      "subject": "person_59",
+      "rel": "signed",
+      "object": "legal_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Thorne signed the Settlement Agreement LEG-058.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00166_proposal",
+      "text": "The acquisition of Dunmere Group Limited by Carrow Property Limited",
+      "speaker": "person_170",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Fairfax, chair of Carrow Property Limited, proposed to acquire Dunmere Group Limited on 8 April 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00166_approval",
+      "text": "Regulatory approval for the acquisition of Dunmere Group Limited",
+      "speaker": "person_170",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Fairfax confirmed that regulatory approval for the acquisition of Dunmere Group Limited by Carrow Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00166_link_conditional",
+      "src": "gen_doc_00166_proposal",
+      "dst": "gen_doc_00166_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Dunmere Group Limited by Carrow Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00162_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00166",
+      "surface": "8 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-08",
+      "value_end": "2027-04-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000521",
+      "surface": "29 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-29",
+      "value_end": "2023-10-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "29 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000522",
+      "surface": "3 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-03",
+      "value_end": "2023-11-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "3 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

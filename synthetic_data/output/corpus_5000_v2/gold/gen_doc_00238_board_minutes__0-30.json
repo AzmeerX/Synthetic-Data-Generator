@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00238_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "0ecfb01cfa7749f6ec67efcac0e2dec75d27f41882fc2151f84bcd89c393135a"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_15",
+      "name": "Quarrystone Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_15",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_19",
+      "name": "Valebrook Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_19",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Valebrook Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Valebrook Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1204",
+      "name": "Culm Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1204",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Culm Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1206",
+      "name": "Culm Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1206",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1209",
+      "name": "Culm Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1209",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Culm Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_34",
+      "name": "Alden & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_34",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_78",
+      "name": "Briar & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_78",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_598",
+      "name": "Loan Note LEG-598",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_598",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-598",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-598",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1204",
+      "name": "Xander Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1204",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Xander Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1205",
+      "name": "Xander Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1205",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Xander Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1207",
+      "name": "Xander Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1207",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Xander Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1209",
+      "name": "Xander Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1209",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Xander Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1212",
+      "name": "Xander Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1212",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_242",
+      "name": "Elias Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_242",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_131",
+      "name": "Harrowden Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_131",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowden Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018386",
+      "subject": "company_1204",
+      "rel": "owns",
+      "object": "asset_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Culm Trading Limited owns Quarrystone Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018388",
+      "subject": "person_1207",
+      "rel": "chair_of",
+      "object": "company_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Neville is the chair of Culm Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018387",
+      "subject": "person_1212",
+      "rel": "shareholder_of",
+      "object": "company_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Tremayne is a shareholder of Culm Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018399",
+      "subject": "person_1204",
+      "rel": "family_of",
+      "object": "person_1205",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Xander Kingsley is a family member of Xander Langford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018389",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-04",
+          "value_end": "2025-10-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Merchant Bank Limited lent Culm Trading Limited GBP 18 million on 4 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018391",
+      "subject": "company_1206",
+      "rel": "guarantor_for",
+      "object": "company_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Culm Capital Limited guaranteed the loan to Culm Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018390",
+      "subject": "company_1204",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-09",
+          "value_end": "2025-10-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Trading Limited owes Bexley Merchant Bank Limited GBP 7 million as at 9 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018392",
+      "subject": "lawfirm_34",
+      "rel": "represents",
+      "object": "company_1204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Delacourt LLP represents Culm Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018395",
+      "subject": "company_1204",
+      "rel": "owns",
+      "object": "asset_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Culm Trading Limited owns Valebrook Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018396",
+      "subject": "asset_19",
+      "rel": "located_in",
+      "object": "place_131",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Valebrook Farm is located in Harrowden Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018397",
+      "subject": "company_1204",
+      "rel": "party_to",
+      "object": "legal_598",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Culm Trading Limited is a party to the Loan Note LEG-598.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018398",
+      "subject": "person_1205",
+      "rel": "signed",
+      "object": "legal_598",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Langford signed the Loan Note LEG-598.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00238_proposal",
+      "text": "The acquisition of Culm Property Limited by Culm Trading Limited",
+      "speaker": "person_242",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Dunmore, chair of Culm Trading Limited, proposed to acquire Culm Property Limited on 12 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00238_approval",
+      "text": "Regulatory approval for the acquisition of Culm Property Limited",
+      "speaker": "person_242",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Dunmore confirmed that regulatory approval for the acquisition of Culm Property Limited by Culm Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00238_link_conditional",
+      "src": "gen_doc_00238_proposal",
+      "dst": "gen_doc_00238_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Culm Property Limited by Culm Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00238",
+      "surface": "12 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-12",
+      "value_end": "2025-05-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018389",
+      "surface": "4 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-04",
+      "value_end": "2025-10-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "4 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018390",
+      "surface": "9 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-09",
+      "value_end": "2025-10-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "9 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00238",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

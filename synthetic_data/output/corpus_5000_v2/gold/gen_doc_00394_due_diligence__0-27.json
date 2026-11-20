@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00394_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "50239dd79eca5fc116346c465f9a5b646db241c0bbaf170d516bf69afded491d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_160",
+      "name": "Juniper Cross Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_160",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_25",
+      "name": "Carrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_25",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1345",
+      "name": "Orkney Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1345",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Orkney Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1346",
+      "name": "Orkney Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1346",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1347",
+      "name": "Orkney Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1347",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_45",
+      "name": "Alden & Osborne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_45",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Osborne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_133",
+      "name": "Security Agreement LEG-133",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_133",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-133",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-133",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_06",
+      "name": "Ines Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_06",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ines Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1345",
+      "name": "Anika Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1345",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1346",
+      "name": "Anika Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1346",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1353",
+      "name": "Anika Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1353",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_92",
+      "name": "Carrow Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_92",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020583",
+      "subject": "company_1345",
+      "rel": "owns",
+      "object": "company_1346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Orkney Industries Limited owns Orkney Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020592",
+      "subject": "company_1345",
+      "rel": "owns",
+      "object": "asset_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Industries Limited owns Juniper Cross Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020593",
+      "subject": "asset_160",
+      "rel": "located_in",
+      "object": "place_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Fleet is located in Carrow Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020589",
+      "subject": "lawfirm_45",
+      "rel": "represents",
+      "object": "company_1345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Osborne LLP represents Orkney Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020584",
+      "subject": "person_1353",
+      "rel": "shareholder_of",
+      "object": "company_1345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Langford is a shareholder of Orkney Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020596",
+      "subject": "person_1345",
+      "rel": "family_of",
+      "object": "person_1346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Delacourt is a family member of Anika Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020586",
+      "subject": "bank_25",
+      "rel": "lent_to",
+      "object": "company_1345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-08",
+          "value_end": "2025-05-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Private Bank Limited lent Orkney Industries Limited GBP 20 million on 8 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020588",
+      "subject": "company_1347",
+      "rel": "guarantor_for",
+      "object": "company_1345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Logistics Limited guaranteed the loan to Orkney Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020587",
+      "subject": "company_1345",
+      "rel": "owes",
+      "object": "bank_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-13",
+          "value_end": "2025-05-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Orkney Industries Limited owes Carrow Private Bank Limited GBP 8 million as at 13 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020594",
+      "subject": "company_1345",
+      "rel": "party_to",
+      "object": "legal_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Orkney Industries Limited is a party to the Security Agreement LEG-133.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020595",
+      "subject": "person_1346",
+      "rel": "signed",
+      "object": "legal_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Everard signed the Security Agreement LEG-133.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00394_allegation",
+      "text": "A former employee alleged that Orkney Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ines Alden noted that a former employee alleged that Orkney Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00394",
+      "surface": "24 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-24",
+      "value_end": "2025-01-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020586",
+      "surface": "8 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-08",
+      "value_end": "2025-05-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020587",
+      "surface": "13 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-13",
+      "value_end": "2025-05-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "13 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00394",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01426_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "d2123b2d52ba3c42a70ef2fbaf4ee2a0b67f3fbdd5451b04f07344c47841d7be"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_494",
+      "name": "Merrivale Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_494",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merrivale Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_31",
+      "name": "Denmoor Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_31",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2275",
+      "name": "North Thurlow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2275",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Thurlow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2276",
+      "name": "North Thurlow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2276",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Thurlow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2277",
+      "name": "North Thurlow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2277",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Thurlow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2278",
+      "name": "North Thurlow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2278",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Thurlow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_228",
+      "name": "Quintrell Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_228",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Quintrell Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_96",
+      "name": "Briar & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_96",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Ravenscroft LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_457",
+      "name": "Trust Deed LEG-457",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_457",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-457",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-457",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_38",
+      "name": "Lorne Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_38",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lorne Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Lorne Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_883",
+      "name": "Rhea Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_883",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_884",
+      "name": "Rhea Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_884",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Rhea Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_891",
+      "name": "Rhea Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_891",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_122",
+      "name": "Glenmoor Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_122",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glenmoor Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035085",
+      "subject": "company_2275",
+      "rel": "owns",
+      "object": "company_2276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Thurlow Marine Limited owns North Thurlow Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035086",
+      "subject": "person_891",
+      "rel": "shareholder_of",
+      "object": "company_2275",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Thorne is a shareholder of North Thurlow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035098",
+      "subject": "person_883",
+      "rel": "family_of",
+      "object": "person_884",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Kerr is a family member of Rhea Lorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035088",
+      "subject": "bank_31",
+      "rel": "lent_to",
+      "object": "company_2275",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-06-07",
+          "value_end": "2025-06-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Private Bank Limited lent North Thurlow Marine Limited GBP 40 million on 7 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035090",
+      "subject": "company_2277",
+      "rel": "guarantor_for",
+      "object": "company_2275",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Thurlow Property Limited guaranteed the loan to North Thurlow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035089",
+      "subject": "company_2275",
+      "rel": "owes",
+      "object": "bank_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-06-12",
+          "value_end": "2025-06-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Thurlow Marine Limited owes Denmoor Private Bank Limited GBP 8 million as at 12 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035094",
+      "subject": "company_2275",
+      "rel": "owns",
+      "object": "asset_494",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Thurlow Marine Limited owns Merrivale Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035095",
+      "subject": "asset_494",
+      "rel": "located_in",
+      "object": "place_122",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Terminal is located in Glenmoor Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035096",
+      "subject": "company_2275",
+      "rel": "party_to",
+      "object": "legal_457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Thurlow Marine Limited is a party to the Trust Deed LEG-457.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035097",
+      "subject": "person_884",
+      "rel": "signed",
+      "object": "legal_457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Rhea Lorne signed the Trust Deed LEG-457.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01426_proposal",
+      "text": "The acquisition of Quintrell Systems Limited by North Thurlow Marine Limited",
+      "speaker": "person_38",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lorne Ward, chair of North Thurlow Marine Limited, proposed to acquire Quintrell Systems Limited on 17 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01426_approval",
+      "text": "Regulatory approval for the acquisition of Quintrell Systems Limited",
+      "speaker": "person_38",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lorne Ward confirmed that regulatory approval for the acquisition of Quintrell Systems Limited by North Thurlow Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01426_link_conditional",
+      "src": "gen_doc_01426_proposal",
+      "dst": "gen_doc_01426_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Quintrell Systems Limited by North Thurlow Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01422_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01426",
+      "surface": "17 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-17",
+      "value_end": "2025-02-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035088",
+      "surface": "7 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-07",
+      "value_end": "2025-06-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "7 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035089",
+      "surface": "12 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-12",
+      "value_end": "2025-06-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "12 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00952_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "7d5bdb27da0d3855baa5cc8abe07c5da93e8b0de19c2a8e73a5345bd80e4fe7b"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_63",
+      "name": "Eastmere Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_63",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Eastmere Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_67",
+      "name": "Eastmere Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_67",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Eastmere Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_132",
+      "name": "Uldale Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_132",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1848",
+      "name": "North Ivybridge Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1848",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ivybridge Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1850",
+      "name": "North Ivybridge Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1850",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Ivybridge Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1852",
+      "name": "North Ivybridge Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1852",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Ivybridge Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ivybridge Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_30",
+      "name": "Settlement Agreement LEG-030",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_30",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-030",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-030",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_456",
+      "name": "Ivo Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_456",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ivo Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_457",
+      "name": "Ivo Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_457",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ivo Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_459",
+      "name": "Ivo Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_459",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ivo Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_461",
+      "name": "Ivo Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_461",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ivo Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_464",
+      "name": "Ivo Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_464",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_956",
+      "name": "Silas Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_956",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_55",
+      "name": "Saltmarsh",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_55",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Saltmarsh",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028428",
+      "subject": "company_1848",
+      "rel": "owns",
+      "object": "asset_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Ivybridge Holdings Limited owns Eastmere Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028430",
+      "subject": "person_459",
+      "rel": "chair_of",
+      "object": "company_1848",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Balfour is the chair of North Ivybridge Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028429",
+      "subject": "person_464",
+      "rel": "shareholder_of",
+      "object": "company_1848",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Grenville is a shareholder of North Ivybridge Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028441",
+      "subject": "person_456",
+      "rel": "family_of",
+      "object": "person_457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ivo Yarrow is a family member of Ivo Zell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028431",
+      "subject": "bank_132",
+      "rel": "lent_to",
+      "object": "company_1848",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-15",
+          "value_end": "2026-07-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Commercial Bank Limited lent North Ivybridge Holdings Limited GBP 26 million on 15 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028433",
+      "subject": "company_1850",
+      "rel": "guarantor_for",
+      "object": "company_1848",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Ivybridge Group Limited guaranteed the loan to North Ivybridge Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028432",
+      "subject": "company_1848",
+      "rel": "owes",
+      "object": "bank_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-07-20",
+          "value_end": "2026-07-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ivybridge Holdings Limited owes Uldale Commercial Bank Limited GBP 11 million as at 20 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028434",
+      "subject": "lawfirm_28",
+      "rel": "represents",
+      "object": "company_1848",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ward LLP represents North Ivybridge Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028437",
+      "subject": "company_1848",
+      "rel": "owns",
+      "object": "asset_67",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Ivybridge Holdings Limited owns Eastmere Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028438",
+      "subject": "asset_67",
+      "rel": "located_in",
+      "object": "place_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Eastmere Hangar is located in Saltmarsh.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028439",
+      "subject": "company_1848",
+      "rel": "party_to",
+      "object": "legal_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Ivybridge Holdings Limited is a party to the Settlement Agreement LEG-030.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028440",
+      "subject": "person_457",
+      "rel": "signed",
+      "object": "legal_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Zell signed the Settlement Agreement LEG-030.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00952_proposal",
+      "text": "The acquisition of North Ivybridge Trading Limited by North Ivybridge Holdings Limited",
+      "speaker": "person_956",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Kingsley, chair of North Ivybridge Holdings Limited, proposed to acquire North Ivybridge Trading Limited on 26 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00952_approval",
+      "text": "Regulatory approval for the acquisition of North Ivybridge Trading Limited",
+      "speaker": "person_956",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Kingsley confirmed that regulatory approval for the acquisition of North Ivybridge Trading Limited by North Ivybridge Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00952_link_conditional",
+      "src": "gen_doc_00952_proposal",
+      "dst": "gen_doc_00952_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Ivybridge Trading Limited by North Ivybridge Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00952",
+      "surface": "26 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-26",
+      "value_end": "2025-11-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028431",
+      "surface": "15 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-15",
+      "value_end": "2026-07-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "15 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028432",
+      "surface": "20 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-20",
+      "value_end": "2026-07-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "20 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00952",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01623_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "ca7062016b244266327b1e4619d108b85d7fab8cbcd000b883f2cc6452f109b1"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_97",
+      "name": "Fenwick Bay Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_97",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bay Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_26",
+      "name": "Carrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_26",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_286",
+      "name": "Vellacott Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_286",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vellacott Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_287",
+      "name": "Vellacott Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_287",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vellacott Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_288",
+      "name": "Vellacott Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_288",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_33",
+      "name": "Alden & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_33",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_80",
+      "name": "Side Letter LEG-080",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_80",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Side Letter LEG-080",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-080",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_235",
+      "name": "Daria Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_235",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_286",
+      "name": "Elias Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_286",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_287",
+      "name": "Elias Zouch",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_287",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_294",
+      "name": "Farah Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_294",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_93",
+      "name": "Carrow Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_93",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004072",
+      "subject": "company_286",
+      "rel": "owns",
+      "object": "company_287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vellacott Property Limited owns Vellacott Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004073",
+      "subject": "person_294",
+      "rel": "shareholder_of",
+      "object": "company_286",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Garrow is a shareholder of Vellacott Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004085",
+      "subject": "person_286",
+      "rel": "family_of",
+      "object": "person_287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Yardley is a family member of Elias Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004075",
+      "subject": "bank_26",
+      "rel": "lent_to",
+      "object": "company_286",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-14",
+          "value_end": "2026-01-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow International Bank Limited lent Vellacott Property Limited GBP 22 million on 14 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004077",
+      "subject": "company_288",
+      "rel": "guarantor_for",
+      "object": "company_286",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott Systems Limited guaranteed the loan to Vellacott Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004076",
+      "subject": "company_286",
+      "rel": "owes",
+      "object": "bank_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-19",
+          "value_end": "2026-01-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vellacott Property Limited owes Carrow International Bank Limited GBP 9 million as at 19 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004081",
+      "subject": "company_286",
+      "rel": "owns",
+      "object": "asset_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Property Limited owns Fenwick Bay Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004082",
+      "subject": "asset_97",
+      "rel": "located_in",
+      "object": "place_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Farm is located in Carrow Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004083",
+      "subject": "company_286",
+      "rel": "party_to",
+      "object": "legal_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vellacott Property Limited is a party to the Side Letter LEG-080.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004084",
+      "subject": "person_287",
+      "rel": "signed",
+      "object": "legal_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Zouch signed the Side Letter LEG-080.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01623_allegation",
+      "text": "A former employee alleged that Vellacott Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Whitlock noted that a former employee alleged that Vellacott Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01623",
+      "surface": "15 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-15",
+      "value_end": "2025-08-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004075",
+      "surface": "14 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-14",
+      "value_end": "2026-01-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "14 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004076",
+      "surface": "19 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-19",
+      "value_end": "2026-01-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "19 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01623",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

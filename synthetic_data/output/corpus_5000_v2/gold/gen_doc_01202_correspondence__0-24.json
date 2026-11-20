@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01202_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "c67a19452cca7ed837afe4a9e05fdbcb864b5d4fe715ee478c644babe3bd1345"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_292",
+      "name": "Carrow Bay Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_292",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Bay Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bay Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_93",
+      "name": "Oak Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_93",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2073",
+      "name": "North Clifford Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2073",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2074",
+      "name": "North Clifford Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2074",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2075",
+      "name": "North Clifford Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2075",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Clifford Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2076",
+      "name": "North Denholm Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2076",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Denholm Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2078",
+      "name": "North Denholm Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2078",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Denholm Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Denholm Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_120",
+      "name": "Cairn & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_120",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Quade LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_255",
+      "name": "Power of Attorney LEG-255",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_255",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Power of Attorney LEG-255",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Power of Attorney LEG-255",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1206",
+      "name": "Xander Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1206",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Xander Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Xander Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_681",
+      "name": "Nadia Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_681",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_682",
+      "name": "Nadia Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_682",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nadia Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_689",
+      "name": "Nadia Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_689",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_100",
+      "name": "Dunmere Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_100",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmere Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031936",
+      "subject": "company_2073",
+      "rel": "owns",
+      "object": "company_2074",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Property Limited owns North Clifford Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031937",
+      "subject": "person_689",
+      "rel": "shareholder_of",
+      "object": "company_2073",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Lorne is a shareholder of North Clifford Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031949",
+      "subject": "person_681",
+      "rel": "family_of",
+      "object": "person_682",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Cairn is a family member of Nadia Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031939",
+      "subject": "bank_93",
+      "rel": "lent_to",
+      "object": "company_2073",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-02",
+          "value_end": "2024-01-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oak Bank Limited lent North Clifford Property Limited GBP 36 million on 2 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031941",
+      "subject": "company_2075",
+      "rel": "guarantor_for",
+      "object": "company_2073",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Clifford Systems Limited guaranteed the loan to North Clifford Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031940",
+      "subject": "company_2073",
+      "rel": "owes",
+      "object": "bank_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-07",
+          "value_end": "2024-01-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Clifford Property Limited owes Oak Bank Limited GBP 6 million as at 7 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031945",
+      "subject": "company_2073",
+      "rel": "owns",
+      "object": "asset_292",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Property Limited owns Carrow Bay Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031946",
+      "subject": "asset_292",
+      "rel": "located_in",
+      "object": "place_100",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bay Wharf is located in Dunmere Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031947",
+      "subject": "company_2073",
+      "rel": "party_to",
+      "object": "legal_255",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Clifford Property Limited is a party to the Power of Attorney LEG-255.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031948",
+      "subject": "person_682",
+      "rel": "signed",
+      "object": "legal_255",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Nadia Dunmore signed the Power of Attorney LEG-255.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01202_proposal",
+      "text": "The acquisition of North Denholm Group Limited by North Clifford Property Limited",
+      "speaker": "person_1206",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Xander Montague, chair of North Clifford Property Limited, proposed to acquire North Denholm Group Limited on 15 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01202_approval",
+      "text": "Regulatory approval for the acquisition of North Denholm Group Limited",
+      "speaker": "person_1206",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Xander Montague confirmed that regulatory approval for the acquisition of North Denholm Group Limited by North Clifford Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01202_link_conditional",
+      "src": "gen_doc_01202_proposal",
+      "dst": "gen_doc_01202_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Denholm Group Limited by North Clifford Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01198_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01202",
+      "surface": "15 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-15",
+      "value_end": "2024-02-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031939",
+      "surface": "2 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-02",
+      "value_end": "2024-01-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "2 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031940",
+      "surface": "7 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-07",
+      "value_end": "2024-01-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "7 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

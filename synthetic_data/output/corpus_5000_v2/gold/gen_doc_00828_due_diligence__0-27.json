@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00828_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d4be2138628589b1e0d645dca2bfaf5499f7058a55dd261128a3403aa0bbaef6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_547",
+      "name": "Oakhurst Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_547",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_551",
+      "name": "Oakhurst Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_551",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_20",
+      "name": "Bexley International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_20",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1736",
+      "name": "North Westerby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1736",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Westerby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1738",
+      "name": "North Westerby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1738",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Westerby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_46",
+      "name": "Alden & Pemberton LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_46",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Pemberton LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_524",
+      "name": "Shareholder Agreement LEG-524",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_524",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-524",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-524",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_344",
+      "name": "Gideon Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_344",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_345",
+      "name": "Gideon Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_345",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_352",
+      "name": "Gideon Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_352",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_832",
+      "name": "Quin Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_832",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_123",
+      "name": "Glenmoor Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_123",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenmoor Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026682",
+      "subject": "company_1736",
+      "rel": "owns",
+      "object": "asset_547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Westerby Energy Limited owns Oakhurst Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026691",
+      "subject": "company_1736",
+      "rel": "owns",
+      "object": "asset_551",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Westerby Energy Limited owns Oakhurst Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026692",
+      "subject": "asset_551",
+      "rel": "located_in",
+      "object": "place_123",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Office Park is located in Glenmoor Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026688",
+      "subject": "lawfirm_46",
+      "rel": "represents",
+      "object": "company_1736",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Pemberton LLP represents North Westerby Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026683",
+      "subject": "person_352",
+      "rel": "shareholder_of",
+      "object": "company_1736",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Rook is a shareholder of North Westerby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026695",
+      "subject": "person_344",
+      "rel": "family_of",
+      "object": "person_345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Ivers is a family member of Gideon Jarvis.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026685",
+      "subject": "bank_20",
+      "rel": "lent_to",
+      "object": "company_1736",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-01",
+          "value_end": "2023-03-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley International Bank Limited lent North Westerby Energy Limited GBP 42 million on 1 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026687",
+      "subject": "company_1738",
+      "rel": "guarantor_for",
+      "object": "company_1736",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Westerby Ventures Limited guaranteed the loan to North Westerby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026686",
+      "subject": "company_1736",
+      "rel": "owes",
+      "object": "bank_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-06",
+          "value_end": "2023-03-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Westerby Energy Limited owes Bexley International Bank Limited GBP 9 million as at 6 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026693",
+      "subject": "company_1736",
+      "rel": "party_to",
+      "object": "legal_524",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Westerby Energy Limited is a party to the Shareholder Agreement LEG-524.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026694",
+      "subject": "person_345",
+      "rel": "signed",
+      "object": "legal_524",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Jarvis signed the Shareholder Agreement LEG-524.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00828_allegation",
+      "text": "A former employee alleged that North Westerby Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Ivers noted that a former employee alleged that North Westerby Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00828",
+      "surface": "24 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-24",
+      "value_end": "2026-10-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026685",
+      "surface": "1 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-01",
+      "value_end": "2023-03-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "1 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026686",
+      "surface": "6 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-06",
+      "value_end": "2023-03-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "6 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00828",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

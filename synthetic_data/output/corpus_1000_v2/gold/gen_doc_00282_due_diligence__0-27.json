@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00282_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c7534e6fec1e5ed89a5f6638c61712facec1f75c9082c1fe3942d7a3ff67d08e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_155",
+      "name": "Ironside Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_155",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ironside Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_159",
+      "name": "Juniper Cross Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_159",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_36",
+      "name": "Elm Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_36",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_348",
+      "name": "Cresswell Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_348",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Cresswell Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_350",
+      "name": "Draycott Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_350",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_48",
+      "name": "Alden & Sinclair LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_48",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Sinclair LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_142",
+      "name": "Licence LEG-142",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_142",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-142",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-142",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_286",
+      "name": "Elias Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_286",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_348",
+      "name": "Gideon Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_348",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_349",
+      "name": "Gideon Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_349",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_356",
+      "name": "Gideon Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_356",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_55",
+      "name": "Saltmarsh",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_55",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Saltmarsh",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005039",
+      "subject": "company_348",
+      "rel": "owns",
+      "object": "asset_155",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Cresswell Systems Limited owns Ironside Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005048",
+      "subject": "company_348",
+      "rel": "owns",
+      "object": "asset_159",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Cresswell Systems Limited owns Juniper Cross Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005049",
+      "subject": "asset_159",
+      "rel": "located_in",
+      "object": "place_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Cold Store is located in Saltmarsh.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005045",
+      "subject": "lawfirm_48",
+      "rel": "represents",
+      "object": "company_348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Sinclair LLP represents Cresswell Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005040",
+      "subject": "person_356",
+      "rel": "shareholder_of",
+      "object": "company_348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Vale is a shareholder of Cresswell Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005052",
+      "subject": "person_348",
+      "rel": "family_of",
+      "object": "person_349",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Mercer is a family member of Gideon Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005042",
+      "subject": "bank_36",
+      "rel": "lent_to",
+      "object": "company_348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-04-02",
+          "value_end": "2023-04-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Commercial Bank Limited lent Cresswell Systems Limited GBP 26 million on 2 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005044",
+      "subject": "company_350",
+      "rel": "guarantor_for",
+      "object": "company_348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Industries Limited guaranteed the loan to Cresswell Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005043",
+      "subject": "company_348",
+      "rel": "owes",
+      "object": "bank_36",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-07",
+          "value_end": "2023-04-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cresswell Systems Limited owes Elm Commercial Bank Limited GBP 11 million as at 7 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005050",
+      "subject": "company_348",
+      "rel": "party_to",
+      "object": "legal_142",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Cresswell Systems Limited is a party to the Licence LEG-142.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005051",
+      "subject": "person_349",
+      "rel": "signed",
+      "object": "legal_142",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Orrick signed the Licence LEG-142.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00282_allegation",
+      "text": "A former employee alleged that Cresswell Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Yardley noted that a former employee alleged that Cresswell Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00282",
+      "surface": "16 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-16",
+      "value_end": "2026-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005042",
+      "surface": "2 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-02",
+      "value_end": "2023-04-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005043",
+      "surface": "7 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-07",
+      "value_end": "2023-04-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00282",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00290_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "01d51cb6fda9862ac1d11cbccc18bf9714ab4ad3e6ad24f3c06d513acfc624b7"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_66",
+      "name": "Eastmere Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_66",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Eastmere Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_63",
+      "name": "Jarrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_63",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1251",
+      "name": "Gower Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1251",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1252",
+      "name": "Gower Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1252",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Gower Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1253",
+      "name": "Gower Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1253",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Gower Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1256",
+      "name": "Gower Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1256",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gower Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Gower Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_119",
+      "name": "Cairn & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_119",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_81",
+      "name": "Briar & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_81",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_39",
+      "name": "Services Agreement LEG-039",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_39",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Services Agreement LEG-039",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-039",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1251",
+      "name": "Yara Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1251",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1252",
+      "name": "Yara Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1252",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Jeffreys",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1259",
+      "name": "Yara Ravenscroft",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1259",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_294",
+      "name": "Farah Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_294",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Farah Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_178",
+      "name": "Netherby Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_178",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019119",
+      "subject": "company_1251",
+      "rel": "owns",
+      "object": "company_1252",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Gower Logistics Limited owns Gower Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019120",
+      "subject": "person_1259",
+      "rel": "shareholder_of",
+      "object": "company_1251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Ravenscroft is a shareholder of Gower Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019132",
+      "subject": "person_1251",
+      "rel": "family_of",
+      "object": "person_1252",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Ingram is a family member of Yara Jeffreys.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019122",
+      "subject": "bank_63",
+      "rel": "lent_to",
+      "object": "company_1251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-07-09",
+          "value_end": "2022-07-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Bank Limited lent Gower Logistics Limited GBP 32 million on 9 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019124",
+      "subject": "company_1253",
+      "rel": "guarantor_for",
+      "object": "company_1251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Gower Partners Limited guaranteed the loan to Gower Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019123",
+      "subject": "company_1251",
+      "rel": "owes",
+      "object": "bank_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-14",
+          "value_end": "2022-07-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Gower Logistics Limited owes Jarrow Bank Limited GBP 4 million as at 14 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019125",
+      "subject": "lawfirm_81",
+      "rel": "represents",
+      "object": "company_1251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Balfour LLP represents Gower Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019128",
+      "subject": "company_1251",
+      "rel": "owns",
+      "object": "asset_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Gower Logistics Limited owns Eastmere Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019129",
+      "subject": "asset_66",
+      "rel": "located_in",
+      "object": "place_178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Data Centre is located in Netherby Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019130",
+      "subject": "company_1251",
+      "rel": "party_to",
+      "object": "legal_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Gower Logistics Limited is a party to the Services Agreement LEG-039.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019131",
+      "subject": "person_1252",
+      "rel": "signed",
+      "object": "legal_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Jeffreys signed the Services Agreement LEG-039.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00290_proposal",
+      "text": "The acquisition of Gower Energy Limited by Gower Logistics Limited",
+      "speaker": "person_294",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Garrow, chair of Gower Logistics Limited, proposed to acquire Gower Energy Limited on 11 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00290_approval",
+      "text": "Regulatory approval for the acquisition of Gower Energy Limited",
+      "speaker": "person_294",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Farah Garrow confirmed that regulatory approval for the acquisition of Gower Energy Limited by Gower Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00290_link_conditional",
+      "src": "gen_doc_00290_proposal",
+      "dst": "gen_doc_00290_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Gower Energy Limited by Gower Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00290",
+      "surface": "11 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-11",
+      "value_end": "2026-05-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019122",
+      "surface": "9 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-09",
+      "value_end": "2022-07-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "9 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019123",
+      "surface": "14 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-14",
+      "value_end": "2022-07-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00290",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

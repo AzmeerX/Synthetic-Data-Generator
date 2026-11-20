@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00143_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "e942f3fcd66b7244e8417be256c6da33e6aba0a66216ebbca4fc8f2b1834e9d1"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_530",
+      "name": "Netherby Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_530",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Netherby Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_63",
+      "name": "Jarrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_63",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1119",
+      "name": "Tavistock Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1119",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1120",
+      "name": "Tavistock Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1120",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1121",
+      "name": "Tavistock Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1121",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Tavistock Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1123",
+      "name": "Tavistock Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1123",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Tavistock Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Tavistock Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_103",
+      "name": "Briar & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_103",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_79",
+      "name": "Briar & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_79",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_513",
+      "name": "Share Purchase Agreement LEG-513",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_513",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Share Purchase Agreement LEG-513",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-513",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1119",
+      "name": "Vera Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1119",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1120",
+      "name": "Wren Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1120",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Wren Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1127",
+      "name": "Wren Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1127",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_147",
+      "name": "Calder Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_147",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_46",
+      "name": "Jesmond",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_46",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Jesmond",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017061",
+      "subject": "company_1119",
+      "rel": "owns",
+      "object": "company_1120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Logistics Limited owns Tavistock Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017062",
+      "subject": "person_1127",
+      "rel": "shareholder_of",
+      "object": "company_1119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Hale is a shareholder of Tavistock Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017074",
+      "subject": "person_1119",
+      "rel": "family_of",
+      "object": "person_1120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Zouch is a family member of Wren Alden.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017064",
+      "subject": "bank_63",
+      "rel": "lent_to",
+      "object": "company_1119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-14",
+          "value_end": "2023-03-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Bank Limited lent Tavistock Logistics Limited GBP 48 million on 14 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017066",
+      "subject": "company_1121",
+      "rel": "guarantor_for",
+      "object": "company_1119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Tavistock Partners Limited guaranteed the loan to Tavistock Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017065",
+      "subject": "company_1119",
+      "rel": "owes",
+      "object": "bank_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-19",
+          "value_end": "2023-03-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tavistock Logistics Limited owes Jarrow Bank Limited GBP 12 million as at 19 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017067",
+      "subject": "lawfirm_79",
+      "rel": "represents",
+      "object": "company_1119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Zell LLP represents Tavistock Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017070",
+      "subject": "company_1119",
+      "rel": "owns",
+      "object": "asset_530",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Tavistock Logistics Limited owns Netherby Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017071",
+      "subject": "asset_530",
+      "rel": "located_in",
+      "object": "place_46",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Farm is located in Jesmond.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017072",
+      "subject": "company_1119",
+      "rel": "party_to",
+      "object": "legal_513",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Tavistock Logistics Limited is a party to the Share Purchase Agreement LEG-513.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017073",
+      "subject": "person_1120",
+      "rel": "signed",
+      "object": "legal_513",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Wren Alden signed the Share Purchase Agreement LEG-513.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00143_proposal",
+      "text": "The acquisition of Tavistock Marine Limited by Tavistock Logistics Limited",
+      "speaker": "person_147",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Hale, chair of Tavistock Logistics Limited, proposed to acquire Tavistock Marine Limited on 29 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00143_approval",
+      "text": "Regulatory approval for the acquisition of Tavistock Marine Limited",
+      "speaker": "person_147",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Hale confirmed that regulatory approval for the acquisition of Tavistock Marine Limited by Tavistock Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00143_link_conditional",
+      "src": "gen_doc_00143_proposal",
+      "dst": "gen_doc_00143_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Tavistock Marine Limited by Tavistock Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00143",
+      "surface": "29 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-29",
+      "value_end": "2026-10-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017064",
+      "surface": "14 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-14",
+      "value_end": "2023-03-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017065",
+      "surface": "19 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-19",
+      "value_end": "2023-03-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00143",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

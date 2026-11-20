@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00821_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c427f701fabff55d988063ecca60d4e9dc1bc619bdfcb8ddbcb8f6051ab7c3fd"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_64",
+      "name": "Eastmere Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_64",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_13",
+      "name": "Alder Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_13",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_173",
+      "name": "Merrivale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_173",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Merrivale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_174",
+      "name": "Merrivale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_174",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Merrivale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_175",
+      "name": "Merrivale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_175",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Merrivale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_23",
+      "name": "Alden & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_23",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_47",
+      "name": "Power of Attorney LEG-047",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_47",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-047",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-047",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_173",
+      "name": "Calder Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_173",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_174",
+      "name": "Calder Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_174",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Jeffreys",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_181",
+      "name": "Calder Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_181",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_825",
+      "name": "Quin Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_825",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_60",
+      "name": "Yewdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_60",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yewdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002310",
+      "subject": "company_173",
+      "rel": "owns",
+      "object": "company_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Merrivale Trading Limited owns Merrivale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002319",
+      "subject": "company_173",
+      "rel": "owns",
+      "object": "asset_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Merrivale Trading Limited owns Eastmere Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002320",
+      "subject": "asset_64",
+      "rel": "located_in",
+      "object": "place_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Warehouse is located in Yewdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002316",
+      "subject": "lawfirm_23",
+      "rel": "represents",
+      "object": "company_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP represents Merrivale Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002311",
+      "subject": "person_181",
+      "rel": "shareholder_of",
+      "object": "company_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Ravenscroft is a shareholder of Merrivale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002323",
+      "subject": "person_173",
+      "rel": "family_of",
+      "object": "person_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ingram is a family member of Calder Jeffreys.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002313",
+      "subject": "bank_13",
+      "rel": "lent_to",
+      "object": "company_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-20",
+          "value_end": "2022-08-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Private Bank Limited lent Merrivale Trading Limited GBP 36 million on 20 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002315",
+      "subject": "company_175",
+      "rel": "guarantor_for",
+      "object": "company_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Merrivale Capital Limited guaranteed the loan to Merrivale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002314",
+      "subject": "company_173",
+      "rel": "owes",
+      "object": "bank_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-25",
+          "value_end": "2022-08-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Merrivale Trading Limited owes Alder Private Bank Limited GBP 6 million as at 25 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002321",
+      "subject": "company_173",
+      "rel": "party_to",
+      "object": "legal_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Merrivale Trading Limited is a party to the Power of Attorney LEG-047.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002322",
+      "subject": "person_174",
+      "rel": "signed",
+      "object": "legal_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Jeffreys signed the Power of Attorney LEG-047.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00821_allegation",
+      "text": "A former employee alleged that Merrivale Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Briar noted that a former employee alleged that Merrivale Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00821",
+      "surface": "5 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-05",
+      "value_end": "2026-09-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002313",
+      "surface": "20 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-20",
+      "value_end": "2022-08-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002314",
+      "surface": "25 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-25",
+      "value_end": "2022-08-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00821",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

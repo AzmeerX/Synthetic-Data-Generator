@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00136_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "30aaf7da857d0141f820427e68252c31958d4fe28080c230eeca61e25a63098a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_31",
+      "name": "Calderport Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_31",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_35",
+      "name": "Calderport Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_35",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calderport Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_03",
+      "name": "Dunmore Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_03",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_28",
+      "name": "Ashcombe Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_28",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Ashcombe Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_30",
+      "name": "Ashcombe Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_30",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_33",
+      "name": "Ashcombe Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_33",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_17",
+      "name": "Alden & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_17",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_28",
+      "name": "Settlement Agreement LEG-028",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_28",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Settlement Agreement LEG-028",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-028",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_140",
+      "name": "Calder Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_140",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_28",
+      "name": "Ivo Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_28",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_29",
+      "name": "Lorne Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_29",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lorne Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lorne Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_36",
+      "name": "Farah Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_36",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_15",
+      "name": "Carrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_15",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000049",
+      "subject": "company_28",
+      "rel": "owns",
+      "object": "asset_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Logistics Limited owns Calderport Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000050",
+      "subject": "person_36",
+      "rel": "shareholder_of",
+      "object": "company_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Sable is a shareholder of Ashcombe Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000062",
+      "subject": "person_28",
+      "rel": "family_of",
+      "object": "person_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Orrick is a family member of Lorne Sable.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000052",
+      "subject": "bank_03",
+      "rel": "lent_to",
+      "object": "company_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-03",
+          "value_end": "2022-12-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited lent Ashcombe Logistics Limited GBP 26 million on 3 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000054",
+      "subject": "company_30",
+      "rel": "guarantor_for",
+      "object": "company_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Partners Limited guaranteed the loan to Ashcombe Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000053",
+      "subject": "company_28",
+      "rel": "owes",
+      "object": "bank_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-08",
+          "value_end": "2022-12-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Logistics Limited owes Dunmore Bank Limited GBP 11 million as at 8 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000055",
+      "subject": "lawfirm_08",
+      "rel": "represents",
+      "object": "company_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Cairn LLP represents Ashcombe Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000058",
+      "subject": "company_28",
+      "rel": "owns",
+      "object": "asset_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ashcombe Logistics Limited owns Calderport Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000059",
+      "subject": "asset_35",
+      "rel": "located_in",
+      "object": "place_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Mill is located in Carrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000060",
+      "subject": "company_28",
+      "rel": "party_to",
+      "object": "legal_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ashcombe Logistics Limited is a party to the Settlement Agreement LEG-028.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000061",
+      "subject": "person_29",
+      "rel": "signed",
+      "object": "legal_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lorne Sable signed the Settlement Agreement LEG-028.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00136_proposal",
+      "text": "The acquisition of Ashcombe Energy Limited by Ashcombe Logistics Limited",
+      "speaker": "person_140",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Alden, chair of Ashcombe Logistics Limited, proposed to acquire Ashcombe Energy Limited on 10 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00136_approval",
+      "text": "Regulatory approval for the acquisition of Ashcombe Energy Limited",
+      "speaker": "person_140",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Alden confirmed that regulatory approval for the acquisition of Ashcombe Energy Limited by Ashcombe Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00136_link_conditional",
+      "src": "gen_doc_00136_proposal",
+      "dst": "gen_doc_00136_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Ashcombe Energy Limited by Ashcombe Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00136",
+      "surface": "10 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-10",
+      "value_end": "2026-09-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000052",
+      "surface": "3 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-03",
+      "value_end": "2022-12-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "3 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000053",
+      "surface": "8 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-08",
+      "value_end": "2022-12-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00136",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

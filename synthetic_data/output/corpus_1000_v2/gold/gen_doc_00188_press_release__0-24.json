@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00188_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "e4e352e29181239979afccee79b512cb0aea0231a0143579aeadb6ccf7360efc"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_73",
+      "name": "Eastmere Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_73",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Eastmere Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_262",
+      "name": "Tarrow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_262",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_263",
+      "name": "Tarrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_263",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tarrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_264",
+      "name": "Tarrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_264",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_39",
+      "name": "Alden & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_39",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_56",
+      "name": "Lease LEG-056",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_56",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lease LEG-056",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-056",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_192",
+      "name": "Daria Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_192",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_262",
+      "name": "Elias Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_262",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_263",
+      "name": "Elias Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_263",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_270",
+      "name": "Elias Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_270",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_69",
+      "name": "Inkberrow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_69",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inkberrow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003699",
+      "subject": "company_262",
+      "rel": "owns",
+      "object": "company_263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tarrow Property Limited owns Tarrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003700",
+      "subject": "person_270",
+      "rel": "shareholder_of",
+      "object": "company_262",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Hastings is a shareholder of Tarrow Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003712",
+      "subject": "person_262",
+      "rel": "family_of",
+      "object": "person_263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Zell is a family member of Elias Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003702",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_262",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-04-25",
+          "value_end": "2025-04-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Silvergate Bank Limited lent Tarrow Property Limited GBP 14 million on 25 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003704",
+      "subject": "company_264",
+      "rel": "guarantor_for",
+      "object": "company_262",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Systems Limited guaranteed the loan to Tarrow Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003703",
+      "subject": "company_262",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-30",
+          "value_end": "2025-04-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tarrow Property Limited owes Silvergate Bank Limited GBP 5 million as at 30 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003708",
+      "subject": "company_262",
+      "rel": "owns",
+      "object": "asset_73",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Property Limited owns Eastmere Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003709",
+      "subject": "asset_73",
+      "rel": "located_in",
+      "object": "place_69",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Mill is located in Inkberrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003710",
+      "subject": "company_262",
+      "rel": "party_to",
+      "object": "legal_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Property Limited is a party to the Lease LEG-056.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003711",
+      "subject": "person_263",
+      "rel": "signed",
+      "object": "legal_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Ashby signed the Lease LEG-056.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00188_allegation",
+      "text": "A former employee alleged that Tarrow Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Cairn noted that a former employee alleged that Tarrow Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00188",
+      "surface": "27 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-27",
+      "value_end": "2024-05-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003702",
+      "surface": "25 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-25",
+      "value_end": "2025-04-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "25 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003703",
+      "surface": "30 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-30",
+      "value_end": "2025-04-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "30 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00188",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

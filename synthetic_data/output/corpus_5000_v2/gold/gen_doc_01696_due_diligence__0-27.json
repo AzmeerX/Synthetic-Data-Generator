@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01696_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d26e4c265baa8c04b8cd1931f1c7e02bc7288bf16eed7a1cf3758ca63edacb2d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_159",
+      "name": "Juniper Cross Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_159",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Juniper Cross Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_163",
+      "name": "Juniper Cross Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_163",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_40",
+      "name": "Fair Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_40",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_352",
+      "name": "Draycott Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_352",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Draycott Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_354",
+      "name": "Draycott Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_354",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_02",
+      "name": "Marlowe & Reed LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_02",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_146",
+      "name": "Facility Agreement LEG-146",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_146",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-146",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-146",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_308",
+      "name": "Farah Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_308",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_352",
+      "name": "Gideon Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_352",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_353",
+      "name": "Gideon Sable",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_353",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_360",
+      "name": "Gideon Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_360",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_59",
+      "name": "Whitbourne",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_59",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Whitbourne",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005102",
+      "subject": "company_352",
+      "rel": "owns",
+      "object": "asset_159",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Draycott Logistics Limited owns Juniper Cross Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005111",
+      "subject": "company_352",
+      "rel": "owns",
+      "object": "asset_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Logistics Limited owns Juniper Cross Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005112",
+      "subject": "asset_163",
+      "rel": "located_in",
+      "object": "place_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Data Centre is located in Whitbourne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005108",
+      "subject": "lawfirm_02",
+      "rel": "represents",
+      "object": "company_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marlowe & Reed LLP represents Draycott Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005103",
+      "subject": "person_360",
+      "rel": "shareholder_of",
+      "object": "company_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Ashby is a shareholder of Draycott Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005115",
+      "subject": "person_352",
+      "rel": "family_of",
+      "object": "person_353",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Rook is a family member of Gideon Sable.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005105",
+      "subject": "bank_40",
+      "rel": "lent_to",
+      "object": "company_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-16",
+          "value_end": "2023-05-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Merchant Bank Limited lent Draycott Logistics Limited GBP 34 million on 16 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005107",
+      "subject": "company_354",
+      "rel": "guarantor_for",
+      "object": "company_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Partners Limited guaranteed the loan to Draycott Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005106",
+      "subject": "company_352",
+      "rel": "owes",
+      "object": "bank_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-21",
+          "value_end": "2023-05-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Draycott Logistics Limited owes Fair Merchant Bank Limited GBP 5 million as at 21 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005113",
+      "subject": "company_352",
+      "rel": "party_to",
+      "object": "legal_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Draycott Logistics Limited is a party to the Facility Agreement LEG-146.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005114",
+      "subject": "person_353",
+      "rel": "signed",
+      "object": "legal_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Sable signed the Facility Agreement LEG-146.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01696_allegation",
+      "text": "A former employee alleged that Draycott Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Ward noted that a former employee alleged that Draycott Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01696",
+      "surface": "8 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-08",
+      "value_end": "2027-01-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005105",
+      "surface": "16 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-16",
+      "value_end": "2023-05-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005106",
+      "surface": "21 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-21",
+      "value_end": "2023-05-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01696",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

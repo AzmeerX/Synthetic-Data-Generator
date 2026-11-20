@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00738_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "04b6a4addb6face13533f447356d34d5371a695c8c57f29e1aaa776c0ee06282"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_470",
+      "name": "Kelbrook Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_470",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kelbrook Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_71",
+      "name": "Kel Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_71",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1655",
+      "name": "North Pemberton Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1655",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Pemberton Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1656",
+      "name": "North Quintrell Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1656",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quintrell Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1657",
+      "name": "North Quintrell Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1657",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quintrell Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_166",
+      "name": "Lowmoor Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_166",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lowmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lowmoor Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_58",
+      "name": "Briar & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_58",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_95",
+      "name": "Briar & Pemberton LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_95",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Pemberton LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_443",
+      "name": "Debenture LEG-443",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_443",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Debenture LEG-443",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-443",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_263",
+      "name": "Elias Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_263",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_264",
+      "name": "Elias Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_264",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_271",
+      "name": "Elias Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_271",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_742",
+      "name": "Oren Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_742",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Oren Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_42",
+      "name": "Fallow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_42",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fallow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025419",
+      "subject": "company_1655",
+      "rel": "owns",
+      "object": "company_1656",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Systems Limited owns North Quintrell Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025420",
+      "subject": "person_271",
+      "rel": "shareholder_of",
+      "object": "company_1655",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Ingram is a shareholder of North Pemberton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025432",
+      "subject": "person_263",
+      "rel": "family_of",
+      "object": "person_264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Ashby is a family member of Elias Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025422",
+      "subject": "bank_71",
+      "rel": "lent_to",
+      "object": "company_1655",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-18",
+          "value_end": "2025-05-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Trust Bank Limited lent North Pemberton Systems Limited GBP 40 million on 18 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025424",
+      "subject": "company_1657",
+      "rel": "guarantor_for",
+      "object": "company_1655",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quintrell Industries Limited guaranteed the loan to North Pemberton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025423",
+      "subject": "company_1655",
+      "rel": "owes",
+      "object": "bank_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-23",
+          "value_end": "2025-05-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Pemberton Systems Limited owes Kel Trust Bank Limited GBP 8 million as at 23 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025425",
+      "subject": "lawfirm_95",
+      "rel": "represents",
+      "object": "company_1655",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Pemberton LLP represents North Pemberton Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025428",
+      "subject": "company_1655",
+      "rel": "owns",
+      "object": "asset_470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Pemberton Systems Limited owns Kelbrook Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025429",
+      "subject": "asset_470",
+      "rel": "located_in",
+      "object": "place_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Farm is located in Fallow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025430",
+      "subject": "company_1655",
+      "rel": "party_to",
+      "object": "legal_443",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Pemberton Systems Limited is a party to the Debenture LEG-443.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025431",
+      "subject": "person_264",
+      "rel": "signed",
+      "object": "legal_443",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Balfour signed the Debenture LEG-443.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00738_proposal",
+      "text": "The acquisition of Lowmoor Property Limited by North Pemberton Systems Limited",
+      "speaker": "person_742",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Quade, chair of North Pemberton Systems Limited, proposed to acquire Lowmoor Property Limited on 1 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00738_approval",
+      "text": "Regulatory approval for the acquisition of Lowmoor Property Limited",
+      "speaker": "person_742",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Oren Quade confirmed that regulatory approval for the acquisition of Lowmoor Property Limited by North Pemberton Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00738_link_conditional",
+      "src": "gen_doc_00738_proposal",
+      "dst": "gen_doc_00738_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Lowmoor Property Limited by North Pemberton Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00738",
+      "surface": "1 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-01",
+      "value_end": "2025-02-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025422",
+      "surface": "18 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-18",
+      "value_end": "2025-05-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025423",
+      "surface": "23 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-23",
+      "value_end": "2025-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00738",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

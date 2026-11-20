@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00198_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "169cd03a1664ad1a25117f2a6da308a890693dac597c16e622a74fcc508588d6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_82",
+      "name": "Fenwick Bay Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_82",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_11",
+      "name": "Alder Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_11",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_271",
+      "name": "Uldale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_271",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_272",
+      "name": "Uldale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_272",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Uldale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_273",
+      "name": "Uldale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_273",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_21",
+      "name": "Alden & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_21",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_65",
+      "name": "Share Purchase Agreement LEG-065",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_65",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-065",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Share Purchase Agreement LEG-065",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_202",
+      "name": "Daria Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_202",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_271",
+      "name": "Elias Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_271",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_272",
+      "name": "Elias Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_272",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Jeffreys",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_279",
+      "name": "Elias Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_279",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_78",
+      "name": "Ashcombe Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_78",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003837",
+      "subject": "company_271",
+      "rel": "owns",
+      "object": "company_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Uldale Capital Limited owns Uldale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003846",
+      "subject": "company_271",
+      "rel": "owns",
+      "object": "asset_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Capital Limited owns Fenwick Bay Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003847",
+      "subject": "asset_82",
+      "rel": "located_in",
+      "object": "place_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Cold Store is located in Ashcombe Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003843",
+      "subject": "lawfirm_21",
+      "rel": "represents",
+      "object": "company_271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Pell LLP represents Uldale Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003838",
+      "subject": "person_279",
+      "rel": "shareholder_of",
+      "object": "company_271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ravenscroft is a shareholder of Uldale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003850",
+      "subject": "person_271",
+      "rel": "family_of",
+      "object": "person_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Ingram is a family member of Elias Jeffreys.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003840",
+      "subject": "bank_11",
+      "rel": "lent_to",
+      "object": "company_271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-08-02",
+          "value_end": "2025-08-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Trust Bank Limited lent Uldale Capital Limited GBP 32 million on 2 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003842",
+      "subject": "company_273",
+      "rel": "guarantor_for",
+      "object": "company_271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Energy Limited guaranteed the loan to Uldale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003841",
+      "subject": "company_271",
+      "rel": "owes",
+      "object": "bank_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-08-07",
+          "value_end": "2025-08-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Capital Limited owes Alder Trust Bank Limited GBP 4 million as at 7 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003848",
+      "subject": "company_271",
+      "rel": "party_to",
+      "object": "legal_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Uldale Capital Limited is a party to the Share Purchase Agreement LEG-065.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003849",
+      "subject": "person_272",
+      "rel": "signed",
+      "object": "legal_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Jeffreys signed the Share Purchase Agreement LEG-065.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00198_allegation",
+      "text": "A former employee alleged that Uldale Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Nyle noted that a former employee alleged that Uldale Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00198",
+      "surface": "5 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-05",
+      "value_end": "2024-08-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003840",
+      "surface": "2 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-02",
+      "value_end": "2025-08-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003841",
+      "surface": "7 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-07",
+      "value_end": "2025-08-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00198",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

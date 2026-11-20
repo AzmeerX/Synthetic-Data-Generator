@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01241_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c3bfbfa6d6641f1feda8acf968e1a811c0e66e29270a20a9ad0d2ce0f2f16efc"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_323",
+      "name": "Denmoor Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_323",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Denmoor Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_327",
+      "name": "Denmoor Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_327",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_128",
+      "name": "Tarrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_128",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2108",
+      "name": "North Farnley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2108",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Farnley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2110",
+      "name": "North Farnley Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2110",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Farnley Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_290",
+      "name": "Facility Agreement LEG-290",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_290",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-290",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-290",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1245",
+      "name": "Yara Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1245",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_716",
+      "name": "Nadia Osborne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_716",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_717",
+      "name": "Nadia Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_717",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_724",
+      "name": "Nadia Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_724",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_135",
+      "name": "Harrowden Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_135",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowden Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032483",
+      "subject": "company_2108",
+      "rel": "owns",
+      "object": "asset_323",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Farnley Energy Limited owns Denmoor Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032492",
+      "subject": "company_2108",
+      "rel": "owns",
+      "object": "asset_327",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Farnley Energy Limited owns Denmoor Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032493",
+      "subject": "asset_327",
+      "rel": "located_in",
+      "object": "place_135",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Dock is located in Harrowden Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032489",
+      "subject": "lawfirm_28",
+      "rel": "represents",
+      "object": "company_2108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP represents North Farnley Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032484",
+      "subject": "person_724",
+      "rel": "shareholder_of",
+      "object": "company_2108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Wyndham is a shareholder of North Farnley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032496",
+      "subject": "person_716",
+      "rel": "family_of",
+      "object": "person_717",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Osborne is a family member of Nadia Pemberton.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032486",
+      "subject": "bank_128",
+      "rel": "lent_to",
+      "object": "company_2108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-01-21",
+          "value_end": "2025-01-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow International Bank Limited lent North Farnley Energy Limited GBP 26 million on 21 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032488",
+      "subject": "company_2110",
+      "rel": "guarantor_for",
+      "object": "company_2108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Farnley Ventures Limited guaranteed the loan to North Farnley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032487",
+      "subject": "company_2108",
+      "rel": "owes",
+      "object": "bank_128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-26",
+          "value_end": "2025-01-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Farnley Energy Limited owes Tarrow International Bank Limited GBP 11 million as at 26 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032494",
+      "subject": "company_2108",
+      "rel": "party_to",
+      "object": "legal_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Farnley Energy Limited is a party to the Facility Agreement LEG-290.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032495",
+      "subject": "person_717",
+      "rel": "signed",
+      "object": "legal_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Pemberton signed the Facility Agreement LEG-290.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01241_allegation",
+      "text": "A former employee alleged that North Farnley Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Cavendish noted that a former employee alleged that North Farnley Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01241",
+      "surface": "14 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-14",
+      "value_end": "2024-11-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032486",
+      "surface": "21 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-21",
+      "value_end": "2025-01-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "21 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032487",
+      "surface": "26 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-26",
+      "value_end": "2025-01-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "26 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01241",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00136_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "ab039a62f6eaba22ef11f298156e8ceb21932c68ea7159e6abab0a68f16d4612"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_25",
+      "name": "Calderport Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_25",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calderport Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_214",
+      "name": "Pemberton Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_214",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Pemberton Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_215",
+      "name": "Pemberton Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_215",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_216",
+      "name": "Pemberton Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_216",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_219",
+      "name": "Quintrell Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_219",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quintrell Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Quintrell Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_37",
+      "name": "Alden & Grenville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_37",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Grenville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_08",
+      "name": "Guarantee Deed LEG-008",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_08",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Guarantee Deed LEG-008",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-008",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_140",
+      "name": "Calder Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_140",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_214",
+      "name": "Daria Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_214",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_215",
+      "name": "Daria Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_215",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Daria Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_222",
+      "name": "Daria Ingram",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_222",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_21",
+      "name": "Invermere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_21",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Invermere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002950",
+      "subject": "company_214",
+      "rel": "owns",
+      "object": "company_215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Property Limited owns Pemberton Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002951",
+      "subject": "person_222",
+      "rel": "shareholder_of",
+      "object": "company_214",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Ingram is a shareholder of Pemberton Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002963",
+      "subject": "person_214",
+      "rel": "family_of",
+      "object": "person_215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Ashby is a family member of Daria Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002953",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_214",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-11-14",
+          "value_end": "2023-11-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bank Limited lent Pemberton Property Limited GBP 38 million on 14 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002955",
+      "subject": "company_216",
+      "rel": "guarantor_for",
+      "object": "company_214",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Systems Limited guaranteed the loan to Pemberton Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002954",
+      "subject": "company_214",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-11-19",
+          "value_end": "2023-11-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Property Limited owes Fenwick Bank Limited GBP 7 million as at 19 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002956",
+      "subject": "lawfirm_14",
+      "rel": "represents",
+      "object": "company_214",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ivers LLP represents Pemberton Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002959",
+      "subject": "company_214",
+      "rel": "owns",
+      "object": "asset_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Pemberton Property Limited owns Calderport Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002960",
+      "subject": "asset_25",
+      "rel": "located_in",
+      "object": "place_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Fleet is located in Invermere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002961",
+      "subject": "company_214",
+      "rel": "party_to",
+      "object": "legal_08",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Pemberton Property Limited is a party to the Guarantee Deed LEG-008.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002962",
+      "subject": "person_215",
+      "rel": "signed",
+      "object": "legal_08",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Daria Balfour signed the Guarantee Deed LEG-008.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00136_proposal",
+      "text": "The acquisition of Quintrell Group Limited by Pemberton Property Limited",
+      "speaker": "person_140",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Alden, chair of Pemberton Property Limited, proposed to acquire Quintrell Group Limited on 10 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00136_approval",
+      "text": "Regulatory approval for the acquisition of Quintrell Group Limited",
+      "speaker": "person_140",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Alden confirmed that regulatory approval for the acquisition of Quintrell Group Limited by Pemberton Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00136_link_conditional",
+      "src": "gen_doc_00136_proposal",
+      "dst": "gen_doc_00136_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Quintrell Group Limited by Pemberton Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00136",
+      "surface": "10 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-10",
+      "value_end": "2026-09-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002953",
+      "surface": "14 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-14",
+      "value_end": "2023-11-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002954",
+      "surface": "19 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-19",
+      "value_end": "2023-11-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00136",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

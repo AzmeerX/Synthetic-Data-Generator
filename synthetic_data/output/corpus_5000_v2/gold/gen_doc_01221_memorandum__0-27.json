@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01221_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "a4af1f1871b41a7030af47a28472effa61e9cae7114110d950873811936c9465"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_309",
+      "name": "Carrow Bay Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_309",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Bay Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Bay Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_110",
+      "name": "Quill International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_110",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quill International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quill International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2090",
+      "name": "North Elmstead Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2090",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2091",
+      "name": "North Elmstead Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2091",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmstead Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2092",
+      "name": "North Elmstead Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2092",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Elmstead Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2095",
+      "name": "North Elmstead Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2095",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Elmstead Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Elmstead Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_21",
+      "name": "Alden & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_21",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_272",
+      "name": "Side Letter LEG-272",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_272",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Side Letter LEG-272",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-272",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1225",
+      "name": "Yara Garrow",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1225",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Yara Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_698",
+      "name": "Nadia Ulric",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_698",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_699",
+      "name": "Nadia Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_699",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Nadia Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_706",
+      "name": "Nadia Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_706",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_117",
+      "name": "Fairhaven Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_117",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairhaven Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032203",
+      "subject": "company_2090",
+      "rel": "owns",
+      "object": "company_2091",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmstead Group Limited owns North Elmstead Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032204",
+      "subject": "person_706",
+      "rel": "shareholder_of",
+      "object": "company_2090",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Everard is a shareholder of North Elmstead Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032216",
+      "subject": "person_698",
+      "rel": "family_of",
+      "object": "person_699",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Ulric is a family member of Nadia Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032206",
+      "subject": "bank_110",
+      "rel": "lent_to",
+      "object": "company_2090",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-07-07",
+          "value_end": "2024-07-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quill International Bank Limited lent North Elmstead Group Limited GBP 30 million on 7 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032208",
+      "subject": "company_2092",
+      "rel": "guarantor_for",
+      "object": "company_2090",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Elmstead Trading Limited guaranteed the loan to North Elmstead Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032207",
+      "subject": "company_2090",
+      "rel": "owes",
+      "object": "bank_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-07-12",
+          "value_end": "2024-07-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Group Limited owes Quill International Bank Limited GBP 13 million as at 12 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032209",
+      "subject": "lawfirm_10",
+      "rel": "represents",
+      "object": "company_2090",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ellery LLP represents North Elmstead Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032212",
+      "subject": "company_2090",
+      "rel": "owns",
+      "object": "asset_309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmstead Group Limited owns Carrow Bay Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032213",
+      "subject": "asset_309",
+      "rel": "located_in",
+      "object": "place_117",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Bay Estate is located in Fairhaven Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032214",
+      "subject": "company_2090",
+      "rel": "party_to",
+      "object": "legal_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Elmstead Group Limited is a party to the Side Letter LEG-272.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032215",
+      "subject": "person_699",
+      "rel": "signed",
+      "object": "legal_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Nadia Vale signed the Side Letter LEG-272.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01221_proposal",
+      "text": "The acquisition of North Elmstead Marine Limited by North Elmstead Group Limited",
+      "speaker": "person_1225",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Garrow, chair of North Elmstead Group Limited, proposed to acquire North Elmstead Marine Limited on 27 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01221_approval",
+      "text": "Regulatory approval for the acquisition of North Elmstead Marine Limited",
+      "speaker": "person_1225",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Yara Garrow confirmed that regulatory approval for the acquisition of North Elmstead Marine Limited by North Elmstead Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01221_link_conditional",
+      "src": "gen_doc_01221_proposal",
+      "dst": "gen_doc_01221_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Elmstead Marine Limited by North Elmstead Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01221",
+      "surface": "27 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-27",
+      "value_end": "2024-06-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032206",
+      "surface": "7 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-07",
+      "value_end": "2024-07-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "7 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032207",
+      "surface": "12 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-12",
+      "value_end": "2024-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "12 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01221",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

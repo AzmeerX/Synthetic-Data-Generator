@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00635_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "c600c2b8a657ed68728cf6b56f8772bc5fab19c03a9246e51fb1da61a1d55fd4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_377",
+      "name": "Glenport Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_377",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glenport Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Glenport Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_110",
+      "name": "Quill International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_110",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quill International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Quill International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1562",
+      "name": "North Inglemere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1562",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Inglemere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1563",
+      "name": "North Inglemere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1563",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Inglemere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1564",
+      "name": "North Inglemere Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1564",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Inglemere Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1565",
+      "name": "North Inglemere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1565",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Inglemere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1567",
+      "name": "North Inglemere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1567",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Inglemere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Inglemere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_85",
+      "name": "Briar & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_85",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Fairfax LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_350",
+      "name": "Licence LEG-350",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_350",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-350",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-350",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_170",
+      "name": "Calder Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_170",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_171",
+      "name": "Calder Grenville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_171",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_178",
+      "name": "Calder Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_178",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_639",
+      "name": "Marek Ivers",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_639",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Marek Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Marek Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_129",
+      "name": "Harrowden Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_129",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023970",
+      "subject": "company_1562",
+      "rel": "owns",
+      "object": "company_1563",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Inglemere Group Limited owns North Inglemere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023971",
+      "subject": "person_178",
+      "rel": "shareholder_of",
+      "object": "company_1562",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Neville is a shareholder of North Inglemere Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023983",
+      "subject": "person_170",
+      "rel": "family_of",
+      "object": "person_171",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Fairfax is a family member of Calder Grenville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023973",
+      "subject": "bank_110",
+      "rel": "lent_to",
+      "object": "company_1562",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-07-30",
+          "value_end": "2022-07-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quill International Bank Limited lent North Inglemere Group Limited GBP 14 million on 30 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023975",
+      "subject": "company_1564",
+      "rel": "guarantor_for",
+      "object": "company_1562",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Inglemere Trading Limited guaranteed the loan to North Inglemere Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023974",
+      "subject": "company_1562",
+      "rel": "owes",
+      "object": "bank_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-04",
+          "value_end": "2022-08-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Inglemere Group Limited owes Quill International Bank Limited GBP 5 million as at 4 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023979",
+      "subject": "company_1562",
+      "rel": "owns",
+      "object": "asset_377",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Inglemere Group Limited owns Glenport Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023980",
+      "subject": "asset_377",
+      "rel": "located_in",
+      "object": "place_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glenport Warehouse is located in Harrowden Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023981",
+      "subject": "company_1562",
+      "rel": "party_to",
+      "object": "legal_350",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Inglemere Group Limited is a party to the Licence LEG-350.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023982",
+      "subject": "person_171",
+      "rel": "signed",
+      "object": "legal_350",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Grenville signed the Licence LEG-350.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00635_proposal",
+      "text": "The acquisition of North Inglemere Marine Limited by North Inglemere Group Limited",
+      "speaker": "person_639",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Marek Ivers, chair of North Inglemere Group Limited, proposed to acquire North Inglemere Marine Limited on 26 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00635_approval",
+      "text": "Regulatory approval for the acquisition of North Inglemere Marine Limited",
+      "speaker": "person_639",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Marek Ivers confirmed that regulatory approval for the acquisition of North Inglemere Marine Limited by North Inglemere Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00635_link_conditional",
+      "src": "gen_doc_00635_proposal",
+      "dst": "gen_doc_00635_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Inglemere Marine Limited by North Inglemere Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00631_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00635",
+      "surface": "26 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-26",
+      "value_end": "2026-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023973",
+      "surface": "30 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-30",
+      "value_end": "2022-07-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "30 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023974",
+      "surface": "4 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-04",
+      "value_end": "2022-08-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "4 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

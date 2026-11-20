@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00289_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "1762e8917dc572c950e79f32fa9f5be2b9d78a0d7281606d4b48b732e023cf84"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_165",
+      "name": "Juniper Cross Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_165",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_42",
+      "name": "Fair Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_42",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_354",
+      "name": "Draycott Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_354",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Draycott Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_355",
+      "name": "Draycott Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_355",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_356",
+      "name": "Draycott Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_356",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_148",
+      "name": "Board Resolution LEG-148",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_148",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-148",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-148",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_293",
+      "name": "Farah Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_293",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_354",
+      "name": "Gideon Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_354",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_355",
+      "name": "Gideon Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_355",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_362",
+      "name": "Gideon Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_362",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_61",
+      "name": "Amberley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_61",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amberley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005133",
+      "subject": "company_354",
+      "rel": "owns",
+      "object": "company_355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Draycott Partners Limited owns Draycott Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005142",
+      "subject": "company_354",
+      "rel": "owns",
+      "object": "asset_165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Partners Limited owns Juniper Cross Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005143",
+      "subject": "asset_165",
+      "rel": "located_in",
+      "object": "place_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Quay is located in Amberley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005139",
+      "subject": "lawfirm_04",
+      "rel": "represents",
+      "object": "company_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP represents Draycott Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005134",
+      "subject": "person_362",
+      "rel": "shareholder_of",
+      "object": "company_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Cavendish is a shareholder of Draycott Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005146",
+      "subject": "person_354",
+      "rel": "family_of",
+      "object": "person_355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Thorne is a family member of Gideon Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005136",
+      "subject": "bank_42",
+      "rel": "lent_to",
+      "object": "company_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-07",
+          "value_end": "2023-06-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Commercial Bank Limited lent Draycott Partners Limited GBP 38 million on 7 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005138",
+      "subject": "company_356",
+      "rel": "guarantor_for",
+      "object": "company_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Marine Limited guaranteed the loan to Draycott Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005137",
+      "subject": "company_354",
+      "rel": "owes",
+      "object": "bank_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-12",
+          "value_end": "2023-06-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Draycott Partners Limited owes Fair Commercial Bank Limited GBP 7 million as at 12 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005144",
+      "subject": "company_354",
+      "rel": "party_to",
+      "object": "legal_148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Draycott Partners Limited is a party to the Board Resolution LEG-148.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005145",
+      "subject": "person_355",
+      "rel": "signed",
+      "object": "legal_148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Ulric signed the Board Resolution LEG-148.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00289_allegation",
+      "text": "A former employee alleged that Draycott Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Fenwick noted that a former employee alleged that Draycott Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00289",
+      "surface": "4 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-04",
+      "value_end": "2026-05-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005136",
+      "surface": "7 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-07",
+      "value_end": "2023-06-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "7 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005137",
+      "surface": "12 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-12",
+      "value_end": "2023-06-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "12 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00289",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00031_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "3b112cfcfb68e365e57cb35eadd319d988c9a38d0088a571604c800bb67456fd"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_429",
+      "name": "Invermere Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_429",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Invermere Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Invermere Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_94",
+      "name": "Oak Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_94",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1018",
+      "name": "Kendal Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1018",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1019",
+      "name": "Kendal Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1019",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1020",
+      "name": "Langton Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1020",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Langton Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1022",
+      "name": "Langton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1022",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Langton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Langton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_108",
+      "name": "Cairn & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_108",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_12",
+      "name": "Alden & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_12",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_412",
+      "name": "Shareholder Agreement LEG-412",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_412",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Shareholder Agreement LEG-412",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-412",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1018",
+      "name": "Tamsin Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1018",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1019",
+      "name": "Tamsin Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1019",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Tamsin Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1026",
+      "name": "Ulric Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1026",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulric Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_35",
+      "name": "Mira Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_35",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Mira Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Mira Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_125",
+      "name": "Glenmoor Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_125",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenmoor Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_015487",
+      "subject": "company_1018",
+      "rel": "owns",
+      "object": "company_1019",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Ventures Limited owns Kendal Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015488",
+      "subject": "person_1026",
+      "rel": "shareholder_of",
+      "object": "company_1018",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulric Garrow is a shareholder of Kendal Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015500",
+      "subject": "person_1018",
+      "rel": "family_of",
+      "object": "person_1019",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Yardley is a family member of Tamsin Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015490",
+      "subject": "bank_94",
+      "rel": "lent_to",
+      "object": "company_1018",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-23",
+          "value_end": "2024-10-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oak Merchant Bank Limited lent Kendal Ventures Limited GBP 46 million on 23 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015492",
+      "subject": "company_1020",
+      "rel": "guarantor_for",
+      "object": "company_1018",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Langton Holdings Limited guaranteed the loan to Kendal Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015491",
+      "subject": "company_1018",
+      "rel": "owes",
+      "object": "bank_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-28",
+          "value_end": "2024-10-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Ventures Limited owes Oak Merchant Bank Limited GBP 11 million as at 28 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015493",
+      "subject": "lawfirm_108",
+      "rel": "represents",
+      "object": "company_1018",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Ellery LLP represents Kendal Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015496",
+      "subject": "company_1018",
+      "rel": "owns",
+      "object": "asset_429",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Ventures Limited owns Invermere Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015497",
+      "subject": "asset_429",
+      "rel": "located_in",
+      "object": "place_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Invermere Estate is located in Glenmoor Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015498",
+      "subject": "company_1018",
+      "rel": "party_to",
+      "object": "legal_412",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kendal Ventures Limited is a party to the Shareholder Agreement LEG-412.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015499",
+      "subject": "person_1019",
+      "rel": "signed",
+      "object": "legal_412",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Tamsin Zouch signed the Shareholder Agreement LEG-412.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00031_proposal",
+      "text": "The acquisition of Langton Group Limited by Kendal Ventures Limited",
+      "speaker": "person_35",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Mira Ivers, chair of Kendal Ventures Limited, proposed to acquire Langton Group Limited on 5 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00031_approval",
+      "text": "Regulatory approval for the acquisition of Langton Group Limited",
+      "speaker": "person_35",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Mira Ivers confirmed that regulatory approval for the acquisition of Langton Group Limited by Kendal Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00031_link_conditional",
+      "src": "gen_doc_00031_proposal",
+      "dst": "gen_doc_00031_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Langton Group Limited by Kendal Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00031",
+      "surface": "5 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-05",
+      "value_end": "2024-09-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015490",
+      "surface": "23 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-23",
+      "value_end": "2024-10-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015491",
+      "surface": "28 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-28",
+      "value_end": "2024-10-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00031",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

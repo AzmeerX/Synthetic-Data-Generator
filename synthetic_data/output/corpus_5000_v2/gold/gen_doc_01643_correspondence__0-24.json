@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01643_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "ed993055e7eaf379d558425eab81071848ff3808ba733e8712929a59ecbbd42b"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_111",
+      "name": "Greyhaven Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_111",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_115",
+      "name": "Greyhaven Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_115",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_304",
+      "name": "Yarmouth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_304",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_306",
+      "name": "Yarmouth Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_306",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yarmouth Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_307",
+      "name": "Yarmouth Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_307",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Yarmouth Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_309",
+      "name": "Yarmouth Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_309",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Yarmouth Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Yarmouth Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_53",
+      "name": "Alden & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_53",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Wyndham LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_98",
+      "name": "Facility Agreement LEG-098",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_98",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-098",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-098",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_255",
+      "name": "Elias Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_255",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Elias Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_304",
+      "name": "Farah Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_304",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_305",
+      "name": "Farah Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_305",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_312",
+      "name": "Farah Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_312",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_11",
+      "name": "Marrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_11",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Marrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004353",
+      "subject": "company_304",
+      "rel": "owns",
+      "object": "asset_111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Logistics Limited owns Greyhaven Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004354",
+      "subject": "person_312",
+      "rel": "shareholder_of",
+      "object": "company_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Balfour is a shareholder of Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004366",
+      "subject": "person_304",
+      "rel": "family_of",
+      "object": "person_305",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Rook is a family member of Farah Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004356",
+      "subject": "bank_44",
+      "rel": "lent_to",
+      "object": "company_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-31",
+          "value_end": "2026-07-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair International Bank Limited lent Yarmouth Logistics Limited GBP 18 million on 31 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004358",
+      "subject": "company_306",
+      "rel": "guarantor_for",
+      "object": "company_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yarmouth Partners Limited guaranteed the loan to Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004357",
+      "subject": "company_304",
+      "rel": "owes",
+      "object": "bank_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-05",
+          "value_end": "2026-08-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Yarmouth Logistics Limited owes Fair International Bank Limited GBP 7 million as at 5 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004362",
+      "subject": "company_304",
+      "rel": "owns",
+      "object": "asset_115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Logistics Limited owns Greyhaven Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004363",
+      "subject": "asset_115",
+      "rel": "located_in",
+      "object": "place_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Estate is located in Marrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004364",
+      "subject": "company_304",
+      "rel": "party_to",
+      "object": "legal_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Logistics Limited is a party to the Facility Agreement LEG-098.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004365",
+      "subject": "person_305",
+      "rel": "signed",
+      "object": "legal_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Thorne signed the Facility Agreement LEG-098.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01643_proposal",
+      "text": "The acquisition of Yarmouth Energy Limited by Yarmouth Logistics Limited",
+      "speaker": "person_255",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Elias Rook, chair of Yarmouth Logistics Limited, proposed to acquire Yarmouth Energy Limited on 2 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01643_approval",
+      "text": "Regulatory approval for the acquisition of Yarmouth Energy Limited",
+      "speaker": "person_255",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Rook confirmed that regulatory approval for the acquisition of Yarmouth Energy Limited by Yarmouth Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01643_link_conditional",
+      "src": "gen_doc_01643_proposal",
+      "dst": "gen_doc_01643_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Yarmouth Energy Limited by Yarmouth Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01639_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01643",
+      "surface": "2 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-02",
+      "value_end": "2026-01-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004356",
+      "surface": "31 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-31",
+      "value_end": "2026-07-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "31 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004357",
+      "surface": "5 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-05",
+      "value_end": "2026-08-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "5 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

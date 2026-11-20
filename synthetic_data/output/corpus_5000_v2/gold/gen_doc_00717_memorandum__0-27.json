@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00717_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "d6c9e82d085024e0b3f85f5460600ce9fa22729f89903b94abfff1b1784b0206"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_447",
+      "name": "Jarrow Cross Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_447",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Cross Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_451",
+      "name": "Jarrow Cross Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_451",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Cross Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_52",
+      "name": "Harrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_52",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1636",
+      "name": "North Oakhurst Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1636",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Oakhurst Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1638",
+      "name": "North Oakhurst Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1638",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Oakhurst Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1640",
+      "name": "North Oakhurst Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1640",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Oakhurst Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Oakhurst Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_37",
+      "name": "Alden & Grenville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_37",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Grenville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_76",
+      "name": "Briar & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_76",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_424",
+      "name": "Lease LEG-424",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_424",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lease LEG-424",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-424",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_244",
+      "name": "Elias Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_244",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_245",
+      "name": "Elias Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_245",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_252",
+      "name": "Elias Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_252",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_721",
+      "name": "Nadia Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_721",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Nadia Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_23",
+      "name": "Kelbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_23",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025122",
+      "subject": "company_1636",
+      "rel": "owns",
+      "object": "asset_447",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Oakhurst Trading Limited owns Jarrow Cross Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025123",
+      "subject": "person_252",
+      "rel": "shareholder_of",
+      "object": "company_1636",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Nyle is a shareholder of North Oakhurst Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025135",
+      "subject": "person_244",
+      "rel": "family_of",
+      "object": "person_245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Fenwick is a family member of Elias Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025125",
+      "subject": "bank_52",
+      "rel": "lent_to",
+      "object": "company_1636",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-21",
+          "value_end": "2024-10-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Merchant Bank Limited lent North Oakhurst Trading Limited GBP 42 million on 21 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025127",
+      "subject": "company_1638",
+      "rel": "guarantor_for",
+      "object": "company_1636",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Oakhurst Capital Limited guaranteed the loan to North Oakhurst Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025126",
+      "subject": "company_1636",
+      "rel": "owes",
+      "object": "bank_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-26",
+          "value_end": "2024-10-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Oakhurst Trading Limited owes Harrow Merchant Bank Limited GBP 9 million as at 26 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025128",
+      "subject": "lawfirm_76",
+      "rel": "represents",
+      "object": "company_1636",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Vale LLP represents North Oakhurst Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025131",
+      "subject": "company_1636",
+      "rel": "owns",
+      "object": "asset_451",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Oakhurst Trading Limited owns Jarrow Cross Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025132",
+      "subject": "asset_451",
+      "rel": "located_in",
+      "object": "place_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Office Park is located in Kelbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025133",
+      "subject": "company_1636",
+      "rel": "party_to",
+      "object": "legal_424",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Oakhurst Trading Limited is a party to the Lease LEG-424.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025134",
+      "subject": "person_245",
+      "rel": "signed",
+      "object": "legal_424",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Garrow signed the Lease LEG-424.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00717_proposal",
+      "text": "The acquisition of North Oakhurst Energy Limited by North Oakhurst Trading Limited",
+      "speaker": "person_721",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Underwood, chair of North Oakhurst Trading Limited, proposed to acquire North Oakhurst Energy Limited on 7 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00717_approval",
+      "text": "Regulatory approval for the acquisition of North Oakhurst Energy Limited",
+      "speaker": "person_721",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Nadia Underwood confirmed that regulatory approval for the acquisition of North Oakhurst Energy Limited by North Oakhurst Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00717_link_conditional",
+      "src": "gen_doc_00717_proposal",
+      "dst": "gen_doc_00717_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Oakhurst Energy Limited by North Oakhurst Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00717",
+      "surface": "7 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-07",
+      "value_end": "2024-09-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025125",
+      "surface": "21 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-21",
+      "value_end": "2024-10-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "21 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025126",
+      "surface": "26 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-26",
+      "value_end": "2024-10-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00717",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

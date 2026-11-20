@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00054_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "620bd0a088b1c9fa166af1429881d02a32abb91174d2f88b62e110f50411d621"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_02",
+      "name": "Dunhollow Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_02",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_14",
+      "name": "Ravenmoor Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_14",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_142",
+      "name": "Jarrow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_142",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Jarrow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_144",
+      "name": "Jarrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_144",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_15",
+      "name": "Zephyr Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_15",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Zephyr Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_16",
+      "name": "Yarrowfield Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_16",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yarrowfield Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_05",
+      "name": "Quade & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_05",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Quade & Thorne LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Quade & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_15",
+      "name": "Security Agreement LEG-015",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_15",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-015",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-015",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_15",
+      "name": "Bram Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_15",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_16",
+      "name": "Mira Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_16",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Mira Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Mira Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_23",
+      "name": "Quin Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_23",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_58",
+      "name": "Amina Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_58",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_10",
+      "name": "Larkspur",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_10",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "fact_0203",
+      "subject": "company_14",
+      "rel": "owns",
+      "object": "company_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ravenmoor Group Limited owns Zephyr Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0204",
+      "subject": "person_23",
+      "rel": "shareholder_of",
+      "object": "company_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Pell is a shareholder of Ravenmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0216",
+      "subject": "person_15",
+      "rel": "family_of",
+      "object": "person_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Nyle is a family member of Mira Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0206",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-07-13",
+          "value_end": "2022-07-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Greyhaven Bank Limited lent Ravenmoor Group Limited GBP 40 million on 13 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0208",
+      "subject": "company_16",
+      "rel": "guarantor_for",
+      "object": "company_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yarrowfield Holdings Limited guaranteed the loan to Ravenmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0207",
+      "subject": "company_14",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-18",
+          "value_end": "2022-07-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ravenmoor Group Limited owes Greyhaven Bank Limited GBP 18 million as at 18 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0212",
+      "subject": "company_14",
+      "rel": "owns",
+      "object": "asset_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ravenmoor Group Limited owns Dunhollow Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0213",
+      "subject": "asset_02",
+      "rel": "located_in",
+      "object": "place_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Rail Depot is located in Larkspur.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0214",
+      "subject": "company_14",
+      "rel": "party_to",
+      "object": "legal_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ravenmoor Group Limited is a party to the Security Agreement LEG-015.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0215",
+      "subject": "person_16",
+      "rel": "signed",
+      "object": "legal_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Mira Mercer signed the Security Agreement LEG-015.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00054_proposal",
+      "text": "The acquisition of Jarrow Systems Limited by Ravenmoor Group Limited",
+      "speaker": "person_58",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Sable, chair of Ravenmoor Group Limited, proposed to acquire Jarrow Systems Limited on 13 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00054_approval",
+      "text": "Regulatory approval for the acquisition of Jarrow Systems Limited",
+      "speaker": "person_58",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Sable confirmed that regulatory approval for the acquisition of Jarrow Systems Limited by Ravenmoor Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00054_link_conditional",
+      "src": "gen_doc_00054_proposal",
+      "dst": "gen_doc_00054_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Jarrow Systems Limited by Ravenmoor Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00050_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00054",
+      "surface": "13 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-13",
+      "value_end": "2025-02-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0206",
+      "surface": "13 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-13",
+      "value_end": "2022-07-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "13 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0207",
+      "surface": "18 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-18",
+      "value_end": "2022-07-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

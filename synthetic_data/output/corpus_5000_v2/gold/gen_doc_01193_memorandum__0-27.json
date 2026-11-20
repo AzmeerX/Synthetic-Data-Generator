@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01193_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "7f6d265aba4f5c74e74267ae41fe5003ad0d4a3388b5d265068db9b2d6b6e8c8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_284",
+      "name": "Bexhaven Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_284",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bexhaven Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Bexhaven Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_85",
+      "name": "Merri Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_85",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Merri Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Merri Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2065",
+      "name": "North Clifford Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2065",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Clifford Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2066",
+      "name": "North Clifford Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2066",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2067",
+      "name": "North Clifford Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2067",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_207",
+      "name": "Pemberton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_207",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Pemberton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_112",
+      "name": "Cairn & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_112",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_115",
+      "name": "Cairn & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_115",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_247",
+      "name": "Services Agreement LEG-247",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_247",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Services Agreement LEG-247",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-247",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1197",
+      "name": "Xander Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1197",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Xander Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Xander Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_673",
+      "name": "Marek Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_673",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_674",
+      "name": "Marek Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_674",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Marek Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_681",
+      "name": "Nadia Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_681",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_92",
+      "name": "Carrow Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_92",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031810",
+      "subject": "company_2065",
+      "rel": "owns",
+      "object": "company_2066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Industries Limited owns North Clifford Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031811",
+      "subject": "person_681",
+      "rel": "shareholder_of",
+      "object": "company_2065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Cairn is a shareholder of North Clifford Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031823",
+      "subject": "person_673",
+      "rel": "family_of",
+      "object": "person_674",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Underwood is a family member of Marek Villiers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031813",
+      "subject": "bank_85",
+      "rel": "lent_to",
+      "object": "company_2065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-06",
+          "value_end": "2023-10-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Merri Private Bank Limited lent North Clifford Industries Limited GBP 20 million on 6 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031815",
+      "subject": "company_2067",
+      "rel": "guarantor_for",
+      "object": "company_2065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Logistics Limited guaranteed the loan to North Clifford Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031814",
+      "subject": "company_2065",
+      "rel": "owes",
+      "object": "bank_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-11",
+          "value_end": "2023-10-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Clifford Industries Limited owes Merri Private Bank Limited GBP 8 million as at 11 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031816",
+      "subject": "lawfirm_115",
+      "rel": "represents",
+      "object": "company_2065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Lorne LLP represents North Clifford Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031819",
+      "subject": "company_2065",
+      "rel": "owns",
+      "object": "asset_284",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Clifford Industries Limited owns Bexhaven Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031820",
+      "subject": "asset_284",
+      "rel": "located_in",
+      "object": "place_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bexhaven Yard is located in Carrow Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031821",
+      "subject": "company_2065",
+      "rel": "party_to",
+      "object": "legal_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Clifford Industries Limited is a party to the Services Agreement LEG-247.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031822",
+      "subject": "person_674",
+      "rel": "signed",
+      "object": "legal_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Marek Villiers signed the Services Agreement LEG-247.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01193_proposal",
+      "text": "The acquisition of Pemberton Group Limited by North Clifford Industries Limited",
+      "speaker": "person_1197",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Xander Delacourt, chair of North Clifford Industries Limited, proposed to acquire Pemberton Group Limited on 28 March 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01193_approval",
+      "text": "Regulatory approval for the acquisition of Pemberton Group Limited",
+      "speaker": "person_1197",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Xander Delacourt confirmed that regulatory approval for the acquisition of Pemberton Group Limited by North Clifford Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01193_link_conditional",
+      "src": "gen_doc_01193_proposal",
+      "dst": "gen_doc_01193_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Pemberton Group Limited by North Clifford Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01193",
+      "surface": "28 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-28",
+      "value_end": "2027-03-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031813",
+      "surface": "6 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-06",
+      "value_end": "2023-10-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "6 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031814",
+      "surface": "11 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-11",
+      "value_end": "2023-10-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "11 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01193",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

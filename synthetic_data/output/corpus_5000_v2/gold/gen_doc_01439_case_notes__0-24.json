@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01439_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "56e3c4a3202e75371cf06b609ac4578fbaee4a760c974cd96f897263b82e0475"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_43",
+      "name": "Fair Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_43",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2287",
+      "name": "North Upton Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2287",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Upton Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2288",
+      "name": "North Upton Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2288",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2289",
+      "name": "North Upton Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2289",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Upton Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_229",
+      "name": "Redmoor Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_229",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Redmoor Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_469",
+      "name": "Security Agreement LEG-469",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_469",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Security Agreement LEG-469",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Security Agreement LEG-469",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_51",
+      "name": "Amina Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_51",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_895",
+      "name": "Rhea Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_895",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Rhea Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_896",
+      "name": "Rhea Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_896",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Rhea Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Rhea Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_898",
+      "name": "Rhea Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_898",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_903",
+      "name": "Rhea Hastings",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_903",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Rhea Hastings",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035284",
+      "subject": "company_2287",
+      "rel": "party_to",
+      "object": "legal_469",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Upton Marine Limited is a party to the Security Agreement LEG-469.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035285",
+      "subject": "person_896",
+      "rel": "signed",
+      "object": "legal_469",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Rhea Ashby signed the Security Agreement LEG-469.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035275",
+      "subject": "person_898",
+      "rel": "chair_of",
+      "object": "company_2287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Cavendish is the chair of North Upton Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035276",
+      "subject": "bank_43",
+      "rel": "lent_to",
+      "object": "company_2287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-17",
+          "value_end": "2025-10-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Fair Private Bank Limited lent North Upton Marine Limited GBP 24 million on 17 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035278",
+      "subject": "company_2289",
+      "rel": "guarantor_for",
+      "object": "company_2287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Upton Property Limited guaranteed the loan to North Upton Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035277",
+      "subject": "company_2287",
+      "rel": "owes",
+      "object": "bank_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-22",
+          "value_end": "2025-10-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Upton Marine Limited owes Fair Private Bank Limited GBP 10 million as at 22 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035274",
+      "subject": "person_903",
+      "rel": "shareholder_of",
+      "object": "company_2287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Rhea Hastings is a shareholder of North Upton Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035286",
+      "subject": "person_895",
+      "rel": "family_of",
+      "object": "person_896",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Rhea Zell is a family member of Rhea Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035273",
+      "subject": "company_2287",
+      "rel": "owns",
+      "object": "company_2288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Upton Marine Limited owns North Upton Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01439_neg_guarantee",
+      "subject": "company_2287",
+      "rel": "guarantor_for",
+      "object": "company_229",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Upton Marine Limited did not guarantee the facility for Redmoor Holdings Limited on 19 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01439_allegation",
+      "text": "A former employee alleged that North Upton Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Lorne noted that a former employee alleged that North Upton Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01439",
+      "surface": "19 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-19",
+      "value_end": "2025-05-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035276",
+      "surface": "17 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-17",
+      "value_end": "2025-10-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "17 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035277",
+      "surface": "22 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-22",
+      "value_end": "2025-10-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "22 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01439",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-11-19",
+      "value_end": "2025-11-19",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

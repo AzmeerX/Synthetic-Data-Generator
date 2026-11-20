@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01550_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "6650060c94e4ffde24e6b15ea081bbf55ff7124145620e41bb302d0cec7b69b7"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_10",
+      "name": "Larkspur Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_10",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Larkspur Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Larkspur Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_11",
+      "name": "Alder Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_11",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2387",
+      "name": "North Eversley Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2387",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Eversley Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2388",
+      "name": "North Fingal Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2388",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2389",
+      "name": "North Fingal Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2389",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Fingal Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2391",
+      "name": "North Fingal Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2391",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Fingal Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Fingal Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_47",
+      "name": "Alden & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_47",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_90",
+      "name": "Briar & Kingsley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_90",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Kingsley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_569",
+      "name": "Trust Deed LEG-569",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_569",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Trust Deed LEG-569",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-569",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1003",
+      "name": "Tamsin Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1003",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tamsin Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_162",
+      "name": "Calder Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_162",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_995",
+      "name": "Tamsin Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_995",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_996",
+      "name": "Tamsin Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_996",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Tamsin Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_54",
+      "name": "Rushmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_54",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Rushmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036833",
+      "subject": "company_2387",
+      "rel": "owns",
+      "object": "company_2388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Eversley Systems Limited owns North Fingal Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036834",
+      "subject": "person_1003",
+      "rel": "shareholder_of",
+      "object": "company_2387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tamsin Ingram is a shareholder of North Eversley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036846",
+      "subject": "person_995",
+      "rel": "family_of",
+      "object": "person_996",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Ashby is a family member of Tamsin Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036836",
+      "subject": "bank_11",
+      "rel": "lent_to",
+      "object": "company_2387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-02-25",
+          "value_end": "2024-02-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Trust Bank Limited lent North Eversley Systems Limited GBP 24 million on 25 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036838",
+      "subject": "company_2389",
+      "rel": "guarantor_for",
+      "object": "company_2387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Fingal Industries Limited guaranteed the loan to North Eversley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036837",
+      "subject": "company_2387",
+      "rel": "owes",
+      "object": "bank_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-01",
+          "value_end": "2024-03-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Systems Limited owes Alder Trust Bank Limited GBP 10 million as at 1 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036839",
+      "subject": "lawfirm_47",
+      "rel": "represents",
+      "object": "company_2387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ravenscroft LLP represents North Eversley Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036842",
+      "subject": "company_2387",
+      "rel": "owns",
+      "object": "asset_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Eversley Systems Limited owns Larkspur Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036843",
+      "subject": "asset_10",
+      "rel": "located_in",
+      "object": "place_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Larkspur Quay is located in Rushmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036844",
+      "subject": "company_2387",
+      "rel": "party_to",
+      "object": "legal_569",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Eversley Systems Limited is a party to the Trust Deed LEG-569.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036845",
+      "subject": "person_996",
+      "rel": "signed",
+      "object": "legal_569",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Tamsin Balfour signed the Trust Deed LEG-569.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01550_proposal",
+      "text": "The acquisition of North Fingal Logistics Limited by North Eversley Systems Limited",
+      "speaker": "person_162",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Ward, chair of North Eversley Systems Limited, proposed to acquire North Fingal Logistics Limited on 22 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01550_approval",
+      "text": "Regulatory approval for the acquisition of North Fingal Logistics Limited",
+      "speaker": "person_162",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Ward confirmed that regulatory approval for the acquisition of North Fingal Logistics Limited by North Eversley Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01550_link_conditional",
+      "src": "gen_doc_01550_proposal",
+      "dst": "gen_doc_01550_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Fingal Logistics Limited by North Eversley Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01550",
+      "surface": "22 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-22",
+      "value_end": "2024-03-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036836",
+      "surface": "25 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-25",
+      "value_end": "2024-02-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036837",
+      "surface": "1 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-01",
+      "value_end": "2024-03-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "1 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01550",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

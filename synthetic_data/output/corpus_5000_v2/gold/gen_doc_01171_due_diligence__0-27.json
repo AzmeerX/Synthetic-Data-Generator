@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01171_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d968e1875b79fb7d8ee033ef056d6dc0582f9f312c9c42a43a9cc204261351a8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_264",
+      "name": "Alderport Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_264",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alderport Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_65",
+      "name": "Jarrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_65",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2045",
+      "name": "North Amberley Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2045",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Amberley Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2046",
+      "name": "North Amberley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2046",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Amberley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2047",
+      "name": "North Amberley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2047",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Amberley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_95",
+      "name": "Briar & Pemberton LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_95",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Pemberton LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_227",
+      "name": "Guarantee Deed LEG-227",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_227",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-227",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-227",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1175",
+      "name": "Xander Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1175",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_653",
+      "name": "Marek Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_653",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_654",
+      "name": "Marek Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_654",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_661",
+      "name": "Marek Hastings",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_661",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_72",
+      "name": "Maplebury",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_72",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Maplebury",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031499",
+      "subject": "company_2045",
+      "rel": "owns",
+      "object": "company_2046",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Amberley Partners Limited owns North Amberley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031508",
+      "subject": "company_2045",
+      "rel": "owns",
+      "object": "asset_264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Amberley Partners Limited owns Alderport Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031509",
+      "subject": "asset_264",
+      "rel": "located_in",
+      "object": "place_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Yard is located in Maplebury.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031505",
+      "subject": "lawfirm_95",
+      "rel": "represents",
+      "object": "company_2045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Pemberton LLP represents North Amberley Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031500",
+      "subject": "person_661",
+      "rel": "shareholder_of",
+      "object": "company_2045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Hastings is a shareholder of North Amberley Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031512",
+      "subject": "person_653",
+      "rel": "family_of",
+      "object": "person_654",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Zell is a family member of Marek Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031502",
+      "subject": "bank_65",
+      "rel": "lent_to",
+      "object": "company_2045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-28",
+          "value_end": "2023-02-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Trust Bank Limited lent North Amberley Partners Limited GBP 20 million on 28 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031504",
+      "subject": "company_2047",
+      "rel": "guarantor_for",
+      "object": "company_2045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Amberley Marine Limited guaranteed the loan to North Amberley Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031503",
+      "subject": "company_2045",
+      "rel": "owes",
+      "object": "bank_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-05",
+          "value_end": "2023-03-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Amberley Partners Limited owes Jarrow Trust Bank Limited GBP 8 million as at 5 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031510",
+      "subject": "company_2045",
+      "rel": "party_to",
+      "object": "legal_227",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Amberley Partners Limited is a party to the Guarantee Deed LEG-227.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031511",
+      "subject": "person_654",
+      "rel": "signed",
+      "object": "legal_227",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Ashby signed the Guarantee Deed LEG-227.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01171_allegation",
+      "text": "A former employee alleged that North Amberley Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Fenwick noted that a former employee alleged that North Amberley Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01171",
+      "surface": "25 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-25",
+      "value_end": "2026-10-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "25 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031502",
+      "surface": "28 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-28",
+      "value_end": "2023-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031503",
+      "surface": "5 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-05",
+      "value_end": "2023-03-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "5 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01171",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

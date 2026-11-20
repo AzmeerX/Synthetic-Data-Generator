@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01122_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "44b27e843f33fcc21ff969812636ba91f37ae7de0c4139bf1e7843d2ca725d51"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_215",
+      "name": "Marrow Bay Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_215",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Marrow Bay Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_219",
+      "name": "Marrow Bay Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_219",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Marrow Bay Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_20",
+      "name": "Bexley International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_20",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2000",
+      "name": "North Underhill Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2000",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Underhill Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2002",
+      "name": "North Underhill Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2002",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_50",
+      "name": "Alden & Underwood LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_50",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Underwood LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_182",
+      "name": "Loan Note LEG-182",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_182",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-182",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-182",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1126",
+      "name": "Wren Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1126",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_608",
+      "name": "Lena Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_608",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_609",
+      "name": "Lena Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_609",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_616",
+      "name": "Lena Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_616",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_27",
+      "name": "Oakhurst",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_27",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030799",
+      "subject": "company_2000",
+      "rel": "owns",
+      "object": "asset_215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Underhill Energy Limited owns Marrow Bay Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030808",
+      "subject": "company_2000",
+      "rel": "owns",
+      "object": "asset_219",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Underhill Energy Limited owns Marrow Bay Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030809",
+      "subject": "asset_219",
+      "rel": "located_in",
+      "object": "place_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Warehouse is located in Oakhurst.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030805",
+      "subject": "lawfirm_50",
+      "rel": "represents",
+      "object": "company_2000",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Underwood LLP represents North Underhill Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030800",
+      "subject": "person_616",
+      "rel": "shareholder_of",
+      "object": "company_2000",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Kingsley is a shareholder of North Underhill Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030812",
+      "subject": "person_608",
+      "rel": "family_of",
+      "object": "person_609",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Cavendish is a family member of Lena Delacourt.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030802",
+      "subject": "bank_20",
+      "rel": "lent_to",
+      "object": "company_2000",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-17",
+          "value_end": "2026-06-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley International Bank Limited lent North Underhill Energy Limited GBP 50 million on 17 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030804",
+      "subject": "company_2002",
+      "rel": "guarantor_for",
+      "object": "company_2000",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Ventures Limited guaranteed the loan to North Underhill Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030803",
+      "subject": "company_2000",
+      "rel": "owes",
+      "object": "bank_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-22",
+          "value_end": "2026-06-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Underhill Energy Limited owes Bexley International Bank Limited GBP 13 million as at 22 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030810",
+      "subject": "company_2000",
+      "rel": "party_to",
+      "object": "legal_182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Underhill Energy Limited is a party to the Loan Note LEG-182.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030811",
+      "subject": "person_609",
+      "rel": "signed",
+      "object": "legal_182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Delacourt signed the Loan Note LEG-182.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01122_allegation",
+      "text": "A former employee alleged that North Underhill Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Garrow noted that a former employee alleged that North Underhill Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01122",
+      "surface": "16 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-16",
+      "value_end": "2025-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030802",
+      "surface": "17 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-17",
+      "value_end": "2026-06-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "17 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030803",
+      "surface": "22 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-22",
+      "value_end": "2026-06-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "22 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01122",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

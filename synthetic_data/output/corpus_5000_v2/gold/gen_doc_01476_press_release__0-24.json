@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01476_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "0f3475957f5342a6a55b785ec8133bc6b1ba4d399e6a2f2ddd853638677d4e62"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_39",
+      "name": "Calderport Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_39",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calderport Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_43",
+      "name": "Dunhollow Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_43",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_24",
+      "name": "Carrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_24",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_232",
+      "name": "Redmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_232",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_234",
+      "name": "Redmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_234",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_26",
+      "name": "Trust Deed LEG-026",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_26",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Trust Deed LEG-026",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-026",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_232",
+      "name": "Daria Tremayne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_232",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_233",
+      "name": "Daria Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_233",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_240",
+      "name": "Elias Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_240",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_88",
+      "name": "Amina Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_88",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_39",
+      "name": "Cresswell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_39",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Cresswell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003230",
+      "subject": "company_232",
+      "rel": "owns",
+      "object": "asset_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Redmoor Logistics Limited owns Calderport Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003231",
+      "subject": "person_240",
+      "rel": "shareholder_of",
+      "object": "company_232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Briar is a shareholder of Redmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003243",
+      "subject": "person_232",
+      "rel": "family_of",
+      "object": "person_233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Tremayne is a family member of Daria Underwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003233",
+      "subject": "bank_24",
+      "rel": "lent_to",
+      "object": "company_232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-05-30",
+          "value_end": "2024-05-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Commercial Bank Limited lent Redmoor Logistics Limited GBP 34 million on 30 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003235",
+      "subject": "company_234",
+      "rel": "guarantor_for",
+      "object": "company_232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Partners Limited guaranteed the loan to Redmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003234",
+      "subject": "company_232",
+      "rel": "owes",
+      "object": "bank_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-04",
+          "value_end": "2024-06-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Redmoor Logistics Limited owes Carrow Commercial Bank Limited GBP 5 million as at 4 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003239",
+      "subject": "company_232",
+      "rel": "owns",
+      "object": "asset_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Redmoor Logistics Limited owns Dunhollow Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003240",
+      "subject": "asset_43",
+      "rel": "located_in",
+      "object": "place_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Cold Store is located in Cresswell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003241",
+      "subject": "company_232",
+      "rel": "party_to",
+      "object": "legal_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Redmoor Logistics Limited is a party to the Trust Deed LEG-026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003242",
+      "subject": "person_233",
+      "rel": "signed",
+      "object": "legal_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Underwood signed the Trust Deed LEG-026.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01476_allegation",
+      "text": "A former employee alleged that Redmoor Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Yardley noted that a former employee alleged that Redmoor Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01476",
+      "surface": "2 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-02",
+      "value_end": "2026-02-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003233",
+      "surface": "30 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-30",
+      "value_end": "2024-05-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "30 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003234",
+      "surface": "4 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-04",
+      "value_end": "2024-06-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "4 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01476",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00338_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "5320d27c3dfd8c12adb597536755f0fbf930741f6557d213441db63042bc29ac"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_110",
+      "name": "Greyhaven Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_110",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_107",
+      "name": "Quill Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_107",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quill Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1295",
+      "name": "Jura Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1295",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Jura Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1296",
+      "name": "Kintyre Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1296",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kintyre Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1297",
+      "name": "Kintyre Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1297",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kintyre Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_125",
+      "name": "Cairn & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_125",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_83",
+      "name": "Guarantee Deed LEG-083",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_83",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-083",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-083",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1295",
+      "name": "Zane Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1295",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1296",
+      "name": "Zane Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1296",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1303",
+      "name": "Zane Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1303",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_342",
+      "name": "Gideon Garrow",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_342",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_42",
+      "name": "Fallow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_42",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fallow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019805",
+      "subject": "company_1295",
+      "rel": "owns",
+      "object": "company_1296",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jura Systems Limited owns Kintyre Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019814",
+      "subject": "company_1295",
+      "rel": "owns",
+      "object": "asset_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jura Systems Limited owns Greyhaven Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019815",
+      "subject": "asset_110",
+      "rel": "located_in",
+      "object": "place_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Yard is located in Fallow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019811",
+      "subject": "lawfirm_125",
+      "rel": "represents",
+      "object": "company_1295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ward LLP represents Jura Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019806",
+      "subject": "person_1303",
+      "rel": "shareholder_of",
+      "object": "company_1295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Kingsley is a shareholder of Jura Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019818",
+      "subject": "person_1295",
+      "rel": "family_of",
+      "object": "person_1296",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Cavendish is a family member of Zane Delacourt.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019808",
+      "subject": "bank_107",
+      "rel": "lent_to",
+      "object": "company_1295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-11-05",
+          "value_end": "2023-11-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Trust Bank Limited lent Jura Systems Limited GBP 40 million on 5 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019810",
+      "subject": "company_1297",
+      "rel": "guarantor_for",
+      "object": "company_1295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kintyre Industries Limited guaranteed the loan to Jura Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019809",
+      "subject": "company_1295",
+      "rel": "owes",
+      "object": "bank_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-11-10",
+          "value_end": "2023-11-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jura Systems Limited owes Quill Trust Bank Limited GBP 8 million as at 10 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019816",
+      "subject": "company_1295",
+      "rel": "party_to",
+      "object": "legal_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Jura Systems Limited is a party to the Guarantee Deed LEG-083.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019817",
+      "subject": "person_1296",
+      "rel": "signed",
+      "object": "legal_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Delacourt signed the Guarantee Deed LEG-083.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00338_allegation",
+      "text": "A former employee alleged that Jura Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Garrow noted that a former employee alleged that Jura Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00338",
+      "surface": "12 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-12",
+      "value_end": "2027-04-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019808",
+      "surface": "5 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-05",
+      "value_end": "2023-11-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "5 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019809",
+      "surface": "10 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-10",
+      "value_end": "2023-11-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "10 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00338",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

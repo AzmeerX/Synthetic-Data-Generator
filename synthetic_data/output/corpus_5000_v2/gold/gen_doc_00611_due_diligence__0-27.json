@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00611_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "1b434d860d2d8e8df391b4100cdf3fdc0cf79495fed7353d5749a4f15191285e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_351",
+      "name": "Elmford Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_351",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elmford Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_355",
+      "name": "Fairmouth Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_355",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fairmouth Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_88",
+      "name": "Nether Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_88",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1540",
+      "name": "North Glenmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1540",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Glenmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1542",
+      "name": "North Glenmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1542",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_110",
+      "name": "Cairn & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_110",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_328",
+      "name": "Lease LEG-328",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_328",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-328",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-328",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_148",
+      "name": "Calder Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_148",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_149",
+      "name": "Calder Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_149",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_156",
+      "name": "Calder Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_156",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_615",
+      "name": "Lena Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_615",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_107",
+      "name": "Elmsworth Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_107",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmsworth Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023625",
+      "subject": "company_1540",
+      "rel": "owns",
+      "object": "asset_351",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Glenmoor Trading Limited owns Elmford Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023634",
+      "subject": "company_1540",
+      "rel": "owns",
+      "object": "asset_355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Trading Limited owns Fairmouth Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023635",
+      "subject": "asset_355",
+      "rel": "located_in",
+      "object": "place_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Cold Store is located in Elmsworth Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023631",
+      "subject": "lawfirm_110",
+      "rel": "represents",
+      "object": "company_1540",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Garrow LLP represents North Glenmoor Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023626",
+      "subject": "person_156",
+      "rel": "shareholder_of",
+      "object": "company_1540",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Quade is a shareholder of North Glenmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023638",
+      "subject": "person_148",
+      "rel": "family_of",
+      "object": "person_149",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ivers is a family member of Calder Jarvis.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023628",
+      "subject": "bank_88",
+      "rel": "lent_to",
+      "object": "company_1540",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-27",
+          "value_end": "2026-07-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Merchant Bank Limited lent North Glenmoor Trading Limited GBP 50 million on 27 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023630",
+      "subject": "company_1542",
+      "rel": "guarantor_for",
+      "object": "company_1540",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Capital Limited guaranteed the loan to North Glenmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023629",
+      "subject": "company_1540",
+      "rel": "owes",
+      "object": "bank_88",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-01",
+          "value_end": "2026-08-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Glenmoor Trading Limited owes Nether Merchant Bank Limited GBP 13 million as at 1 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023636",
+      "subject": "company_1540",
+      "rel": "party_to",
+      "object": "legal_328",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Glenmoor Trading Limited is a party to the Lease LEG-328.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023637",
+      "subject": "person_149",
+      "rel": "signed",
+      "object": "legal_328",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Jarvis signed the Lease LEG-328.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00611_allegation",
+      "text": "A former employee alleged that North Glenmoor Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Jeffreys noted that a former employee alleged that North Glenmoor Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00611",
+      "surface": "9 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-09",
+      "value_end": "2025-12-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023628",
+      "surface": "27 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-27",
+      "value_end": "2026-07-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023629",
+      "surface": "1 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-01",
+      "value_end": "2026-08-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00611",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

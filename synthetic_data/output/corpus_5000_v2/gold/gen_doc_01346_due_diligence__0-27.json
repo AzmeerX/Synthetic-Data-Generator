@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01346_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4b24a953751d5d3459dbc548cd17400a0ccc7492aa41e6b6b5c3f0bc8e66a8c2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_421",
+      "name": "Invermere Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_421",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_90",
+      "name": "Nether Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_90",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nether Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2202",
+      "name": "North Norbury Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2202",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2203",
+      "name": "North Norbury Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2203",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Norbury Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2204",
+      "name": "North Norbury Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2204",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Norbury Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_122",
+      "name": "Cairn & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_122",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_384",
+      "name": "Side Letter LEG-384",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_384",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-384",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-384",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1350",
+      "name": "Anika Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1350",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_810",
+      "name": "Petra Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_810",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_811",
+      "name": "Petra Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_811",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_818",
+      "name": "Petra Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_818",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_49",
+      "name": "Mossgrove",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_49",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Mossgrove",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033949",
+      "subject": "company_2202",
+      "rel": "owns",
+      "object": "company_2203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Norbury Capital Limited owns North Norbury Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033958",
+      "subject": "company_2202",
+      "rel": "owns",
+      "object": "asset_421",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Norbury Capital Limited owns Invermere Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033959",
+      "subject": "asset_421",
+      "rel": "located_in",
+      "object": "place_49",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Quay is located in Mossgrove.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033955",
+      "subject": "lawfirm_122",
+      "rel": "represents",
+      "object": "company_2202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Thorne LLP represents North Norbury Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033950",
+      "subject": "person_818",
+      "rel": "shareholder_of",
+      "object": "company_2202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Underwood is a shareholder of North Norbury Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033962",
+      "subject": "person_810",
+      "rel": "family_of",
+      "object": "person_811",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Langford is a family member of Petra Montague.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033952",
+      "subject": "bank_90",
+      "rel": "lent_to",
+      "object": "company_2202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-27",
+          "value_end": "2023-03-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Commercial Bank Limited lent North Norbury Capital Limited GBP 14 million on 27 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033954",
+      "subject": "company_2204",
+      "rel": "guarantor_for",
+      "object": "company_2202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Norbury Energy Limited guaranteed the loan to North Norbury Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033953",
+      "subject": "company_2202",
+      "rel": "owes",
+      "object": "bank_90",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-01",
+          "value_end": "2023-04-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Norbury Capital Limited owes Nether Commercial Bank Limited GBP 5 million as at 1 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033960",
+      "subject": "company_2202",
+      "rel": "party_to",
+      "object": "legal_384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Norbury Capital Limited is a party to the Side Letter LEG-384.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033961",
+      "subject": "person_811",
+      "rel": "signed",
+      "object": "legal_384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Montague signed the Side Letter LEG-384.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01346_allegation",
+      "text": "A former employee alleged that North Norbury Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Ingram noted that a former employee alleged that North Norbury Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01346",
+      "surface": "19 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-19",
+      "value_end": "2026-11-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033952",
+      "surface": "27 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-27",
+      "value_end": "2023-03-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033953",
+      "surface": "1 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-01",
+      "value_end": "2023-04-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01346",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

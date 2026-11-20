@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00702_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "ef32b6fce909822a3f46840f072fa537e27fd32a15ad7ad9c12336fa2d306543"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_437",
+      "name": "Jarrow Cross Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_437",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Cross Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Cross Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_38",
+      "name": "Elm International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_38",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1622",
+      "name": "North Netherby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1622",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Netherby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1623",
+      "name": "North Netherby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1623",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Netherby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1624",
+      "name": "North Netherby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1624",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Netherby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_62",
+      "name": "Briar & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_62",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_410",
+      "name": "Settlement Agreement LEG-410",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_410",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-410",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-410",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_230",
+      "name": "Daria Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_230",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_231",
+      "name": "Daria Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_231",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_238",
+      "name": "Daria Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_238",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_706",
+      "name": "Nadia Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_706",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_09",
+      "name": "Kestrelford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_09",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024906",
+      "subject": "company_1622",
+      "rel": "owns",
+      "object": "company_1623",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Netherby Group Limited owns North Netherby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024915",
+      "subject": "company_1622",
+      "rel": "owns",
+      "object": "asset_437",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Netherby Group Limited owns Jarrow Cross Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024916",
+      "subject": "asset_437",
+      "rel": "located_in",
+      "object": "place_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Cross Warehouse is located in Kestrelford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024912",
+      "subject": "lawfirm_62",
+      "rel": "represents",
+      "object": "company_1622",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Hale LLP represents North Netherby Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024907",
+      "subject": "person_238",
+      "rel": "shareholder_of",
+      "object": "company_1622",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Zouch is a shareholder of North Netherby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024919",
+      "subject": "person_230",
+      "rel": "family_of",
+      "object": "person_231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Ravenscroft is a family member of Daria Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024909",
+      "subject": "bank_38",
+      "rel": "lent_to",
+      "object": "company_1622",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-05-20",
+          "value_end": "2024-05-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited lent North Netherby Group Limited GBP 14 million on 20 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024911",
+      "subject": "company_1624",
+      "rel": "guarantor_for",
+      "object": "company_1622",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Netherby Trading Limited guaranteed the loan to North Netherby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024910",
+      "subject": "company_1622",
+      "rel": "owes",
+      "object": "bank_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-05-25",
+          "value_end": "2024-05-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Netherby Group Limited owes Elm International Bank Limited GBP 5 million as at 25 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024917",
+      "subject": "company_1622",
+      "rel": "party_to",
+      "object": "legal_410",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Netherby Group Limited is a party to the Settlement Agreement LEG-410.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024918",
+      "subject": "person_231",
+      "rel": "signed",
+      "object": "legal_410",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Sinclair signed the Settlement Agreement LEG-410.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00702_allegation",
+      "text": "A former employee alleged that North Netherby Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Everard noted that a former employee alleged that North Netherby Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00702",
+      "surface": "25 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-25",
+      "value_end": "2024-05-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "25 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024909",
+      "surface": "20 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-20",
+      "value_end": "2024-05-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024910",
+      "surface": "25 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-25",
+      "value_end": "2024-05-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00702",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

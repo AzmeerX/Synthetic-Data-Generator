@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00380_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c231173e3def8a4ae7e013b4d31802cabd41bb643fc386d6087fe5ae9c6beda4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_143",
+      "name": "Ironside Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_143",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ironside Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_147",
+      "name": "Ironside Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_147",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_12",
+      "name": "Alder Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_12",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1332",
+      "name": "Nairn Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1332",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Nairn Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1334",
+      "name": "Nairn Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1334",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Nairn Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_32",
+      "name": "Alden & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_32",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_120",
+      "name": "Lease LEG-120",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_120",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-120",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-120",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1332",
+      "name": "Anika Pell",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1332",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1333",
+      "name": "Anika Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1333",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1340",
+      "name": "Anika Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1340",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_384",
+      "name": "Gideon Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_384",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_79",
+      "name": "Ashcombe Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_79",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020383",
+      "subject": "company_1332",
+      "rel": "owns",
+      "object": "asset_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nairn Holdings Limited owns Ironside Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020392",
+      "subject": "company_1332",
+      "rel": "owns",
+      "object": "asset_147",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Nairn Holdings Limited owns Ironside Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020393",
+      "subject": "asset_147",
+      "rel": "located_in",
+      "object": "place_79",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Works is located in Ashcombe Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020389",
+      "subject": "lawfirm_32",
+      "rel": "represents",
+      "object": "company_1332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Balfour LLP represents Nairn Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020384",
+      "subject": "person_1340",
+      "rel": "shareholder_of",
+      "object": "company_1332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Yarrow is a shareholder of Nairn Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020396",
+      "subject": "person_1332",
+      "rel": "family_of",
+      "object": "person_1333",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Pell is a family member of Anika Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020386",
+      "subject": "bank_12",
+      "rel": "lent_to",
+      "object": "company_1332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-12-16",
+          "value_end": "2024-12-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Commercial Bank Limited lent Nairn Holdings Limited GBP 34 million on 16 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020388",
+      "subject": "company_1334",
+      "rel": "guarantor_for",
+      "object": "company_1332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Nairn Group Limited guaranteed the loan to Nairn Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020387",
+      "subject": "company_1332",
+      "rel": "owes",
+      "object": "bank_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-12-21",
+          "value_end": "2024-12-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Nairn Holdings Limited owes Alder Commercial Bank Limited GBP 5 million as at 21 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020394",
+      "subject": "company_1332",
+      "rel": "party_to",
+      "object": "legal_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Nairn Holdings Limited is a party to the Lease LEG-120.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020395",
+      "subject": "person_1333",
+      "rel": "signed",
+      "object": "legal_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Quade signed the Lease LEG-120.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00380_allegation",
+      "text": "A former employee alleged that Nairn Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Zouch noted that a former employee alleged that Nairn Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00380",
+      "surface": "18 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-18",
+      "value_end": "2024-10-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020386",
+      "surface": "16 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-16",
+      "value_end": "2024-12-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020387",
+      "surface": "21 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-21",
+      "value_end": "2024-12-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00380",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

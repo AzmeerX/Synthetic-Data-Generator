@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01361_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "2eb7c6233db7f2cc2c5800144e3114bed215628ff708e1ed91c352c895e236d4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_431",
+      "name": "Invermere Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_431",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_435",
+      "name": "Jarrow Cross Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_435",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Cross Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_104",
+      "name": "Pember International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_104",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pember International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2216",
+      "name": "North Osterley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2216",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2218",
+      "name": "North Osterley Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2218",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Osterley Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2220",
+      "name": "North Pinewood Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2220",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_06",
+      "name": "Yarrow & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_06",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarrow & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_31",
+      "name": "Alden & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_31",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_398",
+      "name": "Licence LEG-398",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_398",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Licence LEG-398",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-398",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1365",
+      "name": "Anika Yardley",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1365",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Anika Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_824",
+      "name": "Quin Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_824",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_825",
+      "name": "Quin Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_825",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Quin Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_832",
+      "name": "Quin Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_832",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_63",
+      "name": "Clifford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_63",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Clifford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034167",
+      "subject": "company_2216",
+      "rel": "owns",
+      "object": "asset_431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Energy Limited owns Invermere Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034168",
+      "subject": "person_832",
+      "rel": "shareholder_of",
+      "object": "company_2216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Ivers is a shareholder of North Osterley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034180",
+      "subject": "person_824",
+      "rel": "family_of",
+      "object": "person_825",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Alden is a family member of Quin Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034170",
+      "subject": "bank_104",
+      "rel": "lent_to",
+      "object": "company_2216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-28",
+          "value_end": "2023-08-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember International Bank Limited lent North Osterley Energy Limited GBP 42 million on 28 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034172",
+      "subject": "company_2218",
+      "rel": "guarantor_for",
+      "object": "company_2216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Osterley Ventures Limited guaranteed the loan to North Osterley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034171",
+      "subject": "company_2216",
+      "rel": "owes",
+      "object": "bank_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-09-02",
+          "value_end": "2023-09-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Osterley Energy Limited owes Pember International Bank Limited GBP 9 million as at 2 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034173",
+      "subject": "lawfirm_06",
+      "rel": "represents",
+      "object": "company_2216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarrow & Zell LLP represents North Osterley Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034176",
+      "subject": "company_2216",
+      "rel": "owns",
+      "object": "asset_435",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Osterley Energy Limited owns Jarrow Cross Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034177",
+      "subject": "asset_435",
+      "rel": "located_in",
+      "object": "place_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Cold Store is located in Clifford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034178",
+      "subject": "company_2216",
+      "rel": "party_to",
+      "object": "legal_398",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Osterley Energy Limited is a party to the Licence LEG-398.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034179",
+      "subject": "person_825",
+      "rel": "signed",
+      "object": "legal_398",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Quin Briar signed the Licence LEG-398.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01361_proposal",
+      "text": "The acquisition of North Pinewood Holdings Limited by North Osterley Energy Limited",
+      "speaker": "person_1365",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Yardley, chair of North Osterley Energy Limited, proposed to acquire North Pinewood Holdings Limited on 4 March 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01361_approval",
+      "text": "Regulatory approval for the acquisition of North Pinewood Holdings Limited",
+      "speaker": "person_1365",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Anika Yardley confirmed that regulatory approval for the acquisition of North Pinewood Holdings Limited by North Osterley Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01361_link_conditional",
+      "src": "gen_doc_01361_proposal",
+      "dst": "gen_doc_01361_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Pinewood Holdings Limited by North Osterley Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01361",
+      "surface": "4 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-04",
+      "value_end": "2027-03-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034170",
+      "surface": "28 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-28",
+      "value_end": "2023-08-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "28 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034171",
+      "surface": "2 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-02",
+      "value_end": "2023-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01361",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

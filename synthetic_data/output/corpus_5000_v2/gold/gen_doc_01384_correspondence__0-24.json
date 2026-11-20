@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01384_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "e1889f1041a425313f9eac0ed3b1ae0c8d9025bdbc42177c36eed6d0d1e04182"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_456",
+      "name": "Kelbrook Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_456",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_125",
+      "name": "Tarrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_125",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tarrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2237",
+      "name": "North Quenington Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2237",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Quenington Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2238",
+      "name": "North Quenington Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2238",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2239",
+      "name": "North Quenington Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2239",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Quenington Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_224",
+      "name": "Quintrell Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_224",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Quintrell Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2241",
+      "name": "North Quenington Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2241",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Quenington Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Quenington Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_54",
+      "name": "Alden & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_54",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Yardley LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_419",
+      "name": "Guarantee Deed LEG-419",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_419",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Guarantee Deed LEG-419",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Guarantee Deed LEG-419",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1388",
+      "name": "Bram Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1388",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bram Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Bram Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_845",
+      "name": "Quin Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_845",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_846",
+      "name": "Quin Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_846",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_853",
+      "name": "Quin Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_853",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_84",
+      "name": "Belmont Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_84",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Belmont Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034494",
+      "subject": "company_2237",
+      "rel": "owns",
+      "object": "company_2238",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Partners Limited owns North Quenington Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034495",
+      "subject": "person_853",
+      "rel": "shareholder_of",
+      "object": "company_2237",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Fairfax is a shareholder of North Quenington Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034507",
+      "subject": "person_845",
+      "rel": "family_of",
+      "object": "person_846",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Ward is a family member of Quin Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034497",
+      "subject": "bank_125",
+      "rel": "lent_to",
+      "object": "company_2237",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-15",
+          "value_end": "2024-04-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tarrow Trust Bank Limited lent North Quenington Partners Limited GBP 44 million on 15 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034499",
+      "subject": "company_2239",
+      "rel": "guarantor_for",
+      "object": "company_2237",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Quenington Marine Limited guaranteed the loan to North Quenington Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034498",
+      "subject": "company_2237",
+      "rel": "owes",
+      "object": "bank_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-20",
+          "value_end": "2024-04-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Quenington Partners Limited owes Tarrow Trust Bank Limited GBP 10 million as at 20 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034503",
+      "subject": "company_2237",
+      "rel": "owns",
+      "object": "asset_456",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quenington Partners Limited owns Kelbrook Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034504",
+      "subject": "asset_456",
+      "rel": "located_in",
+      "object": "place_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Fleet is located in Belmont Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034505",
+      "subject": "company_2237",
+      "rel": "party_to",
+      "object": "legal_419",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Partners Limited is a party to the Guarantee Deed LEG-419.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034506",
+      "subject": "person_846",
+      "rel": "signed",
+      "object": "legal_419",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Yarrow signed the Guarantee Deed LEG-419.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01384_proposal",
+      "text": "The acquisition of North Quenington Property Limited by North Quenington Partners Limited",
+      "speaker": "person_1388",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bram Yarrow, chair of North Quenington Partners Limited, proposed to acquire North Quenington Property Limited on 29 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01384_approval",
+      "text": "Regulatory approval for the acquisition of North Quenington Property Limited",
+      "speaker": "person_1388",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bram Yarrow confirmed that regulatory approval for the acquisition of North Quenington Property Limited by North Quenington Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01384_link_conditional",
+      "src": "gen_doc_01384_proposal",
+      "dst": "gen_doc_01384_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Quenington Property Limited by North Quenington Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01380_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01384",
+      "surface": "29 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-29",
+      "value_end": "2024-04-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034497",
+      "surface": "15 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-15",
+      "value_end": "2024-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "15 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034498",
+      "surface": "20 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-20",
+      "value_end": "2024-04-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "20 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

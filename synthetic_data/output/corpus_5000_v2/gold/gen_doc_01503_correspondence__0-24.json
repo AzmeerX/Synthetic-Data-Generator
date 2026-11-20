@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01503_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "060e3385d7b87903daf445096ad1f6c3f19f2a34f89553d2a3f08e3cd2af7131"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_559",
+      "name": "Pemberton Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_559",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_563",
+      "name": "Pemberton Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_563",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_100",
+      "name": "Pember Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_100",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2344",
+      "name": "North Bramley Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2344",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Bramley Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2346",
+      "name": "North Bramley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2346",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Bramley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2347",
+      "name": "North Bramley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2347",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Bramley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2349",
+      "name": "North Bramley Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2349",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Bramley Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Bramley Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_43",
+      "name": "Alden & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_43",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_526",
+      "name": "Licence LEG-526",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_526",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-526",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-526",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_115",
+      "name": "Bastian Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_115",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_952",
+      "name": "Silas Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_952",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Silas Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_953",
+      "name": "Silas Hastings",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_953",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Silas Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Silas Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_960",
+      "name": "Silas Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_960",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_11",
+      "name": "Marrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_11",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Marrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036162",
+      "subject": "company_2344",
+      "rel": "owns",
+      "object": "asset_559",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Bramley Trading Limited owns Pemberton Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036163",
+      "subject": "person_960",
+      "rel": "shareholder_of",
+      "object": "company_2344",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Osborne is a shareholder of North Bramley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036175",
+      "subject": "person_952",
+      "rel": "family_of",
+      "object": "person_953",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Silas Grenville is a family member of Silas Hastings.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036165",
+      "subject": "bank_100",
+      "rel": "lent_to",
+      "object": "company_2344",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-09",
+          "value_end": "2022-11-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Pember Merchant Bank Limited lent North Bramley Trading Limited GBP 18 million on 9 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036167",
+      "subject": "company_2346",
+      "rel": "guarantor_for",
+      "object": "company_2344",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Bramley Capital Limited guaranteed the loan to North Bramley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036166",
+      "subject": "company_2344",
+      "rel": "owes",
+      "object": "bank_100",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-14",
+          "value_end": "2022-11-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Bramley Trading Limited owes Pember Merchant Bank Limited GBP 7 million as at 14 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036171",
+      "subject": "company_2344",
+      "rel": "owns",
+      "object": "asset_563",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Bramley Trading Limited owns Pemberton Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036172",
+      "subject": "asset_563",
+      "rel": "located_in",
+      "object": "place_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Works is located in Marrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036173",
+      "subject": "company_2344",
+      "rel": "party_to",
+      "object": "legal_526",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bramley Trading Limited is a party to the Licence LEG-526.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036174",
+      "subject": "person_953",
+      "rel": "signed",
+      "object": "legal_526",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Silas Hastings signed the Licence LEG-526.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01503_proposal",
+      "text": "The acquisition of North Bramley Property Limited by North Bramley Trading Limited",
+      "speaker": "person_115",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Ashby, chair of North Bramley Trading Limited, proposed to acquire North Bramley Property Limited on 10 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01503_approval",
+      "text": "Regulatory approval for the acquisition of North Bramley Property Limited",
+      "speaker": "person_115",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Ashby confirmed that regulatory approval for the acquisition of North Bramley Property Limited by North Bramley Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01503_link_conditional",
+      "src": "gen_doc_01503_proposal",
+      "dst": "gen_doc_01503_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Bramley Property Limited by North Bramley Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01499_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01503",
+      "surface": "10 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-10",
+      "value_end": "2026-08-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036165",
+      "surface": "9 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-09",
+      "value_end": "2022-11-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "9 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036166",
+      "surface": "14 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-14",
+      "value_end": "2022-11-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

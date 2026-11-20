@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00142_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "ad34f3f37637a0a9fb9d8dcdb58f076de3a63d9667fed5edf91deb105c73fb0c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_529",
+      "name": "Netherby Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_529",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_62",
+      "name": "Inver International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_62",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Inver International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1118",
+      "name": "Tavistock Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1118",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Tavistock Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1119",
+      "name": "Tavistock Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1119",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tavistock Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1120",
+      "name": "Tavistock Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1120",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_78",
+      "name": "Briar & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_78",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_512",
+      "name": "Side Letter LEG-512",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_512",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-512",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-512",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1118",
+      "name": "Vera Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1118",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1119",
+      "name": "Vera Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1119",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1126",
+      "name": "Wren Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1126",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_146",
+      "name": "Calder Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_146",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_45",
+      "name": "Ivybridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_45",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivybridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017047",
+      "subject": "company_1118",
+      "rel": "owns",
+      "object": "company_1119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tavistock Group Limited owns Tavistock Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017056",
+      "subject": "company_1118",
+      "rel": "owns",
+      "object": "asset_529",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Group Limited owns Netherby Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017057",
+      "subject": "asset_529",
+      "rel": "located_in",
+      "object": "place_45",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Estate is located in Ivybridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017053",
+      "subject": "lawfirm_78",
+      "rel": "represents",
+      "object": "company_1118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Yarrow LLP represents Tavistock Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017048",
+      "subject": "person_1126",
+      "rel": "shareholder_of",
+      "object": "company_1118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Garrow is a shareholder of Tavistock Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017060",
+      "subject": "person_1118",
+      "rel": "family_of",
+      "object": "person_1119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Yardley is a family member of Vera Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017050",
+      "subject": "bank_62",
+      "rel": "lent_to",
+      "object": "company_1118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-03",
+          "value_end": "2023-03-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver International Bank Limited lent Tavistock Group Limited GBP 46 million on 3 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017052",
+      "subject": "company_1120",
+      "rel": "guarantor_for",
+      "object": "company_1118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Trading Limited guaranteed the loan to Tavistock Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017051",
+      "subject": "company_1118",
+      "rel": "owes",
+      "object": "bank_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-08",
+          "value_end": "2023-03-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Tavistock Group Limited owes Inver International Bank Limited GBP 11 million as at 8 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017058",
+      "subject": "company_1118",
+      "rel": "party_to",
+      "object": "legal_512",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Tavistock Group Limited is a party to the Side Letter LEG-512.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017059",
+      "subject": "person_1119",
+      "rel": "signed",
+      "object": "legal_512",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Zouch signed the Side Letter LEG-512.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00142_allegation",
+      "text": "A former employee alleged that Tavistock Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Garrow noted that a former employee alleged that Tavistock Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00142",
+      "surface": "22 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-22",
+      "value_end": "2026-10-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017050",
+      "surface": "3 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-03",
+      "value_end": "2023-03-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "3 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017051",
+      "surface": "8 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-08",
+      "value_end": "2023-03-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "8 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00142",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

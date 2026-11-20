@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00310_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4eac146d398cc7ac3c70f67d8fa7aad471b7064f38eb5025cab67db517e9da53"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_184",
+      "name": "Kestrelford Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_184",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_373",
+      "name": "Fallow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_373",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Fallow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_374",
+      "name": "Fallow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_374",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_375",
+      "name": "Fallow Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_375",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_23",
+      "name": "Alden & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_23",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_167",
+      "name": "Services Agreement LEG-167",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_167",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-167",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-167",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_314",
+      "name": "Farah Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_314",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_373",
+      "name": "Gideon Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_373",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_374",
+      "name": "Gideon Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_374",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_381",
+      "name": "Gideon Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_381",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_80",
+      "name": "Ashcombe Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_80",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005428",
+      "subject": "company_373",
+      "rel": "owns",
+      "object": "company_374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fallow Holdings Limited owns Fallow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005437",
+      "subject": "company_373",
+      "rel": "owns",
+      "object": "asset_184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Holdings Limited owns Kestrelford Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005438",
+      "subject": "asset_184",
+      "rel": "located_in",
+      "object": "place_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Quay is located in Ashcombe Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005434",
+      "subject": "lawfirm_23",
+      "rel": "represents",
+      "object": "company_373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP represents Fallow Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005429",
+      "subject": "person_381",
+      "rel": "shareholder_of",
+      "object": "company_373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Whitlock is a shareholder of Fallow Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005441",
+      "subject": "person_373",
+      "rel": "family_of",
+      "object": "person_374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Neville is a family member of Gideon Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005431",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-02",
+          "value_end": "2024-01-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited lent Fallow Holdings Limited GBP 36 million on 2 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005433",
+      "subject": "company_375",
+      "rel": "guarantor_for",
+      "object": "company_373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Group Limited guaranteed the loan to Fallow Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005432",
+      "subject": "company_373",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-07",
+          "value_end": "2024-01-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fallow Holdings Limited owes Alder Bank Limited GBP 6 million as at 7 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005439",
+      "subject": "company_373",
+      "rel": "party_to",
+      "object": "legal_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Fallow Holdings Limited is a party to the Services Agreement LEG-167.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005440",
+      "subject": "person_374",
+      "rel": "signed",
+      "object": "legal_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Osborne signed the Services Agreement LEG-167.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00310_allegation",
+      "text": "A former employee alleged that Fallow Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Delacourt noted that a former employee alleged that Fallow Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00310",
+      "surface": "28 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-28",
+      "value_end": "2026-09-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005431",
+      "surface": "2 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-02",
+      "value_end": "2024-01-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005432",
+      "surface": "7 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-07",
+      "value_end": "2024-01-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00310",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

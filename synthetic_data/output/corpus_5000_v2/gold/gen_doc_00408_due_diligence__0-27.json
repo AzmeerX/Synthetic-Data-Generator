@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00408_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "3715a2f170e461ecdacdd71d9e7aadabdc03718dd05ffa2bfa31736bd1369f6f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_173",
+      "name": "Juniper Cross Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_173",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_38",
+      "name": "Elm International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_38",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1358",
+      "name": "Pembroke Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1358",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Pembroke Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1359",
+      "name": "Pembroke Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1359",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pembroke Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1360",
+      "name": "Pembroke Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1360",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_58",
+      "name": "Briar & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_58",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_146",
+      "name": "Facility Agreement LEG-146",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_146",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-146",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-146",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1358",
+      "name": "Anika Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1358",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1359",
+      "name": "Anika Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1359",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1366",
+      "name": "Anika Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1366",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_412",
+      "name": "Hana Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_412",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Hana Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_105",
+      "name": "Elmsworth Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_105",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmsworth Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020789",
+      "subject": "company_1358",
+      "rel": "owns",
+      "object": "company_1359",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pembroke Group Limited owns Pembroke Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020798",
+      "subject": "company_1358",
+      "rel": "owns",
+      "object": "asset_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pembroke Group Limited owns Juniper Cross Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020799",
+      "subject": "asset_173",
+      "rel": "located_in",
+      "object": "place_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Estate is located in Elmsworth Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020795",
+      "subject": "lawfirm_58",
+      "rel": "represents",
+      "object": "company_1358",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Dunmore LLP represents Pembroke Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020790",
+      "subject": "person_1366",
+      "rel": "shareholder_of",
+      "object": "company_1358",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Zouch is a shareholder of Pembroke Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020802",
+      "subject": "person_1358",
+      "rel": "family_of",
+      "object": "person_1359",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Ravenscroft is a family member of Anika Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020792",
+      "subject": "bank_38",
+      "rel": "lent_to",
+      "object": "company_1358",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-09-28",
+          "value_end": "2025-09-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited lent Pembroke Group Limited GBP 46 million on 28 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020794",
+      "subject": "company_1360",
+      "rel": "guarantor_for",
+      "object": "company_1358",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Trading Limited guaranteed the loan to Pembroke Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020793",
+      "subject": "company_1358",
+      "rel": "owes",
+      "object": "bank_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-03",
+          "value_end": "2025-10-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Pembroke Group Limited owes Elm International Bank Limited GBP 11 million as at 3 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020800",
+      "subject": "company_1358",
+      "rel": "party_to",
+      "object": "legal_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Pembroke Group Limited is a party to the Facility Agreement LEG-146.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020801",
+      "subject": "person_1359",
+      "rel": "signed",
+      "object": "legal_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Sinclair signed the Facility Agreement LEG-146.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00408_allegation",
+      "text": "A former employee alleged that Pembroke Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Hana Cavendish noted that a former employee alleged that Pembroke Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00408",
+      "surface": "2 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-02",
+      "value_end": "2025-05-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020792",
+      "surface": "28 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-28",
+      "value_end": "2025-09-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020793",
+      "surface": "3 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-03",
+      "value_end": "2025-10-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "3 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00408",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01218_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "6301a3aaea439d2da4cb835bc6da76250e1b90a9e258b565f122cc4bf2a3abe1"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_303",
+      "name": "Carrow Bay Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_303",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Carrow Bay Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_307",
+      "name": "Carrow Bay Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_307",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Bay Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Carrow Bay Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_108",
+      "name": "Quill Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_108",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2088",
+      "name": "North Elmstead Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2088",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Elmstead Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2090",
+      "name": "North Elmstead Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2090",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2092",
+      "name": "North Elmstead Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2092",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Elmstead Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Elmstead Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_18",
+      "name": "Alden & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_18",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_270",
+      "name": "Licence LEG-270",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_270",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-270",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-270",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1222",
+      "name": "Yara Dunmore",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1222",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yara Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_696",
+      "name": "Nadia Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_696",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nadia Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_697",
+      "name": "Nadia Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_697",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nadia Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_699",
+      "name": "Nadia Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_699",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Nadia Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_701",
+      "name": "Nadia Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_701",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Nadia Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_704",
+      "name": "Nadia Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_704",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_115",
+      "name": "Fairhaven Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_115",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairhaven Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032171",
+      "subject": "company_2088",
+      "rel": "owns",
+      "object": "asset_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Elmstead Holdings Limited owns Carrow Bay Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032173",
+      "subject": "person_699",
+      "rel": "chair_of",
+      "object": "company_2088",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Vale is the chair of North Elmstead Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032172",
+      "subject": "person_704",
+      "rel": "shareholder_of",
+      "object": "company_2088",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Cavendish is a shareholder of North Elmstead Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032184",
+      "subject": "person_696",
+      "rel": "family_of",
+      "object": "person_697",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nadia Sable is a family member of Nadia Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032174",
+      "subject": "bank_108",
+      "rel": "lent_to",
+      "object": "company_2088",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-06-15",
+          "value_end": "2024-06-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Commercial Bank Limited lent North Elmstead Holdings Limited GBP 26 million on 15 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032176",
+      "subject": "company_2090",
+      "rel": "guarantor_for",
+      "object": "company_2088",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Group Limited guaranteed the loan to North Elmstead Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032175",
+      "subject": "company_2088",
+      "rel": "owes",
+      "object": "bank_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-20",
+          "value_end": "2024-06-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmstead Holdings Limited owes Quill Commercial Bank Limited GBP 11 million as at 20 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032177",
+      "subject": "lawfirm_08",
+      "rel": "represents",
+      "object": "company_2088",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Cairn LLP represents North Elmstead Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032180",
+      "subject": "company_2088",
+      "rel": "owns",
+      "object": "asset_307",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Elmstead Holdings Limited owns Carrow Bay Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032181",
+      "subject": "asset_307",
+      "rel": "located_in",
+      "object": "place_115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Carrow Bay Dock is located in Fairhaven Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032182",
+      "subject": "company_2088",
+      "rel": "party_to",
+      "object": "legal_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Elmstead Holdings Limited is a party to the Licence LEG-270.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032183",
+      "subject": "person_697",
+      "rel": "signed",
+      "object": "legal_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Thorne signed the Licence LEG-270.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01218_proposal",
+      "text": "The acquisition of North Elmstead Trading Limited by North Elmstead Holdings Limited",
+      "speaker": "person_1222",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yara Dunmore, chair of North Elmstead Holdings Limited, proposed to acquire North Elmstead Trading Limited on 6 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01218_approval",
+      "text": "Regulatory approval for the acquisition of North Elmstead Trading Limited",
+      "speaker": "person_1222",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Dunmore confirmed that regulatory approval for the acquisition of North Elmstead Trading Limited by North Elmstead Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01218_link_conditional",
+      "src": "gen_doc_01218_proposal",
+      "dst": "gen_doc_01218_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Elmstead Trading Limited by North Elmstead Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01218",
+      "surface": "6 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-06",
+      "value_end": "2024-06-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032174",
+      "surface": "15 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-15",
+      "value_end": "2024-06-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "15 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032175",
+      "surface": "20 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-20",
+      "value_end": "2024-06-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "20 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01218",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

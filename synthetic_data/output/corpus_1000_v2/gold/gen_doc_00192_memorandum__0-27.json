@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00192_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "fca914686f8e2af43a45716cc6f90c74aace1f96b70e9143a4f94cae79a3f0ca"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_77",
+      "name": "Eastmere Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_77",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Eastmere Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_266",
+      "name": "Uldale Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_266",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_267",
+      "name": "Uldale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_267",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_268",
+      "name": "Uldale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_268",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_270",
+      "name": "Uldale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_270",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_43",
+      "name": "Alden & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_43",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_60",
+      "name": "Shareholder Agreement LEG-060",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_60",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Shareholder Agreement LEG-060",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-060",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_196",
+      "name": "Daria Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_196",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_266",
+      "name": "Elias Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_266",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_267",
+      "name": "Elias Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_267",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_274",
+      "name": "Elias Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_274",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_73",
+      "name": "Ashcombe Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_73",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ashcombe Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003761",
+      "subject": "company_266",
+      "rel": "owns",
+      "object": "company_267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Industries Limited owns Uldale Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003762",
+      "subject": "person_274",
+      "rel": "shareholder_of",
+      "object": "company_266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Langford is a shareholder of Uldale Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003774",
+      "subject": "person_266",
+      "rel": "family_of",
+      "object": "person_267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Delacourt is a family member of Elias Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003764",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-06-08",
+          "value_end": "2025-06-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bank Limited lent Uldale Industries Limited GBP 22 million on 8 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003766",
+      "subject": "company_268",
+      "rel": "guarantor_for",
+      "object": "company_266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Logistics Limited guaranteed the loan to Uldale Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003765",
+      "subject": "company_266",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-06-13",
+          "value_end": "2025-06-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Industries Limited owes Fenwick Bank Limited GBP 9 million as at 13 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003767",
+      "subject": "lawfirm_16",
+      "rel": "represents",
+      "object": "company_266",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Kerr LLP represents Uldale Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003770",
+      "subject": "company_266",
+      "rel": "owns",
+      "object": "asset_77",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Industries Limited owns Eastmere Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003771",
+      "subject": "asset_77",
+      "rel": "located_in",
+      "object": "place_73",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Farm is located in Ashcombe Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003772",
+      "subject": "company_266",
+      "rel": "party_to",
+      "object": "legal_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Uldale Industries Limited is a party to the Shareholder Agreement LEG-060.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003773",
+      "subject": "person_267",
+      "rel": "signed",
+      "object": "legal_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Everard signed the Shareholder Agreement LEG-060.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00192_proposal",
+      "text": "The acquisition of Uldale Partners Limited by Uldale Industries Limited",
+      "speaker": "person_196",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Hale, chair of Uldale Industries Limited, proposed to acquire Uldale Partners Limited on 24 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00192_approval",
+      "text": "Regulatory approval for the acquisition of Uldale Partners Limited",
+      "speaker": "person_196",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Hale confirmed that regulatory approval for the acquisition of Uldale Partners Limited by Uldale Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00192_link_conditional",
+      "src": "gen_doc_00192_proposal",
+      "dst": "gen_doc_00192_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Uldale Partners Limited by Uldale Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00192",
+      "surface": "24 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-24",
+      "value_end": "2024-06-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003764",
+      "surface": "8 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-08",
+      "value_end": "2025-06-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "8 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003765",
+      "surface": "13 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-13",
+      "value_end": "2025-06-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00192",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

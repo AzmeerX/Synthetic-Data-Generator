@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00043_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "ffe596cf2f0bc7fd77851c4fee506020cfaa00e3de5864566fa2676c4d714cbf"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_13",
+      "name": "Greyhaven Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_13",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_132",
+      "name": "Inglemere Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_132",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_14",
+      "name": "Ravenmoor Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_14",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ravenmoor Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_15",
+      "name": "Zephyr Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_15",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zephyr Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_14",
+      "name": "Security Agreement LEG-014",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_14",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-014",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Security Agreement LEG-014",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_15",
+      "name": "Bram Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_15",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bram Nyle",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "fact_0189",
+      "subject": "company_13",
+      "rel": "owns",
+      "object": "company_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Greyhaven Industries Limited owns Ravenmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0192",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-07-02",
+          "value_end": "2022-07-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bank Limited lent Greyhaven Industries Limited GBP 38 million on 2 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0194",
+      "subject": "company_15",
+      "rel": "guarantor_for",
+      "object": "company_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zephyr Logistics Limited guaranteed the loan to Greyhaven Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0193",
+      "subject": "company_13",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-07",
+          "value_end": "2022-07-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Greyhaven Industries Limited owes Fenwick Bank Limited GBP 17 million as at 7 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0200",
+      "subject": "company_13",
+      "rel": "party_to",
+      "object": "legal_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Greyhaven Industries Limited is a party to the Security Agreement LEG-014.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0201",
+      "subject": "person_15",
+      "rel": "signed",
+      "object": "legal_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bram Nyle signed the Security Agreement LEG-014.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00043_neg_guarantee",
+      "subject": "company_13",
+      "rel": "guarantor_for",
+      "object": "company_132",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Greyhaven Industries Limited did not guarantee the facility for Inglemere Systems Limited on 28 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_00047_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00043",
+      "surface": "28 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-28",
+      "value_end": "2024-11-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0192",
+      "surface": "2 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-02",
+      "value_end": "2022-07-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "2 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0193",
+      "surface": "7 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-07",
+      "value_end": "2022-07-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "7 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00043",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-05-28",
+      "value_end": "2025-05-28",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

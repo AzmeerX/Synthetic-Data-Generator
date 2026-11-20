@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00518_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "0e13b4b210fedb8902a1a99b3a6f3015020c17a9946f3b5afc36d1d3dfb91871"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_272",
+      "name": "Bexhaven Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_272",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bexhaven Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Bexhaven Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_04",
+      "name": "Eastmere Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_04",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Eastmere Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1457",
+      "name": "Yorkshire Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1457",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yorkshire Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1458",
+      "name": "Yorkshire Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1458",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yorkshire Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1459",
+      "name": "Yorkshire Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1459",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yorkshire Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1461",
+      "name": "Yorkshire Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1461",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yorkshire Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yorkshire Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_27",
+      "name": "Alden & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_27",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_98",
+      "name": "Briar & Tremayne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_98",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_245",
+      "name": "Security Agreement LEG-245",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_245",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-245",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-245",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_522",
+      "name": "Juno Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_522",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_65",
+      "name": "Amina Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_65",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Amina Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_66",
+      "name": "Amina Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_66",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Amina Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_68",
+      "name": "Amina Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_68",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Amina Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_70",
+      "name": "Amina Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_70",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Amina Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_73",
+      "name": "Amina Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_73",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_24",
+      "name": "Lowmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_24",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022331",
+      "subject": "company_1457",
+      "rel": "owns",
+      "object": "company_1458",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yorkshire Partners Limited owns Yorkshire Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022333",
+      "subject": "person_68",
+      "rel": "chair_of",
+      "object": "company_1457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Delacourt is the chair of Yorkshire Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022332",
+      "subject": "person_73",
+      "rel": "shareholder_of",
+      "object": "company_1457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Ingram is a shareholder of Yorkshire Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022344",
+      "subject": "person_65",
+      "rel": "family_of",
+      "object": "person_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Amina Ashby is a family member of Amina Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022334",
+      "subject": "bank_04",
+      "rel": "lent_to",
+      "object": "company_1457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-26",
+          "value_end": "2024-01-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Bank Limited lent Yorkshire Partners Limited GBP 44 million on 26 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022336",
+      "subject": "company_1459",
+      "rel": "guarantor_for",
+      "object": "company_1457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yorkshire Marine Limited guaranteed the loan to Yorkshire Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022335",
+      "subject": "company_1457",
+      "rel": "owes",
+      "object": "bank_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-31",
+          "value_end": "2024-01-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yorkshire Partners Limited owes Eastmere Bank Limited GBP 10 million as at 31 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022337",
+      "subject": "lawfirm_27",
+      "rel": "represents",
+      "object": "company_1457",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Vale LLP represents Yorkshire Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022340",
+      "subject": "company_1457",
+      "rel": "owns",
+      "object": "asset_272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Yorkshire Partners Limited owns Bexhaven Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022341",
+      "subject": "asset_272",
+      "rel": "located_in",
+      "object": "place_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Bexhaven Wharf is located in Lowmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022342",
+      "subject": "company_1457",
+      "rel": "party_to",
+      "object": "legal_245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yorkshire Partners Limited is a party to the Security Agreement LEG-245.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022343",
+      "subject": "person_66",
+      "rel": "signed",
+      "object": "legal_245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Balfour signed the Security Agreement LEG-245.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00518_proposal",
+      "text": "The acquisition of Yorkshire Property Limited by Yorkshire Partners Limited",
+      "speaker": "person_522",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Osborne, chair of Yorkshire Partners Limited, proposed to acquire Yorkshire Property Limited on 27 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00518_approval",
+      "text": "Regulatory approval for the acquisition of Yorkshire Property Limited",
+      "speaker": "person_522",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Osborne confirmed that regulatory approval for the acquisition of Yorkshire Property Limited by Yorkshire Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00518_link_conditional",
+      "src": "gen_doc_00518_proposal",
+      "dst": "gen_doc_00518_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Yorkshire Property Limited by Yorkshire Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00518",
+      "surface": "27 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-27",
+      "value_end": "2024-02-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022334",
+      "surface": "26 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-26",
+      "value_end": "2024-01-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "26 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022335",
+      "surface": "31 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-31",
+      "value_end": "2024-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "31 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00518",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

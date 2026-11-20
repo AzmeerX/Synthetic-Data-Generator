@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00411_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "b51e0d74449164473a27d8d6dba3f40bfbade84d03f7f70bfcf5b447f6f24af9"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_171",
+      "name": "Juniper Cross Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_171",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_175",
+      "name": "Juniper Cross Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_175",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Juniper Cross Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_40",
+      "name": "Fair Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_40",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1360",
+      "name": "Pembroke Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1360",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Pembroke Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1362",
+      "name": "Pembroke Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1362",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Pembroke Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1363",
+      "name": "Pembroke Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1363",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Pembroke Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1365",
+      "name": "Pembroke Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1365",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Pembroke Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Pembroke Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_110",
+      "name": "Cairn & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_110",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_148",
+      "name": "Board Resolution LEG-148",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_148",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Board Resolution LEG-148",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Board Resolution LEG-148",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1360",
+      "name": "Anika Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1360",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1361",
+      "name": "Anika Underwood",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1361",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1368",
+      "name": "Bram Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1368",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bram Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_415",
+      "name": "Hana Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_415",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Hana Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Hana Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_107",
+      "name": "Elmsworth Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_107",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elmsworth Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020819",
+      "subject": "company_1360",
+      "rel": "owns",
+      "object": "asset_171",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pembroke Trading Limited owns Juniper Cross Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020820",
+      "subject": "person_1368",
+      "rel": "shareholder_of",
+      "object": "company_1360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bram Briar is a shareholder of Pembroke Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020832",
+      "subject": "person_1360",
+      "rel": "family_of",
+      "object": "person_1361",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Tremayne is a family member of Anika Underwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020822",
+      "subject": "bank_40",
+      "rel": "lent_to",
+      "object": "company_1360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-20",
+          "value_end": "2025-10-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Merchant Bank Limited lent Pembroke Trading Limited GBP 50 million on 20 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020824",
+      "subject": "company_1362",
+      "rel": "guarantor_for",
+      "object": "company_1360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Pembroke Capital Limited guaranteed the loan to Pembroke Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020823",
+      "subject": "company_1360",
+      "rel": "owes",
+      "object": "bank_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-25",
+          "value_end": "2025-10-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pembroke Trading Limited owes Fair Merchant Bank Limited GBP 13 million as at 25 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020828",
+      "subject": "company_1360",
+      "rel": "owns",
+      "object": "asset_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pembroke Trading Limited owns Juniper Cross Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020829",
+      "subject": "asset_175",
+      "rel": "located_in",
+      "object": "place_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Office Park is located in Elmsworth Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020830",
+      "subject": "company_1360",
+      "rel": "party_to",
+      "object": "legal_148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Trading Limited is a party to the Board Resolution LEG-148.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020831",
+      "subject": "person_1361",
+      "rel": "signed",
+      "object": "legal_148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Underwood signed the Board Resolution LEG-148.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00411_proposal",
+      "text": "The acquisition of Pembroke Property Limited by Pembroke Trading Limited",
+      "speaker": "person_415",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Hana Fairfax, chair of Pembroke Trading Limited, proposed to acquire Pembroke Property Limited on 23 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00411_approval",
+      "text": "Regulatory approval for the acquisition of Pembroke Property Limited",
+      "speaker": "person_415",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Hana Fairfax confirmed that regulatory approval for the acquisition of Pembroke Property Limited by Pembroke Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00411_link_conditional",
+      "src": "gen_doc_00411_proposal",
+      "dst": "gen_doc_00411_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Pembroke Property Limited by Pembroke Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00407_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00411",
+      "surface": "23 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-23",
+      "value_end": "2025-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020822",
+      "surface": "20 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-20",
+      "value_end": "2025-10-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "20 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020823",
+      "surface": "25 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-25",
+      "value_end": "2025-10-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

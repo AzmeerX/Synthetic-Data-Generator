@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00153_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "28453c51387d664ad82fec57a77711f83a7ae731ee1bf20bb2237500a0d94ad2"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_535",
+      "name": "Oakhurst Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_535",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oakhurst Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_539",
+      "name": "Oakhurst Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_539",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_72",
+      "name": "Kel Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_72",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1128",
+      "name": "Ulverston Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1128",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ulverston Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1130",
+      "name": "Ulverston Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1130",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulverston Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_112",
+      "name": "Cairn & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_112",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_522",
+      "name": "Settlement Agreement LEG-522",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_522",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Settlement Agreement LEG-522",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-522",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1128",
+      "name": "Wren Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1128",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wren Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1129",
+      "name": "Wren Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1129",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wren Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wren Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1136",
+      "name": "Wren Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1136",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Wren Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_157",
+      "name": "Calder Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_157",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_55",
+      "name": "Saltmarsh",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_55",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Saltmarsh",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017201",
+      "subject": "company_1128",
+      "rel": "owns",
+      "object": "asset_535",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ulverston Holdings Limited owns Oakhurst Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017202",
+      "subject": "person_1136",
+      "rel": "shareholder_of",
+      "object": "company_1128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Wren Quade is a shareholder of Ulverston Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017214",
+      "subject": "person_1128",
+      "rel": "family_of",
+      "object": "person_1129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wren Ivers is a family member of Wren Jarvis.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017204",
+      "subject": "bank_72",
+      "rel": "lent_to",
+      "object": "company_1128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-21",
+          "value_end": "2023-06-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kel Commercial Bank Limited lent Ulverston Holdings Limited GBP 26 million on 21 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017206",
+      "subject": "company_1130",
+      "rel": "guarantor_for",
+      "object": "company_1128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulverston Group Limited guaranteed the loan to Ulverston Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017205",
+      "subject": "company_1128",
+      "rel": "owes",
+      "object": "bank_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-26",
+          "value_end": "2023-06-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulverston Holdings Limited owes Kel Commercial Bank Limited GBP 11 million as at 26 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017210",
+      "subject": "company_1128",
+      "rel": "owns",
+      "object": "asset_539",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ulverston Holdings Limited owns Oakhurst Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017211",
+      "subject": "asset_539",
+      "rel": "located_in",
+      "object": "place_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Data Centre is located in Saltmarsh.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017212",
+      "subject": "company_1128",
+      "rel": "party_to",
+      "object": "legal_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ulverston Holdings Limited is a party to the Settlement Agreement LEG-522.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017213",
+      "subject": "person_1129",
+      "rel": "signed",
+      "object": "legal_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wren Jarvis signed the Settlement Agreement LEG-522.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00153_allegation",
+      "text": "A former employee alleged that Ulverston Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Rook noted that a former employee alleged that Ulverston Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00153",
+      "surface": "7 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-07",
+      "value_end": "2027-01-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017204",
+      "surface": "21 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-21",
+      "value_end": "2023-06-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "21 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017205",
+      "surface": "26 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-26",
+      "value_end": "2023-06-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "26 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00153",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

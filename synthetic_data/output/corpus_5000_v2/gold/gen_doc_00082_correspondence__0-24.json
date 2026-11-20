@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00082_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "f20611172ddf16047f551f4f28549e47654b5c5fe841ce3642a292e359a672a4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_471",
+      "name": "Kelbrook Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_471",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_475",
+      "name": "Lowmoor Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_475",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1064",
+      "name": "Ormsby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1064",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ormsby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1066",
+      "name": "Ormsby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1066",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1067",
+      "name": "Ormsby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1067",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Ormsby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1069",
+      "name": "Priors Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1069",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Priors Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Priors Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_52",
+      "name": "Alden & Whitlock LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_52",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Whitlock LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Whitlock LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_458",
+      "name": "Settlement Agreement LEG-458",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_458",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-458",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Settlement Agreement LEG-458",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1064",
+      "name": "Ulric Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1064",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1065",
+      "name": "Ulric Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1065",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ulric Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1072",
+      "name": "Vera Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1072",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vera Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_86",
+      "name": "Amina Whitlock",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_86",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_171",
+      "name": "Merrivale Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_171",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016204",
+      "subject": "company_1064",
+      "rel": "owns",
+      "object": "asset_471",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ormsby Energy Limited owns Kelbrook Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016205",
+      "subject": "person_1072",
+      "rel": "shareholder_of",
+      "object": "company_1064",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vera Cairn is a shareholder of Ormsby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016217",
+      "subject": "person_1064",
+      "rel": "family_of",
+      "object": "person_1065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Underwood is a family member of Ulric Villiers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016207",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_1064",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-13",
+          "value_end": "2026-03-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrowgate Bank Limited lent Ormsby Energy Limited GBP 18 million on 13 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016209",
+      "subject": "company_1066",
+      "rel": "guarantor_for",
+      "object": "company_1064",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ormsby Ventures Limited guaranteed the loan to Ormsby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016208",
+      "subject": "company_1064",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-18",
+          "value_end": "2026-03-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ormsby Energy Limited owes Harrowgate Bank Limited GBP 7 million as at 18 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016213",
+      "subject": "company_1064",
+      "rel": "owns",
+      "object": "asset_475",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ormsby Energy Limited owns Lowmoor Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016214",
+      "subject": "asset_475",
+      "rel": "located_in",
+      "object": "place_171",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Cold Store is located in Merrivale Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016215",
+      "subject": "company_1064",
+      "rel": "party_to",
+      "object": "legal_458",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ormsby Energy Limited is a party to the Settlement Agreement LEG-458.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016216",
+      "subject": "person_1065",
+      "rel": "signed",
+      "object": "legal_458",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ulric Villiers signed the Settlement Agreement LEG-458.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00082_proposal",
+      "text": "The acquisition of Priors Industries Limited by Ormsby Energy Limited",
+      "speaker": "person_86",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Whitlock, chair of Ormsby Energy Limited, proposed to acquire Priors Industries Limited on 28 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00082_approval",
+      "text": "Regulatory approval for the acquisition of Priors Industries Limited",
+      "speaker": "person_86",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Whitlock confirmed that regulatory approval for the acquisition of Priors Industries Limited by Ormsby Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00082_link_conditional",
+      "src": "gen_doc_00082_proposal",
+      "dst": "gen_doc_00082_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Priors Industries Limited by Ormsby Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00078_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00082",
+      "surface": "28 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-28",
+      "value_end": "2025-08-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016207",
+      "surface": "13 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-13",
+      "value_end": "2026-03-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "13 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016208",
+      "surface": "18 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-18",
+      "value_end": "2026-03-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

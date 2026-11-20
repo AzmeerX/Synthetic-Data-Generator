@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01003_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c9c03d383d6d33fc83a57e4969b48319d820e1ee272cf1bb50338441df3f84f7"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_113",
+      "name": "Greyhaven Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_113",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_46",
+      "name": "Glen Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_46",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Glen Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1894",
+      "name": "North Lambley Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1894",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Lambley Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1895",
+      "name": "North Lambley Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1895",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lambley Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1896",
+      "name": "North Mossgrove Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1896",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Mossgrove Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_74",
+      "name": "Briar & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_74",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_76",
+      "name": "Shareholder Agreement LEG-076",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_76",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-076",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-076",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1007",
+      "name": "Tamsin Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1007",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_502",
+      "name": "Juno Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_502",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_503",
+      "name": "Juno Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_503",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_510",
+      "name": "Juno Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_510",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_101",
+      "name": "Dunmere Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_101",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029146",
+      "subject": "company_1894",
+      "rel": "owns",
+      "object": "company_1895",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lambley Ventures Limited owns North Lambley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029155",
+      "subject": "company_1894",
+      "rel": "owns",
+      "object": "asset_113",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Ventures Limited owns Greyhaven Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029156",
+      "subject": "asset_113",
+      "rel": "located_in",
+      "object": "place_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Dock is located in Dunmere Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029152",
+      "subject": "lawfirm_74",
+      "rel": "represents",
+      "object": "company_1894",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Thorne LLP represents North Lambley Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029147",
+      "subject": "person_510",
+      "rel": "shareholder_of",
+      "object": "company_1894",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Cavendish is a shareholder of North Lambley Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029159",
+      "subject": "person_502",
+      "rel": "family_of",
+      "object": "person_503",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Thorne is a family member of Juno Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029149",
+      "subject": "bank_46",
+      "rel": "lent_to",
+      "object": "company_1894",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-04-08",
+          "value_end": "2023-04-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Merchant Bank Limited lent North Lambley Ventures Limited GBP 38 million on 8 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029151",
+      "subject": "company_1896",
+      "rel": "guarantor_for",
+      "object": "company_1894",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Mossgrove Holdings Limited guaranteed the loan to North Lambley Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029150",
+      "subject": "company_1894",
+      "rel": "owes",
+      "object": "bank_46",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-13",
+          "value_end": "2023-04-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Lambley Ventures Limited owes Glen Merchant Bank Limited GBP 7 million as at 13 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029157",
+      "subject": "company_1894",
+      "rel": "party_to",
+      "object": "legal_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Lambley Ventures Limited is a party to the Shareholder Agreement LEG-076.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029158",
+      "subject": "person_503",
+      "rel": "signed",
+      "object": "legal_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Ulric signed the Shareholder Agreement LEG-076.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01003_allegation",
+      "text": "A former employee alleged that North Lambley Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Montague noted that a former employee alleged that North Lambley Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01003",
+      "surface": "18 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-18",
+      "value_end": "2026-11-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029149",
+      "surface": "8 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-08",
+      "value_end": "2023-04-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029150",
+      "surface": "13 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-13",
+      "value_end": "2023-04-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "13 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01003",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

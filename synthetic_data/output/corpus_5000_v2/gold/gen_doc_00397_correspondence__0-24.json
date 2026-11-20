@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00397_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "234fc597e03ca21c5adaa9e3df51c59f428051358fe1fee6bd88240fc0f91750"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_159",
+      "name": "Juniper Cross Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_159",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_163",
+      "name": "Juniper Cross Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_163",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Juniper Cross Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_28",
+      "name": "Denmoor Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_28",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1348",
+      "name": "Orkney Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1348",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1350",
+      "name": "Orkney Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1350",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Orkney Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Orkney Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1352",
+      "name": "Orkney Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1352",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Orkney Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Orkney Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_136",
+      "name": "Lease LEG-136",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_136",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-136",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lease LEG-136",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_09",
+      "name": "Kellan Lorne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_09",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Kellan Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Kellan Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1348",
+      "name": "Anika Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1348",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1349",
+      "name": "Anika Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1349",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1356",
+      "name": "Anika Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1356",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_95",
+      "name": "Carrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_95",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020632",
+      "subject": "company_1348",
+      "rel": "owns",
+      "object": "asset_159",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Trading Limited owns Juniper Cross Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020633",
+      "subject": "person_1356",
+      "rel": "shareholder_of",
+      "object": "company_1348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Osborne is a shareholder of Orkney Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020645",
+      "subject": "person_1348",
+      "rel": "family_of",
+      "object": "person_1349",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Grenville is a family member of Anika Hastings.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020635",
+      "subject": "bank_28",
+      "rel": "lent_to",
+      "object": "company_1348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-06-10",
+          "value_end": "2025-06-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Merchant Bank Limited lent Orkney Trading Limited GBP 26 million on 10 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020637",
+      "subject": "company_1350",
+      "rel": "guarantor_for",
+      "object": "company_1348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Orkney Capital Limited guaranteed the loan to Orkney Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020636",
+      "subject": "company_1348",
+      "rel": "owes",
+      "object": "bank_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-06-15",
+          "value_end": "2025-06-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Orkney Trading Limited owes Denmoor Merchant Bank Limited GBP 11 million as at 15 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020641",
+      "subject": "company_1348",
+      "rel": "owns",
+      "object": "asset_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Orkney Trading Limited owns Juniper Cross Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020642",
+      "subject": "asset_163",
+      "rel": "located_in",
+      "object": "place_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Data Centre is located in Carrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020643",
+      "subject": "company_1348",
+      "rel": "party_to",
+      "object": "legal_136",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Trading Limited is a party to the Lease LEG-136.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020644",
+      "subject": "person_1349",
+      "rel": "signed",
+      "object": "legal_136",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Hastings signed the Lease LEG-136.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00397_proposal",
+      "text": "The acquisition of Orkney Energy Limited by Orkney Trading Limited",
+      "speaker": "person_09",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Kellan Lorne, chair of Orkney Trading Limited, proposed to acquire Orkney Energy Limited on 14 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00397_approval",
+      "text": "Regulatory approval for the acquisition of Orkney Energy Limited",
+      "speaker": "person_09",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Kellan Lorne confirmed that regulatory approval for the acquisition of Orkney Energy Limited by Orkney Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00397_link_conditional",
+      "src": "gen_doc_00397_proposal",
+      "dst": "gen_doc_00397_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Orkney Energy Limited by Orkney Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00393_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00397",
+      "surface": "14 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-14",
+      "value_end": "2025-02-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020635",
+      "surface": "10 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-10",
+      "value_end": "2025-06-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "10 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020636",
+      "surface": "15 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-15",
+      "value_end": "2025-06-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00947_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "2d6c22c1abd33de3b1b7d899ef333f650c6cd22c6d811d132e9ec532a8768751"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_62",
+      "name": "Eastmere Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_62",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_127",
+      "name": "Tarrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_127",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1843",
+      "name": "North Hazelmere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1843",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Hazelmere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1844",
+      "name": "North Hazelmere Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1844",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hazelmere Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1845",
+      "name": "North Hazelmere Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1845",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_23",
+      "name": "Alden & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_23",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_25",
+      "name": "Trust Deed LEG-025",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_25",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-025",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-025",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_451",
+      "name": "Ivo Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_451",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_452",
+      "name": "Ivo Thorne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_452",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_459",
+      "name": "Ivo Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_459",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_951",
+      "name": "Silas Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_951",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_50",
+      "name": "Norwood",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_50",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Norwood",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028350",
+      "subject": "company_1843",
+      "rel": "owns",
+      "object": "company_1844",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hazelmere Marine Limited owns North Hazelmere Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028359",
+      "subject": "company_1843",
+      "rel": "owns",
+      "object": "asset_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Marine Limited owns Eastmere Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028360",
+      "subject": "asset_62",
+      "rel": "located_in",
+      "object": "place_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Cold Store is located in Norwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028356",
+      "subject": "lawfirm_23",
+      "rel": "represents",
+      "object": "company_1843",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP represents North Hazelmere Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028351",
+      "subject": "person_459",
+      "rel": "shareholder_of",
+      "object": "company_1843",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Balfour is a shareholder of North Hazelmere Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028363",
+      "subject": "person_451",
+      "rel": "family_of",
+      "object": "person_452",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Sable is a family member of Ivo Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028353",
+      "subject": "bank_127",
+      "rel": "lent_to",
+      "object": "company_1843",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-21",
+          "value_end": "2026-05-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Private Bank Limited lent North Hazelmere Marine Limited GBP 16 million on 21 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028355",
+      "subject": "company_1845",
+      "rel": "guarantor_for",
+      "object": "company_1843",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Property Limited guaranteed the loan to North Hazelmere Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028354",
+      "subject": "company_1843",
+      "rel": "owes",
+      "object": "bank_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-26",
+          "value_end": "2026-05-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Hazelmere Marine Limited owes Tarrow Private Bank Limited GBP 6 million as at 26 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028361",
+      "subject": "company_1843",
+      "rel": "party_to",
+      "object": "legal_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Hazelmere Marine Limited is a party to the Trust Deed LEG-025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028362",
+      "subject": "person_452",
+      "rel": "signed",
+      "object": "legal_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Thorne signed the Trust Deed LEG-025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00947_allegation",
+      "text": "A former employee alleged that North Hazelmere Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Fairfax noted that a former employee alleged that North Hazelmere Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00947",
+      "surface": "22 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-22",
+      "value_end": "2025-10-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028353",
+      "surface": "21 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-21",
+      "value_end": "2026-05-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "21 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028354",
+      "surface": "26 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-26",
+      "value_end": "2026-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "26 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00947",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00359_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b767b87159502bf597cef27408870ac1988d1a31ef5e232d79e81e243f13c6b4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_128",
+      "name": "Harrowgate Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_128",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowgate Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_125",
+      "name": "Tarrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_125",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1313",
+      "name": "Lorne Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1313",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Lorne Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1314",
+      "name": "Lorne Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1314",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lorne Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1315",
+      "name": "Lorne Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1315",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lorne Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_101",
+      "name": "Security Agreement LEG-101",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_101",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-101",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-101",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1313",
+      "name": "Zane Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1313",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1314",
+      "name": "Zane Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1314",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1321",
+      "name": "Anika Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1321",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_363",
+      "name": "Gideon Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_363",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_60",
+      "name": "Yewdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_60",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yewdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020086",
+      "subject": "company_1313",
+      "rel": "owns",
+      "object": "company_1314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lorne Partners Limited owns Lorne Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020095",
+      "subject": "company_1313",
+      "rel": "owns",
+      "object": "asset_128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lorne Partners Limited owns Harrowgate Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020096",
+      "subject": "asset_128",
+      "rel": "located_in",
+      "object": "place_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Works is located in Yewdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020092",
+      "subject": "lawfirm_13",
+      "rel": "represents",
+      "object": "company_1313",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Hale LLP represents Lorne Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020087",
+      "subject": "person_1321",
+      "rel": "shareholder_of",
+      "object": "company_1313",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Ellery is a shareholder of Lorne Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020099",
+      "subject": "person_1313",
+      "rel": "family_of",
+      "object": "person_1314",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Villiers is a family member of Zane Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020089",
+      "subject": "bank_125",
+      "rel": "lent_to",
+      "object": "company_1313",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-05-21",
+          "value_end": "2024-05-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Trust Bank Limited lent Lorne Partners Limited GBP 36 million on 21 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020091",
+      "subject": "company_1315",
+      "rel": "guarantor_for",
+      "object": "company_1313",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lorne Marine Limited guaranteed the loan to Lorne Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020090",
+      "subject": "company_1313",
+      "rel": "owes",
+      "object": "bank_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-05-26",
+          "value_end": "2024-05-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lorne Partners Limited owes Tarrow Trust Bank Limited GBP 6 million as at 26 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020097",
+      "subject": "company_1313",
+      "rel": "party_to",
+      "object": "legal_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lorne Partners Limited is a party to the Security Agreement LEG-101.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020098",
+      "subject": "person_1314",
+      "rel": "signed",
+      "object": "legal_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Whitlock signed the Security Agreement LEG-101.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00359_allegation",
+      "text": "A former employee alleged that Lorne Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Delacourt noted that a former employee alleged that Lorne Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00359",
+      "surface": "24 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-24",
+      "value_end": "2024-05-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020089",
+      "surface": "21 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-21",
+      "value_end": "2024-05-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "21 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020090",
+      "surface": "26 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-26",
+      "value_end": "2024-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "26 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00359",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

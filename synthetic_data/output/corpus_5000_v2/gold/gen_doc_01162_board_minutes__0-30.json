@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01162_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "a0b42175df290c3d0a598a83c8434196e5cb57070e77e597d3d746e38924723e"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_256",
+      "name": "Alderport Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_256",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alderport Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Alderport Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_57",
+      "name": "Inver Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_57",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inver Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Inver Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2037",
+      "name": "North Yewdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2037",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2038",
+      "name": "North Yewdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2038",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Yewdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2039",
+      "name": "North Yewdale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2039",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Yewdale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2041",
+      "name": "North Amberley Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2041",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Amberley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Amberley Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_87",
+      "name": "Briar & Hastings LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_87",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Hastings LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_92",
+      "name": "Briar & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_92",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_219",
+      "name": "Debenture LEG-219",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_219",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-219",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-219",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1166",
+      "name": "Wren Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1166",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Wren Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_645",
+      "name": "Marek Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_645",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Marek Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_646",
+      "name": "Marek Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_646",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Marek Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_648",
+      "name": "Marek Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_648",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Marek Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_650",
+      "name": "Marek Vale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_650",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Marek Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_653",
+      "name": "Marek Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_653",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_64",
+      "name": "Denholm",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_64",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Denholm",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031375",
+      "subject": "company_2037",
+      "rel": "owns",
+      "object": "company_2038",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Yewdale Property Limited owns North Yewdale Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031377",
+      "subject": "person_648",
+      "rel": "chair_of",
+      "object": "company_2037",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Thorne is the chair of North Yewdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031376",
+      "subject": "person_653",
+      "rel": "shareholder_of",
+      "object": "company_2037",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Zell is a shareholder of North Yewdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031388",
+      "subject": "person_645",
+      "rel": "family_of",
+      "object": "person_646",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Marek Quade is a family member of Marek Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031378",
+      "subject": "bank_57",
+      "rel": "lent_to",
+      "object": "company_2037",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-02",
+          "value_end": "2022-12-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inver Bank Limited lent North Yewdale Property Limited GBP 44 million on 2 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031380",
+      "subject": "company_2039",
+      "rel": "guarantor_for",
+      "object": "company_2037",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Yewdale Systems Limited guaranteed the loan to North Yewdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031379",
+      "subject": "company_2037",
+      "rel": "owes",
+      "object": "bank_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-07",
+          "value_end": "2022-12-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Property Limited owes Inver Bank Limited GBP 10 million as at 7 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031381",
+      "subject": "lawfirm_87",
+      "rel": "represents",
+      "object": "company_2037",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Hastings LLP represents North Yewdale Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031384",
+      "subject": "company_2037",
+      "rel": "owns",
+      "object": "asset_256",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Yewdale Property Limited owns Alderport Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031385",
+      "subject": "asset_256",
+      "rel": "located_in",
+      "object": "place_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Alderport Fleet is located in Denholm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031386",
+      "subject": "company_2037",
+      "rel": "party_to",
+      "object": "legal_219",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Yewdale Property Limited is a party to the Debenture LEG-219.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031387",
+      "subject": "person_646",
+      "rel": "signed",
+      "object": "legal_219",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Rook signed the Debenture LEG-219.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01162_proposal",
+      "text": "The acquisition of North Amberley Industries Limited by North Yewdale Property Limited",
+      "speaker": "person_1166",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Whitlock, chair of North Yewdale Property Limited, proposed to acquire North Amberley Industries Limited on 23 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01162_approval",
+      "text": "Regulatory approval for the acquisition of North Amberley Industries Limited",
+      "speaker": "person_1166",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wren Whitlock confirmed that regulatory approval for the acquisition of North Amberley Industries Limited by North Yewdale Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01162_link_conditional",
+      "src": "gen_doc_01162_proposal",
+      "dst": "gen_doc_01162_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Amberley Industries Limited by North Yewdale Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01162",
+      "surface": "23 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-23",
+      "value_end": "2026-08-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031378",
+      "surface": "2 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-02",
+      "value_end": "2022-12-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "2 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031379",
+      "surface": "7 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-07",
+      "value_end": "2022-12-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "7 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01162",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

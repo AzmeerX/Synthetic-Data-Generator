@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01473_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "6b60026764f4eeb387b274ea6b6e9f26f0679952f2dc11b350ef4868d08be45f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_536",
+      "name": "Oakhurst Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_536",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_73",
+      "name": "Kel Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_73",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2317",
+      "name": "North Yardley Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2317",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Yardley Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2318",
+      "name": "North Yardley Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2318",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2319",
+      "name": "North Yardley Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2319",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yardley Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2321",
+      "name": "North Yardley Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2321",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Yardley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Yardley Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_107",
+      "name": "Cairn & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_107",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_130",
+      "name": "Cairn & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_130",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_499",
+      "name": "Guarantee Deed LEG-499",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_499",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Guarantee Deed LEG-499",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-499",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_85",
+      "name": "Amina Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_85",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_925",
+      "name": "Silas Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_925",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Silas Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_926",
+      "name": "Silas Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_926",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Silas Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Silas Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_933",
+      "name": "Silas Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_933",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_164",
+      "name": "Lowmoor Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_164",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035740",
+      "subject": "company_2317",
+      "rel": "owns",
+      "object": "company_2318",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Industries Limited owns North Yardley Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035741",
+      "subject": "person_933",
+      "rel": "shareholder_of",
+      "object": "company_2317",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Mercer is a shareholder of North Yardley Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035753",
+      "subject": "person_925",
+      "rel": "family_of",
+      "object": "person_926",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Silas Ellery is a family member of Silas Fenwick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035743",
+      "subject": "bank_73",
+      "rel": "lent_to",
+      "object": "company_2317",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-12",
+          "value_end": "2026-09-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Private Bank Limited lent North Yardley Industries Limited GBP 44 million on 12 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035745",
+      "subject": "company_2319",
+      "rel": "guarantor_for",
+      "object": "company_2317",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yardley Logistics Limited guaranteed the loan to North Yardley Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035744",
+      "subject": "company_2317",
+      "rel": "owes",
+      "object": "bank_73",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-17",
+          "value_end": "2026-09-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Industries Limited owes Kel Private Bank Limited GBP 10 million as at 17 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035746",
+      "subject": "lawfirm_107",
+      "rel": "represents",
+      "object": "company_2317",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Dunmore LLP represents North Yardley Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035749",
+      "subject": "company_2317",
+      "rel": "owns",
+      "object": "asset_536",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Industries Limited owns Oakhurst Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035750",
+      "subject": "asset_536",
+      "rel": "located_in",
+      "object": "place_164",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Fleet is located in Lowmoor Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035751",
+      "subject": "company_2317",
+      "rel": "party_to",
+      "object": "legal_499",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Yardley Industries Limited is a party to the Guarantee Deed LEG-499.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035752",
+      "subject": "person_926",
+      "rel": "signed",
+      "object": "legal_499",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Silas Fenwick signed the Guarantee Deed LEG-499.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01473_proposal",
+      "text": "The acquisition of North Yardley Partners Limited by North Yardley Industries Limited",
+      "speaker": "person_85",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Villiers, chair of North Yardley Industries Limited, proposed to acquire North Yardley Partners Limited on 12 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01473_approval",
+      "text": "Regulatory approval for the acquisition of North Yardley Partners Limited",
+      "speaker": "person_85",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Villiers confirmed that regulatory approval for the acquisition of North Yardley Partners Limited by North Yardley Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01473_link_conditional",
+      "src": "gen_doc_01473_proposal",
+      "dst": "gen_doc_01473_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Yardley Partners Limited by North Yardley Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01473",
+      "surface": "12 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-12",
+      "value_end": "2026-01-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035743",
+      "surface": "12 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-12",
+      "value_end": "2026-09-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "12 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035744",
+      "surface": "17 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-17",
+      "value_end": "2026-09-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "17 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01473",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00577_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "8a8f7dfbe257098fd3480cc11bc025162cc1144b00fb144e8d10750ade808e33"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_42",
+      "name": "Dunhollow Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_42",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Dunhollow Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_23",
+      "name": "Carrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_23",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_151",
+      "name": "Kelbrook Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_151",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Kelbrook Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1514",
+      "name": "North Elmsworth Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1514",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Elmsworth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Elmsworth Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_152",
+      "name": "Kelbrook Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_152",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_153",
+      "name": "Kelbrook Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_153",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_01",
+      "name": "Harrow & Finch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_01",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Harrow & Finch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_27",
+      "name": "Alden & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_27",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_25",
+      "name": "Trust Deed LEG-025",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_25",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Trust Deed LEG-025",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-025",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_151",
+      "name": "Calder Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_151",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_152",
+      "name": "Calder Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_152",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_159",
+      "name": "Calder Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_159",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_581",
+      "name": "Kellan Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_581",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Kellan Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Kellan Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_38",
+      "name": "Barrowfield",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_38",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Barrowfield",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001966",
+      "subject": "company_151",
+      "rel": "owns",
+      "object": "company_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Capital Limited owns Kelbrook Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001967",
+      "subject": "person_159",
+      "rel": "shareholder_of",
+      "object": "company_151",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Thorne is a shareholder of Kelbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001979",
+      "subject": "person_151",
+      "rel": "family_of",
+      "object": "person_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Lorne is a family member of Calder Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001969",
+      "subject": "bank_23",
+      "rel": "lent_to",
+      "object": "company_151",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-08-17",
+          "value_end": "2026-08-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Trust Bank Limited lent Kelbrook Capital Limited GBP 32 million on 17 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001971",
+      "subject": "company_153",
+      "rel": "guarantor_for",
+      "object": "company_151",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Energy Limited guaranteed the loan to Kelbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001970",
+      "subject": "company_151",
+      "rel": "owes",
+      "object": "bank_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-22",
+          "value_end": "2026-08-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Capital Limited owes Carrow Trust Bank Limited GBP 4 million as at 22 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001972",
+      "subject": "lawfirm_01",
+      "rel": "represents",
+      "object": "company_151",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Harrow & Finch LLP represents Kelbrook Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001975",
+      "subject": "company_151",
+      "rel": "owns",
+      "object": "asset_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kelbrook Capital Limited owns Dunhollow Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001976",
+      "subject": "asset_42",
+      "rel": "located_in",
+      "object": "place_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Terminal is located in Barrowfield.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001977",
+      "subject": "company_151",
+      "rel": "party_to",
+      "object": "legal_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kelbrook Capital Limited is a party to the Trust Deed LEG-025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001978",
+      "subject": "person_152",
+      "rel": "signed",
+      "object": "legal_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Calder Mercer signed the Trust Deed LEG-025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00577_proposal",
+      "text": "The acquisition of North Elmsworth Group Limited by Kelbrook Capital Limited",
+      "speaker": "person_581",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Kellan Zouch, chair of Kelbrook Capital Limited, proposed to acquire North Elmsworth Group Limited on 15 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00577_approval",
+      "text": "Regulatory approval for the acquisition of North Elmsworth Group Limited",
+      "speaker": "person_581",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Kellan Zouch confirmed that regulatory approval for the acquisition of North Elmsworth Group Limited by Kelbrook Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00577_link_conditional",
+      "src": "gen_doc_00577_proposal",
+      "dst": "gen_doc_00577_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Elmsworth Group Limited by Kelbrook Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00577",
+      "surface": "15 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-15",
+      "value_end": "2025-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001969",
+      "surface": "17 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-17",
+      "value_end": "2026-08-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "17 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001970",
+      "surface": "22 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-22",
+      "value_end": "2026-08-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "22 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00577",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

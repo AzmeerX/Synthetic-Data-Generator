@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01262_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b80fcc5c625421b12c2a18ccc64ac8b3b12d20617b171e0aae239bc7e86fd011"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_346",
+      "name": "Elmford Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_346",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elmford Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_15",
+      "name": "Bexley Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_15",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2127",
+      "name": "North Hampstead Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2127",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Hampstead Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2128",
+      "name": "North Hampstead Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2128",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hampstead Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2129",
+      "name": "North Hampstead Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2129",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hampstead Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_47",
+      "name": "Alden & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_47",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_309",
+      "name": "Security Agreement LEG-309",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_309",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-309",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-309",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1266",
+      "name": "Yara Yardley",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1266",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_735",
+      "name": "Oren Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_735",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_736",
+      "name": "Oren Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_736",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_743",
+      "name": "Oren Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_743",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_154",
+      "name": "Kelbrook Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_154",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032779",
+      "subject": "company_2127",
+      "rel": "owns",
+      "object": "company_2128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hampstead Logistics Limited owns North Hampstead Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032788",
+      "subject": "company_2127",
+      "rel": "owns",
+      "object": "asset_346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Hampstead Logistics Limited owns Elmford Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032789",
+      "subject": "asset_346",
+      "rel": "located_in",
+      "object": "place_154",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Mill is located in Kelbrook Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032785",
+      "subject": "lawfirm_47",
+      "rel": "represents",
+      "object": "company_2127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ravenscroft LLP represents North Hampstead Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032780",
+      "subject": "person_743",
+      "rel": "shareholder_of",
+      "object": "company_2127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Rook is a shareholder of North Hampstead Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032792",
+      "subject": "person_735",
+      "rel": "family_of",
+      "object": "person_736",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Ivers is a family member of Oren Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032782",
+      "subject": "bank_15",
+      "rel": "lent_to",
+      "object": "company_2127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-08-18",
+          "value_end": "2025-08-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited lent North Hampstead Logistics Limited GBP 24 million on 18 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032784",
+      "subject": "company_2129",
+      "rel": "guarantor_for",
+      "object": "company_2127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hampstead Partners Limited guaranteed the loan to North Hampstead Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032783",
+      "subject": "company_2127",
+      "rel": "owes",
+      "object": "bank_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-08-23",
+          "value_end": "2025-08-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Hampstead Logistics Limited owes Bexley Bank Limited GBP 10 million as at 23 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032790",
+      "subject": "company_2127",
+      "rel": "party_to",
+      "object": "legal_309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Hampstead Logistics Limited is a party to the Security Agreement LEG-309.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032791",
+      "subject": "person_736",
+      "rel": "signed",
+      "object": "legal_309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Kerr signed the Security Agreement LEG-309.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01262_allegation",
+      "text": "A former employee alleged that North Hampstead Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Yardley noted that a former employee alleged that North Hampstead Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01262",
+      "surface": "10 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-10",
+      "value_end": "2025-04-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032782",
+      "surface": "18 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-18",
+      "value_end": "2025-08-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032783",
+      "surface": "23 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-23",
+      "value_end": "2025-08-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "23 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01262",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

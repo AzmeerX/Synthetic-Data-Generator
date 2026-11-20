@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00269_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "fd15d6ff69aed8bdb2dacc77d84c154c93d951e9819fa07b085aa6471e4f63cd"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_143",
+      "name": "Ironside Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_143",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_147",
+      "name": "Ironside Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_147",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ironside Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_24",
+      "name": "Carrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_24",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_336",
+      "name": "Barrowfield Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_336",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_338",
+      "name": "Cresswell Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_338",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Cresswell Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_340",
+      "name": "Cresswell Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_340",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Cresswell Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Cresswell Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_36",
+      "name": "Alden & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_36",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_130",
+      "name": "Facility Agreement LEG-130",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_130",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Facility Agreement LEG-130",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-130",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_273",
+      "name": "Elias Kingsley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_273",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_336",
+      "name": "Gideon Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_336",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_337",
+      "name": "Gideon Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_337",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_344",
+      "name": "Gideon Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_344",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_43",
+      "name": "Grimsdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_43",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Grimsdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004851",
+      "subject": "company_336",
+      "rel": "owns",
+      "object": "asset_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Systems Limited owns Ironside Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004852",
+      "subject": "person_344",
+      "rel": "shareholder_of",
+      "object": "company_336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Ivers is a shareholder of Barrowfield Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004864",
+      "subject": "person_336",
+      "rel": "family_of",
+      "object": "person_337",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Alden is a family member of Gideon Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004854",
+      "subject": "bank_24",
+      "rel": "lent_to",
+      "object": "company_336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-21",
+          "value_end": "2022-11-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Commercial Bank Limited lent Barrowfield Systems Limited GBP 42 million on 21 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004856",
+      "subject": "company_338",
+      "rel": "guarantor_for",
+      "object": "company_336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Cresswell Industries Limited guaranteed the loan to Barrowfield Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004855",
+      "subject": "company_336",
+      "rel": "owes",
+      "object": "bank_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-26",
+          "value_end": "2022-11-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Systems Limited owes Carrow Commercial Bank Limited GBP 9 million as at 26 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004857",
+      "subject": "lawfirm_36",
+      "rel": "represents",
+      "object": "company_336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Fairfax LLP represents Barrowfield Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004860",
+      "subject": "company_336",
+      "rel": "owns",
+      "object": "asset_147",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Systems Limited owns Ironside Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004861",
+      "subject": "asset_147",
+      "rel": "located_in",
+      "object": "place_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Works is located in Grimsdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004862",
+      "subject": "company_336",
+      "rel": "party_to",
+      "object": "legal_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Barrowfield Systems Limited is a party to the Facility Agreement LEG-130.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004863",
+      "subject": "person_337",
+      "rel": "signed",
+      "object": "legal_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Briar signed the Facility Agreement LEG-130.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00269_proposal",
+      "text": "The acquisition of Cresswell Logistics Limited by Barrowfield Systems Limited",
+      "speaker": "person_273",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Kingsley, chair of Barrowfield Systems Limited, proposed to acquire Cresswell Logistics Limited on 15 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00269_approval",
+      "text": "Regulatory approval for the acquisition of Cresswell Logistics Limited",
+      "speaker": "person_273",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Kingsley confirmed that regulatory approval for the acquisition of Cresswell Logistics Limited by Barrowfield Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00269_link_conditional",
+      "src": "gen_doc_00269_proposal",
+      "dst": "gen_doc_00269_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Cresswell Logistics Limited by Barrowfield Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00269",
+      "surface": "15 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-15",
+      "value_end": "2025-12-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004854",
+      "surface": "21 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-21",
+      "value_end": "2022-11-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "21 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004855",
+      "surface": "26 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-26",
+      "value_end": "2022-11-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00269",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

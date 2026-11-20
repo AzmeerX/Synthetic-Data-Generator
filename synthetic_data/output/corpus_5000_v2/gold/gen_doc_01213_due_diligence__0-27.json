@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01213_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "9472a066935d59ddf0734ba73d25b4e2c9e7b8a674b1c143fd03489d4aef9036"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_302",
+      "name": "Carrow Bay Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_302",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Bay Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Bay Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_103",
+      "name": "Pember Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_103",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2083",
+      "name": "North Denholm Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2083",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Denholm Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2084",
+      "name": "North Denholm Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2084",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Denholm Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2085",
+      "name": "North Denholm Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2085",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Denholm Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_03",
+      "name": "Cairn & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_03",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_265",
+      "name": "Trust Deed LEG-265",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_265",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-265",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-265",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1217",
+      "name": "Xander Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1217",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_691",
+      "name": "Nadia Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_691",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_692",
+      "name": "Nadia Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_692",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_699",
+      "name": "Nadia Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_699",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_110",
+      "name": "Elmsworth Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_110",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmsworth Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032092",
+      "subject": "company_2083",
+      "rel": "owns",
+      "object": "company_2084",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Denholm Marine Limited owns North Denholm Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032101",
+      "subject": "company_2083",
+      "rel": "owns",
+      "object": "asset_302",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Denholm Marine Limited owns Carrow Bay Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032102",
+      "subject": "asset_302",
+      "rel": "located_in",
+      "object": "place_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Bay Marina is located in Elmsworth Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032098",
+      "subject": "lawfirm_03",
+      "rel": "represents",
+      "object": "company_2083",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Sable LLP represents North Denholm Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032093",
+      "subject": "person_699",
+      "rel": "shareholder_of",
+      "object": "company_2083",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Vale is a shareholder of North Denholm Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032105",
+      "subject": "person_691",
+      "rel": "family_of",
+      "object": "person_692",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Nyle is a family member of Nadia Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032095",
+      "subject": "bank_103",
+      "rel": "lent_to",
+      "object": "company_2083",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-21",
+          "value_end": "2024-04-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Private Bank Limited lent North Denholm Marine Limited GBP 16 million on 21 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032097",
+      "subject": "company_2085",
+      "rel": "guarantor_for",
+      "object": "company_2083",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Denholm Property Limited guaranteed the loan to North Denholm Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032096",
+      "subject": "company_2083",
+      "rel": "owes",
+      "object": "bank_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-26",
+          "value_end": "2024-04-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Denholm Marine Limited owes Pember Private Bank Limited GBP 6 million as at 26 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032103",
+      "subject": "company_2083",
+      "rel": "party_to",
+      "object": "legal_265",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Denholm Marine Limited is a party to the Trust Deed LEG-265.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032104",
+      "subject": "person_692",
+      "rel": "signed",
+      "object": "legal_265",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Orrick signed the Trust Deed LEG-265.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01213_allegation",
+      "text": "A former employee alleged that North Denholm Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Yardley noted that a former employee alleged that North Denholm Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01213",
+      "surface": "2 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-02",
+      "value_end": "2024-05-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032095",
+      "surface": "21 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-21",
+      "value_end": "2024-04-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "21 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032096",
+      "surface": "26 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-26",
+      "value_end": "2024-04-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "26 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01213",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

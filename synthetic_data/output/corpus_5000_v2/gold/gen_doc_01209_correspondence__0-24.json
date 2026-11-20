@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01209_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "91541ce8fd57b8fd7599232043d57f27ce84df3e59faf3ef89e855ea8bf9efb6"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_95",
+      "name": "Fenwick Bay Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_95",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_99",
+      "name": "Greyhaven Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_99",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_01",
+      "name": "Quarrystone Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_01",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quarrystone Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_208",
+      "name": "Pemberton Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_208",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Pemberton Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2082",
+      "name": "North Denholm Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2082",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Denholm Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2084",
+      "name": "North Denholm Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2084",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Denholm Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Denholm Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_127",
+      "name": "Cairn & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_127",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_82",
+      "name": "Facility Agreement LEG-082",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_82",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-082",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-082",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1213",
+      "name": "Xander Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1213",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Xander Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Xander Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_208",
+      "name": "Daria Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_208",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_209",
+      "name": "Daria Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_209",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_216",
+      "name": "Daria Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_216",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_35",
+      "name": "Westerby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_35",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Westerby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002856",
+      "subject": "company_208",
+      "rel": "owns",
+      "object": "asset_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Logistics Limited owns Fenwick Bay Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002857",
+      "subject": "person_216",
+      "rel": "shareholder_of",
+      "object": "company_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Cavendish is a shareholder of Pemberton Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002869",
+      "subject": "person_208",
+      "rel": "family_of",
+      "object": "person_209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Thorne is a family member of Daria Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002859",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-09-09",
+          "value_end": "2023-09-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bexley Merchant Bank Limited lent Pemberton Logistics Limited GBP 26 million on 9 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002861",
+      "subject": "company_01",
+      "rel": "guarantor_for",
+      "object": "company_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quarrystone Industries Limited guaranteed the loan to Pemberton Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002860",
+      "subject": "company_208",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-09-14",
+          "value_end": "2023-09-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pemberton Logistics Limited owes Bexley Merchant Bank Limited GBP 11 million as at 14 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002865",
+      "subject": "company_208",
+      "rel": "owns",
+      "object": "asset_99",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Logistics Limited owns Greyhaven Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002866",
+      "subject": "asset_99",
+      "rel": "located_in",
+      "object": "place_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Wharf is located in Westerby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002867",
+      "subject": "company_208",
+      "rel": "party_to",
+      "object": "legal_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pemberton Logistics Limited is a party to the Facility Agreement LEG-082.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002868",
+      "subject": "person_209",
+      "rel": "signed",
+      "object": "legal_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Ulric signed the Facility Agreement LEG-082.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01209_proposal",
+      "text": "The acquisition of North Denholm Energy Limited by Pemberton Logistics Limited",
+      "speaker": "person_1213",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Xander Underwood, chair of Pemberton Logistics Limited, proposed to acquire North Denholm Energy Limited on 4 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01209_approval",
+      "text": "Regulatory approval for the acquisition of North Denholm Energy Limited",
+      "speaker": "person_1213",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Xander Underwood confirmed that regulatory approval for the acquisition of North Denholm Energy Limited by Pemberton Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01209_link_conditional",
+      "src": "gen_doc_01209_proposal",
+      "dst": "gen_doc_01209_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Denholm Energy Limited by Pemberton Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01205_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01209",
+      "surface": "4 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-04",
+      "value_end": "2024-04-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002859",
+      "surface": "9 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-09",
+      "value_end": "2023-09-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "9 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002860",
+      "surface": "14 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-14",
+      "value_end": "2023-09-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

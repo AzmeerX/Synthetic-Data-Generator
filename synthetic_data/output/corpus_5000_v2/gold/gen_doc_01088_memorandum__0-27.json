@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01088_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "82d1756b8cad12602357487ccc956cb363fca6ac378bf0c108bd973f1b10514a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_189",
+      "name": "Kestrelford Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_189",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kestrelford Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrelford Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_122",
+      "name": "Stan International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_122",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stan International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stan International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1970",
+      "name": "North Saltmarsh Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1970",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Saltmarsh Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1971",
+      "name": "North Saltmarsh Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1971",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Saltmarsh Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1972",
+      "name": "North Saltmarsh Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1972",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1975",
+      "name": "North Saltmarsh Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1975",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Saltmarsh Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Saltmarsh Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_18",
+      "name": "Alden & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_18",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_152",
+      "name": "Lease LEG-152",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_152",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lease LEG-152",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-152",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1092",
+      "name": "Vera Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1092",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Vera Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_578",
+      "name": "Kellan Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_578",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_579",
+      "name": "Kellan Wyndham",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_579",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kellan Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_586",
+      "name": "Lena Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_586",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_177",
+      "name": "Netherby Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_177",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030332",
+      "subject": "company_1970",
+      "rel": "owns",
+      "object": "company_1971",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Saltmarsh Group Limited owns North Saltmarsh Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030333",
+      "subject": "person_586",
+      "rel": "shareholder_of",
+      "object": "company_1970",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Ellery is a shareholder of North Saltmarsh Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030345",
+      "subject": "person_578",
+      "rel": "family_of",
+      "object": "person_579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Whitlock is a family member of Kellan Wyndham.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030335",
+      "subject": "bank_122",
+      "rel": "lent_to",
+      "object": "company_1970",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-22",
+          "value_end": "2025-07-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stan International Bank Limited lent North Saltmarsh Group Limited GBP 30 million on 22 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030337",
+      "subject": "company_1972",
+      "rel": "guarantor_for",
+      "object": "company_1970",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Saltmarsh Trading Limited guaranteed the loan to North Saltmarsh Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030336",
+      "subject": "company_1970",
+      "rel": "owes",
+      "object": "bank_122",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-07-27",
+          "value_end": "2025-07-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Saltmarsh Group Limited owes Stan International Bank Limited GBP 13 million as at 27 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030338",
+      "subject": "lawfirm_20",
+      "rel": "represents",
+      "object": "company_1970",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Orrick LLP represents North Saltmarsh Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030341",
+      "subject": "company_1970",
+      "rel": "owns",
+      "object": "asset_189",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Saltmarsh Group Limited owns Kestrelford Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030342",
+      "subject": "asset_189",
+      "rel": "located_in",
+      "object": "place_177",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrelford Mill is located in Netherby Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030343",
+      "subject": "company_1970",
+      "rel": "party_to",
+      "object": "legal_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Saltmarsh Group Limited is a party to the Lease LEG-152.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030344",
+      "subject": "person_579",
+      "rel": "signed",
+      "object": "legal_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kellan Wyndham signed the Lease LEG-152.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01088_proposal",
+      "text": "The acquisition of North Saltmarsh Marine Limited by North Saltmarsh Group Limited",
+      "speaker": "person_1092",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Ward, chair of North Saltmarsh Group Limited, proposed to acquire North Saltmarsh Marine Limited on 23 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01088_approval",
+      "text": "Regulatory approval for the acquisition of North Saltmarsh Marine Limited",
+      "speaker": "person_1092",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Vera Ward confirmed that regulatory approval for the acquisition of North Saltmarsh Marine Limited by North Saltmarsh Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01088_link_conditional",
+      "src": "gen_doc_01088_proposal",
+      "dst": "gen_doc_01088_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Saltmarsh Marine Limited by North Saltmarsh Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01088",
+      "surface": "23 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-23",
+      "value_end": "2025-03-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030335",
+      "surface": "22 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-22",
+      "value_end": "2025-07-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "22 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030336",
+      "surface": "27 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-27",
+      "value_end": "2025-07-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01088",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

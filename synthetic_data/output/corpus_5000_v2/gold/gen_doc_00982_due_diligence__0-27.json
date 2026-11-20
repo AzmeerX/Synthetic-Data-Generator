@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00982_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "cc56267c7beb9b6c5577e6f20a4139ee311129692bb8bec51e6bd82396f4a7c9"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_94",
+      "name": "Fenwick Bay Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_94",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_27",
+      "name": "Denmoor Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_27",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1875",
+      "name": "North Kirkby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1875",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1876",
+      "name": "North Kirkby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1876",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Kirkby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1877",
+      "name": "North Kirkby Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1877",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_55",
+      "name": "Alden & Zouch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_55",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Zouch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_57",
+      "name": "Trust Deed LEG-057",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_57",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-057",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-057",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_483",
+      "name": "Juno Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_483",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_484",
+      "name": "Juno Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_484",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_491",
+      "name": "Juno Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_491",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_986",
+      "name": "Tamsin Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_986",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_82",
+      "name": "Belmont Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_82",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028849",
+      "subject": "company_1875",
+      "rel": "owns",
+      "object": "company_1876",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Kirkby Logistics Limited owns North Kirkby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028858",
+      "subject": "company_1875",
+      "rel": "owns",
+      "object": "asset_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Kirkby Logistics Limited owns Fenwick Bay Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028859",
+      "subject": "asset_94",
+      "rel": "located_in",
+      "object": "place_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Dock is located in Belmont Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028855",
+      "subject": "lawfirm_55",
+      "rel": "represents",
+      "object": "company_1875",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Zouch LLP represents North Kirkby Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028850",
+      "subject": "person_491",
+      "rel": "shareholder_of",
+      "object": "company_1875",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Ivers is a shareholder of North Kirkby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028862",
+      "subject": "person_483",
+      "rel": "family_of",
+      "object": "person_484",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Alden is a family member of Juno Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028852",
+      "subject": "bank_27",
+      "rel": "lent_to",
+      "object": "company_1875",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-09-11",
+          "value_end": "2022-09-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Bank Limited lent North Kirkby Logistics Limited GBP 40 million on 11 September 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028854",
+      "subject": "company_1877",
+      "rel": "guarantor_for",
+      "object": "company_1875",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Partners Limited guaranteed the loan to North Kirkby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028853",
+      "subject": "company_1875",
+      "rel": "owes",
+      "object": "bank_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-09-16",
+          "value_end": "2022-09-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Kirkby Logistics Limited owes Denmoor Bank Limited GBP 8 million as at 16 September 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028860",
+      "subject": "company_1875",
+      "rel": "party_to",
+      "object": "legal_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Kirkby Logistics Limited is a party to the Trust Deed LEG-057.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028861",
+      "subject": "person_484",
+      "rel": "signed",
+      "object": "legal_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Briar signed the Trust Deed LEG-057.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00982_allegation",
+      "text": "A former employee alleged that North Kirkby Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Tamsin Quade noted that a former employee alleged that North Kirkby Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00982",
+      "surface": "24 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-24",
+      "value_end": "2026-06-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028852",
+      "surface": "11 September 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-09-11",
+      "value_end": "2022-09-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "11 September 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028853",
+      "surface": "16 September 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-09-16",
+      "value_end": "2022-09-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "16 September 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00982",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

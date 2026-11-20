@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00936_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "2576ba995b229c12ed0a4cca34c18afc935aee79ca8e3b8c59dab4024c312f8d"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_52",
+      "name": "Dunhollow Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_52",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_117",
+      "name": "Stan Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_117",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Stan Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Stan Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1833",
+      "name": "North Grimsdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1833",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Grimsdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1834",
+      "name": "North Grimsdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1834",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Grimsdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1835",
+      "name": "North Grimsdale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1835",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Grimsdale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1836",
+      "name": "North Hazelmere Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1836",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Hazelmere Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1838",
+      "name": "North Hazelmere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1838",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Hazelmere Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Hazelmere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_115",
+      "name": "Cairn & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_115",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Lorne LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_15",
+      "name": "Security Agreement LEG-015",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_15",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-015",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-015",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_441",
+      "name": "Ivo Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_441",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_442",
+      "name": "Ivo Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_442",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ivo Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_449",
+      "name": "Ivo Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_449",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivo Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_940",
+      "name": "Silas Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_940",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Silas Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_40",
+      "name": "Draycott",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_40",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Draycott",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028194",
+      "subject": "company_1833",
+      "rel": "owns",
+      "object": "company_1834",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Grimsdale Property Limited owns North Grimsdale Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028195",
+      "subject": "person_449",
+      "rel": "shareholder_of",
+      "object": "company_1833",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivo Quade is a shareholder of North Grimsdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028207",
+      "subject": "person_441",
+      "rel": "family_of",
+      "object": "person_442",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Hale is a family member of Ivo Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028197",
+      "subject": "bank_117",
+      "rel": "lent_to",
+      "object": "company_1833",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-31",
+          "value_end": "2026-01-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Stan Bank Limited lent North Grimsdale Property Limited GBP 36 million on 31 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028199",
+      "subject": "company_1835",
+      "rel": "guarantor_for",
+      "object": "company_1833",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Grimsdale Systems Limited guaranteed the loan to North Grimsdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028198",
+      "subject": "company_1833",
+      "rel": "owes",
+      "object": "bank_117",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-02-05",
+          "value_end": "2026-02-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Grimsdale Property Limited owes Stan Bank Limited GBP 6 million as at 5 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028203",
+      "subject": "company_1833",
+      "rel": "owns",
+      "object": "asset_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Grimsdale Property Limited owns Dunhollow Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028204",
+      "subject": "asset_52",
+      "rel": "located_in",
+      "object": "place_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Yard is located in Draycott.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028205",
+      "subject": "company_1833",
+      "rel": "party_to",
+      "object": "legal_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Grimsdale Property Limited is a party to the Security Agreement LEG-015.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028206",
+      "subject": "person_442",
+      "rel": "signed",
+      "object": "legal_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ivo Ivers signed the Security Agreement LEG-015.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00936_proposal",
+      "text": "The acquisition of North Hazelmere Group Limited by North Grimsdale Property Limited",
+      "speaker": "person_940",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Silas Thorne, chair of North Grimsdale Property Limited, proposed to acquire North Hazelmere Group Limited on 6 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00936_approval",
+      "text": "Regulatory approval for the acquisition of North Hazelmere Group Limited",
+      "speaker": "person_940",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Thorne confirmed that regulatory approval for the acquisition of North Hazelmere Group Limited by North Grimsdale Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00936_link_conditional",
+      "src": "gen_doc_00936_proposal",
+      "dst": "gen_doc_00936_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Hazelmere Group Limited by North Grimsdale Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00932_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00936",
+      "surface": "6 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-06",
+      "value_end": "2025-08-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028197",
+      "surface": "31 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-31",
+      "value_end": "2026-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "31 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028198",
+      "surface": "5 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-05",
+      "value_end": "2026-02-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "5 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

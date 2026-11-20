@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00089_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "d9b38c1f02332a7067f045596696510ffb86def9dbeb1092b71ee48408c69847"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_481",
+      "name": "Lowmoor Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_481",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_14",
+      "name": "Alder International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_14",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1070",
+      "name": "Priors Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1070",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1071",
+      "name": "Priors Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1071",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Priors Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1072",
+      "name": "Priors Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1072",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1073",
+      "name": "Priors Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1073",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Priors Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1075",
+      "name": "Priors Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1075",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Priors Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Priors Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_59",
+      "name": "Briar & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_59",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Ellery LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_464",
+      "name": "Side Letter LEG-464",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_464",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-464",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Side Letter LEG-464",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1070",
+      "name": "Vera Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1070",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1071",
+      "name": "Vera Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1071",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vera Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1078",
+      "name": "Vera Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1078",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vera Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_93",
+      "name": "Bastian Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_93",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_177",
+      "name": "Netherby Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_177",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016298",
+      "subject": "company_1070",
+      "rel": "owns",
+      "object": "company_1071",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Priors Group Limited owns Priors Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016299",
+      "subject": "person_1078",
+      "rel": "shareholder_of",
+      "object": "company_1070",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vera Ivers is a shareholder of Priors Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016311",
+      "subject": "person_1070",
+      "rel": "family_of",
+      "object": "person_1071",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Alden is a family member of Vera Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016301",
+      "subject": "bank_14",
+      "rel": "lent_to",
+      "object": "company_1070",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-18",
+          "value_end": "2026-05-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder International Bank Limited lent Priors Group Limited GBP 30 million on 18 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016303",
+      "subject": "company_1072",
+      "rel": "guarantor_for",
+      "object": "company_1070",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Priors Trading Limited guaranteed the loan to Priors Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016302",
+      "subject": "company_1070",
+      "rel": "owes",
+      "object": "bank_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-23",
+          "value_end": "2026-05-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Priors Group Limited owes Alder International Bank Limited GBP 13 million as at 23 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016307",
+      "subject": "company_1070",
+      "rel": "owns",
+      "object": "asset_481",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Priors Group Limited owns Lowmoor Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016308",
+      "subject": "asset_481",
+      "rel": "located_in",
+      "object": "place_177",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Quay is located in Netherby Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016309",
+      "subject": "company_1070",
+      "rel": "party_to",
+      "object": "legal_464",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Group Limited is a party to the Side Letter LEG-464.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016310",
+      "subject": "person_1071",
+      "rel": "signed",
+      "object": "legal_464",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Vera Briar signed the Side Letter LEG-464.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00089_proposal",
+      "text": "The acquisition of Priors Marine Limited by Priors Group Limited",
+      "speaker": "person_93",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Dunmore, chair of Priors Group Limited, proposed to acquire Priors Marine Limited on 16 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00089_approval",
+      "text": "Regulatory approval for the acquisition of Priors Marine Limited",
+      "speaker": "person_93",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Dunmore confirmed that regulatory approval for the acquisition of Priors Marine Limited by Priors Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00089_link_conditional",
+      "src": "gen_doc_00089_proposal",
+      "dst": "gen_doc_00089_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Priors Marine Limited by Priors Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00085_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00089",
+      "surface": "16 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-16",
+      "value_end": "2025-10-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016301",
+      "surface": "18 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-18",
+      "value_end": "2026-05-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "18 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016302",
+      "surface": "23 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-23",
+      "value_end": "2026-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

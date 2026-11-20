@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01332_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "858c4405dbb30e12c2322236d32ca642f4f77ded7b37e42f0c14f86b02a61c69"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_409",
+      "name": "Harrow Bay Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_409",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrow Bay Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_78",
+      "name": "Low Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_78",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2190",
+      "name": "North Maplebury Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2190",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Maplebury Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2191",
+      "name": "North Maplebury Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2191",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Maplebury Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2192",
+      "name": "North Maplebury Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2192",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Maplebury Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_110",
+      "name": "Cairn & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_110",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_372",
+      "name": "Board Resolution LEG-372",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_372",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-372",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-372",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1336",
+      "name": "Anika Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1336",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_798",
+      "name": "Petra Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_798",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_799",
+      "name": "Petra Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_799",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_806",
+      "name": "Petra Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_806",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_37",
+      "name": "Aldergate",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_37",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Aldergate",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033761",
+      "subject": "company_2190",
+      "rel": "owns",
+      "object": "company_2191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Maplebury Capital Limited owns North Maplebury Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033770",
+      "subject": "company_2190",
+      "rel": "owns",
+      "object": "asset_409",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Maplebury Capital Limited owns Harrow Bay Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033771",
+      "subject": "asset_409",
+      "rel": "located_in",
+      "object": "place_37",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Estate is located in Aldergate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033767",
+      "subject": "lawfirm_110",
+      "rel": "represents",
+      "object": "company_2190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Garrow LLP represents North Maplebury Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033762",
+      "subject": "person_806",
+      "rel": "shareholder_of",
+      "object": "company_2190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Hastings is a shareholder of North Maplebury Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033774",
+      "subject": "person_798",
+      "rel": "family_of",
+      "object": "person_799",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Zell is a family member of Petra Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033764",
+      "subject": "bank_78",
+      "rel": "lent_to",
+      "object": "company_2190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-15",
+          "value_end": "2022-11-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Commercial Bank Limited lent North Maplebury Capital Limited GBP 30 million on 15 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033766",
+      "subject": "company_2192",
+      "rel": "guarantor_for",
+      "object": "company_2190",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Maplebury Energy Limited guaranteed the loan to North Maplebury Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033765",
+      "subject": "company_2190",
+      "rel": "owes",
+      "object": "bank_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-20",
+          "value_end": "2022-11-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Maplebury Capital Limited owes Low Commercial Bank Limited GBP 13 million as at 20 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033772",
+      "subject": "company_2190",
+      "rel": "party_to",
+      "object": "legal_372",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Maplebury Capital Limited is a party to the Board Resolution LEG-372.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033773",
+      "subject": "person_799",
+      "rel": "signed",
+      "object": "legal_372",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Ashby signed the Board Resolution LEG-372.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01332_allegation",
+      "text": "A former employee alleged that North Maplebury Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Thorne noted that a former employee alleged that North Maplebury Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01332",
+      "surface": "13 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-13",
+      "value_end": "2026-08-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033764",
+      "surface": "15 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-15",
+      "value_end": "2022-11-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033765",
+      "surface": "20 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-20",
+      "value_end": "2022-11-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01332",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

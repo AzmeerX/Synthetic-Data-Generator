@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00940_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "baa6c4a5117889558e2a2b10fee899526f3b4b91e240c30f268777b4214a80f8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_56",
+      "name": "Dunhollow Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_56",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_121",
+      "name": "Stan Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_121",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1837",
+      "name": "North Hazelmere Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1837",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Hazelmere Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1838",
+      "name": "North Hazelmere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1838",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hazelmere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1839",
+      "name": "North Hazelmere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1839",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_17",
+      "name": "Alden & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_17",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_19",
+      "name": "Services Agreement LEG-019",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_19",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-019",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-019",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_445",
+      "name": "Ivo Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_445",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_446",
+      "name": "Ivo Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_446",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_453",
+      "name": "Ivo Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_453",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_944",
+      "name": "Silas Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_944",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_44",
+      "name": "Hazelmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_44",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hazelmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028256",
+      "subject": "company_1837",
+      "rel": "owns",
+      "object": "company_1838",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hazelmere Industries Limited owns North Hazelmere Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028265",
+      "subject": "company_1837",
+      "rel": "owns",
+      "object": "asset_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Hazelmere Industries Limited owns Dunhollow Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028266",
+      "subject": "asset_56",
+      "rel": "located_in",
+      "object": "place_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Plant is located in Hazelmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028262",
+      "subject": "lawfirm_17",
+      "rel": "represents",
+      "object": "company_1837",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Lorne LLP represents North Hazelmere Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028257",
+      "subject": "person_453",
+      "rel": "shareholder_of",
+      "object": "company_1837",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Ulric is a shareholder of North Hazelmere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028269",
+      "subject": "person_445",
+      "rel": "family_of",
+      "object": "person_446",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Lorne is a family member of Ivo Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028259",
+      "subject": "bank_121",
+      "rel": "lent_to",
+      "object": "company_1837",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-16",
+          "value_end": "2026-03-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Private Bank Limited lent North Hazelmere Industries Limited GBP 44 million on 16 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028261",
+      "subject": "company_1839",
+      "rel": "guarantor_for",
+      "object": "company_1837",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hazelmere Logistics Limited guaranteed the loan to North Hazelmere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028260",
+      "subject": "company_1837",
+      "rel": "owes",
+      "object": "bank_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-21",
+          "value_end": "2026-03-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Hazelmere Industries Limited owes Stan Private Bank Limited GBP 10 million as at 21 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028267",
+      "subject": "company_1837",
+      "rel": "party_to",
+      "object": "legal_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Hazelmere Industries Limited is a party to the Services Agreement LEG-019.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028268",
+      "subject": "person_446",
+      "rel": "signed",
+      "object": "legal_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Mercer signed the Services Agreement LEG-019.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00940_allegation",
+      "text": "A former employee alleged that North Hazelmere Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Yarrow noted that a former employee alleged that North Hazelmere Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00940",
+      "surface": "3 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-03",
+      "value_end": "2025-09-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028259",
+      "surface": "16 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-16",
+      "value_end": "2026-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028260",
+      "surface": "21 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-21",
+      "value_end": "2026-03-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00940",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

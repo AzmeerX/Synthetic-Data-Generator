@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01060_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "cf906fed93476d9e39d583176c65df60eb0fb7e90c2aecfcac0f0727bf8b49b2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_164",
+      "name": "Juniper Cross Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_164",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Juniper Cross Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_97",
+      "name": "Oak Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_97",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oak Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1945",
+      "name": "North Quarrymere Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1945",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Quarrymere Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1946",
+      "name": "North Quarrymere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1946",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1947",
+      "name": "North Quarrymere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1947",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_195",
+      "name": "Oakhurst Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_195",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_11",
+      "name": "Alden & Fenwick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_11",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Fenwick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_125",
+      "name": "Cairn & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_125",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_127",
+      "name": "Power of Attorney LEG-127",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_127",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Power of Attorney LEG-127",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-127",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1064",
+      "name": "Ulric Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1064",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Ulric Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_553",
+      "name": "Kellan Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_553",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_554",
+      "name": "Kellan Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_554",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kellan Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_561",
+      "name": "Kellan Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_561",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_152",
+      "name": "Kelbrook Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_152",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029939",
+      "subject": "company_1945",
+      "rel": "owns",
+      "object": "company_1946",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Industries Limited owns North Quarrymere Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029940",
+      "subject": "person_561",
+      "rel": "shareholder_of",
+      "object": "company_1945",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Everard is a shareholder of North Quarrymere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029952",
+      "subject": "person_553",
+      "rel": "family_of",
+      "object": "person_554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Vale is a family member of Kellan Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029942",
+      "subject": "bank_97",
+      "rel": "lent_to",
+      "object": "company_1945",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-20",
+          "value_end": "2024-10-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oak Private Bank Limited lent North Quarrymere Industries Limited GBP 20 million on 20 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029944",
+      "subject": "company_1947",
+      "rel": "guarantor_for",
+      "object": "company_1945",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Logistics Limited guaranteed the loan to North Quarrymere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029943",
+      "subject": "company_1945",
+      "rel": "owes",
+      "object": "bank_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-25",
+          "value_end": "2024-10-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Quarrymere Industries Limited owes Oak Private Bank Limited GBP 8 million as at 25 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029945",
+      "subject": "lawfirm_125",
+      "rel": "represents",
+      "object": "company_1945",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Ward LLP represents North Quarrymere Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029948",
+      "subject": "company_1945",
+      "rel": "owns",
+      "object": "asset_164",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quarrymere Industries Limited owns Juniper Cross Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029949",
+      "subject": "asset_164",
+      "rel": "located_in",
+      "object": "place_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Hangar is located in Kelbrook Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029950",
+      "subject": "company_1945",
+      "rel": "party_to",
+      "object": "legal_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Quarrymere Industries Limited is a party to the Power of Attorney LEG-127.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029951",
+      "subject": "person_554",
+      "rel": "signed",
+      "object": "legal_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kellan Ward signed the Power of Attorney LEG-127.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01060_proposal",
+      "text": "The acquisition of Oakhurst Group Limited by North Quarrymere Industries Limited",
+      "speaker": "person_1064",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Underwood, chair of North Quarrymere Industries Limited, proposed to acquire Oakhurst Group Limited on 8 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01060_approval",
+      "text": "Regulatory approval for the acquisition of Oakhurst Group Limited",
+      "speaker": "person_1064",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Ulric Underwood confirmed that regulatory approval for the acquisition of Oakhurst Group Limited by North Quarrymere Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01060_link_conditional",
+      "src": "gen_doc_01060_proposal",
+      "dst": "gen_doc_01060_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Oakhurst Group Limited by North Quarrymere Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01060",
+      "surface": "8 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-08",
+      "value_end": "2024-09-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029942",
+      "surface": "20 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-20",
+      "value_end": "2024-10-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "20 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029943",
+      "surface": "25 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-25",
+      "value_end": "2024-10-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "25 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01060",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

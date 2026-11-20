@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00366_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c90e98ccc501f7a5b2fc066c5bfb3c49726c1e348904beaaeb154e491e7b4202"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_19",
+      "name": "Valebrook Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_19",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Valebrook Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_23",
+      "name": "Calderport Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_23",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_03",
+      "name": "Dunmore Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_03",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_132",
+      "name": "Inglemere Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_132",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Inglemere Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_134",
+      "name": "Jarrow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_134",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_12",
+      "name": "Alden & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_12",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_06",
+      "name": "Facility Agreement LEG-006",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_06",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-006",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-006",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_132",
+      "name": "Bastian Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_132",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_133",
+      "name": "Bastian Tremayne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_133",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Tremayne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_140",
+      "name": "Calder Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_140",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_370",
+      "name": "Gideon Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_370",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_19",
+      "name": "Glenport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_19",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001671",
+      "subject": "company_132",
+      "rel": "owns",
+      "object": "asset_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Inglemere Systems Limited owns Valebrook Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001680",
+      "subject": "company_132",
+      "rel": "owns",
+      "object": "asset_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Systems Limited owns Calderport Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001681",
+      "subject": "asset_23",
+      "rel": "located_in",
+      "object": "place_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Terminal is located in Glenport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001677",
+      "subject": "lawfirm_12",
+      "rel": "represents",
+      "object": "company_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Garrow LLP represents Inglemere Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001672",
+      "subject": "person_140",
+      "rel": "shareholder_of",
+      "object": "company_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Alden is a shareholder of Inglemere Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001684",
+      "subject": "person_132",
+      "rel": "family_of",
+      "object": "person_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Sinclair is a family member of Bastian Tremayne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001674",
+      "subject": "bank_03",
+      "rel": "lent_to",
+      "object": "company_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-20",
+          "value_end": "2026-01-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmore Bank Limited lent Inglemere Systems Limited GBP 34 million on 20 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001676",
+      "subject": "company_134",
+      "rel": "guarantor_for",
+      "object": "company_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Industries Limited guaranteed the loan to Inglemere Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001675",
+      "subject": "company_132",
+      "rel": "owes",
+      "object": "bank_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-25",
+          "value_end": "2026-01-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Inglemere Systems Limited owes Dunmore Bank Limited GBP 5 million as at 25 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001682",
+      "subject": "company_132",
+      "rel": "party_to",
+      "object": "legal_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Inglemere Systems Limited is a party to the Facility Agreement LEG-006.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001683",
+      "subject": "person_133",
+      "rel": "signed",
+      "object": "legal_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Tremayne signed the Facility Agreement LEG-006.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00366_allegation",
+      "text": "A former employee alleged that Inglemere Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Kingsley noted that a former employee alleged that Inglemere Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00366",
+      "surface": "12 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-12",
+      "value_end": "2024-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001674",
+      "surface": "20 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-20",
+      "value_end": "2026-01-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001675",
+      "surface": "25 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-25",
+      "value_end": "2026-01-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00366",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

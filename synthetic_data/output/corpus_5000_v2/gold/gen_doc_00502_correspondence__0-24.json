@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00502_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "61ba8207408199fcdf9d8604ce495b1c27575c26bd480451511e0427f292e62e"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_257",
+      "name": "Alderport Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_257",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alderport Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alderport Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_122",
+      "name": "Stan International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_122",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Stan International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Stan International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1442",
+      "name": "Wear Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1442",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1443",
+      "name": "Wear Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1443",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1444",
+      "name": "Wear Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1444",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wear Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1445",
+      "name": "Wear Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1445",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Wear Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1447",
+      "name": "Wear Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1447",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wear Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wear Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_82",
+      "name": "Briar & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_82",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_230",
+      "name": "Loan Note LEG-230",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_230",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-230",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-230",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_50",
+      "name": "Amina Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_50",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_506",
+      "name": "Juno Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_506",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Juno Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_51",
+      "name": "Amina Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_51",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_58",
+      "name": "Amina Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_58",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_09",
+      "name": "Kestrelford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_09",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrelford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022099",
+      "subject": "company_1442",
+      "rel": "owns",
+      "object": "company_1443",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Group Limited owns Wear Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022100",
+      "subject": "person_58",
+      "rel": "shareholder_of",
+      "object": "company_1442",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Sable is a shareholder of Wear Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022112",
+      "subject": "person_50",
+      "rel": "family_of",
+      "object": "person_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Jarvis is a family member of Amina Lorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022102",
+      "subject": "bank_122",
+      "rel": "lent_to",
+      "object": "company_1442",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-14",
+          "value_end": "2023-08-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Stan International Bank Limited lent Wear Group Limited GBP 14 million on 14 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022104",
+      "subject": "company_1444",
+      "rel": "guarantor_for",
+      "object": "company_1442",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wear Trading Limited guaranteed the loan to Wear Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022103",
+      "subject": "company_1442",
+      "rel": "owes",
+      "object": "bank_122",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-08-19",
+          "value_end": "2023-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Wear Group Limited owes Stan International Bank Limited GBP 5 million as at 19 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022108",
+      "subject": "company_1442",
+      "rel": "owns",
+      "object": "asset_257",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Wear Group Limited owns Alderport Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022109",
+      "subject": "asset_257",
+      "rel": "located_in",
+      "object": "place_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alderport Warehouse is located in Kestrelford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022110",
+      "subject": "company_1442",
+      "rel": "party_to",
+      "object": "legal_230",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wear Group Limited is a party to the Loan Note LEG-230.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022111",
+      "subject": "person_51",
+      "rel": "signed",
+      "object": "legal_230",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Lorne signed the Loan Note LEG-230.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00502_proposal",
+      "text": "The acquisition of Wear Marine Limited by Wear Group Limited",
+      "speaker": "person_506",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Juno Yarrow, chair of Wear Group Limited, proposed to acquire Wear Marine Limited on 19 February 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00502_approval",
+      "text": "Regulatory approval for the acquisition of Wear Marine Limited",
+      "speaker": "person_506",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Yarrow confirmed that regulatory approval for the acquisition of Wear Marine Limited by Wear Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00502_link_conditional",
+      "src": "gen_doc_00502_proposal",
+      "dst": "gen_doc_00502_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Wear Marine Limited by Wear Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00498_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00502",
+      "surface": "19 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-19",
+      "value_end": "2027-02-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022102",
+      "surface": "14 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-14",
+      "value_end": "2023-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "14 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022103",
+      "surface": "19 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-19",
+      "value_end": "2023-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "19 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

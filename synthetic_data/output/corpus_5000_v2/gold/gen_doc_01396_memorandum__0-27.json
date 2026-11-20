@@ -1,0 +1,638 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01396_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "cc96038620c289a64fe6d29bfc57baa721ee3bf45f84dbfdc66b68026e4259c2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_463",
+      "name": "Kelbrook Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_463",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_467",
+      "name": "Kelbrook Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_467",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kelbrook Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_03",
+      "name": "Dunmore Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_03",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2248",
+      "name": "North Ravensby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2248",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2250",
+      "name": "North Ravensby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2250",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Ravensby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2252",
+      "name": "North Ravensby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2252",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Ravensby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Ravensby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_38",
+      "name": "Alden & Hastings LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_38",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Hastings LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_66",
+      "name": "Briar & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_66",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_430",
+      "name": "Licence LEG-430",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_430",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Licence LEG-430",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-430",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_856",
+      "name": "Quin Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_856",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_857",
+      "name": "Quin Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_857",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Jeffreys",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Quin Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_864",
+      "name": "Quin Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_864",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_95",
+      "name": "Carrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_95",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034665",
+      "subject": "company_2248",
+      "rel": "owns",
+      "object": "asset_463",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Trading Limited owns Kelbrook Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034666",
+      "subject": "person_864",
+      "rel": "shareholder_of",
+      "object": "company_2248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Ravenscroft is a shareholder of North Ravensby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034678",
+      "subject": "person_856",
+      "rel": "family_of",
+      "object": "person_857",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Ingram is a family member of Quin Jeffreys.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034668",
+      "subject": "bank_03",
+      "rel": "lent_to",
+      "object": "company_2248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-08-14",
+          "value_end": "2024-08-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited lent North Ravensby Trading Limited GBP 26 million on 14 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034670",
+      "subject": "company_2250",
+      "rel": "guarantor_for",
+      "object": "company_2248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Ravensby Capital Limited guaranteed the loan to North Ravensby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034669",
+      "subject": "company_2248",
+      "rel": "owes",
+      "object": "bank_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-08-19",
+          "value_end": "2024-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Ravensby Trading Limited owes Dunmore Bank Limited GBP 11 million as at 19 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034671",
+      "subject": "lawfirm_38",
+      "rel": "represents",
+      "object": "company_2248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Hastings LLP represents North Ravensby Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034674",
+      "subject": "company_2248",
+      "rel": "owns",
+      "object": "asset_467",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ravensby Trading Limited owns Kelbrook Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034675",
+      "subject": "asset_467",
+      "rel": "located_in",
+      "object": "place_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Dock is located in Carrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034676",
+      "subject": "company_2248",
+      "rel": "party_to",
+      "object": "legal_430",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Ravensby Trading Limited is a party to the Licence LEG-430.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034677",
+      "subject": "person_857",
+      "rel": "signed",
+      "object": "legal_430",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Quin Jeffreys signed the Licence LEG-430.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01396_proposal",
+      "text": "The acquisition of North Ravensby Energy Limited by North Ravensby Trading Limited",
+      "speaker": "person_08",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Zell of the Compliance Department, chair of North Ravensby Trading Limited, proposed to acquire North Ravensby Energy Limited on 22 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01396_approval",
+      "text": "Regulatory approval for the acquisition of North Ravensby Energy Limited",
+      "speaker": "person_08",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Nadia Zell of the Compliance Department confirmed that regulatory approval for the acquisition of North Ravensby Energy Limited by North Ravensby Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01396_link_conditional",
+      "src": "gen_doc_01396_proposal",
+      "dst": "gen_doc_01396_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Ravensby Energy Limited by North Ravensby Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01396",
+      "surface": "22 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-22",
+      "value_end": "2024-07-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034668",
+      "surface": "14 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-14",
+      "value_end": "2024-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034669",
+      "surface": "19 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-19",
+      "value_end": "2024-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01396",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

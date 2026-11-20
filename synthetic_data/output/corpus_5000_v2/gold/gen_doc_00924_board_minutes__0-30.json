@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00924_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "f44169bfc939fb8a337909be4de303f41c7d1c95b3d0ed08ea1f39bda5654e94"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_41",
+      "name": "Dunhollow Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_41",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Dunhollow Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_106",
+      "name": "Quill Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_106",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1822",
+      "name": "North Fallow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1822",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fallow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1823",
+      "name": "North Fallow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1823",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Fallow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1824",
+      "name": "North Grimsdale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1824",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1827",
+      "name": "North Grimsdale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1827",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Grimsdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Grimsdale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_02",
+      "name": "Marlowe & Reed LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_02",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_104",
+      "name": "Briar & Zouch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_104",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Zouch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_04",
+      "name": "Facility Agreement LEG-004",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_04",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-004",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-004",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_430",
+      "name": "Hana Villiers",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_430",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_431",
+      "name": "Hana Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_431",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_433",
+      "name": "Hana Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_433",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_435",
+      "name": "Ivo Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_435",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ivo Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_438",
+      "name": "Ivo Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_438",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_928",
+      "name": "Silas Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_928",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_29",
+      "name": "Quintrell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_29",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Quintrell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028024",
+      "subject": "company_1822",
+      "rel": "owns",
+      "object": "company_1823",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Fallow Ventures Limited owns North Fallow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028026",
+      "subject": "person_433",
+      "rel": "chair_of",
+      "object": "company_1822",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Yardley is the chair of North Fallow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028025",
+      "subject": "person_438",
+      "rel": "shareholder_of",
+      "object": "company_1822",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Ellery is a shareholder of North Fallow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028037",
+      "subject": "person_430",
+      "rel": "family_of",
+      "object": "person_431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Villiers is a family member of Hana Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028027",
+      "subject": "bank_106",
+      "rel": "lent_to",
+      "object": "company_1822",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-02",
+          "value_end": "2025-10-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Merchant Bank Limited lent North Fallow Ventures Limited GBP 14 million on 2 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028029",
+      "subject": "company_1824",
+      "rel": "guarantor_for",
+      "object": "company_1822",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Grimsdale Holdings Limited guaranteed the loan to North Fallow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028028",
+      "subject": "company_1822",
+      "rel": "owes",
+      "object": "bank_106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-07",
+          "value_end": "2025-10-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fallow Ventures Limited owes Quill Merchant Bank Limited GBP 5 million as at 7 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028030",
+      "subject": "lawfirm_02",
+      "rel": "represents",
+      "object": "company_1822",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Marlowe & Reed LLP represents North Fallow Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028033",
+      "subject": "company_1822",
+      "rel": "owns",
+      "object": "asset_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Fallow Ventures Limited owns Dunhollow Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028034",
+      "subject": "asset_41",
+      "rel": "located_in",
+      "object": "place_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Dunhollow Wharf is located in Quintrell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028035",
+      "subject": "company_1822",
+      "rel": "party_to",
+      "object": "legal_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Fallow Ventures Limited is a party to the Facility Agreement LEG-004.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028036",
+      "subject": "person_431",
+      "rel": "signed",
+      "object": "legal_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Whitlock signed the Facility Agreement LEG-004.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00924_proposal",
+      "text": "The acquisition of North Grimsdale Logistics Limited by North Fallow Ventures Limited",
+      "speaker": "person_928",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Hale, chair of North Fallow Ventures Limited, proposed to acquire North Grimsdale Logistics Limited on 14 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00924_approval",
+      "text": "Regulatory approval for the acquisition of North Grimsdale Logistics Limited",
+      "speaker": "person_928",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Hale confirmed that regulatory approval for the acquisition of North Grimsdale Logistics Limited by North Fallow Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00924_link_conditional",
+      "src": "gen_doc_00924_proposal",
+      "dst": "gen_doc_00924_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Grimsdale Logistics Limited by North Fallow Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00924",
+      "surface": "14 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-14",
+      "value_end": "2025-05-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028027",
+      "surface": "2 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-02",
+      "value_end": "2025-10-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "2 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028028",
+      "surface": "7 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-07",
+      "value_end": "2025-10-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "7 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00924",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

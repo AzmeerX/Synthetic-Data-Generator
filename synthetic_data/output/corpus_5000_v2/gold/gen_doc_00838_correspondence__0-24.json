@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00838_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "8bdc5e0894926efe88f9d33eb5c3c190c16cb66d6f46bcaac1873ba3b2c80dff"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_560",
+      "name": "Pemberton Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_560",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_29",
+      "name": "Denmoor Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_29",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1745",
+      "name": "North Yarmouth Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1745",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1746",
+      "name": "North Yarmouth Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1746",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1747",
+      "name": "North Yarmouth Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1747",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Yarmouth Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1748",
+      "name": "North Yarmouth Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1748",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Yarmouth Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_175",
+      "name": "Merrivale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_175",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Merrivale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Merrivale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_533",
+      "name": "Security Agreement LEG-533",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_533",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-533",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-533",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_353",
+      "name": "Gideon Sable",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_353",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_354",
+      "name": "Gideon Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_354",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_361",
+      "name": "Gideon Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_361",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_842",
+      "name": "Quin Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_842",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Quin Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Quin Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_132",
+      "name": "Harrowden Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_132",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026822",
+      "subject": "company_1745",
+      "rel": "owns",
+      "object": "company_1746",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Partners Limited owns North Yarmouth Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026823",
+      "subject": "person_361",
+      "rel": "shareholder_of",
+      "object": "company_1745",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Balfour is a shareholder of North Yarmouth Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026835",
+      "subject": "person_353",
+      "rel": "family_of",
+      "object": "person_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Sable is a family member of Gideon Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026825",
+      "subject": "bank_29",
+      "rel": "lent_to",
+      "object": "company_1745",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-08",
+          "value_end": "2023-06-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Trust Bank Limited lent North Yarmouth Partners Limited GBP 20 million on 8 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026827",
+      "subject": "company_1747",
+      "rel": "guarantor_for",
+      "object": "company_1745",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Yarmouth Marine Limited guaranteed the loan to North Yarmouth Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026826",
+      "subject": "company_1745",
+      "rel": "owes",
+      "object": "bank_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-13",
+          "value_end": "2023-06-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Yarmouth Partners Limited owes Denmoor Trust Bank Limited GBP 8 million as at 13 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026831",
+      "subject": "company_1745",
+      "rel": "owns",
+      "object": "asset_560",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Partners Limited owns Pemberton Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026832",
+      "subject": "asset_560",
+      "rel": "located_in",
+      "object": "place_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Hangar is located in Harrowden Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026833",
+      "subject": "company_1745",
+      "rel": "party_to",
+      "object": "legal_533",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Partners Limited is a party to the Security Agreement LEG-533.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026834",
+      "subject": "person_354",
+      "rel": "signed",
+      "object": "legal_533",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Thorne signed the Security Agreement LEG-533.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00838_proposal",
+      "text": "The acquisition of Merrivale Capital Limited by North Yarmouth Partners Limited",
+      "speaker": "person_842",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Quin Thorne, chair of North Yarmouth Partners Limited, proposed to acquire Merrivale Capital Limited on 2 January 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00838_approval",
+      "text": "Regulatory approval for the acquisition of Merrivale Capital Limited",
+      "speaker": "person_842",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Quin Thorne confirmed that regulatory approval for the acquisition of Merrivale Capital Limited by North Yarmouth Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00838_link_conditional",
+      "src": "gen_doc_00838_proposal",
+      "dst": "gen_doc_00838_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Merrivale Capital Limited by North Yarmouth Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00834_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00838",
+      "surface": "2 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-02",
+      "value_end": "2027-01-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026825",
+      "surface": "8 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-08",
+      "value_end": "2023-06-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "8 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026826",
+      "surface": "13 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-13",
+      "value_end": "2023-06-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "13 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

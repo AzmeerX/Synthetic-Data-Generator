@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00796_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "1335dd470715b61cf9e6e6944aaf1f7d2a8b79c23317db5f2ed8dc60b8938c34"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_522",
+      "name": "Netherby Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_522",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_123",
+      "name": "Tarrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_123",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tarrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1707",
+      "name": "North Uldale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1707",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Uldale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1708",
+      "name": "North Uldale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1708",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1709",
+      "name": "North Uldale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1709",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Uldale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_171",
+      "name": "Merrivale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_171",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Merrivale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1711",
+      "name": "North Uldale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1711",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_106",
+      "name": "Cairn & Briar LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_106",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Briar LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Briar LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_495",
+      "name": "Power of Attorney LEG-495",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_495",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Power of Attorney LEG-495",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Power of Attorney LEG-495",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_315",
+      "name": "Farah Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_315",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_316",
+      "name": "Farah Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_316",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_323",
+      "name": "Farah Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_323",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_800",
+      "name": "Petra Balfour",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_800",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Petra Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Petra Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_94",
+      "name": "Carrow Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_94",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026230",
+      "subject": "company_1707",
+      "rel": "owns",
+      "object": "company_1708",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Logistics Limited owns North Uldale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026231",
+      "subject": "person_323",
+      "rel": "shareholder_of",
+      "object": "company_1707",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Montague is a shareholder of North Uldale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026243",
+      "subject": "person_315",
+      "rel": "family_of",
+      "object": "person_316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Everard is a family member of Farah Fairfax.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026233",
+      "subject": "bank_123",
+      "rel": "lent_to",
+      "object": "company_1707",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-04-16",
+          "value_end": "2022-04-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tarrow Bank Limited lent North Uldale Logistics Limited GBP 24 million on 16 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026235",
+      "subject": "company_1709",
+      "rel": "guarantor_for",
+      "object": "company_1707",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Uldale Partners Limited guaranteed the loan to North Uldale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026234",
+      "subject": "company_1707",
+      "rel": "owes",
+      "object": "bank_123",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-04-21",
+          "value_end": "2022-04-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Uldale Logistics Limited owes Tarrow Bank Limited GBP 10 million as at 21 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026239",
+      "subject": "company_1707",
+      "rel": "owns",
+      "object": "asset_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Uldale Logistics Limited owns Netherby Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026240",
+      "subject": "asset_522",
+      "rel": "located_in",
+      "object": "place_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Marina is located in Carrow Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026241",
+      "subject": "company_1707",
+      "rel": "party_to",
+      "object": "legal_495",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Logistics Limited is a party to the Power of Attorney LEG-495.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026242",
+      "subject": "person_316",
+      "rel": "signed",
+      "object": "legal_495",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Fairfax signed the Power of Attorney LEG-495.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00796_proposal",
+      "text": "The acquisition of North Uldale Marine Limited by North Uldale Logistics Limited",
+      "speaker": "person_800",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Petra Balfour, chair of North Uldale Logistics Limited, proposed to acquire North Uldale Marine Limited on 14 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00796_approval",
+      "text": "Regulatory approval for the acquisition of North Uldale Marine Limited",
+      "speaker": "person_800",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Petra Balfour confirmed that regulatory approval for the acquisition of North Uldale Marine Limited by North Uldale Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00796_link_conditional",
+      "src": "gen_doc_00796_proposal",
+      "dst": "gen_doc_00796_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Uldale Marine Limited by North Uldale Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00792_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00796",
+      "surface": "14 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-14",
+      "value_end": "2026-03-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026233",
+      "surface": "16 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-16",
+      "value_end": "2022-04-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "16 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026234",
+      "surface": "21 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-21",
+      "value_end": "2022-04-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "21 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

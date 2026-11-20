@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00845_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "e52ebaf6b8d72d1f3b0aba1f045c57a356e0f137885c3fce3c2d0cbae00e853f"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_566",
+      "name": "Pemberton Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_566",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_35",
+      "name": "Elm Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_35",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elm Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Elm Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1751",
+      "name": "North Yarmouth Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1751",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Yarmouth Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1752",
+      "name": "North Aldergate Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1752",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1753",
+      "name": "North Aldergate Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1753",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Aldergate Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1754",
+      "name": "North Aldergate Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1754",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Aldergate Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1756",
+      "name": "North Aldergate Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1756",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Aldergate Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Aldergate Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_35",
+      "name": "Alden & Everard LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_35",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Everard LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Everard LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_539",
+      "name": "Debenture LEG-539",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_539",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Debenture LEG-539",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Debenture LEG-539",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_359",
+      "name": "Gideon Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_359",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_360",
+      "name": "Gideon Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_360",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_367",
+      "name": "Gideon Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_367",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_849",
+      "name": "Quin Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_849",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Quin Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Quin Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_138",
+      "name": "Inglemere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_138",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inglemere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026915",
+      "subject": "company_1751",
+      "rel": "owns",
+      "object": "company_1752",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Systems Limited owns North Aldergate Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026916",
+      "subject": "person_367",
+      "rel": "shareholder_of",
+      "object": "company_1751",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Hastings is a shareholder of North Yarmouth Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026928",
+      "subject": "person_359",
+      "rel": "family_of",
+      "object": "person_360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Zell is a family member of Gideon Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026918",
+      "subject": "bank_35",
+      "rel": "lent_to",
+      "object": "company_1751",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-13",
+          "value_end": "2023-08-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elm Trust Bank Limited lent North Yarmouth Systems Limited GBP 32 million on 13 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026920",
+      "subject": "company_1753",
+      "rel": "guarantor_for",
+      "object": "company_1751",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Aldergate Industries Limited guaranteed the loan to North Yarmouth Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026919",
+      "subject": "company_1751",
+      "rel": "owes",
+      "object": "bank_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-08-18",
+          "value_end": "2023-08-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Yarmouth Systems Limited owes Elm Trust Bank Limited GBP 4 million as at 18 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026924",
+      "subject": "company_1751",
+      "rel": "owns",
+      "object": "asset_566",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Systems Limited owns Pemberton Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026925",
+      "subject": "asset_566",
+      "rel": "located_in",
+      "object": "place_138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Mill is located in Inglemere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026926",
+      "subject": "company_1751",
+      "rel": "party_to",
+      "object": "legal_539",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Systems Limited is a party to the Debenture LEG-539.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026927",
+      "subject": "person_360",
+      "rel": "signed",
+      "object": "legal_539",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Ashby signed the Debenture LEG-539.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00845_proposal",
+      "text": "The acquisition of North Aldergate Trading Limited by North Yarmouth Systems Limited",
+      "speaker": "person_849",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Quin Balfour, chair of North Yarmouth Systems Limited, proposed to acquire North Aldergate Trading Limited on 20 February 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00845_approval",
+      "text": "Regulatory approval for the acquisition of North Aldergate Trading Limited",
+      "speaker": "person_849",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Quin Balfour confirmed that regulatory approval for the acquisition of North Aldergate Trading Limited by North Yarmouth Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00845_link_conditional",
+      "src": "gen_doc_00845_proposal",
+      "dst": "gen_doc_00845_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Aldergate Trading Limited by North Yarmouth Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00841_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00845",
+      "surface": "20 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-20",
+      "value_end": "2027-02-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026918",
+      "surface": "13 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-13",
+      "value_end": "2023-08-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "13 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026919",
+      "surface": "18 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-18",
+      "value_end": "2023-08-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

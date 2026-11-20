@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01054_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "f58b093776a79a891b46ac3776a3bd6a8efb056fda9aa95da292ee7bc37dd11b"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_194",
+      "name": "Oakhurst Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_194",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Oakhurst Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1942",
+      "name": "North Penhurst Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1942",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Penhurst Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Penhurst Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_195",
+      "name": "Oakhurst Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_195",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_196",
+      "name": "Oakhurst Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_196",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_68",
+      "name": "Board Resolution LEG-068",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_68",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Board Resolution LEG-068",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Board Resolution LEG-068",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1058",
+      "name": "Ulric Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1058",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_194",
+      "name": "Daria Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_194",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_195",
+      "name": "Daria Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_195",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Daria Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_197",
+      "name": "Daria Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_197",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_202",
+      "name": "Daria Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_202",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Daria Nyle",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002650",
+      "subject": "company_194",
+      "rel": "party_to",
+      "object": "legal_68",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Industries Limited is a party to the Board Resolution LEG-068.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002651",
+      "subject": "person_195",
+      "rel": "signed",
+      "object": "legal_68",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Daria Fenwick signed the Board Resolution LEG-068.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002641",
+      "subject": "person_197",
+      "rel": "chair_of",
+      "object": "company_194",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Ivers is the chair of Oakhurst Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002642",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_194",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-04-08",
+          "value_end": "2023-04-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silvergate Bank Limited lent Oakhurst Industries Limited GBP 38 million on 8 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002644",
+      "subject": "company_196",
+      "rel": "guarantor_for",
+      "object": "company_194",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Logistics Limited guaranteed the loan to Oakhurst Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002643",
+      "subject": "company_194",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-13",
+          "value_end": "2023-04-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Industries Limited owes Silvergate Bank Limited GBP 7 million as at 13 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002640",
+      "subject": "person_202",
+      "rel": "shareholder_of",
+      "object": "company_194",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Daria Nyle is a shareholder of Oakhurst Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002652",
+      "subject": "person_194",
+      "rel": "family_of",
+      "object": "person_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Ellery is a family member of Daria Fenwick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002639",
+      "subject": "company_194",
+      "rel": "owns",
+      "object": "company_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Industries Limited owns Oakhurst Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01054_neg_guarantee",
+      "subject": "company_194",
+      "rel": "guarantor_for",
+      "object": "company_1942",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Industries Limited did not guarantee the facility for North Penhurst Ventures Limited on 28 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01054_allegation",
+      "text": "A former employee alleged that Oakhurst Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Neville noted that a former employee alleged that Oakhurst Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01054",
+      "surface": "28 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-28",
+      "value_end": "2024-07-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002642",
+      "surface": "8 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-08",
+      "value_end": "2023-04-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "8 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002643",
+      "surface": "13 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-13",
+      "value_end": "2023-04-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "13 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01054",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-01-28",
+      "value_end": "2025-01-28",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

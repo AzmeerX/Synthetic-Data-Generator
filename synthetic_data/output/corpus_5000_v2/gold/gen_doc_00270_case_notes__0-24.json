@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00270_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "6b5f5597f9e6e008fb6fe6a53e12a560666752dff367e4eba24db132a2a4c753"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_45",
+      "name": "Glen Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_45",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Glen Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Glen Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1233",
+      "name": "Ennerdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1233",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ennerdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1234",
+      "name": "Ennerdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1234",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1235",
+      "name": "Ennerdale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1235",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ennerdale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1236",
+      "name": "Fermanagh Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1236",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fermanagh Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Fermanagh Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_21",
+      "name": "Services Agreement LEG-021",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_21",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Services Agreement LEG-021",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Services Agreement LEG-021",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1233",
+      "name": "Yara Orrick",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1233",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yara Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1234",
+      "name": "Yara Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1234",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yara Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yara Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1236",
+      "name": "Yara Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1236",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1241",
+      "name": "Yara Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1241",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yara Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_274",
+      "name": "Elias Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_274",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Langford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018849",
+      "subject": "company_1233",
+      "rel": "party_to",
+      "object": "legal_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Property Limited is a party to the Services Agreement LEG-021.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018850",
+      "subject": "person_1234",
+      "rel": "signed",
+      "object": "legal_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yara Pell signed the Services Agreement LEG-021.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018840",
+      "subject": "person_1236",
+      "rel": "chair_of",
+      "object": "company_1233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Sable is the chair of Ennerdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018841",
+      "subject": "bank_45",
+      "rel": "lent_to",
+      "object": "company_1233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-08-19",
+          "value_end": "2026-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Glen Bank Limited lent Ennerdale Property Limited GBP 36 million on 19 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018843",
+      "subject": "company_1235",
+      "rel": "guarantor_for",
+      "object": "company_1233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ennerdale Systems Limited guaranteed the loan to Ennerdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018842",
+      "subject": "company_1233",
+      "rel": "owes",
+      "object": "bank_45",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-24",
+          "value_end": "2026-08-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Property Limited owes Glen Bank Limited GBP 6 million as at 24 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018839",
+      "subject": "person_1241",
+      "rel": "shareholder_of",
+      "object": "company_1233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yara Yarrow is a shareholder of Ennerdale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018851",
+      "subject": "person_1233",
+      "rel": "family_of",
+      "object": "person_1234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yara Orrick is a family member of Yara Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018838",
+      "subject": "company_1233",
+      "rel": "owns",
+      "object": "company_1234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Property Limited owns Ennerdale Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00270_neg_guarantee",
+      "subject": "company_1233",
+      "rel": "guarantor_for",
+      "object": "company_1236",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ennerdale Property Limited did not guarantee the facility for Fermanagh Holdings Limited on 22 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00270_allegation",
+      "text": "A former employee alleged that Ennerdale Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Langford noted that a former employee alleged that Ennerdale Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00270",
+      "surface": "22 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-22",
+      "value_end": "2025-12-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018841",
+      "surface": "19 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-19",
+      "value_end": "2026-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "19 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018842",
+      "surface": "24 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-24",
+      "value_end": "2026-08-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "24 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00270",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2026-06-22",
+      "value_end": "2026-06-22",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

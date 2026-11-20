@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00768_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "21896f853239d3d8b9a6371e5e201339786482e423c2940297c9f8d09320ed04"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_497",
+      "name": "Merrivale Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_497",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merrivale Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_98",
+      "name": "Oak International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_98",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oak International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oak International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1682",
+      "name": "North Stanbrook Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1682",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1683",
+      "name": "North Stanbrook Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1683",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Stanbrook Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1684",
+      "name": "North Stanbrook Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1684",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Stanbrook Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1685",
+      "name": "North Stanbrook Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1685",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Stanbrook Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1687",
+      "name": "North Stanbrook Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1687",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Stanbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Stanbrook Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_88",
+      "name": "Briar & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_88",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Ingram LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_470",
+      "name": "Loan Note LEG-470",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_470",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-470",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-470",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_290",
+      "name": "Farah Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_290",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_291",
+      "name": "Farah Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_291",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_298",
+      "name": "Farah Kerr",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_298",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_772",
+      "name": "Oren Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_772",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oren Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Oren Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_69",
+      "name": "Inkberrow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_69",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inkberrow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025842",
+      "subject": "company_1682",
+      "rel": "owns",
+      "object": "company_1683",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Stanbrook Group Limited owns North Stanbrook Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025843",
+      "subject": "person_298",
+      "rel": "shareholder_of",
+      "object": "company_1682",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Kerr is a shareholder of North Stanbrook Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025855",
+      "subject": "person_290",
+      "rel": "family_of",
+      "object": "person_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Cairn is a family member of Farah Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025845",
+      "subject": "bank_98",
+      "rel": "lent_to",
+      "object": "company_1682",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-11",
+          "value_end": "2026-03-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oak International Bank Limited lent North Stanbrook Group Limited GBP 14 million on 11 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025847",
+      "subject": "company_1684",
+      "rel": "guarantor_for",
+      "object": "company_1682",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Stanbrook Trading Limited guaranteed the loan to North Stanbrook Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025846",
+      "subject": "company_1682",
+      "rel": "owes",
+      "object": "bank_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-16",
+          "value_end": "2026-03-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Stanbrook Group Limited owes Oak International Bank Limited GBP 5 million as at 16 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025851",
+      "subject": "company_1682",
+      "rel": "owns",
+      "object": "asset_497",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Stanbrook Group Limited owns Merrivale Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025852",
+      "subject": "asset_497",
+      "rel": "located_in",
+      "object": "place_69",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Warehouse is located in Inkberrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025853",
+      "subject": "company_1682",
+      "rel": "party_to",
+      "object": "legal_470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Group Limited is a party to the Loan Note LEG-470.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025854",
+      "subject": "person_291",
+      "rel": "signed",
+      "object": "legal_470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Dunmore signed the Loan Note LEG-470.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00768_proposal",
+      "text": "The acquisition of North Stanbrook Marine Limited by North Stanbrook Group Limited",
+      "speaker": "person_772",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oren Whitlock, chair of North Stanbrook Group Limited, proposed to acquire North Stanbrook Marine Limited on 30 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00768_approval",
+      "text": "Regulatory approval for the acquisition of North Stanbrook Marine Limited",
+      "speaker": "person_772",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Oren Whitlock confirmed that regulatory approval for the acquisition of North Stanbrook Marine Limited by North Stanbrook Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00768_link_conditional",
+      "src": "gen_doc_00768_proposal",
+      "dst": "gen_doc_00768_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Stanbrook Marine Limited by North Stanbrook Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00764_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00768",
+      "surface": "30 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-30",
+      "value_end": "2025-08-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025845",
+      "surface": "11 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-11",
+      "value_end": "2026-03-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "11 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025846",
+      "surface": "16 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-16",
+      "value_end": "2026-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "16 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01248_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e212d2d5974c89d9e83e67d7d3d8d5a1cc61394867420bb0e161badbe7a7cf5a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_333",
+      "name": "Elmford Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_333",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elmford Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2114",
+      "name": "North Gorse Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2114",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Gorse Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2115",
+      "name": "North Gorse Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2115",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Gorse Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2116",
+      "name": "North Gorse Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2116",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Gorse Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_34",
+      "name": "Alden & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_34",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_296",
+      "name": "Lease LEG-296",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_296",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-296",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-296",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1252",
+      "name": "Yara Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1252",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_722",
+      "name": "Nadia Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_722",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_723",
+      "name": "Nadia Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_723",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_730",
+      "name": "Oren Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_730",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_141",
+      "name": "Inglemere Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_141",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Inglemere Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032577",
+      "subject": "company_2114",
+      "rel": "owns",
+      "object": "company_2115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Gorse Group Limited owns North Gorse Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032586",
+      "subject": "company_2114",
+      "rel": "owns",
+      "object": "asset_333",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Gorse Group Limited owns Elmford Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032587",
+      "subject": "asset_333",
+      "rel": "located_in",
+      "object": "place_141",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Rail Depot is located in Inglemere Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032583",
+      "subject": "lawfirm_34",
+      "rel": "represents",
+      "object": "company_2114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Delacourt LLP represents North Gorse Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032578",
+      "subject": "person_730",
+      "rel": "shareholder_of",
+      "object": "company_2114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Dunmore is a shareholder of North Gorse Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032590",
+      "subject": "person_722",
+      "rel": "family_of",
+      "object": "person_723",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Villiers is a family member of Nadia Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032580",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_2114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-28",
+          "value_end": "2025-03-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited lent North Gorse Group Limited GBP 38 million on 28 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032582",
+      "subject": "company_2116",
+      "rel": "guarantor_for",
+      "object": "company_2114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Gorse Trading Limited guaranteed the loan to North Gorse Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032581",
+      "subject": "company_2114",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-02",
+          "value_end": "2025-04-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Gorse Group Limited owes Silvergate Bank Limited GBP 7 million as at 2 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032588",
+      "subject": "company_2114",
+      "rel": "party_to",
+      "object": "legal_296",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Gorse Group Limited is a party to the Lease LEG-296.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032589",
+      "subject": "person_723",
+      "rel": "signed",
+      "object": "legal_296",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Whitlock signed the Lease LEG-296.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01248_allegation",
+      "text": "A former employee alleged that North Gorse Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Jeffreys noted that a former employee alleged that North Gorse Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01248",
+      "surface": "2 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-02",
+      "value_end": "2025-01-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032580",
+      "surface": "28 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-28",
+      "value_end": "2025-03-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032581",
+      "surface": "2 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-02",
+      "value_end": "2025-04-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "2 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01248",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

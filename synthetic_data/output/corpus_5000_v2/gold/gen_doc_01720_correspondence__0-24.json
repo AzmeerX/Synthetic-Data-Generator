@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01720_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "9061c82a79d9439df5464a90f156e066563943c6d72b4af674669d6ecd90cc01"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_185",
+      "name": "Kestrelford Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_185",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kestrelford Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrelford Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_374",
+      "name": "Fallow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_374",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Fallow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_375",
+      "name": "Fallow Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_375",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_376",
+      "name": "Fallow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_376",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Fallow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_377",
+      "name": "Fallow Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_377",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Fallow Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_379",
+      "name": "Fallow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_379",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Fallow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Fallow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_119",
+      "name": "Cairn & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_119",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Pell LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_168",
+      "name": "Lease LEG-168",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_168",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-168",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lease LEG-168",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_332",
+      "name": "Farah Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_332",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_374",
+      "name": "Gideon Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_374",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_375",
+      "name": "Gideon Pemberton",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_375",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_382",
+      "name": "Gideon Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_382",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_81",
+      "name": "Belmont Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_81",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Belmont Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005446",
+      "subject": "company_374",
+      "rel": "owns",
+      "object": "company_375",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Industries Limited owns Fallow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005447",
+      "subject": "person_382",
+      "rel": "shareholder_of",
+      "object": "company_374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Wyndham is a shareholder of Fallow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005459",
+      "subject": "person_374",
+      "rel": "family_of",
+      "object": "person_375",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Osborne is a family member of Gideon Pemberton.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005449",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-13",
+          "value_end": "2024-01-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Merchant Bank Limited lent Fallow Industries Limited GBP 38 million on 13 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005451",
+      "subject": "company_376",
+      "rel": "guarantor_for",
+      "object": "company_374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Fallow Logistics Limited guaranteed the loan to Fallow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005450",
+      "subject": "company_374",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-18",
+          "value_end": "2024-01-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fallow Industries Limited owes Alder Merchant Bank Limited GBP 7 million as at 18 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005455",
+      "subject": "company_374",
+      "rel": "owns",
+      "object": "asset_185",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fallow Industries Limited owns Kestrelford Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005456",
+      "subject": "asset_185",
+      "rel": "located_in",
+      "object": "place_81",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrelford Marina is located in Belmont Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005457",
+      "subject": "company_374",
+      "rel": "party_to",
+      "object": "legal_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Industries Limited is a party to the Lease LEG-168.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005458",
+      "subject": "person_375",
+      "rel": "signed",
+      "object": "legal_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Pemberton signed the Lease LEG-168.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01720_proposal",
+      "text": "The acquisition of Fallow Capital Limited by Fallow Industries Limited",
+      "speaker": "person_332",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Whitlock, chair of Fallow Industries Limited, proposed to acquire Fallow Capital Limited on 12 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01720_approval",
+      "text": "Regulatory approval for the acquisition of Fallow Capital Limited",
+      "speaker": "person_332",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Whitlock confirmed that regulatory approval for the acquisition of Fallow Capital Limited by Fallow Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01720_link_conditional",
+      "src": "gen_doc_01720_proposal",
+      "dst": "gen_doc_01720_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Fallow Capital Limited by Fallow Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01716_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01720",
+      "surface": "12 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-12",
+      "value_end": "2024-03-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005449",
+      "surface": "13 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-13",
+      "value_end": "2024-01-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "13 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005450",
+      "surface": "18 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-18",
+      "value_end": "2024-01-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

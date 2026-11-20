@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00961_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "21b312c6c0841fe9031b77bf798ce79c0a86fe230aba1086266acc09ee0f0e45"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_71",
+      "name": "Eastmere Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_71",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Eastmere Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_75",
+      "name": "Eastmere Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_75",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1856",
+      "name": "North Ivybridge Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1856",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Ivybridge Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1858",
+      "name": "North Ivybridge Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1858",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ivybridge Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_36",
+      "name": "Alden & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_36",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_38",
+      "name": "Loan Note LEG-038",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_38",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_464",
+      "name": "Ivo Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_464",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_465",
+      "name": "Ivo Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_465",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_472",
+      "name": "Ivo Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_472",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_965",
+      "name": "Silas Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_965",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_63",
+      "name": "Clifford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_63",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Clifford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028553",
+      "subject": "company_1856",
+      "rel": "owns",
+      "object": "asset_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ivybridge Energy Limited owns Eastmere Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028562",
+      "subject": "company_1856",
+      "rel": "owns",
+      "object": "asset_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ivybridge Energy Limited owns Eastmere Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028563",
+      "subject": "asset_75",
+      "rel": "located_in",
+      "object": "place_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Plant is located in Clifford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028559",
+      "subject": "lawfirm_36",
+      "rel": "represents",
+      "object": "company_1856",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Fairfax LLP represents North Ivybridge Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028554",
+      "subject": "person_472",
+      "rel": "shareholder_of",
+      "object": "company_1856",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Osborne is a shareholder of North Ivybridge Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028566",
+      "subject": "person_464",
+      "rel": "family_of",
+      "object": "person_465",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Grenville is a family member of Ivo Hastings.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028556",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_1856",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-14",
+          "value_end": "2022-02-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited lent North Ivybridge Energy Limited GBP 42 million on 14 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028558",
+      "subject": "company_1858",
+      "rel": "guarantor_for",
+      "object": "company_1856",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ivybridge Ventures Limited guaranteed the loan to North Ivybridge Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028557",
+      "subject": "company_1856",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-19",
+          "value_end": "2022-02-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ivybridge Energy Limited owes Harrowgate Bank Limited GBP 9 million as at 19 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028564",
+      "subject": "company_1856",
+      "rel": "party_to",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Ivybridge Energy Limited is a party to the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028565",
+      "subject": "person_465",
+      "rel": "signed",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Hastings signed the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00961_allegation",
+      "text": "A former employee alleged that North Ivybridge Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Underwood noted that a former employee alleged that North Ivybridge Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00961",
+      "surface": "28 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-28",
+      "value_end": "2026-01-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028556",
+      "surface": "14 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-14",
+      "value_end": "2022-02-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028557",
+      "surface": "19 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-19",
+      "value_end": "2022-02-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "19 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00961",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

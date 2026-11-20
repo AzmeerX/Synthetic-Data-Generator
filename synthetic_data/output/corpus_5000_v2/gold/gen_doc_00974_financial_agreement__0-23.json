@@ -1,0 +1,429 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00974_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "d50f521035dcbfac0c07f5e7849285f942142549d0712891bcbb1383f4c04d94"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_83",
+      "name": "Fenwick Bay Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_83",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fenwick Bay Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_20",
+      "name": "Bexley International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_20",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1868",
+      "name": "North Jesmond Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1868",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1870",
+      "name": "North Jesmond Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1870",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Jesmond Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Jesmond Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_50",
+      "name": "Facility Agreement LEG-050",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_50",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-050",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Facility Agreement LEG-050",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_477",
+      "name": "Ivo Underwood",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_477",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ivo Underwood",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028741",
+      "subject": "company_1868",
+      "rel": "owns",
+      "object": "asset_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Jesmond Energy Limited owns Fenwick Bay Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028744",
+      "subject": "bank_20",
+      "rel": "lent_to",
+      "object": "company_1868",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-26",
+          "value_end": "2022-06-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley International Bank Limited lent North Jesmond Energy Limited GBP 26 million on 26 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028746",
+      "subject": "company_1870",
+      "rel": "guarantor_for",
+      "object": "company_1868",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Jesmond Ventures Limited guaranteed the loan to North Jesmond Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028745",
+      "subject": "company_1868",
+      "rel": "owes",
+      "object": "bank_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-01",
+          "value_end": "2022-07-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Jesmond Energy Limited owes Bexley International Bank Limited GBP 11 million as at 1 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028752",
+      "subject": "company_1868",
+      "rel": "party_to",
+      "object": "legal_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Jesmond Energy Limited is a party to the Facility Agreement LEG-050.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028753",
+      "subject": "person_477",
+      "rel": "signed",
+      "object": "legal_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ivo Underwood signed the Facility Agreement LEG-050.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00974_neg_guarantee",
+      "subject": "company_1868",
+      "rel": "guarantor_for",
+      "object": "company_1870",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Jesmond Energy Limited did not guarantee the facility for North Jesmond Ventures Limited on 29 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_00978_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00974",
+      "surface": "29 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-29",
+      "value_end": "2026-04-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028744",
+      "surface": "26 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-26",
+      "value_end": "2022-06-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "26 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028745",
+      "surface": "1 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-01",
+      "value_end": "2022-07-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "1 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00974",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2026-10-29",
+      "value_end": "2026-10-29",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

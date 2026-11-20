@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01465_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "5f5e1ebe20aa5ff80e35232001169a6fae4914f4579cf1112c3e9043d88ee233"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_42",
+      "name": "Dunhollow Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_42",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_23",
+      "name": "Carrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_23",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_231",
+      "name": "Redmoor Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_231",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Redmoor Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_232",
+      "name": "Redmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_232",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Redmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_233",
+      "name": "Redmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_233",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Redmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_31",
+      "name": "Alden & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_31",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_25",
+      "name": "Trust Deed LEG-025",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_25",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-025",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-025",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_231",
+      "name": "Daria Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_231",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_232",
+      "name": "Daria Tremayne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_232",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Tremayne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_239",
+      "name": "Elias Alden",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_239",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_77",
+      "name": "Amina Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_77",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_38",
+      "name": "Barrowfield",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_38",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003214",
+      "subject": "company_231",
+      "rel": "owns",
+      "object": "company_232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Redmoor Group Limited owns Redmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003223",
+      "subject": "company_231",
+      "rel": "owns",
+      "object": "asset_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Redmoor Group Limited owns Dunhollow Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003224",
+      "subject": "asset_42",
+      "rel": "located_in",
+      "object": "place_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Terminal is located in Barrowfield.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003220",
+      "subject": "lawfirm_31",
+      "rel": "represents",
+      "object": "company_231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ashby LLP represents Redmoor Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003215",
+      "subject": "person_239",
+      "rel": "shareholder_of",
+      "object": "company_231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Alden is a shareholder of Redmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003227",
+      "subject": "person_231",
+      "rel": "family_of",
+      "object": "person_232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Sinclair is a family member of Daria Tremayne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003217",
+      "subject": "bank_23",
+      "rel": "lent_to",
+      "object": "company_231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-05-19",
+          "value_end": "2024-05-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited lent Redmoor Group Limited GBP 32 million on 19 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003219",
+      "subject": "company_233",
+      "rel": "guarantor_for",
+      "object": "company_231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Redmoor Trading Limited guaranteed the loan to Redmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003218",
+      "subject": "company_231",
+      "rel": "owes",
+      "object": "bank_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-05-24",
+          "value_end": "2024-05-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Redmoor Group Limited owes Carrow Trust Bank Limited GBP 4 million as at 24 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003225",
+      "subject": "company_231",
+      "rel": "party_to",
+      "object": "legal_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Redmoor Group Limited is a party to the Trust Deed LEG-025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003226",
+      "subject": "person_232",
+      "rel": "signed",
+      "object": "legal_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Tremayne signed the Trust Deed LEG-025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01465_allegation",
+      "text": "A former employee alleged that Redmoor Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Montague noted that a former employee alleged that Redmoor Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01465",
+      "surface": "17 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-17",
+      "value_end": "2025-11-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003217",
+      "surface": "19 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-19",
+      "value_end": "2024-05-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003218",
+      "surface": "24 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-24",
+      "value_end": "2024-05-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "24 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01465",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

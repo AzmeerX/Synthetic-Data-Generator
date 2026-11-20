@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01036_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "a0a1f01a8b8c33407db7575ecc005e93bf773da2899e8e29daccea594849b196"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_142",
+      "name": "Ironside Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_142",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_75",
+      "name": "Low Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_75",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Low Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1923",
+      "name": "North Overdale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1923",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Overdale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1924",
+      "name": "North Overdale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1924",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Overdale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1925",
+      "name": "North Overdale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1925",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1928",
+      "name": "North Overdale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1928",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_103",
+      "name": "Briar & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_103",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_96",
+      "name": "Briar & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_96",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_105",
+      "name": "Trust Deed LEG-105",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_105",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-105",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-105",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1040",
+      "name": "Ulric Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1040",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_531",
+      "name": "Juno Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_531",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juno Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_532",
+      "name": "Juno Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_532",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juno Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_534",
+      "name": "Kellan Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_534",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Kellan Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kellan Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_536",
+      "name": "Kellan Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_536",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Kellan Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_539",
+      "name": "Kellan Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_539",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_130",
+      "name": "Harrowden Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_130",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowden Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029598",
+      "subject": "company_1923",
+      "rel": "owns",
+      "object": "company_1924",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Overdale Logistics Limited owns North Overdale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029600",
+      "subject": "person_534",
+      "rel": "chair_of",
+      "object": "company_1923",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kellan Briar is the chair of North Overdale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029599",
+      "subject": "person_539",
+      "rel": "shareholder_of",
+      "object": "company_1923",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Garrow is a shareholder of North Overdale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029611",
+      "subject": "person_531",
+      "rel": "family_of",
+      "object": "person_532",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juno Yardley is a family member of Juno Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029601",
+      "subject": "bank_75",
+      "rel": "lent_to",
+      "object": "company_1923",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-02-21",
+          "value_end": "2024-02-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low Bank Limited lent North Overdale Logistics Limited GBP 16 million on 21 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029603",
+      "subject": "company_1925",
+      "rel": "guarantor_for",
+      "object": "company_1923",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Overdale Partners Limited guaranteed the loan to North Overdale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029602",
+      "subject": "company_1923",
+      "rel": "owes",
+      "object": "bank_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-02-26",
+          "value_end": "2024-02-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Logistics Limited owes Low Bank Limited GBP 6 million as at 26 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029604",
+      "subject": "lawfirm_103",
+      "rel": "represents",
+      "object": "company_1923",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Yardley LLP represents North Overdale Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029607",
+      "subject": "company_1923",
+      "rel": "owns",
+      "object": "asset_142",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Overdale Logistics Limited owns Ironside Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029608",
+      "subject": "asset_142",
+      "rel": "located_in",
+      "object": "place_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Warehouse is located in Harrowden Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029609",
+      "subject": "company_1923",
+      "rel": "party_to",
+      "object": "legal_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Overdale Logistics Limited is a party to the Trust Deed LEG-105.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029610",
+      "subject": "person_532",
+      "rel": "signed",
+      "object": "legal_105",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Zouch signed the Trust Deed LEG-105.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01036_proposal",
+      "text": "The acquisition of North Overdale Energy Limited by North Overdale Logistics Limited",
+      "speaker": "person_1040",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Ulric, chair of North Overdale Logistics Limited, proposed to acquire North Overdale Energy Limited on 24 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01036_approval",
+      "text": "Regulatory approval for the acquisition of North Overdale Energy Limited",
+      "speaker": "person_1040",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Ulric confirmed that regulatory approval for the acquisition of North Overdale Energy Limited by North Overdale Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01036_link_conditional",
+      "src": "gen_doc_01036_proposal",
+      "dst": "gen_doc_01036_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Overdale Energy Limited by North Overdale Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01036",
+      "surface": "24 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-24",
+      "value_end": "2024-03-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029601",
+      "surface": "21 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-21",
+      "value_end": "2024-02-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "21 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029602",
+      "surface": "26 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-26",
+      "value_end": "2024-02-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "26 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01036",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

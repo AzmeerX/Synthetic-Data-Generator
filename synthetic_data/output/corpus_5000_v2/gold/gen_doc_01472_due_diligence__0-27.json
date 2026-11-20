@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01472_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c948b53bbd14f2e538b90ac936fad6164b19d033c50b95817e78173b588eec40"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_531",
+      "name": "Netherby Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_531",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Netherby Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_535",
+      "name": "Oakhurst Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_535",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_72",
+      "name": "Kel Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_72",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2316",
+      "name": "North Yardley Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2316",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Yardley Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2318",
+      "name": "North Yardley Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2318",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_106",
+      "name": "Cairn & Briar LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_106",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Briar LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_498",
+      "name": "Facility Agreement LEG-498",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_498",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-498",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-498",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_84",
+      "name": "Amina Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_84",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_924",
+      "name": "Silas Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_924",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_925",
+      "name": "Silas Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_925",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_932",
+      "name": "Silas Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_932",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_163",
+      "name": "Lowmoor Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_163",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035725",
+      "subject": "company_2316",
+      "rel": "owns",
+      "object": "asset_531",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Yardley Holdings Limited owns Netherby Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035734",
+      "subject": "company_2316",
+      "rel": "owns",
+      "object": "asset_535",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yardley Holdings Limited owns Oakhurst Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035735",
+      "subject": "asset_535",
+      "rel": "located_in",
+      "object": "place_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Cold Store is located in Lowmoor Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035731",
+      "subject": "lawfirm_106",
+      "rel": "represents",
+      "object": "company_2316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Briar LLP represents North Yardley Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035726",
+      "subject": "person_932",
+      "rel": "shareholder_of",
+      "object": "company_2316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Lorne is a shareholder of North Yardley Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035738",
+      "subject": "person_924",
+      "rel": "family_of",
+      "object": "person_925",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Dunmore is a family member of Silas Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035728",
+      "subject": "bank_72",
+      "rel": "lent_to",
+      "object": "company_2316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-01",
+          "value_end": "2026-09-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Commercial Bank Limited lent North Yardley Holdings Limited GBP 42 million on 1 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035730",
+      "subject": "company_2318",
+      "rel": "guarantor_for",
+      "object": "company_2316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Group Limited guaranteed the loan to North Yardley Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035729",
+      "subject": "company_2316",
+      "rel": "owes",
+      "object": "bank_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-06",
+          "value_end": "2026-09-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Holdings Limited owes Kel Commercial Bank Limited GBP 9 million as at 6 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035736",
+      "subject": "company_2316",
+      "rel": "party_to",
+      "object": "legal_498",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Yardley Holdings Limited is a party to the Facility Agreement LEG-498.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035737",
+      "subject": "person_925",
+      "rel": "signed",
+      "object": "legal_498",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Ellery signed the Facility Agreement LEG-498.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01472_allegation",
+      "text": "A former employee alleged that North Yardley Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Underwood noted that a former employee alleged that North Yardley Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01472",
+      "surface": "5 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-05",
+      "value_end": "2026-01-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035728",
+      "surface": "1 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-01",
+      "value_end": "2026-09-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "1 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035729",
+      "surface": "6 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-06",
+      "value_end": "2026-09-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "6 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01472",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

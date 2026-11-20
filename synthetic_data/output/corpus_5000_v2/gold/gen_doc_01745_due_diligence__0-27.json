@@ -1,0 +1,538 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01745_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c87c8bc7552c389b06d9f6d17d10e0d1f085fbd6c716ff74b6d1e227f0ad90f1"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_12",
+      "name": "Northcliff Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_12",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_33",
+      "name": "Elm Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_33",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_397",
+      "name": "Hazelmere Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_397",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Hazelmere Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_398",
+      "name": "Hazelmere Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_398",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Hazelmere Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_399",
+      "name": "Hazelmere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_399",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Hazelmere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_47",
+      "name": "Alden & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_47",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_191",
+      "name": "Power of Attorney LEG-191",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_191",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-191",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-191",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_06",
+      "name": "Ines Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_06",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ines Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ines Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_13",
+      "name": "Ivo Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_13",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_357",
+      "name": "Gideon Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_357",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_04",
+      "name": "Fenwick Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_04",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005802",
+      "subject": "company_397",
+      "rel": "owns",
+      "object": "company_398",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Hazelmere Holdings Limited owns Hazelmere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005811",
+      "subject": "company_397",
+      "rel": "owns",
+      "object": "asset_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hazelmere Holdings Limited owns Northcliff Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005812",
+      "subject": "asset_12",
+      "rel": "located_in",
+      "object": "place_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Works is located in Fenwick Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005808",
+      "subject": "lawfirm_47",
+      "rel": "represents",
+      "object": "company_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ravenscroft LLP represents Hazelmere Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005803",
+      "subject": "person_13",
+      "rel": "shareholder_of",
+      "object": "company_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Dunmore is a shareholder of Hazelmere Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005815",
+      "subject": "person_05",
+      "rel": "family_of",
+      "object": "person_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Hale is a family member of Ines Alden.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005805",
+      "subject": "bank_33",
+      "rel": "lent_to",
+      "object": "company_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-09-22",
+          "value_end": "2024-09-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Bank Limited lent Hazelmere Holdings Limited GBP 44 million on 22 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005807",
+      "subject": "company_399",
+      "rel": "guarantor_for",
+      "object": "company_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Hazelmere Group Limited guaranteed the loan to Hazelmere Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005806",
+      "subject": "company_397",
+      "rel": "owes",
+      "object": "bank_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-09-27",
+          "value_end": "2024-09-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Hazelmere Holdings Limited owes Elm Bank Limited GBP 10 million as at 27 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005813",
+      "subject": "company_397",
+      "rel": "party_to",
+      "object": "legal_191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Hazelmere Holdings Limited is a party to the Power of Attorney LEG-191.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005814",
+      "subject": "person_06",
+      "rel": "signed",
+      "object": "legal_191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ines Alden signed the Power of Attorney LEG-191.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01745_allegation",
+      "text": "A former employee alleged that Hazelmere Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Ward noted that a former employee alleged that Hazelmere Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01745",
+      "surface": "3 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-03",
+      "value_end": "2024-09-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005805",
+      "surface": "22 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-22",
+      "value_end": "2024-09-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "22 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005806",
+      "surface": "27 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-27",
+      "value_end": "2024-09-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "27 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01745",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

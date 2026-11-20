@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00100_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "236d3ad473fbd36e49cff272035bb4097296ba4108d65fab8a41fda9a6699239"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_72",
+      "name": "Eastmere Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_72",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_21",
+      "name": "Carrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_21",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_181",
+      "name": "Netherby Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_181",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Netherby Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_182",
+      "name": "Netherby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_182",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Netherby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_183",
+      "name": "Netherby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_183",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_01",
+      "name": "Harrow & Finch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_01",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Harrow & Finch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_55",
+      "name": "Services Agreement LEG-055",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_55",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-055",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-055",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_104",
+      "name": "Bastian Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_104",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_181",
+      "name": "Calder Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_181",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_182",
+      "name": "Calder Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_182",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_189",
+      "name": "Calder Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_189",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_08",
+      "name": "Juniper Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_08",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002433",
+      "subject": "company_181",
+      "rel": "owns",
+      "object": "company_182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Netherby Holdings Limited owns Netherby Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002442",
+      "subject": "company_181",
+      "rel": "owns",
+      "object": "asset_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Holdings Limited owns Eastmere Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002443",
+      "subject": "asset_72",
+      "rel": "located_in",
+      "object": "place_08",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Silo is located in Juniper Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002439",
+      "subject": "lawfirm_01",
+      "rel": "represents",
+      "object": "company_181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Harrow & Finch LLP represents Netherby Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002434",
+      "subject": "person_189",
+      "rel": "shareholder_of",
+      "object": "company_181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Zouch is a shareholder of Netherby Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002446",
+      "subject": "person_181",
+      "rel": "family_of",
+      "object": "person_182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ravenscroft is a family member of Calder Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002436",
+      "subject": "bank_21",
+      "rel": "lent_to",
+      "object": "company_181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-16",
+          "value_end": "2022-11-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bank Limited lent Netherby Holdings Limited GBP 12 million on 16 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002438",
+      "subject": "company_183",
+      "rel": "guarantor_for",
+      "object": "company_181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Group Limited guaranteed the loan to Netherby Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002437",
+      "subject": "company_181",
+      "rel": "owes",
+      "object": "bank_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-21",
+          "value_end": "2022-11-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Netherby Holdings Limited owes Carrow Bank Limited GBP 4 million as at 21 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002444",
+      "subject": "company_181",
+      "rel": "party_to",
+      "object": "legal_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Netherby Holdings Limited is a party to the Services Agreement LEG-055.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002445",
+      "subject": "person_182",
+      "rel": "signed",
+      "object": "legal_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Sinclair signed the Services Agreement LEG-055.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00100_allegation",
+      "text": "A former employee alleged that Netherby Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Orrick noted that a former employee alleged that Netherby Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00100",
+      "surface": "1 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-01",
+      "value_end": "2026-01-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002436",
+      "surface": "16 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-16",
+      "value_end": "2022-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002437",
+      "surface": "21 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-21",
+      "value_end": "2022-11-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00100",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

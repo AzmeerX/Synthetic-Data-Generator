@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00797_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "eee44cfe1984ca4f5df6bcae52df1c2eb2a478d472b3abd8a092f536331ef46b"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_519",
+      "name": "Netherby Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_519",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Netherby Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_523",
+      "name": "Netherby Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_523",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Netherby Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_124",
+      "name": "Tarrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_124",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tarrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Tarrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1708",
+      "name": "North Uldale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1708",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Uldale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1710",
+      "name": "North Uldale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1710",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Uldale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_107",
+      "name": "Cairn & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_107",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_496",
+      "name": "Side Letter LEG-496",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_496",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Side Letter LEG-496",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-496",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_316",
+      "name": "Farah Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_316",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_317",
+      "name": "Farah Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_317",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_324",
+      "name": "Farah Neville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_324",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_801",
+      "name": "Petra Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_801",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_95",
+      "name": "Carrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_95",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026245",
+      "subject": "company_1708",
+      "rel": "owns",
+      "object": "asset_519",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Uldale Trading Limited owns Netherby Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026246",
+      "subject": "person_324",
+      "rel": "shareholder_of",
+      "object": "company_1708",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Neville is a shareholder of North Uldale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026258",
+      "subject": "person_316",
+      "rel": "family_of",
+      "object": "person_317",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Fairfax is a family member of Farah Grenville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026248",
+      "subject": "bank_124",
+      "rel": "lent_to",
+      "object": "company_1708",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-04-27",
+          "value_end": "2022-04-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tarrow Merchant Bank Limited lent North Uldale Trading Limited GBP 26 million on 27 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026250",
+      "subject": "company_1710",
+      "rel": "guarantor_for",
+      "object": "company_1708",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Uldale Capital Limited guaranteed the loan to North Uldale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026249",
+      "subject": "company_1708",
+      "rel": "owes",
+      "object": "bank_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-02",
+          "value_end": "2022-05-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Uldale Trading Limited owes Tarrow Merchant Bank Limited GBP 11 million as at 2 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026254",
+      "subject": "company_1708",
+      "rel": "owns",
+      "object": "asset_523",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Uldale Trading Limited owns Netherby Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026255",
+      "subject": "asset_523",
+      "rel": "located_in",
+      "object": "place_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Works is located in Carrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026256",
+      "subject": "company_1708",
+      "rel": "party_to",
+      "object": "legal_496",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Uldale Trading Limited is a party to the Side Letter LEG-496.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026257",
+      "subject": "person_317",
+      "rel": "signed",
+      "object": "legal_496",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Grenville signed the Side Letter LEG-496.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00797_allegation",
+      "text": "A former employee alleged that North Uldale Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Cavendish noted that a former employee alleged that North Uldale Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00797",
+      "surface": "21 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-21",
+      "value_end": "2026-03-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026248",
+      "surface": "27 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-27",
+      "value_end": "2022-04-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "27 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026249",
+      "surface": "2 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-02",
+      "value_end": "2022-05-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "2 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00797",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

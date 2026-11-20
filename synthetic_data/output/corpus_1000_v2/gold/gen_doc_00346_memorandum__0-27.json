@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00346_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "d03147983f7301a2a0041fbea2923d9fd2e49253c2d8a43e87ddd415c5588110"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_21",
+      "name": "Calderport Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_21",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calderport Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_42",
+      "name": "Fair Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_42",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_406",
+      "name": "Hazelmere Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_406",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Hazelmere Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_407",
+      "name": "Hazelmere Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_407",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hazelmere Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_408",
+      "name": "Hazelmere Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_408",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Hazelmere Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_43",
+      "name": "Belmont Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_43",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_06",
+      "name": "Yarrow & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_06",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarrow & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_47",
+      "name": "Alden & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_47",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_200",
+      "name": "Lease LEG-200",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_200",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lease LEG-200",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-200",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_14",
+      "name": "Daria Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_14",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_15",
+      "name": "Bram Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_15",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Bram Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_22",
+      "name": "Anika Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_22",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_350",
+      "name": "Gideon Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_350",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gideon Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Gideon Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_13",
+      "name": "Alderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_13",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005943",
+      "subject": "company_406",
+      "rel": "owns",
+      "object": "company_407",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hazelmere Property Limited owns Hazelmere Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005944",
+      "subject": "person_22",
+      "rel": "shareholder_of",
+      "object": "company_406",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Dunmore is a shareholder of Hazelmere Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005956",
+      "subject": "person_14",
+      "rel": "family_of",
+      "object": "person_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Garrow is a family member of Bram Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005946",
+      "subject": "bank_42",
+      "rel": "lent_to",
+      "object": "company_406",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-12-30",
+          "value_end": "2024-12-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Commercial Bank Limited lent Hazelmere Property Limited GBP 22 million on 30 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005948",
+      "subject": "company_408",
+      "rel": "guarantor_for",
+      "object": "company_406",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Hazelmere Systems Limited guaranteed the loan to Hazelmere Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005947",
+      "subject": "company_406",
+      "rel": "owes",
+      "object": "bank_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-04",
+          "value_end": "2025-01-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Hazelmere Property Limited owes Fair Commercial Bank Limited GBP 9 million as at 4 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005949",
+      "subject": "lawfirm_06",
+      "rel": "represents",
+      "object": "company_406",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarrow & Zell LLP represents Hazelmere Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005952",
+      "subject": "company_406",
+      "rel": "owns",
+      "object": "asset_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Hazelmere Property Limited owns Calderport Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005953",
+      "subject": "asset_21",
+      "rel": "located_in",
+      "object": "place_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Wharf is located in Alderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005954",
+      "subject": "company_406",
+      "rel": "party_to",
+      "object": "legal_200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Hazelmere Property Limited is a party to the Lease LEG-200.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005955",
+      "subject": "person_15",
+      "rel": "signed",
+      "object": "legal_200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Bram Nyle signed the Lease LEG-200.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00346_proposal",
+      "text": "The acquisition of Belmont Capital Limited by Hazelmere Property Limited",
+      "speaker": "person_350",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gideon Pell, chair of Hazelmere Property Limited, proposed to acquire Belmont Capital Limited on 23 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00346_approval",
+      "text": "Regulatory approval for the acquisition of Belmont Capital Limited",
+      "speaker": "person_350",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Gideon Pell confirmed that regulatory approval for the acquisition of Belmont Capital Limited by Hazelmere Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00346_link_conditional",
+      "src": "gen_doc_00346_proposal",
+      "dst": "gen_doc_00346_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Belmont Capital Limited by Hazelmere Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00346",
+      "surface": "23 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-23",
+      "value_end": "2024-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005946",
+      "surface": "30 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-30",
+      "value_end": "2024-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "30 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005947",
+      "surface": "4 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-04",
+      "value_end": "2025-01-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "4 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00346",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

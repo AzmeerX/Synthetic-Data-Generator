@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00163_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d21ecd7f334faf5275ce9dea24ab25bb61f5aa56d62b02692c69881c18aeca46"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_62",
+      "name": "Eastmere Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_62",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_23",
+      "name": "Carrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_23",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_55",
+      "name": "Carrow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_55",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Carrow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_56",
+      "name": "Carrow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_56",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Carrow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_57",
+      "name": "Carrow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_57",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_25",
+      "name": "Alden & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_25",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_55",
+      "name": "Services Agreement LEG-055",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_55",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-055",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-055",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_167",
+      "name": "Calder Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_167",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_55",
+      "name": "Amina Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_55",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_56",
+      "name": "Amina Quade",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_56",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_63",
+      "name": "Amina Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_63",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_02",
+      "name": "Dunhollow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_02",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000469",
+      "subject": "company_55",
+      "rel": "owns",
+      "object": "company_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Carrow Capital Limited owns Carrow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000478",
+      "subject": "company_55",
+      "rel": "owns",
+      "object": "asset_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Carrow Capital Limited owns Eastmere Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000479",
+      "subject": "asset_62",
+      "rel": "located_in",
+      "object": "place_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Cold Store is located in Dunhollow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000475",
+      "subject": "lawfirm_25",
+      "rel": "represents",
+      "object": "company_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Thorne LLP represents Carrow Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000470",
+      "subject": "person_63",
+      "rel": "shareholder_of",
+      "object": "company_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Yarrow is a shareholder of Carrow Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000482",
+      "subject": "person_55",
+      "rel": "family_of",
+      "object": "person_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Pell is a family member of Amina Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000472",
+      "subject": "bank_23",
+      "rel": "lent_to",
+      "object": "company_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-09-26",
+          "value_end": "2023-09-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited lent Carrow Capital Limited GBP 40 million on 26 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000474",
+      "subject": "company_57",
+      "rel": "guarantor_for",
+      "object": "company_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Energy Limited guaranteed the loan to Carrow Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000473",
+      "subject": "company_55",
+      "rel": "owes",
+      "object": "bank_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-01",
+          "value_end": "2023-10-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Capital Limited owes Carrow Trust Bank Limited GBP 8 million as at 1 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000480",
+      "subject": "company_55",
+      "rel": "party_to",
+      "object": "legal_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Carrow Capital Limited is a party to the Services Agreement LEG-055.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000481",
+      "subject": "person_56",
+      "rel": "signed",
+      "object": "legal_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Quade signed the Services Agreement LEG-055.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00163_allegation",
+      "text": "A former employee alleged that Carrow Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Cavendish noted that a former employee alleged that Carrow Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00163",
+      "surface": "18 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-18",
+      "value_end": "2027-03-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000472",
+      "surface": "26 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-26",
+      "value_end": "2023-09-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000473",
+      "surface": "1 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-01",
+      "value_end": "2023-10-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00163",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

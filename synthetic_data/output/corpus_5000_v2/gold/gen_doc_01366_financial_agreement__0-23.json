@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01366_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "62309bfbdca3883371aab5baff9636bacef4bf6b95c079d8ac740a103ddddc6e"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_435",
+      "name": "Jarrow Cross Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_435",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Cross Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_108",
+      "name": "Quill Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_108",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quill Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Quill Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_14",
+      "name": "Alder International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_14",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2220",
+      "name": "North Pinewood Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2220",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Pinewood Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2222",
+      "name": "North Pinewood Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2222",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Pinewood Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2223",
+      "name": "North Pinewood Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2223",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Pinewood Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_402",
+      "name": "Facility Agreement LEG-402",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_402",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-402",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Facility Agreement LEG-402",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_829",
+      "name": "Quin Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_829",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Quin Fenwick",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034228",
+      "subject": "company_2220",
+      "rel": "owns",
+      "object": "asset_435",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Pinewood Holdings Limited owns Jarrow Cross Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034231",
+      "subject": "bank_108",
+      "rel": "lent_to",
+      "object": "company_2220",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-11",
+          "value_end": "2023-10-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quill Commercial Bank Limited lent North Pinewood Holdings Limited GBP 50 million on 11 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034233",
+      "subject": "company_2222",
+      "rel": "guarantor_for",
+      "object": "company_2220",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Pinewood Group Limited guaranteed the loan to North Pinewood Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034232",
+      "subject": "company_2220",
+      "rel": "owes",
+      "object": "bank_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-16",
+          "value_end": "2023-10-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Pinewood Holdings Limited owes Quill Commercial Bank Limited GBP 13 million as at 16 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034239",
+      "subject": "company_2220",
+      "rel": "party_to",
+      "object": "legal_402",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Pinewood Holdings Limited is a party to the Facility Agreement LEG-402.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034240",
+      "subject": "person_829",
+      "rel": "signed",
+      "object": "legal_402",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Quin Fenwick signed the Facility Agreement LEG-402.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01366_neg_guarantee",
+      "subject": "company_2220",
+      "rel": "guarantor_for",
+      "object": "company_2223",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Pinewood Holdings Limited did not guarantee the facility for North Pinewood Logistics Limited on 8 April 2027.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_01370_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01366",
+      "surface": "8 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-08",
+      "value_end": "2027-04-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034231",
+      "surface": "11 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-11",
+      "value_end": "2023-10-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "11 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034232",
+      "surface": "16 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-16",
+      "value_end": "2023-10-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "16 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01366",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2027-10-08",
+      "value_end": "2027-10-08",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

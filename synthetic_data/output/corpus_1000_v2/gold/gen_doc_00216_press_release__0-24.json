@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00216_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "9cc959a691deb917f66dc0b2518b478786dafede2e1801bc15099192d439b099"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_95",
+      "name": "Fenwick Bay Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_95",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Fenwick Bay Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_99",
+      "name": "Greyhaven Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_99",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Greyhaven Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_28",
+      "name": "Denmoor Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_28",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_288",
+      "name": "Vellacott Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_288",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vellacott Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_290",
+      "name": "Westerby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_290",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_17",
+      "name": "Alden & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_17",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_82",
+      "name": "Facility Agreement LEG-082",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_82",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-082",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-082",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_220",
+      "name": "Daria Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_220",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_288",
+      "name": "Farah Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_288",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_289",
+      "name": "Farah Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_289",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_296",
+      "name": "Farah Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_296",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_95",
+      "name": "Carrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_95",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004103",
+      "subject": "company_288",
+      "rel": "owns",
+      "object": "asset_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vellacott Systems Limited owns Fenwick Bay Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004104",
+      "subject": "person_296",
+      "rel": "shareholder_of",
+      "object": "company_288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Farah Ivers is a shareholder of Vellacott Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004116",
+      "subject": "person_288",
+      "rel": "family_of",
+      "object": "person_289",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Alden is a family member of Farah Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004106",
+      "subject": "bank_28",
+      "rel": "lent_to",
+      "object": "company_288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-02-05",
+          "value_end": "2026-02-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Merchant Bank Limited lent Vellacott Systems Limited GBP 26 million on 5 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004108",
+      "subject": "company_290",
+      "rel": "guarantor_for",
+      "object": "company_288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Westerby Industries Limited guaranteed the loan to Vellacott Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004107",
+      "subject": "company_288",
+      "rel": "owes",
+      "object": "bank_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-02-10",
+          "value_end": "2026-02-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vellacott Systems Limited owes Denmoor Merchant Bank Limited GBP 11 million as at 10 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004112",
+      "subject": "company_288",
+      "rel": "owns",
+      "object": "asset_99",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vellacott Systems Limited owns Greyhaven Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004113",
+      "subject": "asset_99",
+      "rel": "located_in",
+      "object": "place_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Wharf is located in Carrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004114",
+      "subject": "company_288",
+      "rel": "party_to",
+      "object": "legal_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vellacott Systems Limited is a party to the Facility Agreement LEG-082.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004115",
+      "subject": "person_289",
+      "rel": "signed",
+      "object": "legal_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Briar signed the Facility Agreement LEG-082.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00216_allegation",
+      "text": "A former employee alleged that Vellacott Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Grenville noted that a former employee alleged that Vellacott Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00216",
+      "surface": "9 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-09",
+      "value_end": "2024-12-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004106",
+      "surface": "5 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-05",
+      "value_end": "2026-02-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "5 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004107",
+      "surface": "10 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-10",
+      "value_end": "2026-02-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "10 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00216",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

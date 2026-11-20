@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00083_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "c2988e8292b955737541ca8b81a6e1c9624ea1003c9f619c50b4a90db51d7a05"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_476",
+      "name": "Lowmoor Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_476",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lowmoor Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1065",
+      "name": "Ormsby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1065",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ormsby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1066",
+      "name": "Ormsby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1066",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1067",
+      "name": "Ormsby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1067",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ormsby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_53",
+      "name": "Alden & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_53",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_459",
+      "name": "Debenture LEG-459",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_459",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Debenture LEG-459",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Debenture LEG-459",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1065",
+      "name": "Ulric Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1065",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ulric Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1066",
+      "name": "Ulric Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1066",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ulric Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ulric Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1073",
+      "name": "Vera Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1073",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Vera Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_87",
+      "name": "Amina Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_87",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_172",
+      "name": "Merrivale Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_172",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merrivale Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016218",
+      "subject": "company_1065",
+      "rel": "owns",
+      "object": "company_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ormsby Property Limited owns Ormsby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016219",
+      "subject": "person_1073",
+      "rel": "shareholder_of",
+      "object": "company_1065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Vera Dunmore is a shareholder of Ormsby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016231",
+      "subject": "person_1065",
+      "rel": "family_of",
+      "object": "person_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ulric Villiers is a family member of Ulric Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016221",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_1065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-24",
+          "value_end": "2026-03-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Bank Limited lent Ormsby Property Limited GBP 20 million on 24 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016223",
+      "subject": "company_1067",
+      "rel": "guarantor_for",
+      "object": "company_1065",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ormsby Systems Limited guaranteed the loan to Ormsby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016222",
+      "subject": "company_1065",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-29",
+          "value_end": "2026-03-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ormsby Property Limited owes Alder Bank Limited GBP 8 million as at 29 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016227",
+      "subject": "company_1065",
+      "rel": "owns",
+      "object": "asset_476",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ormsby Property Limited owns Lowmoor Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016228",
+      "subject": "asset_476",
+      "rel": "located_in",
+      "object": "place_172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Fleet is located in Merrivale Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016229",
+      "subject": "company_1065",
+      "rel": "party_to",
+      "object": "legal_459",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ormsby Property Limited is a party to the Debenture LEG-459.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016230",
+      "subject": "person_1066",
+      "rel": "signed",
+      "object": "legal_459",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ulric Whitlock signed the Debenture LEG-459.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00083_allegation",
+      "text": "A former employee alleged that Ormsby Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Wyndham noted that a former employee alleged that Ormsby Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00083",
+      "surface": "4 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-04",
+      "value_end": "2025-09-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016221",
+      "surface": "24 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-24",
+      "value_end": "2026-03-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "24 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016222",
+      "surface": "29 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-29",
+      "value_end": "2026-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "29 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00083",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

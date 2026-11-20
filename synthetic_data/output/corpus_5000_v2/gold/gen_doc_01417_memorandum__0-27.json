@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01417_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "0fbd3b5e05429dae18cf4ee189d917594d40ae6fb36620d04185d978621d063c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_486",
+      "name": "Lowmoor Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_486",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_23",
+      "name": "Carrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_23",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2267",
+      "name": "North Southwold Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2267",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2268",
+      "name": "North Thurlow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2268",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Thurlow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2269",
+      "name": "North Thurlow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2269",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Thurlow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2271",
+      "name": "North Thurlow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2271",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_57",
+      "name": "Briar & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_57",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_87",
+      "name": "Briar & Hastings LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_87",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Hastings LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_449",
+      "name": "Share Purchase Agreement LEG-449",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_449",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Share Purchase Agreement LEG-449",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-449",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_29",
+      "name": "Lorne Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_29",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lorne Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_875",
+      "name": "Rhea Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_875",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_876",
+      "name": "Rhea Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_876",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Rhea Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_883",
+      "name": "Rhea Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_883",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_114",
+      "name": "Fairhaven Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_114",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairhaven Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034962",
+      "subject": "company_2267",
+      "rel": "owns",
+      "object": "company_2268",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Systems Limited owns North Thurlow Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034963",
+      "subject": "person_883",
+      "rel": "shareholder_of",
+      "object": "company_2267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Kerr is a shareholder of North Southwold Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034975",
+      "subject": "person_875",
+      "rel": "family_of",
+      "object": "person_876",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Cairn is a family member of Rhea Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034965",
+      "subject": "bank_23",
+      "rel": "lent_to",
+      "object": "company_2267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-11",
+          "value_end": "2025-03-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Trust Bank Limited lent North Southwold Systems Limited GBP 24 million on 11 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034967",
+      "subject": "company_2269",
+      "rel": "guarantor_for",
+      "object": "company_2267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Thurlow Industries Limited guaranteed the loan to North Southwold Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034966",
+      "subject": "company_2267",
+      "rel": "owes",
+      "object": "bank_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-16",
+          "value_end": "2025-03-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Southwold Systems Limited owes Carrow Trust Bank Limited GBP 10 million as at 16 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034968",
+      "subject": "lawfirm_57",
+      "rel": "represents",
+      "object": "company_2267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Cairn LLP represents North Southwold Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034971",
+      "subject": "company_2267",
+      "rel": "owns",
+      "object": "asset_486",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Southwold Systems Limited owns Lowmoor Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034972",
+      "subject": "asset_486",
+      "rel": "located_in",
+      "object": "place_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Mill is located in Fairhaven Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034973",
+      "subject": "company_2267",
+      "rel": "party_to",
+      "object": "legal_449",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Southwold Systems Limited is a party to the Share Purchase Agreement LEG-449.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034974",
+      "subject": "person_876",
+      "rel": "signed",
+      "object": "legal_449",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Rhea Dunmore signed the Share Purchase Agreement LEG-449.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01417_proposal",
+      "text": "The acquisition of North Thurlow Logistics Limited by North Southwold Systems Limited",
+      "speaker": "person_29",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Sable, chair of North Southwold Systems Limited, proposed to acquire North Thurlow Logistics Limited on 16 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01417_approval",
+      "text": "Regulatory approval for the acquisition of North Thurlow Logistics Limited",
+      "speaker": "person_29",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Lorne Sable confirmed that regulatory approval for the acquisition of North Thurlow Logistics Limited by North Southwold Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01417_link_conditional",
+      "src": "gen_doc_01417_proposal",
+      "dst": "gen_doc_01417_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Thurlow Logistics Limited by North Southwold Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01417",
+      "surface": "16 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-16",
+      "value_end": "2024-12-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034965",
+      "surface": "11 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-11",
+      "value_end": "2025-03-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "11 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034966",
+      "surface": "16 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-16",
+      "value_end": "2025-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01417",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

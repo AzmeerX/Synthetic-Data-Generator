@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01227_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4381bf3faf3d56f2f356c81a0ff0925b015d914e6f690c3fb506a2fffe0bef2d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_311",
+      "name": "Carrow Bay Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_311",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Carrow Bay Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_315",
+      "name": "Denmoor Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_315",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_116",
+      "name": "Red International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_116",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2096",
+      "name": "North Elmstead Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2096",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Elmstead Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2098",
+      "name": "North Elmstead Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2098",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmstead Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_278",
+      "name": "Loan Note LEG-278",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_278",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-278",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-278",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1231",
+      "name": "Yara Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1231",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_704",
+      "name": "Nadia Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_704",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_705",
+      "name": "Nadia Delacourt",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_705",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_712",
+      "name": "Nadia Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_712",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_123",
+      "name": "Glenmoor Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_123",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenmoor Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032296",
+      "subject": "company_2096",
+      "rel": "owns",
+      "object": "asset_311",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Elmstead Energy Limited owns Carrow Bay Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032305",
+      "subject": "company_2096",
+      "rel": "owns",
+      "object": "asset_315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmstead Energy Limited owns Denmoor Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032306",
+      "subject": "asset_315",
+      "rel": "located_in",
+      "object": "place_123",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Cold Store is located in Glenmoor Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032302",
+      "subject": "lawfirm_16",
+      "rel": "represents",
+      "object": "company_2096",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Kerr LLP represents North Elmstead Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032297",
+      "subject": "person_712",
+      "rel": "shareholder_of",
+      "object": "company_2096",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nadia Kingsley is a shareholder of North Elmstead Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032309",
+      "subject": "person_704",
+      "rel": "family_of",
+      "object": "person_705",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nadia Cavendish is a family member of Nadia Delacourt.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032299",
+      "subject": "bank_116",
+      "rel": "lent_to",
+      "object": "company_2096",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-09-11",
+          "value_end": "2024-09-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Red International Bank Limited lent North Elmstead Energy Limited GBP 42 million on 11 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032301",
+      "subject": "company_2098",
+      "rel": "guarantor_for",
+      "object": "company_2096",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmstead Ventures Limited guaranteed the loan to North Elmstead Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032300",
+      "subject": "company_2096",
+      "rel": "owes",
+      "object": "bank_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-09-16",
+          "value_end": "2024-09-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmstead Energy Limited owes Red International Bank Limited GBP 9 million as at 16 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032307",
+      "subject": "company_2096",
+      "rel": "party_to",
+      "object": "legal_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Elmstead Energy Limited is a party to the Loan Note LEG-278.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032308",
+      "subject": "person_705",
+      "rel": "signed",
+      "object": "legal_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Delacourt signed the Loan Note LEG-278.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01227_allegation",
+      "text": "A former employee alleged that North Elmstead Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Yara Mercer noted that a former employee alleged that North Elmstead Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01227",
+      "surface": "8 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-08",
+      "value_end": "2024-08-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032299",
+      "surface": "11 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-11",
+      "value_end": "2024-09-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "11 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032300",
+      "surface": "16 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-16",
+      "value_end": "2024-09-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "16 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01227",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

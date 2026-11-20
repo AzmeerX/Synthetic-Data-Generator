@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01661_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4c50fa72547154fe9c2c3d79f06cb2c21bfdf97c23917879793e72f77e0a7aab"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_127",
+      "name": "Harrowgate Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_127",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Harrowgate Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_131",
+      "name": "Harrowgate Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_131",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowgate Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_320",
+      "name": "Aldergate Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_320",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Aldergate Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_322",
+      "name": "Aldergate Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_322",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_114",
+      "name": "Facility Agreement LEG-114",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_114",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-114",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-114",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_273",
+      "name": "Elias Kingsley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_273",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_320",
+      "name": "Farah Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_320",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_321",
+      "name": "Farah Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_321",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_328",
+      "name": "Farah Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_328",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_27",
+      "name": "Oakhurst",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_27",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004603",
+      "subject": "company_320",
+      "rel": "owns",
+      "object": "asset_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Marine Limited owns Harrowgate Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004612",
+      "subject": "company_320",
+      "rel": "owns",
+      "object": "asset_131",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Marine Limited owns Harrowgate Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004613",
+      "subject": "asset_131",
+      "rel": "located_in",
+      "object": "place_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Mill is located in Oakhurst.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004609",
+      "subject": "lawfirm_20",
+      "rel": "represents",
+      "object": "company_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Orrick LLP represents Aldergate Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004604",
+      "subject": "person_328",
+      "rel": "shareholder_of",
+      "object": "company_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Sinclair is a shareholder of Aldergate Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004616",
+      "subject": "person_320",
+      "rel": "family_of",
+      "object": "person_321",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Jeffreys is a family member of Farah Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004606",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-29",
+          "value_end": "2022-05-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited lent Aldergate Marine Limited GBP 50 million on 29 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004608",
+      "subject": "company_322",
+      "rel": "guarantor_for",
+      "object": "company_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Property Limited guaranteed the loan to Aldergate Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004607",
+      "subject": "company_320",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-06-03",
+          "value_end": "2022-06-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Aldergate Marine Limited owes Harrowgate Bank Limited GBP 13 million as at 3 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004614",
+      "subject": "company_320",
+      "rel": "party_to",
+      "object": "legal_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Aldergate Marine Limited is a party to the Facility Agreement LEG-114.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004615",
+      "subject": "person_321",
+      "rel": "signed",
+      "object": "legal_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Kingsley signed the Facility Agreement LEG-114.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01661_allegation",
+      "text": "A former employee alleged that Aldergate Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Kingsley noted that a former employee alleged that Aldergate Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01661",
+      "surface": "8 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-08",
+      "value_end": "2026-05-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004606",
+      "surface": "29 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-29",
+      "value_end": "2022-05-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "29 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004607",
+      "surface": "3 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-03",
+      "value_end": "2022-06-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "3 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01661",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

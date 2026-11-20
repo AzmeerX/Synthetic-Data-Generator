@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00045_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "52aaee17f4b18ad221f82ac54483e4504a3b0201dffbd7dc6db2f789ab6b8595"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_441",
+      "name": "Jarrow Cross Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_441",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Cross Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_106",
+      "name": "Quill Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_106",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quill Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1030",
+      "name": "Langton Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1030",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Langton Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1031",
+      "name": "Langton Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1031",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Langton Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1032",
+      "name": "Marlowe Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1032",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Marlowe Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1035",
+      "name": "Marlowe Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1035",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Marlowe Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Marlowe Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_120",
+      "name": "Cairn & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_120",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_15",
+      "name": "Alden & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_15",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_424",
+      "name": "Lease LEG-424",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_424",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lease LEG-424",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-424",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1030",
+      "name": "Ulric Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1030",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1031",
+      "name": "Ulric Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1031",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ulric Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1038",
+      "name": "Ulric Sable",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1038",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulric Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_49",
+      "name": "Amina Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_49",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_137",
+      "name": "Inglemere Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_137",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Inglemere Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_015673",
+      "subject": "company_1030",
+      "rel": "owns",
+      "object": "company_1031",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Langton Ventures Limited owns Langton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015674",
+      "subject": "person_1038",
+      "rel": "shareholder_of",
+      "object": "company_1030",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulric Sable is a shareholder of Langton Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015686",
+      "subject": "person_1030",
+      "rel": "family_of",
+      "object": "person_1031",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Kerr is a family member of Ulric Lorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015676",
+      "subject": "bank_106",
+      "rel": "lent_to",
+      "object": "company_1030",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-04",
+          "value_end": "2025-03-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quill Merchant Bank Limited lent Langton Ventures Limited GBP 30 million on 4 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015678",
+      "subject": "company_1032",
+      "rel": "guarantor_for",
+      "object": "company_1030",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Marlowe Holdings Limited guaranteed the loan to Langton Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015677",
+      "subject": "company_1030",
+      "rel": "owes",
+      "object": "bank_106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-09",
+          "value_end": "2025-03-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Langton Ventures Limited owes Quill Merchant Bank Limited GBP 13 million as at 9 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015679",
+      "subject": "lawfirm_120",
+      "rel": "represents",
+      "object": "company_1030",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Quade LLP represents Langton Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015682",
+      "subject": "company_1030",
+      "rel": "owns",
+      "object": "asset_441",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Langton Ventures Limited owns Jarrow Cross Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015683",
+      "subject": "asset_441",
+      "rel": "located_in",
+      "object": "place_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Quay is located in Inglemere Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015684",
+      "subject": "company_1030",
+      "rel": "party_to",
+      "object": "legal_424",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Langton Ventures Limited is a party to the Lease LEG-424.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015685",
+      "subject": "person_1031",
+      "rel": "signed",
+      "object": "legal_424",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ulric Lorne signed the Lease LEG-424.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00045_proposal",
+      "text": "The acquisition of Marlowe Logistics Limited by Langton Ventures Limited",
+      "speaker": "person_49",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Ivers, chair of Langton Ventures Limited, proposed to acquire Marlowe Logistics Limited on 12 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00045_approval",
+      "text": "Regulatory approval for the acquisition of Marlowe Logistics Limited",
+      "speaker": "person_49",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Ivers confirmed that regulatory approval for the acquisition of Marlowe Logistics Limited by Langton Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00045_link_conditional",
+      "src": "gen_doc_00045_proposal",
+      "dst": "gen_doc_00045_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Marlowe Logistics Limited by Langton Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00045",
+      "surface": "12 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-12",
+      "value_end": "2024-12-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015676",
+      "surface": "4 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-04",
+      "value_end": "2025-03-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "4 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015677",
+      "surface": "9 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-09",
+      "value_end": "2025-03-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "9 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00045",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

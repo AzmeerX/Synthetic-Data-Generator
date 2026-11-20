@@ -1,0 +1,33 @@
+pack: corporate_legal
+version: 1
+gliner_labels: [person, organization, court, law firm, bank, government body, statute, case, location, asset,
+                agreement, document, money amount, percentage, role title, event, date, time period, duration]
+entity_types:                       # class → subclasses
+  person: [person, judge, lawyer]
+  organization: [company, bank, law_firm, government_body, court]
+  legal: [statute, case, agreement, document]
+  value: [money, percentage]
+  place: [location]
+  thing: [asset]
+  event: [event]
+relations:                          # class → relation: [allowed source class, allowed target class]
+  governance:  { director_of: [person, organization], chair_of: [person, organization] }
+  ownership:   { owns: [any, any], shareholder_of: [any, organization], subsidiary_of: [organization, organization] }
+  employment:  { employed_by: [person, organization], partner_at: [person, organization], member_of: [any, organization] }
+  founding:    { founded: [any, organization] }
+  finance:     { lent_to: [any, any], owes: [any, any], paid: [any, any], guarantor_for: [any, any] }
+  legal:       { represents: [any, any], party_to: [any, legal], judge_of: [person, legal], cites: [legal, legal], issued_by: [legal, any], regulates: [organization, any] }
+  kinship:     { family_of: [person, person] }
+  location:    { located_in: [any, place] }
+  advisory:    { advises: [any, any] }
+  documents:   { signed: [person, legal] }
+relation_aliases: { "board member of": director_of, "works for": employed_by }
+functional_relations: [judge_of, chair_of]
+critical_relations: [owns, shareholder_of, family_of, lent_to, owes, guarantor_for, represents]
+proposition_status: [held, found, resolved, ordered, declared, argued, alleged, admitted, denied, proposed, reported, stated]
+link_types: [because, unless, provided_that, notwithstanding, therefore, contradicts, supports, conditional_on]
+time:
+  fiscal_year_start_month: 7        # July–June; change per corpus
+  time_roles: [occurred_at, valid_from, valid_to, as_of, deadline, reported_on]
+honorifics_strip: [mr, mrs, ms, dr, sir, dame, justice, hon, barrister, advocate]
+honorifics_keep: [syed, sheikh, mian, chaudhry]

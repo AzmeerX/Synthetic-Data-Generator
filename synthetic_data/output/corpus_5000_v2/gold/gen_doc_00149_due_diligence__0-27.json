@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00149_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "682786ee4a1e2d7a4286c9d4d1695177f943da28c0fa1a3ccbc82e83624c393d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_531",
+      "name": "Netherby Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_531",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Netherby Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_535",
+      "name": "Oakhurst Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_535",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_68",
+      "name": "Jarrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_68",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1124",
+      "name": "Tavistock Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1124",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Tavistock Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1126",
+      "name": "Tavistock Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1126",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_84",
+      "name": "Briar & Everard LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_84",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Everard LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_518",
+      "name": "Loan Note LEG-518",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_518",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-518",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-518",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1124",
+      "name": "Wren Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1124",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1125",
+      "name": "Wren Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1125",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Wren Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1132",
+      "name": "Wren Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1132",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_153",
+      "name": "Calder Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_153",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_51",
+      "name": "Overdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_51",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Overdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017140",
+      "subject": "company_1124",
+      "rel": "owns",
+      "object": "asset_531",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tavistock Energy Limited owns Netherby Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017149",
+      "subject": "company_1124",
+      "rel": "owns",
+      "object": "asset_535",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tavistock Energy Limited owns Oakhurst Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017150",
+      "subject": "asset_535",
+      "rel": "located_in",
+      "object": "place_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Cold Store is located in Overdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017146",
+      "subject": "lawfirm_84",
+      "rel": "represents",
+      "object": "company_1124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Everard LLP represents Tavistock Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017141",
+      "subject": "person_1132",
+      "rel": "shareholder_of",
+      "object": "company_1124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Mercer is a shareholder of Tavistock Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017153",
+      "subject": "person_1124",
+      "rel": "family_of",
+      "object": "person_1125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Ellery is a family member of Wren Fenwick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017143",
+      "subject": "bank_68",
+      "rel": "lent_to",
+      "object": "company_1124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-08",
+          "value_end": "2023-05-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow International Bank Limited lent Tavistock Energy Limited GBP 18 million on 8 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017145",
+      "subject": "company_1126",
+      "rel": "guarantor_for",
+      "object": "company_1124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tavistock Ventures Limited guaranteed the loan to Tavistock Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017144",
+      "subject": "company_1124",
+      "rel": "owes",
+      "object": "bank_68",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-13",
+          "value_end": "2023-05-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Tavistock Energy Limited owes Jarrow International Bank Limited GBP 7 million as at 13 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017151",
+      "subject": "company_1124",
+      "rel": "party_to",
+      "object": "legal_518",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Tavistock Energy Limited is a party to the Loan Note LEG-518.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017152",
+      "subject": "person_1125",
+      "rel": "signed",
+      "object": "legal_518",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Wren Fenwick signed the Loan Note LEG-518.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00149_allegation",
+      "text": "A former employee alleged that Tavistock Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Nyle noted that a former employee alleged that Tavistock Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00149",
+      "surface": "10 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-10",
+      "value_end": "2026-12-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017143",
+      "surface": "8 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-08",
+      "value_end": "2023-05-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017144",
+      "surface": "13 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-13",
+      "value_end": "2023-05-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "13 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00149",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

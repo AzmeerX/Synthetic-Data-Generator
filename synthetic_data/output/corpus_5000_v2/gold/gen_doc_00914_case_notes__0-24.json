@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00914_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "b807af40c3fee865b970be231a5e14bdb3ab025160ae626646aef53c1b7c0d6a"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_97",
+      "name": "Oak Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_97",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oak Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oak Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1813",
+      "name": "North Fallow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1813",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1814",
+      "name": "North Fallow Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1814",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Fallow Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1815",
+      "name": "North Fallow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1815",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Fallow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1816",
+      "name": "North Fallow Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1816",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_601",
+      "name": "Trust Deed LEG-601",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_601",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Trust Deed LEG-601",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Trust Deed LEG-601",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_421",
+      "name": "Hana Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_421",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Hana Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_422",
+      "name": "Hana Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_422",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hana Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Hana Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_424",
+      "name": "Hana Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_424",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_429",
+      "name": "Hana Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_429",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Hana Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_918",
+      "name": "Rhea Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_918",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Wyndham",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027892",
+      "subject": "company_1813",
+      "rel": "party_to",
+      "object": "legal_601",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fallow Industries Limited is a party to the Trust Deed LEG-601.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027893",
+      "subject": "person_422",
+      "rel": "signed",
+      "object": "legal_601",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hana Montague signed the Trust Deed LEG-601.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027883",
+      "subject": "person_424",
+      "rel": "chair_of",
+      "object": "company_1813",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Osborne is the chair of North Fallow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027884",
+      "subject": "bank_97",
+      "rel": "lent_to",
+      "object": "company_1813",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-06-25",
+          "value_end": "2025-06-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oak Private Bank Limited lent North Fallow Industries Limited GBP 36 million on 25 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027886",
+      "subject": "company_1815",
+      "rel": "guarantor_for",
+      "object": "company_1813",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Fallow Logistics Limited guaranteed the loan to North Fallow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027885",
+      "subject": "company_1813",
+      "rel": "owes",
+      "object": "bank_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-06-30",
+          "value_end": "2025-06-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Fallow Industries Limited owes Oak Private Bank Limited GBP 6 million as at 30 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027882",
+      "subject": "person_429",
+      "rel": "shareholder_of",
+      "object": "company_1813",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Hana Underwood is a shareholder of North Fallow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027894",
+      "subject": "person_421",
+      "rel": "family_of",
+      "object": "person_422",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Hana Langford is a family member of Hana Montague.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027881",
+      "subject": "company_1813",
+      "rel": "owns",
+      "object": "company_1814",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Fallow Industries Limited owns North Fallow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00914_neg_guarantee",
+      "subject": "company_1813",
+      "rel": "guarantor_for",
+      "object": "company_1816",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Fallow Industries Limited did not guarantee the facility for North Fallow Trading Limited on 5 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00914_allegation",
+      "text": "A former employee alleged that North Fallow Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Rhea Wyndham noted that a former employee alleged that North Fallow Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00914",
+      "surface": "5 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-05",
+      "value_end": "2025-03-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027884",
+      "surface": "25 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-25",
+      "value_end": "2025-06-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "25 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027885",
+      "surface": "30 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-30",
+      "value_end": "2025-06-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "30 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00914",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-09-05",
+      "value_end": "2025-09-05",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

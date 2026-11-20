@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01606_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "16ccfaf487f80471a134a3234f3abd5cac621093f1d74b94c892e2877e511877"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_81",
+      "name": "Fenwick Bay Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_81",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fenwick Bay Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_270",
+      "name": "Uldale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_270",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Uldale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_271",
+      "name": "Uldale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_271",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_272",
+      "name": "Uldale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_272",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_275",
+      "name": "Uldale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_275",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Uldale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Uldale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_64",
+      "name": "Side Letter LEG-064",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_64",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_218",
+      "name": "Daria Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_218",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_270",
+      "name": "Elias Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_270",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_271",
+      "name": "Elias Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_271",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_278",
+      "name": "Elias Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_278",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_77",
+      "name": "Ashcombe Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_77",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ashcombe Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003823",
+      "subject": "company_270",
+      "rel": "owns",
+      "object": "company_271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Partners Limited owns Uldale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003824",
+      "subject": "person_278",
+      "rel": "shareholder_of",
+      "object": "company_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Pemberton is a shareholder of Uldale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003836",
+      "subject": "person_270",
+      "rel": "family_of",
+      "object": "person_271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Hastings is a family member of Elias Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003826",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-22",
+          "value_end": "2025-07-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Merchant Bank Limited lent Uldale Partners Limited GBP 30 million on 22 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003828",
+      "subject": "company_272",
+      "rel": "guarantor_for",
+      "object": "company_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Marine Limited guaranteed the loan to Uldale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003827",
+      "subject": "company_270",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-07-27",
+          "value_end": "2025-07-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Partners Limited owes Alder Merchant Bank Limited GBP 13 million as at 27 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003829",
+      "subject": "lawfirm_20",
+      "rel": "represents",
+      "object": "company_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Orrick LLP represents Uldale Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003832",
+      "subject": "company_270",
+      "rel": "owns",
+      "object": "asset_81",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Partners Limited owns Fenwick Bay Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003833",
+      "subject": "asset_81",
+      "rel": "located_in",
+      "object": "place_77",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Terminal is located in Ashcombe Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003834",
+      "subject": "company_270",
+      "rel": "party_to",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Uldale Partners Limited is a party to the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003835",
+      "subject": "person_271",
+      "rel": "signed",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Ingram signed the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01606_proposal",
+      "text": "The acquisition of Uldale Ventures Limited by Uldale Partners Limited",
+      "speaker": "person_218",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Everard, chair of Uldale Partners Limited, proposed to acquire Uldale Ventures Limited on 18 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01606_approval",
+      "text": "Regulatory approval for the acquisition of Uldale Ventures Limited",
+      "speaker": "person_218",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Everard confirmed that regulatory approval for the acquisition of Uldale Ventures Limited by Uldale Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01606_link_conditional",
+      "src": "gen_doc_01606_proposal",
+      "dst": "gen_doc_01606_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Uldale Ventures Limited by Uldale Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01606",
+      "surface": "18 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-18",
+      "value_end": "2025-04-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003826",
+      "surface": "22 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-22",
+      "value_end": "2025-07-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "22 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003827",
+      "surface": "27 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-27",
+      "value_end": "2025-07-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01606",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

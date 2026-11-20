@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00269_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "9e156b4c70b5ae75b34447b4e5b2ef37612281fe3984336b01638e488071c93c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_43",
+      "name": "Dunhollow Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_43",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_47",
+      "name": "Dunhollow Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_47",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Dunhollow Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1232",
+      "name": "Ennerdale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1232",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Ennerdale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1234",
+      "name": "Ennerdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1234",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1237",
+      "name": "Fermanagh Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1237",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Fermanagh Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Fermanagh Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_62",
+      "name": "Briar & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_62",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_20",
+      "name": "Services Agreement LEG-020",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_20",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Services Agreement LEG-020",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-020",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1232",
+      "name": "Yara Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1232",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1233",
+      "name": "Yara Orrick",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1233",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1240",
+      "name": "Yara Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1240",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_273",
+      "name": "Elias Kingsley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_273",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_159",
+      "name": "Lowmoor Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_159",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018824",
+      "subject": "company_1232",
+      "rel": "owns",
+      "object": "asset_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Energy Limited owns Dunhollow Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018825",
+      "subject": "person_1240",
+      "rel": "shareholder_of",
+      "object": "company_1232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Ward is a shareholder of Ennerdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018837",
+      "subject": "person_1232",
+      "rel": "family_of",
+      "object": "person_1233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Nyle is a family member of Yara Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018827",
+      "subject": "bank_44",
+      "rel": "lent_to",
+      "object": "company_1232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-08-08",
+          "value_end": "2026-08-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fair International Bank Limited lent Ennerdale Energy Limited GBP 34 million on 8 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018829",
+      "subject": "company_1234",
+      "rel": "guarantor_for",
+      "object": "company_1232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Ventures Limited guaranteed the loan to Ennerdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018828",
+      "subject": "company_1232",
+      "rel": "owes",
+      "object": "bank_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-13",
+          "value_end": "2026-08-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Energy Limited owes Fair International Bank Limited GBP 5 million as at 13 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018830",
+      "subject": "lawfirm_62",
+      "rel": "represents",
+      "object": "company_1232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Hale LLP represents Ennerdale Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018833",
+      "subject": "company_1232",
+      "rel": "owns",
+      "object": "asset_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Energy Limited owns Dunhollow Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018834",
+      "subject": "asset_47",
+      "rel": "located_in",
+      "object": "place_159",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Data Centre is located in Lowmoor Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018835",
+      "subject": "company_1232",
+      "rel": "party_to",
+      "object": "legal_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Energy Limited is a party to the Services Agreement LEG-020.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018836",
+      "subject": "person_1233",
+      "rel": "signed",
+      "object": "legal_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Orrick signed the Services Agreement LEG-020.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00269_proposal",
+      "text": "The acquisition of Fermanagh Industries Limited by Ennerdale Energy Limited",
+      "speaker": "person_273",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Kingsley, chair of Ennerdale Energy Limited, proposed to acquire Fermanagh Industries Limited on 15 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00269_approval",
+      "text": "Regulatory approval for the acquisition of Fermanagh Industries Limited",
+      "speaker": "person_273",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Kingsley confirmed that regulatory approval for the acquisition of Fermanagh Industries Limited by Ennerdale Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00269_link_conditional",
+      "src": "gen_doc_00269_proposal",
+      "dst": "gen_doc_00269_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Fermanagh Industries Limited by Ennerdale Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00269",
+      "surface": "15 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-15",
+      "value_end": "2025-12-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018827",
+      "surface": "8 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-08",
+      "value_end": "2026-08-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "8 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018828",
+      "surface": "13 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-13",
+      "value_end": "2026-08-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00269",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00777_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "cde1ef44168b4541de4683eb694fa1aedfaaf176bc5c1934350c9904a36eb0e7"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_505",
+      "name": "Merrivale Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_505",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Merrivale Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_106",
+      "name": "Quill Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_106",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1690",
+      "name": "North Stanbrook Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1690",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Stanbrook Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1691",
+      "name": "North Stanbrook Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1691",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Stanbrook Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1692",
+      "name": "North Tarrow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1692",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Tarrow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1695",
+      "name": "North Tarrow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1695",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Tarrow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Tarrow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_130",
+      "name": "Cairn & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_130",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_97",
+      "name": "Briar & Sinclair LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_97",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Sinclair LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_478",
+      "name": "Licence LEG-478",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_478",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-478",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-478",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_298",
+      "name": "Farah Kerr",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_298",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_299",
+      "name": "Farah Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_299",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_301",
+      "name": "Farah Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_301",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_303",
+      "name": "Farah Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_303",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_306",
+      "name": "Farah Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_306",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_781",
+      "name": "Petra Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_781",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Petra Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_77",
+      "name": "Ashcombe Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_77",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ashcombe Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025965",
+      "subject": "company_1690",
+      "rel": "owns",
+      "object": "company_1691",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Stanbrook Ventures Limited owns North Stanbrook Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025967",
+      "subject": "person_301",
+      "rel": "chair_of",
+      "object": "company_1690",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Nyle is the chair of North Stanbrook Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025966",
+      "subject": "person_306",
+      "rel": "shareholder_of",
+      "object": "company_1690",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Ulric is a shareholder of North Stanbrook Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025978",
+      "subject": "person_298",
+      "rel": "family_of",
+      "object": "person_299",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Kerr is a family member of Farah Lorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025968",
+      "subject": "bank_106",
+      "rel": "lent_to",
+      "object": "company_1690",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-07",
+          "value_end": "2026-06-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Merchant Bank Limited lent North Stanbrook Ventures Limited GBP 30 million on 7 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025970",
+      "subject": "company_1692",
+      "rel": "guarantor_for",
+      "object": "company_1690",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Tarrow Holdings Limited guaranteed the loan to North Stanbrook Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025969",
+      "subject": "company_1690",
+      "rel": "owes",
+      "object": "bank_106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-12",
+          "value_end": "2026-06-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Stanbrook Ventures Limited owes Quill Merchant Bank Limited GBP 13 million as at 12 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025971",
+      "subject": "lawfirm_130",
+      "rel": "represents",
+      "object": "company_1690",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Cavendish LLP represents North Stanbrook Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025974",
+      "subject": "company_1690",
+      "rel": "owns",
+      "object": "asset_505",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Stanbrook Ventures Limited owns Merrivale Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025975",
+      "subject": "asset_505",
+      "rel": "located_in",
+      "object": "place_77",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Silo is located in Ashcombe Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025976",
+      "subject": "company_1690",
+      "rel": "party_to",
+      "object": "legal_478",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Stanbrook Ventures Limited is a party to the Licence LEG-478.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025977",
+      "subject": "person_299",
+      "rel": "signed",
+      "object": "legal_478",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Lorne signed the Licence LEG-478.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00777_proposal",
+      "text": "The acquisition of North Tarrow Logistics Limited by North Stanbrook Ventures Limited",
+      "speaker": "person_781",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Petra Garrow, chair of North Stanbrook Ventures Limited, proposed to acquire North Tarrow Logistics Limited on 1 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00777_approval",
+      "text": "Regulatory approval for the acquisition of North Tarrow Logistics Limited",
+      "speaker": "person_781",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Garrow confirmed that regulatory approval for the acquisition of North Tarrow Logistics Limited by North Stanbrook Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00777_link_conditional",
+      "src": "gen_doc_00777_proposal",
+      "dst": "gen_doc_00777_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Tarrow Logistics Limited by North Stanbrook Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00777",
+      "surface": "1 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-01",
+      "value_end": "2025-11-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025968",
+      "surface": "7 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-07",
+      "value_end": "2026-06-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "7 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025969",
+      "surface": "12 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-12",
+      "value_end": "2026-06-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "12 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00777",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

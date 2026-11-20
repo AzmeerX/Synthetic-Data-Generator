@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01283_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "390483258ec56c922e1589c281760b37d2e040e576781ac826eb49c214ba4e9e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_365",
+      "name": "Fairmouth Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_365",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fairmouth Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_34",
+      "name": "Elm Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_34",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2146",
+      "name": "North Inkberrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2146",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2147",
+      "name": "North Inkberrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2147",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Inkberrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2148",
+      "name": "North Juniper Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2148",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Juniper Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_66",
+      "name": "Briar & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_66",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_328",
+      "name": "Lease LEG-328",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_328",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-328",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-328",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1287",
+      "name": "Zane Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1287",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_754",
+      "name": "Oren Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_754",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_755",
+      "name": "Oren Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_755",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_762",
+      "name": "Oren Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_762",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_173",
+      "name": "Merrivale Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_173",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033075",
+      "subject": "company_2146",
+      "rel": "owns",
+      "object": "company_2147",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Inkberrow Ventures Limited owns North Inkberrow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033084",
+      "subject": "company_2146",
+      "rel": "owns",
+      "object": "asset_365",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Inkberrow Ventures Limited owns Fairmouth Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033085",
+      "subject": "asset_365",
+      "rel": "located_in",
+      "object": "place_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Silo is located in Merrivale Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033081",
+      "subject": "lawfirm_66",
+      "rel": "represents",
+      "object": "company_2146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Lorne LLP represents North Inkberrow Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033076",
+      "subject": "person_762",
+      "rel": "shareholder_of",
+      "object": "company_2146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Langford is a shareholder of North Inkberrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033088",
+      "subject": "person_754",
+      "rel": "family_of",
+      "object": "person_755",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Delacourt is a family member of Oren Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033078",
+      "subject": "bank_34",
+      "rel": "lent_to",
+      "object": "company_2146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-15",
+          "value_end": "2026-03-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Merchant Bank Limited lent North Inkberrow Ventures Limited GBP 22 million on 15 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033080",
+      "subject": "company_2148",
+      "rel": "guarantor_for",
+      "object": "company_2146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Juniper Holdings Limited guaranteed the loan to North Inkberrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033079",
+      "subject": "company_2146",
+      "rel": "owes",
+      "object": "bank_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-20",
+          "value_end": "2026-03-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Inkberrow Ventures Limited owes Elm Merchant Bank Limited GBP 9 million as at 20 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033086",
+      "subject": "company_2146",
+      "rel": "party_to",
+      "object": "legal_328",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Inkberrow Ventures Limited is a party to the Lease LEG-328.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033087",
+      "subject": "person_755",
+      "rel": "signed",
+      "object": "legal_328",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Everard signed the Lease LEG-328.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01283_allegation",
+      "text": "A former employee alleged that North Inkberrow Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Thorne noted that a former employee alleged that North Inkberrow Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01283",
+      "surface": "4 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-04",
+      "value_end": "2025-09-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033078",
+      "surface": "15 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-15",
+      "value_end": "2026-03-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033079",
+      "surface": "20 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-20",
+      "value_end": "2026-03-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01283",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

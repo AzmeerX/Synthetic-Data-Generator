@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00224_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "b7bad7c20a883e27368f2fc878faf9fe9a63a2a55a1e3a82c703310b02e1fdb5"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_03",
+      "name": "Eastmere Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_03",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Eastmere Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_07",
+      "name": "Ironside Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_07",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_03",
+      "name": "Dunmore Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_03",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1192",
+      "name": "Borrowdale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1192",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Borrowdale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1194",
+      "name": "Borrowdale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1194",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Borrowdale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1197",
+      "name": "Borrowdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1197",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Borrowdale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Borrowdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_22",
+      "name": "Alden & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_22",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_64",
+      "name": "Briar & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_64",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_586",
+      "name": "Settlement Agreement LEG-586",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_586",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-586",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-586",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1192",
+      "name": "Xander Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1192",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Xander Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1193",
+      "name": "Xander Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1193",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Xander Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1195",
+      "name": "Xander Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1195",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Xander Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1197",
+      "name": "Xander Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1197",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Xander Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1200",
+      "name": "Xander Grenville",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1200",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_228",
+      "name": "Daria Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_228",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Daria Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_119",
+      "name": "Fairhaven Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_119",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairhaven Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018200",
+      "subject": "company_1192",
+      "rel": "owns",
+      "object": "asset_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Borrowdale Trading Limited owns Eastmere Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018202",
+      "subject": "person_1195",
+      "rel": "chair_of",
+      "object": "company_1192",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Balfour is the chair of Borrowdale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018201",
+      "subject": "person_1200",
+      "rel": "shareholder_of",
+      "object": "company_1192",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Grenville is a shareholder of Borrowdale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018213",
+      "subject": "person_1192",
+      "rel": "family_of",
+      "object": "person_1193",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Xander Yarrow is a family member of Xander Zell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018203",
+      "subject": "bank_03",
+      "rel": "lent_to",
+      "object": "company_1192",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-25",
+          "value_end": "2025-05-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmore Bank Limited lent Borrowdale Trading Limited GBP 34 million on 25 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018205",
+      "subject": "company_1194",
+      "rel": "guarantor_for",
+      "object": "company_1192",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Borrowdale Capital Limited guaranteed the loan to Borrowdale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018204",
+      "subject": "company_1192",
+      "rel": "owes",
+      "object": "bank_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-30",
+          "value_end": "2025-05-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Borrowdale Trading Limited owes Dunmore Bank Limited GBP 5 million as at 30 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018206",
+      "subject": "lawfirm_22",
+      "rel": "represents",
+      "object": "company_1192",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Quade LLP represents Borrowdale Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018209",
+      "subject": "company_1192",
+      "rel": "owns",
+      "object": "asset_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Borrowdale Trading Limited owns Ironside Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018210",
+      "subject": "asset_07",
+      "rel": "located_in",
+      "object": "place_119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Foundry is located in Fairhaven Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018211",
+      "subject": "company_1192",
+      "rel": "party_to",
+      "object": "legal_586",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Borrowdale Trading Limited is a party to the Settlement Agreement LEG-586.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018212",
+      "subject": "person_1193",
+      "rel": "signed",
+      "object": "legal_586",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Zell signed the Settlement Agreement LEG-586.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00224_proposal",
+      "text": "The acquisition of Borrowdale Property Limited by Borrowdale Trading Limited",
+      "speaker": "person_228",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Daria Osborne, chair of Borrowdale Trading Limited, proposed to acquire Borrowdale Property Limited on 3 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00224_approval",
+      "text": "Regulatory approval for the acquisition of Borrowdale Property Limited",
+      "speaker": "person_228",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Osborne confirmed that regulatory approval for the acquisition of Borrowdale Property Limited by Borrowdale Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00224_link_conditional",
+      "src": "gen_doc_00224_proposal",
+      "dst": "gen_doc_00224_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Borrowdale Property Limited by Borrowdale Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00224",
+      "surface": "3 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-03",
+      "value_end": "2025-02-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018203",
+      "surface": "25 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-25",
+      "value_end": "2025-05-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "25 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018204",
+      "surface": "30 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-30",
+      "value_end": "2025-05-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "30 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00224",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

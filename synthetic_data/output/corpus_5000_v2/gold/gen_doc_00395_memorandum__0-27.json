@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00395_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "ce39ccedd8d3412bf83bfa694404f7ca283eea08a814bb1656dc9fa664a6300f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_161",
+      "name": "Juniper Cross Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_161",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Juniper Cross Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_26",
+      "name": "Carrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_26",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1346",
+      "name": "Orkney Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1346",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Orkney Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1347",
+      "name": "Orkney Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1347",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1348",
+      "name": "Orkney Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1348",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Orkney Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1350",
+      "name": "Orkney Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1350",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Orkney Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Orkney Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_06",
+      "name": "Yarrow & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_06",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Yarrow & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_46",
+      "name": "Alden & Pemberton LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_46",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Pemberton LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_134",
+      "name": "Loan Note LEG-134",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_134",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Loan Note LEG-134",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-134",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_07",
+      "name": "Lorne Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_07",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Lorne Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1346",
+      "name": "Anika Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1346",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1347",
+      "name": "Anika Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1347",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Anika Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1354",
+      "name": "Anika Montague",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1354",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_93",
+      "name": "Carrow Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_93",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Carrow Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020602",
+      "subject": "company_1346",
+      "rel": "owns",
+      "object": "company_1347",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Group Limited owns Orkney Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020603",
+      "subject": "person_1354",
+      "rel": "shareholder_of",
+      "object": "company_1346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Montague is a shareholder of Orkney Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020615",
+      "subject": "person_1346",
+      "rel": "family_of",
+      "object": "person_1347",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Everard is a family member of Anika Fairfax.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020605",
+      "subject": "bank_26",
+      "rel": "lent_to",
+      "object": "company_1346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-19",
+          "value_end": "2025-05-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow International Bank Limited lent Orkney Group Limited GBP 22 million on 19 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020607",
+      "subject": "company_1348",
+      "rel": "guarantor_for",
+      "object": "company_1346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Orkney Trading Limited guaranteed the loan to Orkney Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020606",
+      "subject": "company_1346",
+      "rel": "owes",
+      "object": "bank_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-24",
+          "value_end": "2025-05-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Orkney Group Limited owes Carrow International Bank Limited GBP 9 million as at 24 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020608",
+      "subject": "lawfirm_46",
+      "rel": "represents",
+      "object": "company_1346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Pemberton LLP represents Orkney Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020611",
+      "subject": "company_1346",
+      "rel": "owns",
+      "object": "asset_161",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Orkney Group Limited owns Juniper Cross Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020612",
+      "subject": "asset_161",
+      "rel": "located_in",
+      "object": "place_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Warehouse is located in Carrow Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020613",
+      "subject": "company_1346",
+      "rel": "party_to",
+      "object": "legal_134",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Orkney Group Limited is a party to the Loan Note LEG-134.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020614",
+      "subject": "person_1347",
+      "rel": "signed",
+      "object": "legal_134",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Anika Fairfax signed the Loan Note LEG-134.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00395_proposal",
+      "text": "The acquisition of Orkney Capital Limited by Orkney Group Limited",
+      "speaker": "person_07",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Cairn, chair of Orkney Group Limited, proposed to acquire Orkney Capital Limited on 31 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00395_approval",
+      "text": "Regulatory approval for the acquisition of Orkney Capital Limited",
+      "speaker": "person_07",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Lorne Cairn confirmed that regulatory approval for the acquisition of Orkney Capital Limited by Orkney Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00395_link_conditional",
+      "src": "gen_doc_00395_proposal",
+      "dst": "gen_doc_00395_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Orkney Capital Limited by Orkney Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00395",
+      "surface": "31 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-31",
+      "value_end": "2025-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020605",
+      "surface": "19 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-19",
+      "value_end": "2025-05-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "19 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020606",
+      "surface": "24 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-24",
+      "value_end": "2025-05-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00395",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

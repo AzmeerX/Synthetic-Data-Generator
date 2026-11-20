@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00023_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "1e8580372025f7c3b1670dd79399a1a0892f2d30b221edcb730b8dd9cbcc5991"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_421",
+      "name": "Invermere Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_421",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_86",
+      "name": "Merri International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_86",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merri International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Merri International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1010",
+      "name": "Kendal Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1010",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1011",
+      "name": "Kendal Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1011",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kendal Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1012",
+      "name": "Kendal Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1012",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_100",
+      "name": "Briar & Villiers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_100",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Villiers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_404",
+      "name": "Board Resolution LEG-404",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_404",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-404",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-404",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1010",
+      "name": "Tamsin Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1010",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1011",
+      "name": "Tamsin Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1011",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1018",
+      "name": "Tamsin Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1018",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_24",
+      "name": "Nadia Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_24",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_117",
+      "name": "Fairhaven Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_117",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairhaven Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_015363",
+      "subject": "company_1010",
+      "rel": "owns",
+      "object": "company_1011",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kendal Group Limited owns Kendal Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015372",
+      "subject": "company_1010",
+      "rel": "owns",
+      "object": "asset_421",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Group Limited owns Invermere Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015373",
+      "subject": "asset_421",
+      "rel": "located_in",
+      "object": "place_117",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Quay is located in Fairhaven Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015369",
+      "subject": "lawfirm_100",
+      "rel": "represents",
+      "object": "company_1010",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Villiers LLP represents Kendal Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015364",
+      "subject": "person_1018",
+      "rel": "shareholder_of",
+      "object": "company_1010",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Yardley is a shareholder of Kendal Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015376",
+      "subject": "person_1010",
+      "rel": "family_of",
+      "object": "person_1011",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Pemberton is a family member of Tamsin Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015366",
+      "subject": "bank_86",
+      "rel": "lent_to",
+      "object": "company_1010",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-07-27",
+          "value_end": "2024-07-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merri International Bank Limited lent Kendal Group Limited GBP 30 million on 27 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015368",
+      "subject": "company_1012",
+      "rel": "guarantor_for",
+      "object": "company_1010",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Trading Limited guaranteed the loan to Kendal Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015367",
+      "subject": "company_1010",
+      "rel": "owes",
+      "object": "bank_86",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-08-01",
+          "value_end": "2024-08-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Group Limited owes Merri International Bank Limited GBP 13 million as at 1 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015374",
+      "subject": "company_1010",
+      "rel": "party_to",
+      "object": "legal_404",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kendal Group Limited is a party to the Board Resolution LEG-404.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015375",
+      "subject": "person_1011",
+      "rel": "signed",
+      "object": "legal_404",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Ravenscroft signed the Board Resolution LEG-404.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00023_allegation",
+      "text": "A former employee alleged that Kendal Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Jarvis noted that a former employee alleged that Kendal Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00023",
+      "surface": "11 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-11",
+      "value_end": "2024-07-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015366",
+      "surface": "27 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-27",
+      "value_end": "2024-07-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015367",
+      "surface": "1 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-01",
+      "value_end": "2024-08-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00023",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

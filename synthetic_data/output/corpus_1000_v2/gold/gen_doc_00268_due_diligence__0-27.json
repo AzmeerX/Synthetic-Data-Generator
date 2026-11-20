@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00268_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "30042608961fd3930e42bebb971b3c0ff549774c5cbba7240b6ed47588dc6f5f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_146",
+      "name": "Ironside Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_146",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_23",
+      "name": "Carrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_23",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_335",
+      "name": "Barrowfield Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_335",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Barrowfield Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_336",
+      "name": "Barrowfield Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_336",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_337",
+      "name": "Cresswell Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_337",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cresswell Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_35",
+      "name": "Alden & Everard LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_35",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Everard LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_129",
+      "name": "Share Purchase Agreement LEG-129",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_129",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-129",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Share Purchase Agreement LEG-129",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_272",
+      "name": "Elias Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_272",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_335",
+      "name": "Farah Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_335",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_336",
+      "name": "Gideon Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_336",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_343",
+      "name": "Gideon Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_343",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_42",
+      "name": "Fallow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_42",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fallow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004836",
+      "subject": "company_335",
+      "rel": "owns",
+      "object": "company_336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Barrowfield Ventures Limited owns Barrowfield Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004845",
+      "subject": "company_335",
+      "rel": "owns",
+      "object": "asset_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Ventures Limited owns Ironside Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004846",
+      "subject": "asset_146",
+      "rel": "located_in",
+      "object": "place_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Marina is located in Fallow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004842",
+      "subject": "lawfirm_35",
+      "rel": "represents",
+      "object": "company_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Everard LLP represents Barrowfield Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004837",
+      "subject": "person_343",
+      "rel": "shareholder_of",
+      "object": "company_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Hale is a shareholder of Barrowfield Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004849",
+      "subject": "person_335",
+      "rel": "family_of",
+      "object": "person_336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Zouch is a family member of Gideon Alden.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004839",
+      "subject": "bank_23",
+      "rel": "lent_to",
+      "object": "company_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-10",
+          "value_end": "2022-11-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Trust Bank Limited lent Barrowfield Ventures Limited GBP 40 million on 10 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004841",
+      "subject": "company_337",
+      "rel": "guarantor_for",
+      "object": "company_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cresswell Holdings Limited guaranteed the loan to Barrowfield Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004840",
+      "subject": "company_335",
+      "rel": "owes",
+      "object": "bank_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-15",
+          "value_end": "2022-11-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Ventures Limited owes Carrow Trust Bank Limited GBP 8 million as at 15 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004847",
+      "subject": "company_335",
+      "rel": "party_to",
+      "object": "legal_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Barrowfield Ventures Limited is a party to the Share Purchase Agreement LEG-129.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004848",
+      "subject": "person_336",
+      "rel": "signed",
+      "object": "legal_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Alden signed the Share Purchase Agreement LEG-129.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00268_allegation",
+      "text": "A former employee alleged that Barrowfield Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Jeffreys noted that a former employee alleged that Barrowfield Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00268",
+      "surface": "8 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-08",
+      "value_end": "2025-12-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004839",
+      "surface": "10 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-10",
+      "value_end": "2022-11-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004840",
+      "surface": "15 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-15",
+      "value_end": "2022-11-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "15 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00268",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00705_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "9df96464ad8724f3aa8eaa41569c9dc03bd5c878ba5b366767ddf982fc112229"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_440",
+      "name": "Jarrow Cross Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_440",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Jarrow Cross Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Cross Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_41",
+      "name": "Fair Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_41",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1625",
+      "name": "North Netherby Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1625",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Netherby Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1626",
+      "name": "North Netherby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1626",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Netherby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1627",
+      "name": "North Netherby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1627",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Netherby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1628",
+      "name": "North Netherby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1628",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Netherby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_163",
+      "name": "Lowmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_163",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Lowmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_25",
+      "name": "Alden & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_25",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Thorne LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_413",
+      "name": "Supply Agreement LEG-413",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_413",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Supply Agreement LEG-413",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Supply Agreement LEG-413",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_233",
+      "name": "Daria Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_233",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_234",
+      "name": "Daria Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_234",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_241",
+      "name": "Elias Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_241",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_709",
+      "name": "Nadia Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_709",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_12",
+      "name": "Northcliff",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_12",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024950",
+      "subject": "company_1625",
+      "rel": "owns",
+      "object": "company_1626",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Netherby Partners Limited owns North Netherby Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024951",
+      "subject": "person_241",
+      "rel": "shareholder_of",
+      "object": "company_1625",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Cairn is a shareholder of North Netherby Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024963",
+      "subject": "person_233",
+      "rel": "family_of",
+      "object": "person_234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Underwood is a family member of Daria Villiers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024953",
+      "subject": "bank_41",
+      "rel": "lent_to",
+      "object": "company_1625",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-06-22",
+          "value_end": "2024-06-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Trust Bank Limited lent North Netherby Partners Limited GBP 20 million on 22 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024955",
+      "subject": "company_1627",
+      "rel": "guarantor_for",
+      "object": "company_1625",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Netherby Marine Limited guaranteed the loan to North Netherby Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024954",
+      "subject": "company_1625",
+      "rel": "owes",
+      "object": "bank_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-27",
+          "value_end": "2024-06-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Netherby Partners Limited owes Fair Trust Bank Limited GBP 8 million as at 27 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024959",
+      "subject": "company_1625",
+      "rel": "owns",
+      "object": "asset_440",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Netherby Partners Limited owns Jarrow Cross Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024960",
+      "subject": "asset_440",
+      "rel": "located_in",
+      "object": "place_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Cross Hangar is located in Northcliff.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024961",
+      "subject": "company_1625",
+      "rel": "party_to",
+      "object": "legal_413",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Netherby Partners Limited is a party to the Supply Agreement LEG-413.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024962",
+      "subject": "person_234",
+      "rel": "signed",
+      "object": "legal_413",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Villiers signed the Supply Agreement LEG-413.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00705_proposal",
+      "text": "The acquisition of Lowmoor Capital Limited by North Netherby Partners Limited",
+      "speaker": "person_709",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Hastings, chair of North Netherby Partners Limited, proposed to acquire Lowmoor Capital Limited on 15 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00705_approval",
+      "text": "Regulatory approval for the acquisition of Lowmoor Capital Limited",
+      "speaker": "person_709",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Hastings confirmed that regulatory approval for the acquisition of Lowmoor Capital Limited by North Netherby Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00705_link_conditional",
+      "src": "gen_doc_00705_proposal",
+      "dst": "gen_doc_00705_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Lowmoor Capital Limited by North Netherby Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00701_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00705",
+      "surface": "15 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-15",
+      "value_end": "2024-06-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024953",
+      "surface": "22 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-22",
+      "value_end": "2024-06-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "22 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024954",
+      "surface": "27 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-27",
+      "value_end": "2024-06-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "27 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

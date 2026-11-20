@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00173_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "73030b8490471ed09bb7ae6342558c5590e978adb834a67ea57178dc65964bfd"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_72",
+      "name": "Eastmere Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_72",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_65",
+      "name": "Dunmere Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_65",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Dunmere Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_66",
+      "name": "Dunmere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_66",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunmere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_67",
+      "name": "Dunmere Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_67",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Dunmere Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_68",
+      "name": "Dunmere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_68",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Dunmere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_70",
+      "name": "Dunmere Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_70",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Dunmere Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Dunmere Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_24",
+      "name": "Alden & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_24",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Sable LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_65",
+      "name": "Share Purchase Agreement LEG-065",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_65",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Share Purchase Agreement LEG-065",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Share Purchase Agreement LEG-065",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_177",
+      "name": "Calder Montague",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_177",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_65",
+      "name": "Amina Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_65",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_66",
+      "name": "Amina Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_66",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_73",
+      "name": "Amina Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_73",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_12",
+      "name": "Northcliff",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_12",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000626",
+      "subject": "company_65",
+      "rel": "owns",
+      "object": "company_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunmere Trading Limited owns Dunmere Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000627",
+      "subject": "person_73",
+      "rel": "shareholder_of",
+      "object": "company_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Ingram is a shareholder of Dunmere Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000639",
+      "subject": "person_65",
+      "rel": "family_of",
+      "object": "person_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Ashby is a family member of Amina Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000629",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-14",
+          "value_end": "2024-01-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Northbank Bank Limited lent Dunmere Trading Limited GBP 20 million on 14 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000631",
+      "subject": "company_67",
+      "rel": "guarantor_for",
+      "object": "company_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Dunmere Capital Limited guaranteed the loan to Dunmere Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000630",
+      "subject": "company_65",
+      "rel": "owes",
+      "object": "bank_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-19",
+          "value_end": "2024-01-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmere Trading Limited owes Northbank Bank Limited GBP 8 million as at 19 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000635",
+      "subject": "company_65",
+      "rel": "owns",
+      "object": "asset_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmere Trading Limited owns Eastmere Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000636",
+      "subject": "asset_72",
+      "rel": "located_in",
+      "object": "place_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Silo is located in Northcliff.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000637",
+      "subject": "company_65",
+      "rel": "party_to",
+      "object": "legal_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Dunmere Trading Limited is a party to the Share Purchase Agreement LEG-065.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000638",
+      "subject": "person_66",
+      "rel": "signed",
+      "object": "legal_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Balfour signed the Share Purchase Agreement LEG-065.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00173_proposal",
+      "text": "The acquisition of Dunmere Property Limited by Dunmere Trading Limited",
+      "speaker": "person_177",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Montague, chair of Dunmere Trading Limited, proposed to acquire Dunmere Property Limited on 12 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00173_approval",
+      "text": "Regulatory approval for the acquisition of Dunmere Property Limited",
+      "speaker": "person_177",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Montague confirmed that regulatory approval for the acquisition of Dunmere Property Limited by Dunmere Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00173_link_conditional",
+      "src": "gen_doc_00173_proposal",
+      "dst": "gen_doc_00173_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Dunmere Property Limited by Dunmere Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00169_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00173",
+      "surface": "12 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-12",
+      "value_end": "2024-02-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000629",
+      "surface": "14 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-14",
+      "value_end": "2024-01-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "14 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000630",
+      "surface": "19 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-19",
+      "value_end": "2024-01-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "19 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

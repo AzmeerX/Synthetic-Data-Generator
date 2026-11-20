@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00170_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "078c1cae71f725e7caf21e03de895a953694402840031668413a11b323cf6586"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_69",
+      "name": "Eastmere Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_69",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_30",
+      "name": "Denmoor Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_30",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_62",
+      "name": "Dunmere Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_62",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Dunmere Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_63",
+      "name": "Dunmere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_63",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunmere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_64",
+      "name": "Dunmere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_64",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_02",
+      "name": "Marlowe & Reed LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_02",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_62",
+      "name": "Licence LEG-062",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_62",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-062",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-062",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_174",
+      "name": "Calder Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_174",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_62",
+      "name": "Amina Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_62",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_63",
+      "name": "Amina Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_63",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_70",
+      "name": "Amina Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_70",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_09",
+      "name": "Kestrelford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_09",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000581",
+      "subject": "company_62",
+      "rel": "owns",
+      "object": "company_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunmere Industries Limited owns Dunmere Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000590",
+      "subject": "company_62",
+      "rel": "owns",
+      "object": "asset_69",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunmere Industries Limited owns Eastmere Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000591",
+      "subject": "asset_69",
+      "rel": "located_in",
+      "object": "place_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Marina is located in Kestrelford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000587",
+      "subject": "lawfirm_02",
+      "rel": "represents",
+      "object": "company_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marlowe & Reed LLP represents Dunmere Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000582",
+      "subject": "person_70",
+      "rel": "shareholder_of",
+      "object": "company_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Fairfax is a shareholder of Dunmere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000594",
+      "subject": "person_62",
+      "rel": "family_of",
+      "object": "person_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Ward is a family member of Amina Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000584",
+      "subject": "bank_30",
+      "rel": "lent_to",
+      "object": "company_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-12-12",
+          "value_end": "2023-12-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Commercial Bank Limited lent Dunmere Industries Limited GBP 14 million on 12 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000586",
+      "subject": "company_64",
+      "rel": "guarantor_for",
+      "object": "company_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Dunmere Logistics Limited guaranteed the loan to Dunmere Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000585",
+      "subject": "company_62",
+      "rel": "owes",
+      "object": "bank_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-12-17",
+          "value_end": "2023-12-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Dunmere Industries Limited owes Denmoor Commercial Bank Limited GBP 5 million as at 17 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000592",
+      "subject": "company_62",
+      "rel": "party_to",
+      "object": "legal_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Dunmere Industries Limited is a party to the Licence LEG-062.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000593",
+      "subject": "person_63",
+      "rel": "signed",
+      "object": "legal_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Yarrow signed the Licence LEG-062.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00170_allegation",
+      "text": "A former employee alleged that Dunmere Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Jeffreys noted that a former employee alleged that Dunmere Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00170",
+      "surface": "6 May 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-05-06",
+      "value_end": "2027-05-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 May 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000584",
+      "surface": "12 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-12",
+      "value_end": "2023-12-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "12 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000585",
+      "surface": "17 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-17",
+      "value_end": "2023-12-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "17 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00170",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

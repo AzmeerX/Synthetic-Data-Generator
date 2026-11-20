@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01274_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "55c31232419a2ee0bcb0d2040f0285cfbb6d8697eefc00285db2048f65b30879"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_357",
+      "name": "Fairmouth Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_357",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairmouth Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_26",
+      "name": "Carrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_26",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2138",
+      "name": "North Inkberrow Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2138",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Inkberrow Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2139",
+      "name": "North Inkberrow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2139",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Inkberrow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2140",
+      "name": "North Inkberrow Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2140",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2142",
+      "name": "North Inkberrow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2142",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Inkberrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Inkberrow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_58",
+      "name": "Briar & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_58",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_74",
+      "name": "Briar & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_74",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_320",
+      "name": "Side Letter LEG-320",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_320",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-320",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-320",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1278",
+      "name": "Zane Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1278",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_746",
+      "name": "Oren Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_746",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_747",
+      "name": "Oren Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_747",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_749",
+      "name": "Oren Yarrow",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_749",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oren Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_751",
+      "name": "Oren Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_751",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oren Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_754",
+      "name": "Oren Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_754",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_165",
+      "name": "Lowmoor Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_165",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032952",
+      "subject": "company_2138",
+      "rel": "owns",
+      "object": "company_2139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Inkberrow Group Limited owns North Inkberrow Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032954",
+      "subject": "person_749",
+      "rel": "chair_of",
+      "object": "company_2138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Yarrow is the chair of North Inkberrow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032953",
+      "subject": "person_754",
+      "rel": "shareholder_of",
+      "object": "company_2138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Delacourt is a shareholder of North Inkberrow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032965",
+      "subject": "person_746",
+      "rel": "family_of",
+      "object": "person_747",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Ulric is a family member of Oren Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032955",
+      "subject": "bank_26",
+      "rel": "lent_to",
+      "object": "company_2138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-12-17",
+          "value_end": "2025-12-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow International Bank Limited lent North Inkberrow Group Limited GBP 46 million on 17 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032957",
+      "subject": "company_2140",
+      "rel": "guarantor_for",
+      "object": "company_2138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Trading Limited guaranteed the loan to North Inkberrow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032956",
+      "subject": "company_2138",
+      "rel": "owes",
+      "object": "bank_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-22",
+          "value_end": "2025-12-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Inkberrow Group Limited owes Carrow International Bank Limited GBP 11 million as at 22 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032958",
+      "subject": "lawfirm_58",
+      "rel": "represents",
+      "object": "company_2138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Dunmore LLP represents North Inkberrow Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032961",
+      "subject": "company_2138",
+      "rel": "owns",
+      "object": "asset_357",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Inkberrow Group Limited owns Fairmouth Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032962",
+      "subject": "asset_357",
+      "rel": "located_in",
+      "object": "place_165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth Warehouse is located in Lowmoor Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032963",
+      "subject": "company_2138",
+      "rel": "party_to",
+      "object": "legal_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Inkberrow Group Limited is a party to the Side Letter LEG-320.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032964",
+      "subject": "person_747",
+      "rel": "signed",
+      "object": "legal_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Vale signed the Side Letter LEG-320.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01274_proposal",
+      "text": "The acquisition of North Inkberrow Capital Limited by North Inkberrow Group Limited",
+      "speaker": "person_1278",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Kerr, chair of North Inkberrow Group Limited, proposed to acquire North Inkberrow Capital Limited on 3 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01274_approval",
+      "text": "Regulatory approval for the acquisition of North Inkberrow Capital Limited",
+      "speaker": "person_1278",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Kerr confirmed that regulatory approval for the acquisition of North Inkberrow Capital Limited by North Inkberrow Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01274_link_conditional",
+      "src": "gen_doc_01274_proposal",
+      "dst": "gen_doc_01274_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Inkberrow Capital Limited by North Inkberrow Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01274",
+      "surface": "3 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-03",
+      "value_end": "2025-07-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032955",
+      "surface": "17 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-17",
+      "value_end": "2025-12-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "17 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032956",
+      "surface": "22 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-22",
+      "value_end": "2025-12-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "22 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01274",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

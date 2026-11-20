@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01111_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "860a3e0650be805a3e0e87f3fd3d9dd0a76d777c62c8aada06cab2d37c734250"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_210",
+      "name": "Larkspur Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_210",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_11",
+      "name": "Alder Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_11",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1991",
+      "name": "North Trentvale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1991",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Trentvale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1992",
+      "name": "North Underhill Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1992",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Underhill Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1993",
+      "name": "North Underhill Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1993",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1994",
+      "name": "North Underhill Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1994",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Underhill Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1996",
+      "name": "North Underhill Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1996",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Underhill Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Underhill Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_41",
+      "name": "Alden & Kingsley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_41",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Kingsley LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Kingsley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_173",
+      "name": "Supply Agreement LEG-173",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_173",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Supply Agreement LEG-173",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Supply Agreement LEG-173",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1115",
+      "name": "Vera Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1115",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vera Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_599",
+      "name": "Lena Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_599",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_600",
+      "name": "Lena Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_600",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_607",
+      "name": "Lena Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_607",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_18",
+      "name": "Fairmouth",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_18",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fairmouth",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030658",
+      "subject": "company_1991",
+      "rel": "owns",
+      "object": "company_1992",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Trentvale Systems Limited owns North Underhill Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030659",
+      "subject": "person_607",
+      "rel": "shareholder_of",
+      "object": "company_1991",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Balfour is a shareholder of North Trentvale Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030671",
+      "subject": "person_599",
+      "rel": "family_of",
+      "object": "person_600",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Sable is a family member of Lena Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030661",
+      "subject": "bank_11",
+      "rel": "lent_to",
+      "object": "company_1991",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-10",
+          "value_end": "2026-03-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Trust Bank Limited lent North Trentvale Systems Limited GBP 32 million on 10 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030663",
+      "subject": "company_1993",
+      "rel": "guarantor_for",
+      "object": "company_1991",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Underhill Industries Limited guaranteed the loan to North Trentvale Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030662",
+      "subject": "company_1991",
+      "rel": "owes",
+      "object": "bank_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-15",
+          "value_end": "2026-03-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Trentvale Systems Limited owes Alder Trust Bank Limited GBP 4 million as at 15 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030667",
+      "subject": "company_1991",
+      "rel": "owns",
+      "object": "asset_210",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Trentvale Systems Limited owns Larkspur Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030668",
+      "subject": "asset_210",
+      "rel": "located_in",
+      "object": "place_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Plant is located in Fairmouth.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030669",
+      "subject": "company_1991",
+      "rel": "party_to",
+      "object": "legal_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Trentvale Systems Limited is a party to the Supply Agreement LEG-173.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030670",
+      "subject": "person_600",
+      "rel": "signed",
+      "object": "legal_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Thorne signed the Supply Agreement LEG-173.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01111_proposal",
+      "text": "The acquisition of North Underhill Trading Limited by North Trentvale Systems Limited",
+      "speaker": "person_1115",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vera Villiers, chair of North Trentvale Systems Limited, proposed to acquire North Underhill Trading Limited on 31 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01111_approval",
+      "text": "Regulatory approval for the acquisition of North Underhill Trading Limited",
+      "speaker": "person_1115",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Villiers confirmed that regulatory approval for the acquisition of North Underhill Trading Limited by North Trentvale Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01111_link_conditional",
+      "src": "gen_doc_01111_proposal",
+      "dst": "gen_doc_01111_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Underhill Trading Limited by North Trentvale Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01107_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01111",
+      "surface": "31 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-31",
+      "value_end": "2025-08-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030661",
+      "surface": "10 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-10",
+      "value_end": "2026-03-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "10 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030662",
+      "surface": "15 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-15",
+      "value_end": "2026-03-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01444_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "56aaba2f23350dfecc01ada74b2782ee9bf867a618e343226ac5750111a4c184"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_510",
+      "name": "Merrivale Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_510",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Merrivale Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_47",
+      "name": "Glen Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_47",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Glen Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2291",
+      "name": "North Upton Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2291",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Upton Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2292",
+      "name": "North Vinehall Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2292",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vinehall Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2293",
+      "name": "North Vinehall Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2293",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_81",
+      "name": "Briar & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_81",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_473",
+      "name": "Trust Deed LEG-473",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_473",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-473",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-473",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_56",
+      "name": "Amina Quade",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_56",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_899",
+      "name": "Rhea Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_899",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_900",
+      "name": "Rhea Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_900",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_907",
+      "name": "Rhea Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_907",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_138",
+      "name": "Inglemere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_138",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Inglemere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035336",
+      "subject": "company_2291",
+      "rel": "owns",
+      "object": "company_2292",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Upton Systems Limited owns North Vinehall Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035345",
+      "subject": "company_2291",
+      "rel": "owns",
+      "object": "asset_510",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Upton Systems Limited owns Merrivale Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035346",
+      "subject": "asset_510",
+      "rel": "located_in",
+      "object": "place_138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Farm is located in Inglemere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035342",
+      "subject": "lawfirm_81",
+      "rel": "represents",
+      "object": "company_2291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Balfour LLP represents North Upton Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035337",
+      "subject": "person_907",
+      "rel": "shareholder_of",
+      "object": "company_2291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Langford is a shareholder of North Upton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035349",
+      "subject": "person_899",
+      "rel": "family_of",
+      "object": "person_900",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Delacourt is a family member of Rhea Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035339",
+      "subject": "bank_47",
+      "rel": "lent_to",
+      "object": "company_2291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-11-30",
+          "value_end": "2025-11-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Trust Bank Limited lent North Upton Systems Limited GBP 32 million on 30 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035341",
+      "subject": "company_2293",
+      "rel": "guarantor_for",
+      "object": "company_2291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Industries Limited guaranteed the loan to North Upton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035340",
+      "subject": "company_2291",
+      "rel": "owes",
+      "object": "bank_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-05",
+          "value_end": "2025-12-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Upton Systems Limited owes Glen Trust Bank Limited GBP 4 million as at 5 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035347",
+      "subject": "company_2291",
+      "rel": "party_to",
+      "object": "legal_473",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Upton Systems Limited is a party to the Trust Deed LEG-473.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035348",
+      "subject": "person_900",
+      "rel": "signed",
+      "object": "legal_473",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Everard signed the Trust Deed LEG-473.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01444_allegation",
+      "text": "A former employee alleged that North Upton Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Quade noted that a former employee alleged that North Upton Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01444",
+      "surface": "23 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-23",
+      "value_end": "2025-06-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035339",
+      "surface": "30 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-30",
+      "value_end": "2025-11-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "30 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035340",
+      "surface": "5 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-05",
+      "value_end": "2025-12-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "5 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01444",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

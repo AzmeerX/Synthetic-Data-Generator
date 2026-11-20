@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00068_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "d930b69374cbc2e64e741ecbaf7bd3aae638b1cfdf886190128c541077c552d4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_39",
+      "name": "Calderport Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_39",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_43",
+      "name": "Dunhollow Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_43",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_24",
+      "name": "Carrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_24",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_152",
+      "name": "Kelbrook Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_152",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Kelbrook Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_154",
+      "name": "Kelbrook Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_154",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kelbrook Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_155",
+      "name": "Kelbrook Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_155",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Kelbrook Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_157",
+      "name": "Lowmoor Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_157",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lowmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Lowmoor Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_09",
+      "name": "Alden & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_09",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Dunmore LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_26",
+      "name": "Trust Deed LEG-026",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_26",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-026",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-026",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_152",
+      "name": "Calder Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_152",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_153",
+      "name": "Calder Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_153",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_160",
+      "name": "Calder Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_160",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_72",
+      "name": "Amina Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_72",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_39",
+      "name": "Cresswell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_39",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Cresswell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001984",
+      "subject": "company_152",
+      "rel": "owns",
+      "object": "asset_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Marine Limited owns Calderport Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001985",
+      "subject": "person_160",
+      "rel": "shareholder_of",
+      "object": "company_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Ulric is a shareholder of Kelbrook Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001997",
+      "subject": "person_152",
+      "rel": "family_of",
+      "object": "person_153",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Mercer is a family member of Calder Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001987",
+      "subject": "bank_24",
+      "rel": "lent_to",
+      "object": "company_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-08-28",
+          "value_end": "2026-08-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Commercial Bank Limited lent Kelbrook Marine Limited GBP 34 million on 28 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001989",
+      "subject": "company_154",
+      "rel": "guarantor_for",
+      "object": "company_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kelbrook Property Limited guaranteed the loan to Kelbrook Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001988",
+      "subject": "company_152",
+      "rel": "owes",
+      "object": "bank_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-02",
+          "value_end": "2026-09-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kelbrook Marine Limited owes Carrow Commercial Bank Limited GBP 5 million as at 2 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001993",
+      "subject": "company_152",
+      "rel": "owns",
+      "object": "asset_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Marine Limited owns Dunhollow Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001994",
+      "subject": "asset_43",
+      "rel": "located_in",
+      "object": "place_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunhollow Cold Store is located in Cresswell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001995",
+      "subject": "company_152",
+      "rel": "party_to",
+      "object": "legal_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Marine Limited is a party to the Trust Deed LEG-026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001996",
+      "subject": "person_153",
+      "rel": "signed",
+      "object": "legal_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Nyle signed the Trust Deed LEG-026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00068_proposal",
+      "text": "The acquisition of Lowmoor Holdings Limited by Kelbrook Marine Limited",
+      "speaker": "person_72",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Hastings, chair of Kelbrook Marine Limited, proposed to acquire Lowmoor Holdings Limited on 22 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00068_approval",
+      "text": "Regulatory approval for the acquisition of Lowmoor Holdings Limited",
+      "speaker": "person_72",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Hastings confirmed that regulatory approval for the acquisition of Lowmoor Holdings Limited by Kelbrook Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00068_link_conditional",
+      "src": "gen_doc_00068_proposal",
+      "dst": "gen_doc_00068_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Lowmoor Holdings Limited by Kelbrook Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00064_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00068",
+      "surface": "22 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-22",
+      "value_end": "2025-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001987",
+      "surface": "28 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-28",
+      "value_end": "2026-08-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "28 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001988",
+      "surface": "2 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-02",
+      "value_end": "2026-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "2 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

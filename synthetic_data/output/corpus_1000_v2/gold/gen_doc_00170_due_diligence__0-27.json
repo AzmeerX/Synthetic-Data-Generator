@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00170_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c010146b58b628b81730bc0bf455bd802ec4db533ab8d695489ac0176305484c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_57",
+      "name": "Dunhollow Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_57",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_38",
+      "name": "Elm International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_38",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_246",
+      "name": "Stanbrook Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_246",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_247",
+      "name": "Stanbrook Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_247",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_248",
+      "name": "Stanbrook Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_248",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_46",
+      "name": "Alden & Pemberton LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_46",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Pemberton LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_40",
+      "name": "Lease LEG-040",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_40",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-040",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-040",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_174",
+      "name": "Calder Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_174",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_246",
+      "name": "Elias Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_246",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_247",
+      "name": "Elias Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_247",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_254",
+      "name": "Elias Quade",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_254",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_53",
+      "name": "Quarrymere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_53",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quarrymere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003448",
+      "subject": "company_246",
+      "rel": "owns",
+      "object": "company_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Partners Limited owns Stanbrook Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003457",
+      "subject": "company_246",
+      "rel": "owns",
+      "object": "asset_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Partners Limited owns Dunhollow Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003458",
+      "subject": "asset_57",
+      "rel": "located_in",
+      "object": "place_53",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Estate is located in Quarrymere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003454",
+      "subject": "lawfirm_46",
+      "rel": "represents",
+      "object": "company_246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Pemberton LLP represents Stanbrook Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003449",
+      "subject": "person_254",
+      "rel": "shareholder_of",
+      "object": "company_246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Quade is a shareholder of Stanbrook Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003461",
+      "subject": "person_246",
+      "rel": "family_of",
+      "object": "person_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Hale is a family member of Elias Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003451",
+      "subject": "bank_38",
+      "rel": "lent_to",
+      "object": "company_246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-31",
+          "value_end": "2024-10-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited lent Stanbrook Partners Limited GBP 22 million on 31 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003453",
+      "subject": "company_248",
+      "rel": "guarantor_for",
+      "object": "company_246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Marine Limited guaranteed the loan to Stanbrook Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003452",
+      "subject": "company_246",
+      "rel": "owes",
+      "object": "bank_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-05",
+          "value_end": "2024-11-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Partners Limited owes Elm International Bank Limited GBP 9 million as at 5 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003459",
+      "subject": "company_246",
+      "rel": "party_to",
+      "object": "legal_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Partners Limited is a party to the Lease LEG-040.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003460",
+      "subject": "person_247",
+      "rel": "signed",
+      "object": "legal_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Ivers signed the Lease LEG-040.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00170_allegation",
+      "text": "A former employee alleged that Stanbrook Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Jeffreys noted that a former employee alleged that Stanbrook Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00170",
+      "surface": "6 May 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-05-06",
+      "value_end": "2027-05-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 May 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003451",
+      "surface": "31 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-31",
+      "value_end": "2024-10-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "31 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003452",
+      "surface": "5 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-05",
+      "value_end": "2024-11-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "5 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00170",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

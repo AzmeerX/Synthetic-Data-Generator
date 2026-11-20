@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00261_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "3f58f57d27239122515ec634968538fc6a1ef39b41b1824ccb3096ca28cde0c2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_40",
+      "name": "Calderport Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_40",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_37",
+      "name": "Elm Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_37",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1225",
+      "name": "Ennerdale Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1225",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Ennerdale Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1226",
+      "name": "Ennerdale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1226",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1227",
+      "name": "Ennerdale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1227",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_55",
+      "name": "Alden & Zouch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_55",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Zouch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_13",
+      "name": "Security Agreement LEG-013",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_13",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-013",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-013",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1225",
+      "name": "Yara Garrow",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1225",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1226",
+      "name": "Yara Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1226",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1233",
+      "name": "Yara Orrick",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1233",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_265",
+      "name": "Elias Cavendish",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_265",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_152",
+      "name": "Kelbrook Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_152",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018712",
+      "subject": "company_1225",
+      "rel": "owns",
+      "object": "company_1226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ennerdale Industries Limited owns Ennerdale Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018721",
+      "subject": "company_1225",
+      "rel": "owns",
+      "object": "asset_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Industries Limited owns Calderport Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018722",
+      "subject": "asset_40",
+      "rel": "located_in",
+      "object": "place_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Office Park is located in Kelbrook Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018718",
+      "subject": "lawfirm_55",
+      "rel": "represents",
+      "object": "company_1225",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Zouch LLP represents Ennerdale Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018713",
+      "subject": "person_1233",
+      "rel": "shareholder_of",
+      "object": "company_1225",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Orrick is a shareholder of Ennerdale Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018725",
+      "subject": "person_1225",
+      "rel": "family_of",
+      "object": "person_1226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Garrow is a family member of Yara Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018715",
+      "subject": "bank_37",
+      "rel": "lent_to",
+      "object": "company_1225",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-23",
+          "value_end": "2026-05-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Private Bank Limited lent Ennerdale Industries Limited GBP 20 million on 23 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018717",
+      "subject": "company_1227",
+      "rel": "guarantor_for",
+      "object": "company_1225",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Logistics Limited guaranteed the loan to Ennerdale Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018716",
+      "subject": "company_1225",
+      "rel": "owes",
+      "object": "bank_37",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-28",
+          "value_end": "2026-05-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Industries Limited owes Elm Private Bank Limited GBP 8 million as at 28 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018723",
+      "subject": "company_1225",
+      "rel": "party_to",
+      "object": "legal_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ennerdale Industries Limited is a party to the Security Agreement LEG-013.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018724",
+      "subject": "person_1226",
+      "rel": "signed",
+      "object": "legal_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Hale signed the Security Agreement LEG-013.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00261_allegation",
+      "text": "A former employee alleged that Ennerdale Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Cavendish noted that a former employee alleged that Ennerdale Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00261",
+      "surface": "20 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-20",
+      "value_end": "2025-10-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018715",
+      "surface": "23 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-23",
+      "value_end": "2026-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018716",
+      "surface": "28 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-28",
+      "value_end": "2026-05-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "28 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00261",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

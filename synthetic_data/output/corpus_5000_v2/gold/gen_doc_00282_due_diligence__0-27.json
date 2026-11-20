@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00282_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "1c6d59e54ca288165aabc39f8d9c7d79e4da96992cc02d884c439fc9a5c7f348"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_55",
+      "name": "Dunhollow Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_55",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunhollow Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_59",
+      "name": "Dunhollow Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_59",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_56",
+      "name": "Harrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_56",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1244",
+      "name": "Fermanagh Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1244",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Fermanagh Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1246",
+      "name": "Fermanagh Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1246",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fermanagh Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_74",
+      "name": "Briar & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_74",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_32",
+      "name": "Side Letter LEG-032",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_32",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-032",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-032",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1244",
+      "name": "Yara Balfour",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1244",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1245",
+      "name": "Yara Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1245",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Cavendish",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1252",
+      "name": "Yara Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1252",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_286",
+      "name": "Elias Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_286",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_171",
+      "name": "Merrivale Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_171",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019011",
+      "subject": "company_1244",
+      "rel": "owns",
+      "object": "asset_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fermanagh Energy Limited owns Dunhollow Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019020",
+      "subject": "company_1244",
+      "rel": "owns",
+      "object": "asset_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Energy Limited owns Dunhollow Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019021",
+      "subject": "asset_59",
+      "rel": "located_in",
+      "object": "place_171",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Office Park is located in Merrivale Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019017",
+      "subject": "lawfirm_74",
+      "rel": "represents",
+      "object": "company_1244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Thorne LLP represents Fermanagh Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019012",
+      "subject": "person_1252",
+      "rel": "shareholder_of",
+      "object": "company_1244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Jeffreys is a shareholder of Fermanagh Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019024",
+      "subject": "person_1244",
+      "rel": "family_of",
+      "object": "person_1245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Balfour is a family member of Yara Cavendish.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019014",
+      "subject": "bank_56",
+      "rel": "lent_to",
+      "object": "company_1244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-04-23",
+          "value_end": "2022-04-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow International Bank Limited lent Fermanagh Energy Limited GBP 18 million on 23 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019016",
+      "subject": "company_1246",
+      "rel": "guarantor_for",
+      "object": "company_1244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fermanagh Ventures Limited guaranteed the loan to Fermanagh Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019015",
+      "subject": "company_1244",
+      "rel": "owes",
+      "object": "bank_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-04-28",
+          "value_end": "2022-04-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fermanagh Energy Limited owes Harrow International Bank Limited GBP 7 million as at 28 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019022",
+      "subject": "company_1244",
+      "rel": "party_to",
+      "object": "legal_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Fermanagh Energy Limited is a party to the Side Letter LEG-032.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019023",
+      "subject": "person_1245",
+      "rel": "signed",
+      "object": "legal_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Cavendish signed the Side Letter LEG-032.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00282_allegation",
+      "text": "A former employee alleged that Fermanagh Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Yardley noted that a former employee alleged that Fermanagh Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00282",
+      "surface": "16 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-16",
+      "value_end": "2026-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019014",
+      "surface": "23 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-23",
+      "value_end": "2022-04-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019015",
+      "surface": "28 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-28",
+      "value_end": "2022-04-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "28 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00282",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

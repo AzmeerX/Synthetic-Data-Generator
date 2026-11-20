@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00194_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "3b6c7dbe5ad9238417207850cea0e5da2921c7e3bc4258aba94016ca8419d49a"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_576",
+      "name": "Quintrell Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_576",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quintrell Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quintrell Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_109",
+      "name": "Quill Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_109",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quill Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Quill Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1165",
+      "name": "Yelverton Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1165",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Yelverton Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1166",
+      "name": "Yelverton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1166",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yelverton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1167",
+      "name": "Yelverton Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1167",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yelverton Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1168",
+      "name": "Yelverton Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1168",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Yelverton Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_117",
+      "name": "Harrowden Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_117",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Harrowden Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Harrowden Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_34",
+      "name": "Alden & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_34",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_559",
+      "name": "Power of Attorney LEG-559",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_559",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Power of Attorney LEG-559",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Power of Attorney LEG-559",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1165",
+      "name": "Wren Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1165",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1166",
+      "name": "Wren Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1166",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wren Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1173",
+      "name": "Xander Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1173",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Xander Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_198",
+      "name": "Daria Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_198",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Daria Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Daria Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_92",
+      "name": "Carrow Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_92",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017777",
+      "subject": "company_1165",
+      "rel": "owns",
+      "object": "company_1166",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yelverton Industries Limited owns Yelverton Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017778",
+      "subject": "person_1173",
+      "rel": "shareholder_of",
+      "object": "company_1165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Xander Dunmore is a shareholder of Yelverton Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017790",
+      "subject": "person_1165",
+      "rel": "family_of",
+      "object": "person_1166",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Villiers is a family member of Wren Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017780",
+      "subject": "bank_109",
+      "rel": "lent_to",
+      "object": "company_1165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-08-01",
+          "value_end": "2024-08-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quill Private Bank Limited lent Yelverton Industries Limited GBP 20 million on 1 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017782",
+      "subject": "company_1167",
+      "rel": "guarantor_for",
+      "object": "company_1165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yelverton Logistics Limited guaranteed the loan to Yelverton Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017781",
+      "subject": "company_1165",
+      "rel": "owes",
+      "object": "bank_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-08-06",
+          "value_end": "2024-08-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Yelverton Industries Limited owes Quill Private Bank Limited GBP 8 million as at 6 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017786",
+      "subject": "company_1165",
+      "rel": "owns",
+      "object": "asset_576",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yelverton Industries Limited owns Quintrell Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017787",
+      "subject": "asset_576",
+      "rel": "located_in",
+      "object": "place_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quintrell Fleet is located in Carrow Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017788",
+      "subject": "company_1165",
+      "rel": "party_to",
+      "object": "legal_559",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yelverton Industries Limited is a party to the Power of Attorney LEG-559.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017789",
+      "subject": "person_1166",
+      "rel": "signed",
+      "object": "legal_559",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wren Whitlock signed the Power of Attorney LEG-559.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00194_proposal",
+      "text": "The acquisition of Harrowden Energy Limited by Yelverton Industries Limited",
+      "speaker": "person_198",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Daria Jarvis, chair of Yelverton Industries Limited, proposed to acquire Harrowden Energy Limited on 8 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00194_approval",
+      "text": "Regulatory approval for the acquisition of Harrowden Energy Limited",
+      "speaker": "person_198",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Daria Jarvis confirmed that regulatory approval for the acquisition of Harrowden Energy Limited by Yelverton Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00194_link_conditional",
+      "src": "gen_doc_00194_proposal",
+      "dst": "gen_doc_00194_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Harrowden Energy Limited by Yelverton Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00190_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00194",
+      "surface": "8 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-08",
+      "value_end": "2024-07-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017780",
+      "surface": "1 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-01",
+      "value_end": "2024-08-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "1 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017781",
+      "surface": "6 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-06",
+      "value_end": "2024-08-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "6 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

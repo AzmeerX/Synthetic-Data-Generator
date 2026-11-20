@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00021_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "69980fb3832036f41d5373d6f94b9c7fc6c5c33fd8162e5381c687221bb527c6"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_420",
+      "name": "Invermere Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_420",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Invermere Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Invermere Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_85",
+      "name": "Merri Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_85",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merri Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Merri Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1009",
+      "name": "Kendal Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1009",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Kendal Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1010",
+      "name": "Kendal Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1010",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kendal Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1011",
+      "name": "Kendal Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1011",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1013",
+      "name": "Kendal Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1013",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Kendal Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Kendal Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_110",
+      "name": "Cairn & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_110",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_99",
+      "name": "Briar & Underwood LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_99",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Underwood LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_403",
+      "name": "Guarantee Deed LEG-403",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_403",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-403",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-403",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1009",
+      "name": "Tamsin Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1009",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1010",
+      "name": "Tamsin Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1010",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1012",
+      "name": "Tamsin Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1012",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1014",
+      "name": "Tamsin Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1014",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1017",
+      "name": "Tamsin Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1017",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_22",
+      "name": "Anika Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_22",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_116",
+      "name": "Fairhaven Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_116",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairhaven Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_015344",
+      "subject": "company_1009",
+      "rel": "owns",
+      "object": "company_1010",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kendal Industries Limited owns Kendal Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015346",
+      "subject": "person_1012",
+      "rel": "chair_of",
+      "object": "company_1009",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Sinclair is the chair of Kendal Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015345",
+      "subject": "person_1017",
+      "rel": "shareholder_of",
+      "object": "company_1009",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Wyndham is a shareholder of Kendal Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015357",
+      "subject": "person_1009",
+      "rel": "family_of",
+      "object": "person_1010",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Osborne is a family member of Tamsin Pemberton.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015347",
+      "subject": "bank_85",
+      "rel": "lent_to",
+      "object": "company_1009",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-07-16",
+          "value_end": "2024-07-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merri Private Bank Limited lent Kendal Industries Limited GBP 28 million on 16 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015349",
+      "subject": "company_1011",
+      "rel": "guarantor_for",
+      "object": "company_1009",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Logistics Limited guaranteed the loan to Kendal Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015348",
+      "subject": "company_1009",
+      "rel": "owes",
+      "object": "bank_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-07-21",
+          "value_end": "2024-07-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Industries Limited owes Merri Private Bank Limited GBP 12 million as at 21 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015350",
+      "subject": "lawfirm_99",
+      "rel": "represents",
+      "object": "company_1009",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Underwood LLP represents Kendal Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015353",
+      "subject": "company_1009",
+      "rel": "owns",
+      "object": "asset_420",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kendal Industries Limited owns Invermere Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015354",
+      "subject": "asset_420",
+      "rel": "located_in",
+      "object": "place_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Invermere Hangar is located in Fairhaven Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015355",
+      "subject": "company_1009",
+      "rel": "party_to",
+      "object": "legal_403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kendal Industries Limited is a party to the Guarantee Deed LEG-403.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015356",
+      "subject": "person_1010",
+      "rel": "signed",
+      "object": "legal_403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Pemberton signed the Guarantee Deed LEG-403.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00021_proposal",
+      "text": "The acquisition of Kendal Partners Limited by Kendal Industries Limited",
+      "speaker": "person_22",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Dunmore, chair of Kendal Industries Limited, proposed to acquire Kendal Partners Limited on 27 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00021_approval",
+      "text": "Regulatory approval for the acquisition of Kendal Partners Limited",
+      "speaker": "person_22",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Dunmore confirmed that regulatory approval for the acquisition of Kendal Partners Limited by Kendal Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00021_link_conditional",
+      "src": "gen_doc_00021_proposal",
+      "dst": "gen_doc_00021_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Kendal Partners Limited by Kendal Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00021",
+      "surface": "27 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-27",
+      "value_end": "2024-06-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015347",
+      "surface": "16 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-16",
+      "value_end": "2024-07-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "16 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015348",
+      "surface": "21 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-21",
+      "value_end": "2024-07-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "21 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00021",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

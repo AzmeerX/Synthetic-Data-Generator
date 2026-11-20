@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00415_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b2915fea19d4ba538e060cf1901ba5c5be8a0f08aa33d7e0db3d945940f10bcc"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_175",
+      "name": "Juniper Cross Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_175",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Juniper Cross Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_179",
+      "name": "Kestrelford Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_179",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1364",
+      "name": "Pembroke Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1364",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Pembroke Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1366",
+      "name": "Pembroke Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1366",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_64",
+      "name": "Briar & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_64",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_152",
+      "name": "Lease LEG-152",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_152",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-152",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-152",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1364",
+      "name": "Anika Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1364",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1365",
+      "name": "Anika Yardley",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1365",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1372",
+      "name": "Bram Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1372",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bram Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_419",
+      "name": "Hana Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_419",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Hana Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_111",
+      "name": "Elmsworth Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_111",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmsworth Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020882",
+      "subject": "company_1364",
+      "rel": "owns",
+      "object": "asset_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pembroke Energy Limited owns Juniper Cross Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020891",
+      "subject": "company_1364",
+      "rel": "owns",
+      "object": "asset_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pembroke Energy Limited owns Kestrelford Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020892",
+      "subject": "asset_179",
+      "rel": "located_in",
+      "object": "place_111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Cold Store is located in Elmsworth Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020888",
+      "subject": "lawfirm_64",
+      "rel": "represents",
+      "object": "company_1364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Jarvis LLP represents Pembroke Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020883",
+      "subject": "person_1372",
+      "rel": "shareholder_of",
+      "object": "company_1364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bram Fenwick is a shareholder of Pembroke Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020895",
+      "subject": "person_1364",
+      "rel": "family_of",
+      "object": "person_1365",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Wyndham is a family member of Anika Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020885",
+      "subject": "bank_44",
+      "rel": "lent_to",
+      "object": "company_1364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-12-03",
+          "value_end": "2025-12-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair International Bank Limited lent Pembroke Energy Limited GBP 18 million on 3 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020887",
+      "subject": "company_1366",
+      "rel": "guarantor_for",
+      "object": "company_1364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pembroke Ventures Limited guaranteed the loan to Pembroke Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020886",
+      "subject": "company_1364",
+      "rel": "owes",
+      "object": "bank_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-08",
+          "value_end": "2025-12-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Pembroke Energy Limited owes Fair International Bank Limited GBP 7 million as at 8 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020893",
+      "subject": "company_1364",
+      "rel": "party_to",
+      "object": "legal_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Pembroke Energy Limited is a party to the Lease LEG-152.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020894",
+      "subject": "person_1365",
+      "rel": "signed",
+      "object": "legal_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Yardley signed the Lease LEG-152.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00415_allegation",
+      "text": "A former employee alleged that Pembroke Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Hana Jeffreys noted that a former employee alleged that Pembroke Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00415",
+      "surface": "20 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-20",
+      "value_end": "2025-06-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020885",
+      "surface": "3 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-03",
+      "value_end": "2025-12-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "3 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020886",
+      "surface": "8 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-08",
+      "value_end": "2025-12-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "8 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00415",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00030_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "a2c9d4fea6a0650f791ab51c332a0f63b4120bcee13fb6163fc90c47a8baa713"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_428",
+      "name": "Invermere Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_428",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_93",
+      "name": "Oak Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_93",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1017",
+      "name": "Kendal Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1017",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Kendal Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1018",
+      "name": "Kendal Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1018",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kendal Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1019",
+      "name": "Kendal Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1019",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_107",
+      "name": "Cairn & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_107",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_411",
+      "name": "Debenture LEG-411",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_411",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-411",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-411",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1017",
+      "name": "Tamsin Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1017",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1018",
+      "name": "Tamsin Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1018",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1025",
+      "name": "Ulric Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1025",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ulric Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_34",
+      "name": "Lena Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_34",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_124",
+      "name": "Glenmoor Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_124",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenmoor Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_015471",
+      "subject": "company_1017",
+      "rel": "owns",
+      "object": "company_1018",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kendal Property Limited owns Kendal Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015480",
+      "subject": "company_1017",
+      "rel": "owns",
+      "object": "asset_428",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kendal Property Limited owns Invermere Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015481",
+      "subject": "asset_428",
+      "rel": "located_in",
+      "object": "place_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Plant is located in Glenmoor Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015477",
+      "subject": "lawfirm_107",
+      "rel": "represents",
+      "object": "company_1017",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Dunmore LLP represents Kendal Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015472",
+      "subject": "person_1025",
+      "rel": "shareholder_of",
+      "object": "company_1017",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ulric Fenwick is a shareholder of Kendal Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015484",
+      "subject": "person_1017",
+      "rel": "family_of",
+      "object": "person_1018",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Wyndham is a family member of Tamsin Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015474",
+      "subject": "bank_93",
+      "rel": "lent_to",
+      "object": "company_1017",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-12",
+          "value_end": "2024-10-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Bank Limited lent Kendal Property Limited GBP 44 million on 12 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015476",
+      "subject": "company_1019",
+      "rel": "guarantor_for",
+      "object": "company_1017",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kendal Systems Limited guaranteed the loan to Kendal Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015475",
+      "subject": "company_1017",
+      "rel": "owes",
+      "object": "bank_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-17",
+          "value_end": "2024-10-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kendal Property Limited owes Oak Bank Limited GBP 10 million as at 17 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015482",
+      "subject": "company_1017",
+      "rel": "party_to",
+      "object": "legal_411",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kendal Property Limited is a party to the Debenture LEG-411.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015483",
+      "subject": "person_1018",
+      "rel": "signed",
+      "object": "legal_411",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Yardley signed the Debenture LEG-411.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00030_allegation",
+      "text": "A former employee alleged that Kendal Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Orrick noted that a former employee alleged that Kendal Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00030",
+      "surface": "29 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-29",
+      "value_end": "2024-08-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015474",
+      "surface": "12 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-12",
+      "value_end": "2024-10-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "12 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015475",
+      "surface": "17 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-17",
+      "value_end": "2024-10-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "17 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00030",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00686_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "c4e097224be550f250d5e3886ec3ef54a6b65950fce20ea4f9b3d9e4618786ef"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_419",
+      "name": "Invermere Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_419",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Invermere Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_423",
+      "name": "Invermere Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_423",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Invermere Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Invermere Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_24",
+      "name": "Carrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_24",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1608",
+      "name": "North Merrivale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1608",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Merrivale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1610",
+      "name": "North Merrivale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1610",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Merrivale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1612",
+      "name": "North Merrivale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1612",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_124",
+      "name": "Cairn & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_124",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cairn & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_48",
+      "name": "Alden & Sinclair LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_48",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Sinclair LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_396",
+      "name": "Shareholder Agreement LEG-396",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_396",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-396",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-396",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_216",
+      "name": "Daria Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_216",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Daria Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_217",
+      "name": "Daria Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_217",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Daria Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_219",
+      "name": "Daria Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_219",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Daria Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_221",
+      "name": "Daria Hastings",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_221",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Daria Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_224",
+      "name": "Daria Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_224",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_690",
+      "name": "Nadia Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_690",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_175",
+      "name": "Netherby Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_175",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Netherby Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024686",
+      "subject": "company_1608",
+      "rel": "owns",
+      "object": "asset_419",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Merrivale Holdings Limited owns Invermere Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024688",
+      "subject": "person_219",
+      "rel": "chair_of",
+      "object": "company_1608",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Fairfax is the chair of North Merrivale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024687",
+      "subject": "person_224",
+      "rel": "shareholder_of",
+      "object": "company_1608",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Kingsley is a shareholder of North Merrivale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024699",
+      "subject": "person_216",
+      "rel": "family_of",
+      "object": "person_217",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Daria Cavendish is a family member of Daria Delacourt.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024689",
+      "subject": "bank_24",
+      "rel": "lent_to",
+      "object": "company_1608",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-12-18",
+          "value_end": "2023-12-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Commercial Bank Limited lent North Merrivale Holdings Limited GBP 26 million on 18 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024691",
+      "subject": "company_1610",
+      "rel": "guarantor_for",
+      "object": "company_1608",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Merrivale Group Limited guaranteed the loan to North Merrivale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024690",
+      "subject": "company_1608",
+      "rel": "owes",
+      "object": "bank_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-12-23",
+          "value_end": "2023-12-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Holdings Limited owes Carrow Commercial Bank Limited GBP 11 million as at 23 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024692",
+      "subject": "lawfirm_48",
+      "rel": "represents",
+      "object": "company_1608",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Sinclair LLP represents North Merrivale Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024695",
+      "subject": "company_1608",
+      "rel": "owns",
+      "object": "asset_423",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Merrivale Holdings Limited owns Invermere Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024696",
+      "subject": "asset_423",
+      "rel": "located_in",
+      "object": "place_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Invermere Works is located in Netherby Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024697",
+      "subject": "company_1608",
+      "rel": "party_to",
+      "object": "legal_396",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Merrivale Holdings Limited is a party to the Shareholder Agreement LEG-396.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024698",
+      "subject": "person_217",
+      "rel": "signed",
+      "object": "legal_396",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Delacourt signed the Shareholder Agreement LEG-396.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00686_proposal",
+      "text": "The acquisition of North Merrivale Trading Limited by North Merrivale Holdings Limited",
+      "speaker": "person_690",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Mercer, chair of North Merrivale Holdings Limited, proposed to acquire North Merrivale Trading Limited on 3 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00686_approval",
+      "text": "Regulatory approval for the acquisition of North Merrivale Trading Limited",
+      "speaker": "person_690",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Mercer confirmed that regulatory approval for the acquisition of North Merrivale Trading Limited by North Merrivale Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00686_link_conditional",
+      "src": "gen_doc_00686_proposal",
+      "dst": "gen_doc_00686_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Merrivale Trading Limited by North Merrivale Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00686",
+      "surface": "3 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-03",
+      "value_end": "2024-02-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024689",
+      "surface": "18 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-18",
+      "value_end": "2023-12-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "18 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024690",
+      "surface": "23 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-23",
+      "value_end": "2023-12-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "23 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00686",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

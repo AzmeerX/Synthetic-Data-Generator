@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01323_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "945f09812a62212203bc0924b314cd55c5490965430e5b4da7354f3807b93227"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_401",
+      "name": "Harrow Bay Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_401",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrow Bay Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Harrow Bay Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_70",
+      "name": "Kel Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_70",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kel Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kel Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2182",
+      "name": "North Linden Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2182",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Linden Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2183",
+      "name": "North Linden Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2183",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Linden Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2184",
+      "name": "North Maplebury Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2184",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Maplebury Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2187",
+      "name": "North Maplebury Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2187",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Maplebury Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Maplebury Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_102",
+      "name": "Briar & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_102",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_112",
+      "name": "Cairn & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_112",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cairn & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_364",
+      "name": "Shareholder Agreement LEG-364",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_364",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-364",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-364",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1327",
+      "name": "Anika Kerr",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1327",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_790",
+      "name": "Petra Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_790",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Petra Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_791",
+      "name": "Petra Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_791",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Petra Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_793",
+      "name": "Petra Thorne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_793",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Petra Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_795",
+      "name": "Petra Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_795",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Petra Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_798",
+      "name": "Petra Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_798",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_29",
+      "name": "Quintrell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_29",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Quintrell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033637",
+      "subject": "company_2182",
+      "rel": "owns",
+      "object": "company_2183",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Linden Ventures Limited owns North Linden Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033639",
+      "subject": "person_793",
+      "rel": "chair_of",
+      "object": "company_2182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Thorne is the chair of North Linden Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033638",
+      "subject": "person_798",
+      "rel": "shareholder_of",
+      "object": "company_2182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Zell is a shareholder of North Linden Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033650",
+      "subject": "person_790",
+      "rel": "family_of",
+      "object": "person_791",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Petra Quade is a family member of Petra Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033640",
+      "subject": "bank_70",
+      "rel": "lent_to",
+      "object": "company_2182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-19",
+          "value_end": "2022-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kel Merchant Bank Limited lent North Linden Ventures Limited GBP 14 million on 19 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033642",
+      "subject": "company_2184",
+      "rel": "guarantor_for",
+      "object": "company_2182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Maplebury Holdings Limited guaranteed the loan to North Linden Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033641",
+      "subject": "company_2182",
+      "rel": "owes",
+      "object": "bank_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-24",
+          "value_end": "2022-08-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Linden Ventures Limited owes Kel Merchant Bank Limited GBP 5 million as at 24 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033643",
+      "subject": "lawfirm_102",
+      "rel": "represents",
+      "object": "company_2182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Wyndham LLP represents North Linden Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033646",
+      "subject": "company_2182",
+      "rel": "owns",
+      "object": "asset_401",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Linden Ventures Limited owns Harrow Bay Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033647",
+      "subject": "asset_401",
+      "rel": "located_in",
+      "object": "place_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrow Bay Quay is located in Quintrell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033648",
+      "subject": "company_2182",
+      "rel": "party_to",
+      "object": "legal_364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Linden Ventures Limited is a party to the Shareholder Agreement LEG-364.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033649",
+      "subject": "person_791",
+      "rel": "signed",
+      "object": "legal_364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Rook signed the Shareholder Agreement LEG-364.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01323_proposal",
+      "text": "The acquisition of North Maplebury Logistics Limited by North Linden Ventures Limited",
+      "speaker": "person_1327",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Kerr, chair of North Linden Ventures Limited, proposed to acquire North Maplebury Logistics Limited on 11 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01323_approval",
+      "text": "Regulatory approval for the acquisition of North Maplebury Logistics Limited",
+      "speaker": "person_1327",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Kerr confirmed that regulatory approval for the acquisition of North Maplebury Logistics Limited by North Linden Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01323_link_conditional",
+      "src": "gen_doc_01323_proposal",
+      "dst": "gen_doc_01323_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Maplebury Logistics Limited by North Linden Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01323",
+      "surface": "11 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-11",
+      "value_end": "2026-06-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033640",
+      "surface": "19 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-19",
+      "value_end": "2022-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "19 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033641",
+      "surface": "24 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-24",
+      "value_end": "2022-08-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "24 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01323",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00168_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "efbb242100ae53f66193649c1a18245277afb0a760d5ae735c7fb39dc5fc7efd"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_51",
+      "name": "Dunhollow Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_51",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Dunhollow Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_55",
+      "name": "Dunhollow Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_55",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Dunhollow Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_36",
+      "name": "Elm Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_36",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_244",
+      "name": "Stanbrook Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_244",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Stanbrook Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_246",
+      "name": "Stanbrook Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_246",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_249",
+      "name": "Stanbrook Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_249",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Stanbrook Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Stanbrook Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_19",
+      "name": "Alden & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_19",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_44",
+      "name": "Alden & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_44",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_38",
+      "name": "Loan Note LEG-038",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_38",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_172",
+      "name": "Calder Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_172",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_244",
+      "name": "Elias Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_244",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_245",
+      "name": "Elias Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_245",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_247",
+      "name": "Elias Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_247",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_249",
+      "name": "Elias Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_249",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Elias Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_252",
+      "name": "Elias Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_252",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_51",
+      "name": "Overdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_51",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Overdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003417",
+      "subject": "company_244",
+      "rel": "owns",
+      "object": "asset_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Stanbrook Logistics Limited owns Dunhollow Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003419",
+      "subject": "person_247",
+      "rel": "chair_of",
+      "object": "company_244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ivers is the chair of Stanbrook Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003418",
+      "subject": "person_252",
+      "rel": "shareholder_of",
+      "object": "company_244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Nyle is a shareholder of Stanbrook Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003430",
+      "subject": "person_244",
+      "rel": "family_of",
+      "object": "person_245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Fenwick is a family member of Elias Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003420",
+      "subject": "bank_36",
+      "rel": "lent_to",
+      "object": "company_244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-09",
+          "value_end": "2024-10-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elm Commercial Bank Limited lent Stanbrook Logistics Limited GBP 18 million on 9 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003422",
+      "subject": "company_246",
+      "rel": "guarantor_for",
+      "object": "company_244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook Partners Limited guaranteed the loan to Stanbrook Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003421",
+      "subject": "company_244",
+      "rel": "owes",
+      "object": "bank_36",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-14",
+          "value_end": "2024-10-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Logistics Limited owes Elm Commercial Bank Limited GBP 7 million as at 14 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003423",
+      "subject": "lawfirm_44",
+      "rel": "represents",
+      "object": "company_244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Neville LLP represents Stanbrook Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003426",
+      "subject": "company_244",
+      "rel": "owns",
+      "object": "asset_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Stanbrook Logistics Limited owns Dunhollow Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003427",
+      "subject": "asset_55",
+      "rel": "located_in",
+      "object": "place_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Dunhollow Dock is located in Overdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003428",
+      "subject": "company_244",
+      "rel": "party_to",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Logistics Limited is a party to the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003429",
+      "subject": "person_245",
+      "rel": "signed",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Garrow signed the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00168_proposal",
+      "text": "The acquisition of Stanbrook Energy Limited by Stanbrook Logistics Limited",
+      "speaker": "person_172",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Hastings, chair of Stanbrook Logistics Limited, proposed to acquire Stanbrook Energy Limited on 22 April 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00168_approval",
+      "text": "Regulatory approval for the acquisition of Stanbrook Energy Limited",
+      "speaker": "person_172",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Hastings confirmed that regulatory approval for the acquisition of Stanbrook Energy Limited by Stanbrook Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00168_link_conditional",
+      "src": "gen_doc_00168_proposal",
+      "dst": "gen_doc_00168_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Stanbrook Energy Limited by Stanbrook Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00168",
+      "surface": "22 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-22",
+      "value_end": "2027-04-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003420",
+      "surface": "9 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-09",
+      "value_end": "2024-10-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "9 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003421",
+      "surface": "14 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-14",
+      "value_end": "2024-10-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "14 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00168",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

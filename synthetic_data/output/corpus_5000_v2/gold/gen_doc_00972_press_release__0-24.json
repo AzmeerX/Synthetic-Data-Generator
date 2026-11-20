@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00972_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "20894e5e7f71640eb4d8774b96fdca032ecaaac250fb8985a4db540c8246ade2"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_85",
+      "name": "Fenwick Bay Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_85",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bay Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1866",
+      "name": "North Jesmond Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1866",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Jesmond Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1867",
+      "name": "North Jesmond Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1867",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Jesmond Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1868",
+      "name": "North Jesmond Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1868",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Jesmond Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_32",
+      "name": "Alden & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_32",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_48",
+      "name": "Side Letter LEG-048",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_48",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Side Letter LEG-048",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-048",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_474",
+      "name": "Ivo Ravenscroft",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_474",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ivo Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_475",
+      "name": "Ivo Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_475",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ivo Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ivo Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_482",
+      "name": "Ivo Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_482",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Ivo Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_976",
+      "name": "Tamsin Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_976",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Tamsin Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_73",
+      "name": "Ashcombe Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_73",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028709",
+      "subject": "company_1866",
+      "rel": "owns",
+      "object": "company_1867",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Jesmond Capital Limited owns North Jesmond Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028710",
+      "subject": "person_482",
+      "rel": "shareholder_of",
+      "object": "company_1866",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Ivo Zouch is a shareholder of North Jesmond Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028722",
+      "subject": "person_474",
+      "rel": "family_of",
+      "object": "person_475",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ivo Ravenscroft is a family member of Ivo Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028712",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_1866",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-04",
+          "value_end": "2022-06-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Commercial Bank Limited lent North Jesmond Capital Limited GBP 22 million on 4 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028714",
+      "subject": "company_1868",
+      "rel": "guarantor_for",
+      "object": "company_1866",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Jesmond Energy Limited guaranteed the loan to North Jesmond Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028713",
+      "subject": "company_1866",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-06-09",
+          "value_end": "2022-06-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Jesmond Capital Limited owes Bexley Commercial Bank Limited GBP 9 million as at 9 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028718",
+      "subject": "company_1866",
+      "rel": "owns",
+      "object": "asset_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Jesmond Capital Limited owns Fenwick Bay Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028719",
+      "subject": "asset_85",
+      "rel": "located_in",
+      "object": "place_73",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Foundry is located in Ashcombe Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028720",
+      "subject": "company_1866",
+      "rel": "party_to",
+      "object": "legal_48",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Jesmond Capital Limited is a party to the Side Letter LEG-048.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028721",
+      "subject": "person_475",
+      "rel": "signed",
+      "object": "legal_48",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ivo Sinclair signed the Side Letter LEG-048.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00972_allegation",
+      "text": "A former employee alleged that North Jesmond Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Tamsin Fenwick noted that a former employee alleged that North Jesmond Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00972",
+      "surface": "15 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-15",
+      "value_end": "2026-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028712",
+      "surface": "4 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-04",
+      "value_end": "2022-06-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "4 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028713",
+      "surface": "9 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-09",
+      "value_end": "2022-06-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "9 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00972",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

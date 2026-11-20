@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00653_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e55875bc34623b8524548b46137ef6d8e265386dd56eca4364eb16f442a453e2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_394",
+      "name": "Harrow Bay Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_394",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrow Bay Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_127",
+      "name": "Tarrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_127",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1579",
+      "name": "North Jarrow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1579",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Jarrow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1580",
+      "name": "North Jarrow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1580",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Jarrow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1581",
+      "name": "North Jarrow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1581",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Jarrow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_19",
+      "name": "Alden & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_19",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_367",
+      "name": "Power of Attorney LEG-367",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_367",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-367",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-367",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_187",
+      "name": "Calder Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_187",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_188",
+      "name": "Calder Yardley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_188",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_195",
+      "name": "Daria Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_195",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_657",
+      "name": "Marek Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_657",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Marek Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_146",
+      "name": "Jarrow Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_146",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024233",
+      "subject": "company_1579",
+      "rel": "owns",
+      "object": "company_1580",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Jarrow Marine Limited owns North Jarrow Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024242",
+      "subject": "company_1579",
+      "rel": "owns",
+      "object": "asset_394",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Jarrow Marine Limited owns Harrow Bay Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024243",
+      "subject": "asset_394",
+      "rel": "located_in",
+      "object": "place_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Terminal is located in Jarrow Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024239",
+      "subject": "lawfirm_19",
+      "rel": "represents",
+      "object": "company_1579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Nyle LLP represents North Jarrow Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024234",
+      "subject": "person_195",
+      "rel": "shareholder_of",
+      "object": "company_1579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Fenwick is a shareholder of North Jarrow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024246",
+      "subject": "person_187",
+      "rel": "family_of",
+      "object": "person_188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Wyndham is a family member of Calder Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024236",
+      "subject": "bank_127",
+      "rel": "lent_to",
+      "object": "company_1579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-02",
+          "value_end": "2023-02-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Private Bank Limited lent North Jarrow Marine Limited GBP 48 million on 2 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024238",
+      "subject": "company_1581",
+      "rel": "guarantor_for",
+      "object": "company_1579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Jarrow Property Limited guaranteed the loan to North Jarrow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024237",
+      "subject": "company_1579",
+      "rel": "owes",
+      "object": "bank_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-07",
+          "value_end": "2023-02-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Jarrow Marine Limited owes Tarrow Private Bank Limited GBP 12 million as at 7 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024244",
+      "subject": "company_1579",
+      "rel": "party_to",
+      "object": "legal_367",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Jarrow Marine Limited is a party to the Power of Attorney LEG-367.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024245",
+      "subject": "person_188",
+      "rel": "signed",
+      "object": "legal_367",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Yardley signed the Power of Attorney LEG-367.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00653_allegation",
+      "text": "A former employee alleged that North Jarrow Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Marek Delacourt noted that a former employee alleged that North Jarrow Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00653",
+      "surface": "29 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-29",
+      "value_end": "2026-09-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024236",
+      "surface": "2 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-02",
+      "value_end": "2023-02-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024237",
+      "surface": "7 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-07",
+      "value_end": "2023-02-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00653",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

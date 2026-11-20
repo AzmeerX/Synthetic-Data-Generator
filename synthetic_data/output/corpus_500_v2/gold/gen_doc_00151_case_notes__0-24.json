@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00151_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "e525db95e32d665a87c03758fad0d0011b93003e5ccb11245c5744b4242002f5"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_43",
+      "name": "Belmont Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_43",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Belmont Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_44",
+      "name": "Belmont Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_44",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_45",
+      "name": "Belmont Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_45",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Belmont Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_46",
+      "name": "Belmont Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_46",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Belmont Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Belmont Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_43",
+      "name": "Debenture LEG-043",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_43",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Debenture LEG-043",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Debenture LEG-043",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_155",
+      "name": "Calder Pell",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_155",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_43",
+      "name": "Amina Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_43",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Amina Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_44",
+      "name": "Amina Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_44",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_46",
+      "name": "Amina Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_46",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_51",
+      "name": "Amina Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_51",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Amina Lorne",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000293",
+      "subject": "company_43",
+      "rel": "party_to",
+      "object": "legal_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Belmont Capital Limited is a party to the Debenture LEG-043.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000294",
+      "subject": "person_44",
+      "rel": "signed",
+      "object": "legal_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Amina Dunmore signed the Debenture LEG-043.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000284",
+      "subject": "person_46",
+      "rel": "chair_of",
+      "object": "company_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Fenwick is the chair of Belmont Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000285",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-17",
+          "value_end": "2023-05-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Greyhaven Bank Limited lent Belmont Capital Limited GBP 16 million on 17 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000287",
+      "subject": "company_45",
+      "rel": "guarantor_for",
+      "object": "company_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Belmont Energy Limited guaranteed the loan to Belmont Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000286",
+      "subject": "company_43",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-22",
+          "value_end": "2023-05-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Belmont Capital Limited owes Greyhaven Bank Limited GBP 6 million as at 22 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000283",
+      "subject": "person_51",
+      "rel": "shareholder_of",
+      "object": "company_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Amina Lorne is a shareholder of Belmont Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000295",
+      "subject": "person_43",
+      "rel": "family_of",
+      "object": "person_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Amina Cairn is a family member of Amina Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000282",
+      "subject": "company_43",
+      "rel": "owns",
+      "object": "company_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Belmont Capital Limited owns Belmont Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00151_neg_guarantee",
+      "subject": "company_43",
+      "rel": "guarantor_for",
+      "object": "company_46",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Belmont Capital Limited did not guarantee the facility for Belmont Property Limited on 24 December 2026.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00151_allegation",
+      "text": "A former employee alleged that Belmont Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Pell noted that a former employee alleged that Belmont Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00151",
+      "surface": "24 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-24",
+      "value_end": "2026-12-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000285",
+      "surface": "17 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-17",
+      "value_end": "2023-05-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "17 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000286",
+      "surface": "22 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-22",
+      "value_end": "2023-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "22 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00151",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2027-06-24",
+      "value_end": "2027-06-24",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00180_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "5d42fe293d86d2aae1db8a446fcb96779f13456cc91be384fb8ffaefcee9e328"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_559",
+      "name": "Pemberton Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_559",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_563",
+      "name": "Pemberton Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_563",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_96",
+      "name": "Oak Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_96",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oak Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oak Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1152",
+      "name": "Wilton Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1152",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1154",
+      "name": "Wilton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1154",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wilton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1155",
+      "name": "Wilton Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1155",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Wilton Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1157",
+      "name": "Wilton Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1157",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_546",
+      "name": "Facility Agreement LEG-546",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_546",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-546",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-546",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1152",
+      "name": "Wren Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1152",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1153",
+      "name": "Wren Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1153",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wren Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1160",
+      "name": "Wren Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1160",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_184",
+      "name": "Calder Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_184",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_79",
+      "name": "Ashcombe Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_79",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017576",
+      "subject": "company_1152",
+      "rel": "owns",
+      "object": "asset_559",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Holdings Limited owns Pemberton Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017577",
+      "subject": "person_1160",
+      "rel": "shareholder_of",
+      "object": "company_1152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Pemberton is a shareholder of Wilton Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017589",
+      "subject": "person_1152",
+      "rel": "family_of",
+      "object": "person_1153",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Hastings is a family member of Wren Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017579",
+      "subject": "bank_96",
+      "rel": "lent_to",
+      "object": "company_1152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-11",
+          "value_end": "2024-03-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oak Commercial Bank Limited lent Wilton Holdings Limited GBP 34 million on 11 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017581",
+      "subject": "company_1154",
+      "rel": "guarantor_for",
+      "object": "company_1152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wilton Group Limited guaranteed the loan to Wilton Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017580",
+      "subject": "company_1152",
+      "rel": "owes",
+      "object": "bank_96",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-16",
+          "value_end": "2024-03-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Wilton Holdings Limited owes Oak Commercial Bank Limited GBP 5 million as at 16 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017585",
+      "subject": "company_1152",
+      "rel": "owns",
+      "object": "asset_563",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Wilton Holdings Limited owns Pemberton Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017586",
+      "subject": "asset_563",
+      "rel": "located_in",
+      "object": "place_79",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pemberton Works is located in Ashcombe Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017587",
+      "subject": "company_1152",
+      "rel": "party_to",
+      "object": "legal_546",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wilton Holdings Limited is a party to the Facility Agreement LEG-546.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017588",
+      "subject": "person_1153",
+      "rel": "signed",
+      "object": "legal_546",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wren Ingram signed the Facility Agreement LEG-546.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00180_proposal",
+      "text": "The acquisition of Wilton Partners Limited by Wilton Holdings Limited",
+      "speaker": "person_184",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Underwood, chair of Wilton Holdings Limited, proposed to acquire Wilton Partners Limited on 1 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00180_approval",
+      "text": "Regulatory approval for the acquisition of Wilton Partners Limited",
+      "speaker": "person_184",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Underwood confirmed that regulatory approval for the acquisition of Wilton Partners Limited by Wilton Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00180_link_conditional",
+      "src": "gen_doc_00180_proposal",
+      "dst": "gen_doc_00180_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Wilton Partners Limited by Wilton Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00176_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00180",
+      "surface": "1 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-01",
+      "value_end": "2024-04-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017579",
+      "surface": "11 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-11",
+      "value_end": "2024-03-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "11 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017580",
+      "surface": "16 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-16",
+      "value_end": "2024-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "16 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

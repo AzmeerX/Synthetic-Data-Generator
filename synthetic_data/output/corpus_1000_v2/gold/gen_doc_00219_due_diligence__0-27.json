@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00219_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b7b1980ef97ee71d1cbec80c87b8d8869aa181e8d510d86b8e0d4419f846b2d3"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_101",
+      "name": "Greyhaven Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_101",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_30",
+      "name": "Denmoor Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_30",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_290",
+      "name": "Westerby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_290",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Westerby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_291",
+      "name": "Westerby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_291",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_292",
+      "name": "Westerby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_292",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_40",
+      "name": "Alden & Jeffreys LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_40",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jeffreys LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_84",
+      "name": "Board Resolution LEG-084",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_84",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-084",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-084",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_223",
+      "name": "Daria Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_223",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_290",
+      "name": "Farah Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_290",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_291",
+      "name": "Farah Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_291",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_298",
+      "name": "Farah Kerr",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_298",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_97",
+      "name": "Dunmere Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_97",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004136",
+      "subject": "company_290",
+      "rel": "owns",
+      "object": "company_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Westerby Industries Limited owns Westerby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004145",
+      "subject": "company_290",
+      "rel": "owns",
+      "object": "asset_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Industries Limited owns Greyhaven Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004146",
+      "subject": "asset_101",
+      "rel": "located_in",
+      "object": "place_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Terminal is located in Dunmere Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004142",
+      "subject": "lawfirm_40",
+      "rel": "represents",
+      "object": "company_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jeffreys LLP represents Westerby Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004137",
+      "subject": "person_298",
+      "rel": "shareholder_of",
+      "object": "company_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Kerr is a shareholder of Westerby Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004149",
+      "subject": "person_290",
+      "rel": "family_of",
+      "object": "person_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Cairn is a family member of Farah Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004139",
+      "subject": "bank_30",
+      "rel": "lent_to",
+      "object": "company_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-02-27",
+          "value_end": "2026-02-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Commercial Bank Limited lent Westerby Industries Limited GBP 30 million on 27 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004141",
+      "subject": "company_292",
+      "rel": "guarantor_for",
+      "object": "company_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Logistics Limited guaranteed the loan to Westerby Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004140",
+      "subject": "company_290",
+      "rel": "owes",
+      "object": "bank_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-04",
+          "value_end": "2026-03-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Westerby Industries Limited owes Denmoor Commercial Bank Limited GBP 13 million as at 4 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004147",
+      "subject": "company_290",
+      "rel": "party_to",
+      "object": "legal_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Westerby Industries Limited is a party to the Board Resolution LEG-084.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004148",
+      "subject": "person_291",
+      "rel": "signed",
+      "object": "legal_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Dunmore signed the Board Resolution LEG-084.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00219_allegation",
+      "text": "A former employee alleged that Westerby Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Jeffreys noted that a former employee alleged that Westerby Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00219",
+      "surface": "30 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-30",
+      "value_end": "2024-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004139",
+      "surface": "27 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-27",
+      "value_end": "2026-02-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004140",
+      "surface": "4 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-04",
+      "value_end": "2026-03-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "4 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00219",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00506_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c9f1f333277217fda3bc96223cf6cb400413441b95e88a9d78e3572eeba1e7ac"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_261",
+      "name": "Alderport Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_261",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alderport Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_126",
+      "name": "Tarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_126",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1446",
+      "name": "Wear Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1446",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Wear Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1447",
+      "name": "Wear Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1447",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wear Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1448",
+      "name": "Wear Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1448",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wear Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_234",
+      "name": "Settlement Agreement LEG-234",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_234",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-234",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-234",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_510",
+      "name": "Juno Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_510",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_54",
+      "name": "Amina Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_54",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_55",
+      "name": "Amina Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_55",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_62",
+      "name": "Amina Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_62",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_13",
+      "name": "Alderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_13",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022160",
+      "subject": "company_1446",
+      "rel": "owns",
+      "object": "company_1447",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wear Capital Limited owns Wear Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022169",
+      "subject": "company_1446",
+      "rel": "owns",
+      "object": "asset_261",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Capital Limited owns Alderport Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022170",
+      "subject": "asset_261",
+      "rel": "located_in",
+      "object": "place_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Quay is located in Alderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022166",
+      "subject": "lawfirm_16",
+      "rel": "represents",
+      "object": "company_1446",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Kerr LLP represents Wear Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022161",
+      "subject": "person_62",
+      "rel": "shareholder_of",
+      "object": "company_1446",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Ward is a shareholder of Wear Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022173",
+      "subject": "person_54",
+      "rel": "family_of",
+      "object": "person_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Orrick is a family member of Amina Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022163",
+      "subject": "bank_126",
+      "rel": "lent_to",
+      "object": "company_1446",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-09-27",
+          "value_end": "2023-09-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Commercial Bank Limited lent Wear Capital Limited GBP 22 million on 27 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022165",
+      "subject": "company_1448",
+      "rel": "guarantor_for",
+      "object": "company_1446",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wear Energy Limited guaranteed the loan to Wear Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022164",
+      "subject": "company_1446",
+      "rel": "owes",
+      "object": "bank_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-02",
+          "value_end": "2023-10-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wear Capital Limited owes Tarrow Commercial Bank Limited GBP 9 million as at 2 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022171",
+      "subject": "company_1446",
+      "rel": "party_to",
+      "object": "legal_234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Wear Capital Limited is a party to the Settlement Agreement LEG-234.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022172",
+      "subject": "person_55",
+      "rel": "signed",
+      "object": "legal_234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Pell signed the Settlement Agreement LEG-234.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00506_allegation",
+      "text": "A former employee alleged that Wear Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Cavendish noted that a former employee alleged that Wear Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00506",
+      "surface": "19 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-19",
+      "value_end": "2027-03-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022163",
+      "surface": "27 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-27",
+      "value_end": "2023-09-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022164",
+      "surface": "2 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-02",
+      "value_end": "2023-10-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "2 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00506",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01451_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "6ef67f54b276c85839d6cced4924d960ca3b893478e6e965516a9f221f2de2ec"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_517",
+      "name": "Netherby Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_517",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_54",
+      "name": "Harrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_54",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2298",
+      "name": "North Vinehall Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2298",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Vinehall Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2299",
+      "name": "North Vinehall Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2299",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vinehall Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2300",
+      "name": "North Vinehall Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2300",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_88",
+      "name": "Briar & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_88",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_480",
+      "name": "Side Letter LEG-480",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_480",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-480",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-480",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_63",
+      "name": "Amina Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_63",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_906",
+      "name": "Rhea Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_906",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_907",
+      "name": "Rhea Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_907",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_914",
+      "name": "Rhea Tremayne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_914",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_145",
+      "name": "Jarrow Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_145",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035446",
+      "subject": "company_2298",
+      "rel": "owns",
+      "object": "company_2299",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vinehall Capital Limited owns North Vinehall Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035455",
+      "subject": "company_2298",
+      "rel": "owns",
+      "object": "asset_517",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Capital Limited owns Netherby Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035456",
+      "subject": "asset_517",
+      "rel": "located_in",
+      "object": "place_145",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Warehouse is located in Jarrow Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035452",
+      "subject": "lawfirm_88",
+      "rel": "represents",
+      "object": "company_2298",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ingram LLP represents North Vinehall Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035447",
+      "subject": "person_914",
+      "rel": "shareholder_of",
+      "object": "company_2298",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Tremayne is a shareholder of North Vinehall Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035459",
+      "subject": "person_906",
+      "rel": "family_of",
+      "object": "person_907",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Kingsley is a family member of Rhea Langford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035449",
+      "subject": "bank_54",
+      "rel": "lent_to",
+      "object": "company_2298",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-02-15",
+          "value_end": "2026-02-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Commercial Bank Limited lent North Vinehall Capital Limited GBP 46 million on 15 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035451",
+      "subject": "company_2300",
+      "rel": "guarantor_for",
+      "object": "company_2298",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Energy Limited guaranteed the loan to North Vinehall Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035450",
+      "subject": "company_2298",
+      "rel": "owes",
+      "object": "bank_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-02-20",
+          "value_end": "2026-02-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Vinehall Capital Limited owes Harrow Commercial Bank Limited GBP 11 million as at 20 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035457",
+      "subject": "company_2298",
+      "rel": "party_to",
+      "object": "legal_480",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Vinehall Capital Limited is a party to the Side Letter LEG-480.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035458",
+      "subject": "person_907",
+      "rel": "signed",
+      "object": "legal_480",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Langford signed the Side Letter LEG-480.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01451_allegation",
+      "text": "A former employee alleged that North Vinehall Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Yarrow noted that a former employee alleged that North Vinehall Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01451",
+      "surface": "11 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-11",
+      "value_end": "2025-08-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035449",
+      "surface": "15 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-15",
+      "value_end": "2026-02-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035450",
+      "surface": "20 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-20",
+      "value_end": "2026-02-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01451",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

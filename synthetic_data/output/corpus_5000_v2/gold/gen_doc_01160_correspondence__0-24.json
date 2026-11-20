@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01160_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "f815d4807a7954b5da2198dfff59b6a383879c59e4147c588f8a28429c92fb75"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_254",
+      "name": "Alderport Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_254",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alderport Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alderport Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_55",
+      "name": "Harrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_55",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2035",
+      "name": "North Yewdale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2035",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Yewdale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2036",
+      "name": "North Yewdale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2036",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yewdale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2037",
+      "name": "North Yewdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2037",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Yewdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2038",
+      "name": "North Yewdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2038",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Yewdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_204",
+      "name": "Oakhurst Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_204",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Oakhurst Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_90",
+      "name": "Briar & Kingsley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_90",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Kingsley LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Kingsley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_217",
+      "name": "Trust Deed LEG-217",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_217",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-217",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-217",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1164",
+      "name": "Wren Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1164",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wren Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_643",
+      "name": "Marek Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_643",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_644",
+      "name": "Marek Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_644",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Marek Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_651",
+      "name": "Marek Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_651",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marek Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_62",
+      "name": "Bexley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_62",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031343",
+      "subject": "company_2035",
+      "rel": "owns",
+      "object": "company_2036",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yewdale Marine Limited owns North Yewdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031344",
+      "subject": "person_651",
+      "rel": "shareholder_of",
+      "object": "company_2035",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marek Ward is a shareholder of North Yewdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031356",
+      "subject": "person_643",
+      "rel": "family_of",
+      "object": "person_644",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Mercer is a family member of Marek Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031346",
+      "subject": "bank_55",
+      "rel": "lent_to",
+      "object": "company_2035",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-10",
+          "value_end": "2022-11-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Private Bank Limited lent North Yewdale Marine Limited GBP 40 million on 10 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031348",
+      "subject": "company_2037",
+      "rel": "guarantor_for",
+      "object": "company_2035",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Yewdale Property Limited guaranteed the loan to North Yewdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031347",
+      "subject": "company_2035",
+      "rel": "owes",
+      "object": "bank_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-15",
+          "value_end": "2022-11-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Yewdale Marine Limited owes Harrow Private Bank Limited GBP 8 million as at 15 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031352",
+      "subject": "company_2035",
+      "rel": "owns",
+      "object": "asset_254",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yewdale Marine Limited owns Alderport Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031353",
+      "subject": "asset_254",
+      "rel": "located_in",
+      "object": "place_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alderport Terminal is located in Bexley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031354",
+      "subject": "company_2035",
+      "rel": "party_to",
+      "object": "legal_217",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yewdale Marine Limited is a party to the Trust Deed LEG-217.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031355",
+      "subject": "person_644",
+      "rel": "signed",
+      "object": "legal_217",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Marek Pell signed the Trust Deed LEG-217.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01160_proposal",
+      "text": "The acquisition of Oakhurst Systems Limited by North Yewdale Marine Limited",
+      "speaker": "person_1164",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wren Underwood, chair of North Yewdale Marine Limited, proposed to acquire Oakhurst Systems Limited on 9 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01160_approval",
+      "text": "Regulatory approval for the acquisition of Oakhurst Systems Limited",
+      "speaker": "person_1164",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Underwood confirmed that regulatory approval for the acquisition of Oakhurst Systems Limited by North Yewdale Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01160_link_conditional",
+      "src": "gen_doc_01160_proposal",
+      "dst": "gen_doc_01160_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Oakhurst Systems Limited by North Yewdale Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01156_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01160",
+      "surface": "9 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-09",
+      "value_end": "2026-08-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031346",
+      "surface": "10 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-10",
+      "value_end": "2022-11-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "10 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031347",
+      "surface": "15 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-15",
+      "value_end": "2022-11-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

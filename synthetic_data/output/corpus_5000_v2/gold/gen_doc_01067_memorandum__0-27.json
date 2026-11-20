@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01067_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "cda6801dae4d58efe88876a1718bedb908f4c1705e1366331c4eca5ca96c2d4c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_170",
+      "name": "Juniper Cross Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_170",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Juniper Cross Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_103",
+      "name": "Pember Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_103",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1951",
+      "name": "North Quarrymere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1951",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1952",
+      "name": "North Quarrymere Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1952",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1953",
+      "name": "North Quarrymere Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1953",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1956",
+      "name": "North Rushmere Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1956",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Rushmere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Rushmere Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_01",
+      "name": "Harrow & Finch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_01",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Harrow & Finch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_116",
+      "name": "Cairn & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_116",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_133",
+      "name": "Security Agreement LEG-133",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_133",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Security Agreement LEG-133",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-133",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1071",
+      "name": "Vera Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1071",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Vera Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_559",
+      "name": "Kellan Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_559",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_560",
+      "name": "Kellan Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_560",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kellan Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_567",
+      "name": "Kellan Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_567",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_158",
+      "name": "Kelbrook Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_158",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030033",
+      "subject": "company_1951",
+      "rel": "owns",
+      "object": "company_1952",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Marine Limited owns North Quarrymere Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030034",
+      "subject": "person_567",
+      "rel": "shareholder_of",
+      "object": "company_1951",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Kingsley is a shareholder of North Quarrymere Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030046",
+      "subject": "person_559",
+      "rel": "family_of",
+      "object": "person_560",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Cavendish is a family member of Kellan Delacourt.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030036",
+      "subject": "bank_103",
+      "rel": "lent_to",
+      "object": "company_1951",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-12-25",
+          "value_end": "2024-12-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Private Bank Limited lent North Quarrymere Marine Limited GBP 32 million on 25 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030038",
+      "subject": "company_1953",
+      "rel": "guarantor_for",
+      "object": "company_1951",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Property Limited guaranteed the loan to North Quarrymere Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030037",
+      "subject": "company_1951",
+      "rel": "owes",
+      "object": "bank_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-12-30",
+          "value_end": "2024-12-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Quarrymere Marine Limited owes Pember Private Bank Limited GBP 4 million as at 30 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030039",
+      "subject": "lawfirm_01",
+      "rel": "represents",
+      "object": "company_1951",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Harrow & Finch LLP represents North Quarrymere Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030042",
+      "subject": "company_1951",
+      "rel": "owns",
+      "object": "asset_170",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quarrymere Marine Limited owns Juniper Cross Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030043",
+      "subject": "asset_170",
+      "rel": "located_in",
+      "object": "place_158",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Juniper Cross Mill is located in Kelbrook Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030044",
+      "subject": "company_1951",
+      "rel": "party_to",
+      "object": "legal_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Quarrymere Marine Limited is a party to the Security Agreement LEG-133.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030045",
+      "subject": "person_560",
+      "rel": "signed",
+      "object": "legal_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kellan Delacourt signed the Security Agreement LEG-133.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01067_proposal",
+      "text": "The acquisition of North Rushmere Holdings Limited by North Quarrymere Marine Limited",
+      "speaker": "person_1071",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Briar, chair of North Quarrymere Marine Limited, proposed to acquire North Rushmere Holdings Limited on 27 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01067_approval",
+      "text": "Regulatory approval for the acquisition of North Rushmere Holdings Limited",
+      "speaker": "person_1071",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Vera Briar confirmed that regulatory approval for the acquisition of North Rushmere Holdings Limited by North Quarrymere Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01067_link_conditional",
+      "src": "gen_doc_01067_proposal",
+      "dst": "gen_doc_01067_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Rushmere Holdings Limited by North Quarrymere Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01067",
+      "surface": "27 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-27",
+      "value_end": "2024-10-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030036",
+      "surface": "25 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-25",
+      "value_end": "2024-12-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030037",
+      "surface": "30 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-30",
+      "value_end": "2024-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "30 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01067",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

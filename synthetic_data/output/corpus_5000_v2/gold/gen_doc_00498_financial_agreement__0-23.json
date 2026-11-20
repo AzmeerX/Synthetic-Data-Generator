@@ -1,0 +1,429 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00498_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "1eac697b9065bb75436cf66e0a30ed9a71a10e81159b63353aa53c9be168ec61"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_119",
+      "name": "Stan Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_119",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stan Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Stan Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_70",
+      "name": "Kel Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_70",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kel Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1439",
+      "name": "Vale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1439",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1440",
+      "name": "Wear Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1440",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1441",
+      "name": "Wear Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1441",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wear Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Wear Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_227",
+      "name": "Guarantee Deed LEG-227",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_227",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Guarantee Deed LEG-227",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Guarantee Deed LEG-227",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_48",
+      "name": "Amina Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_48",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Amina Hale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022051",
+      "subject": "company_1439",
+      "rel": "owns",
+      "object": "company_1440",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Vale Systems Limited owns Wear Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022054",
+      "subject": "bank_119",
+      "rel": "lent_to",
+      "object": "company_1439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-07-12",
+          "value_end": "2023-07-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stan Trust Bank Limited lent Vale Systems Limited GBP 48 million on 12 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022056",
+      "subject": "company_1441",
+      "rel": "guarantor_for",
+      "object": "company_1439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wear Industries Limited guaranteed the loan to Vale Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022055",
+      "subject": "company_1439",
+      "rel": "owes",
+      "object": "bank_119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-07-17",
+          "value_end": "2023-07-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vale Systems Limited owes Stan Trust Bank Limited GBP 12 million as at 17 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022062",
+      "subject": "company_1439",
+      "rel": "party_to",
+      "object": "legal_227",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Vale Systems Limited is a party to the Guarantee Deed LEG-227.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022063",
+      "subject": "person_48",
+      "rel": "signed",
+      "object": "legal_227",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Amina Hale signed the Guarantee Deed LEG-227.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00498_neg_guarantee",
+      "subject": "company_1439",
+      "rel": "guarantor_for",
+      "object": "company_1441",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vale Systems Limited did not guarantee the facility for Wear Industries Limited on 22 January 2027.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_00502_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00498",
+      "surface": "22 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-22",
+      "value_end": "2027-01-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022054",
+      "surface": "12 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-12",
+      "value_end": "2023-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "12 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022055",
+      "surface": "17 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-17",
+      "value_end": "2023-07-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "17 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00498",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2027-07-22",
+      "value_end": "2027-07-22",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

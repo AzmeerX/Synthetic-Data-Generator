@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00226_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "9d94fcd048aae5c85274e17cf8648f75eccea48375fb1fc26ccf1f6b650511d7"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_108",
+      "name": "Greyhaven Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_108",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_37",
+      "name": "Elm Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_37",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_297",
+      "name": "Westerby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_297",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Westerby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_298",
+      "name": "Westerby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_298",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Westerby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_299",
+      "name": "Westerby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_299",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_47",
+      "name": "Alden & Ravenscroft LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_47",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ravenscroft LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_91",
+      "name": "Debenture LEG-091",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_91",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-091",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-091",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_230",
+      "name": "Daria Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_230",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_297",
+      "name": "Farah Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_297",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_298",
+      "name": "Farah Kerr",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_298",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_305",
+      "name": "Farah Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_305",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_04",
+      "name": "Fenwick Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_04",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004244",
+      "subject": "company_297",
+      "rel": "owns",
+      "object": "company_298",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Westerby Energy Limited owns Westerby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004253",
+      "subject": "company_297",
+      "rel": "owns",
+      "object": "asset_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Energy Limited owns Greyhaven Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004254",
+      "subject": "asset_108",
+      "rel": "located_in",
+      "object": "place_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Marina is located in Fenwick Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004250",
+      "subject": "lawfirm_47",
+      "rel": "represents",
+      "object": "company_297",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ravenscroft LLP represents Westerby Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004245",
+      "subject": "person_305",
+      "rel": "shareholder_of",
+      "object": "company_297",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Thorne is a shareholder of Westerby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004257",
+      "subject": "person_297",
+      "rel": "family_of",
+      "object": "person_298",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Jarvis is a family member of Farah Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004247",
+      "subject": "bank_37",
+      "rel": "lent_to",
+      "object": "company_297",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-15",
+          "value_end": "2026-05-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Private Bank Limited lent Westerby Energy Limited GBP 44 million on 15 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004249",
+      "subject": "company_299",
+      "rel": "guarantor_for",
+      "object": "company_297",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Ventures Limited guaranteed the loan to Westerby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004248",
+      "subject": "company_297",
+      "rel": "owes",
+      "object": "bank_37",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-20",
+          "value_end": "2026-05-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Westerby Energy Limited owes Elm Private Bank Limited GBP 10 million as at 20 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004255",
+      "subject": "company_297",
+      "rel": "party_to",
+      "object": "legal_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Westerby Energy Limited is a party to the Debenture LEG-091.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004256",
+      "subject": "person_298",
+      "rel": "signed",
+      "object": "legal_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Kerr signed the Debenture LEG-091.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00226_allegation",
+      "text": "A former employee alleged that Westerby Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Ravenscroft noted that a former employee alleged that Westerby Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00226",
+      "surface": "17 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-17",
+      "value_end": "2025-02-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004247",
+      "surface": "15 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-15",
+      "value_end": "2026-05-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004248",
+      "surface": "20 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-20",
+      "value_end": "2026-05-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00226",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00962_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "74d4f0754a699383244e2c01959137b84748ab2a540910c7b211301c3e964eed"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_76",
+      "name": "Eastmere Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_76",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Eastmere Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1857",
+      "name": "North Ivybridge Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1857",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Ivybridge Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1858",
+      "name": "North Ivybridge Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1858",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ivybridge Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1859",
+      "name": "North Ivybridge Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1859",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Ivybridge Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1861",
+      "name": "North Jesmond Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1861",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Jesmond Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Jesmond Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_22",
+      "name": "Alden & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_22",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_37",
+      "name": "Alden & Grenville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_37",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Grenville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_39",
+      "name": "Services Agreement LEG-039",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_39",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Services Agreement LEG-039",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-039",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_465",
+      "name": "Ivo Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_465",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_466",
+      "name": "Ivo Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_466",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ivo Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_473",
+      "name": "Ivo Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_473",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivo Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_966",
+      "name": "Silas Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_966",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Silas Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_64",
+      "name": "Denholm",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_64",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Denholm",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028569",
+      "subject": "company_1857",
+      "rel": "owns",
+      "object": "company_1858",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ivybridge Property Limited owns North Ivybridge Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028570",
+      "subject": "person_473",
+      "rel": "shareholder_of",
+      "object": "company_1857",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ivo Pemberton is a shareholder of North Ivybridge Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028582",
+      "subject": "person_465",
+      "rel": "family_of",
+      "object": "person_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ivo Hastings is a family member of Ivo Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028572",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_1857",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-25",
+          "value_end": "2022-02-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Bank Limited lent North Ivybridge Property Limited GBP 44 million on 25 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028574",
+      "subject": "company_1859",
+      "rel": "guarantor_for",
+      "object": "company_1857",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Ivybridge Systems Limited guaranteed the loan to North Ivybridge Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028573",
+      "subject": "company_1857",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-02",
+          "value_end": "2022-03-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Ivybridge Property Limited owes Alder Bank Limited GBP 10 million as at 2 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028575",
+      "subject": "lawfirm_37",
+      "rel": "represents",
+      "object": "company_1857",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Grenville LLP represents North Ivybridge Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028578",
+      "subject": "company_1857",
+      "rel": "owns",
+      "object": "asset_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ivybridge Property Limited owns Eastmere Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028579",
+      "subject": "asset_76",
+      "rel": "located_in",
+      "object": "place_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Estate is located in Denholm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028580",
+      "subject": "company_1857",
+      "rel": "party_to",
+      "object": "legal_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Ivybridge Property Limited is a party to the Services Agreement LEG-039.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028581",
+      "subject": "person_466",
+      "rel": "signed",
+      "object": "legal_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ivo Ingram signed the Services Agreement LEG-039.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00962_proposal",
+      "text": "The acquisition of North Jesmond Industries Limited by North Ivybridge Property Limited",
+      "speaker": "person_966",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Villiers, chair of North Ivybridge Property Limited, proposed to acquire North Jesmond Industries Limited on 4 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00962_approval",
+      "text": "Regulatory approval for the acquisition of North Jesmond Industries Limited",
+      "speaker": "person_966",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Silas Villiers confirmed that regulatory approval for the acquisition of North Jesmond Industries Limited by North Ivybridge Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00962_link_conditional",
+      "src": "gen_doc_00962_proposal",
+      "dst": "gen_doc_00962_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Jesmond Industries Limited by North Ivybridge Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00962",
+      "surface": "4 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-04",
+      "value_end": "2026-02-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028572",
+      "surface": "25 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-25",
+      "value_end": "2022-02-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028573",
+      "surface": "2 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-02",
+      "value_end": "2022-03-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00962",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

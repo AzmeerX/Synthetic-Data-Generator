@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00254_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "04c7dd2c53304c4d804c22fe11d1751c45b1b0a7d25df7575048a3353d806422"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_133",
+      "name": "Harrowgate Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_133",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowgate Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_322",
+      "name": "Aldergate Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_322",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Aldergate Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_323",
+      "name": "Aldergate Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_323",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_324",
+      "name": "Aldergate Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_324",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_22",
+      "name": "Alden & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_22",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_116",
+      "name": "Board Resolution LEG-116",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_116",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-116",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-116",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_258",
+      "name": "Elias Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_258",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_322",
+      "name": "Farah Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_322",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_323",
+      "name": "Farah Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_323",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_330",
+      "name": "Farah Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_330",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_29",
+      "name": "Quintrell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_29",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004634",
+      "subject": "company_322",
+      "rel": "owns",
+      "object": "company_323",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Aldergate Property Limited owns Aldergate Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004643",
+      "subject": "company_322",
+      "rel": "owns",
+      "object": "asset_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Aldergate Property Limited owns Harrowgate Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004644",
+      "subject": "asset_133",
+      "rel": "located_in",
+      "object": "place_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowgate Plant is located in Quintrell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004640",
+      "subject": "lawfirm_22",
+      "rel": "represents",
+      "object": "company_322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Quade LLP represents Aldergate Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004635",
+      "subject": "person_330",
+      "rel": "shareholder_of",
+      "object": "company_322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Underwood is a shareholder of Aldergate Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004647",
+      "subject": "person_322",
+      "rel": "family_of",
+      "object": "person_323",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Langford is a family member of Farah Montague.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004637",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-20",
+          "value_end": "2022-06-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Merchant Bank Limited lent Aldergate Property Limited GBP 14 million on 20 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004639",
+      "subject": "company_324",
+      "rel": "guarantor_for",
+      "object": "company_322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Aldergate Systems Limited guaranteed the loan to Aldergate Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004638",
+      "subject": "company_322",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-06-25",
+          "value_end": "2022-06-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Aldergate Property Limited owes Alder Merchant Bank Limited GBP 5 million as at 25 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004645",
+      "subject": "company_322",
+      "rel": "party_to",
+      "object": "legal_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Aldergate Property Limited is a party to the Board Resolution LEG-116.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004646",
+      "subject": "person_323",
+      "rel": "signed",
+      "object": "legal_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Montague signed the Board Resolution LEG-116.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00254_allegation",
+      "text": "A former employee alleged that Aldergate Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Ulric noted that a former employee alleged that Aldergate Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00254",
+      "surface": "1 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-01",
+      "value_end": "2025-09-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004637",
+      "surface": "20 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-20",
+      "value_end": "2022-06-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004638",
+      "surface": "25 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-25",
+      "value_end": "2022-06-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00254",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

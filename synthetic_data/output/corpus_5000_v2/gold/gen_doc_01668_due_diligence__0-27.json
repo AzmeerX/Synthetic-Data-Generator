@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01668_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b613319498b416415529fa1b28b00cca68a2f9380a560c0e9a8596ff391cada4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_138",
+      "name": "Ironside Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_138",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_15",
+      "name": "Bexley Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_15",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_327",
+      "name": "Barrowfield Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_327",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Barrowfield Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_328",
+      "name": "Barrowfield Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_328",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Barrowfield Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_329",
+      "name": "Barrowfield Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_329",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_27",
+      "name": "Alden & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_27",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_121",
+      "name": "Trust Deed LEG-121",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_121",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-121",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-121",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_280",
+      "name": "Elias Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_280",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_327",
+      "name": "Farah Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_327",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_328",
+      "name": "Farah Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_328",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_335",
+      "name": "Farah Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_335",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_34",
+      "name": "Vellacott",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_34",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004712",
+      "subject": "company_327",
+      "rel": "owns",
+      "object": "company_328",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Barrowfield Group Limited owns Barrowfield Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004721",
+      "subject": "company_327",
+      "rel": "owns",
+      "object": "asset_138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Group Limited owns Ironside Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004722",
+      "subject": "asset_138",
+      "rel": "located_in",
+      "object": "place_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Rail Depot is located in Vellacott.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004718",
+      "subject": "lawfirm_27",
+      "rel": "represents",
+      "object": "company_327",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Vale LLP represents Barrowfield Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004713",
+      "subject": "person_335",
+      "rel": "shareholder_of",
+      "object": "company_327",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Zouch is a shareholder of Barrowfield Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004725",
+      "subject": "person_327",
+      "rel": "family_of",
+      "object": "person_328",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Ravenscroft is a family member of Farah Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004715",
+      "subject": "bank_15",
+      "rel": "lent_to",
+      "object": "company_327",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-14",
+          "value_end": "2022-08-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited lent Barrowfield Group Limited GBP 24 million on 14 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004717",
+      "subject": "company_329",
+      "rel": "guarantor_for",
+      "object": "company_327",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Trading Limited guaranteed the loan to Barrowfield Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004716",
+      "subject": "company_327",
+      "rel": "owes",
+      "object": "bank_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-19",
+          "value_end": "2022-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Group Limited owes Bexley Bank Limited GBP 10 million as at 19 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004723",
+      "subject": "company_327",
+      "rel": "party_to",
+      "object": "legal_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Barrowfield Group Limited is a party to the Trust Deed LEG-121.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004724",
+      "subject": "person_328",
+      "rel": "signed",
+      "object": "legal_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Sinclair signed the Trust Deed LEG-121.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01668_allegation",
+      "text": "A former employee alleged that Barrowfield Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Sinclair noted that a former employee alleged that Barrowfield Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01668",
+      "surface": "26 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-26",
+      "value_end": "2026-06-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004715",
+      "surface": "14 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-14",
+      "value_end": "2022-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004716",
+      "surface": "19 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-19",
+      "value_end": "2022-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "19 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01668",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

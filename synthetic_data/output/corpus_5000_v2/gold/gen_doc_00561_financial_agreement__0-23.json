@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00561_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "1d9b04bbf394c6d0235488a211e1cfa2c5c9ad2c5937a9aafb1d2ed3b9abf21c"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_307",
+      "name": "Carrow Bay Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_307",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Carrow Bay Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_121",
+      "name": "Stan Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_121",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1496",
+      "name": "North Carrow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1496",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Carrow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1498",
+      "name": "North Carrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1498",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Carrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1499",
+      "name": "North Carrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1499",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Carrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_284",
+      "name": "Shareholder Agreement LEG-284",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_284",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-284",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Shareholder Agreement LEG-284",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_105",
+      "name": "Bastian Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_105",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bastian Pell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022940",
+      "subject": "company_1496",
+      "rel": "owns",
+      "object": "asset_307",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Carrow Energy Limited owns Carrow Bay Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022943",
+      "subject": "bank_44",
+      "rel": "lent_to",
+      "object": "company_1496",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-30",
+          "value_end": "2025-03-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fair International Bank Limited lent North Carrow Energy Limited GBP 42 million on 30 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022945",
+      "subject": "company_1498",
+      "rel": "guarantor_for",
+      "object": "company_1496",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Carrow Ventures Limited guaranteed the loan to North Carrow Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022944",
+      "subject": "company_1496",
+      "rel": "owes",
+      "object": "bank_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-04",
+          "value_end": "2025-04-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Carrow Energy Limited owes Fair International Bank Limited GBP 9 million as at 4 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022951",
+      "subject": "company_1496",
+      "rel": "party_to",
+      "object": "legal_284",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Carrow Energy Limited is a party to the Shareholder Agreement LEG-284.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022952",
+      "subject": "person_105",
+      "rel": "signed",
+      "object": "legal_284",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bastian Pell signed the Shareholder Agreement LEG-284.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00561_neg_guarantee",
+      "subject": "company_1496",
+      "rel": "guarantor_for",
+      "object": "company_1499",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Carrow Energy Limited did not guarantee the facility for North Carrow Systems Limited on 24 December 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_00565_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00561",
+      "surface": "24 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-24",
+      "value_end": "2024-12-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022943",
+      "surface": "30 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-30",
+      "value_end": "2025-03-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "30 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022944",
+      "surface": "4 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-04",
+      "value_end": "2025-04-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "4 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00561",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-06-24",
+      "value_end": "2025-06-24",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

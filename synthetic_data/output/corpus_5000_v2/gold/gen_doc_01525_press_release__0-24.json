@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01525_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "aec7c20ef6fb0fee50c79717bde3d7ae9af7d4766b5e675d33ace25628cd10b8"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_579",
+      "name": "Quintrell Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_579",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Quintrell Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_583",
+      "name": "Quintrell Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_583",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quintrell Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Quintrell Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_120",
+      "name": "Stan Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_120",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stan Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Stan Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2364",
+      "name": "North Dunkeld Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2364",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Dunkeld Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2366",
+      "name": "North Dunkeld Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2366",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Dunkeld Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_65",
+      "name": "Briar & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_65",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_546",
+      "name": "Facility Agreement LEG-546",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_546",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-546",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-546",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_137",
+      "name": "Bastian Wyndham",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_137",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_972",
+      "name": "Tamsin Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_972",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_973",
+      "name": "Tamsin Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_973",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_980",
+      "name": "Tamsin Jarvis",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_980",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Tamsin Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_31",
+      "name": "Stanbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_31",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Stanbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036474",
+      "subject": "company_2364",
+      "rel": "owns",
+      "object": "asset_579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Dunkeld Holdings Limited owns Quintrell Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036475",
+      "subject": "person_980",
+      "rel": "shareholder_of",
+      "object": "company_2364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Tamsin Jarvis is a shareholder of North Dunkeld Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036487",
+      "subject": "person_972",
+      "rel": "family_of",
+      "object": "person_973",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Briar is a family member of Tamsin Cairn.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036477",
+      "subject": "bank_120",
+      "rel": "lent_to",
+      "object": "company_2364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-17",
+          "value_end": "2023-06-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stan Commercial Bank Limited lent North Dunkeld Holdings Limited GBP 18 million on 17 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036479",
+      "subject": "company_2366",
+      "rel": "guarantor_for",
+      "object": "company_2364",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Dunkeld Group Limited guaranteed the loan to North Dunkeld Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036478",
+      "subject": "company_2364",
+      "rel": "owes",
+      "object": "bank_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-22",
+          "value_end": "2023-06-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Dunkeld Holdings Limited owes Stan Commercial Bank Limited GBP 7 million as at 22 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036483",
+      "subject": "company_2364",
+      "rel": "owns",
+      "object": "asset_583",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Dunkeld Holdings Limited owns Quintrell Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036484",
+      "subject": "asset_583",
+      "rel": "located_in",
+      "object": "place_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quintrell Works is located in Stanbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036485",
+      "subject": "company_2364",
+      "rel": "party_to",
+      "object": "legal_546",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Dunkeld Holdings Limited is a party to the Facility Agreement LEG-546.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036486",
+      "subject": "person_973",
+      "rel": "signed",
+      "object": "legal_546",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Cairn signed the Facility Agreement LEG-546.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01525_allegation",
+      "text": "A former employee alleged that North Dunkeld Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Wyndham noted that a former employee alleged that North Dunkeld Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01525",
+      "surface": "11 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-11",
+      "value_end": "2027-01-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036477",
+      "surface": "17 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-17",
+      "value_end": "2023-06-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "17 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036478",
+      "surface": "22 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-22",
+      "value_end": "2023-06-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "22 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01525",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

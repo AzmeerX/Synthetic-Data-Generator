@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00262_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "086bf9e78f8d040c23db4b452e6d7685d2861a5a9de98aea3918577c32cd962b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_41",
+      "name": "Dunhollow Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_41",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Dunhollow Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_38",
+      "name": "Elm International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_38",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Elm International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1226",
+      "name": "Ennerdale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1226",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Ennerdale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1227",
+      "name": "Ennerdale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1227",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1228",
+      "name": "Ennerdale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1228",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1230",
+      "name": "Ennerdale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1230",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ennerdale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Ennerdale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_03",
+      "name": "Cairn & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_03",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_56",
+      "name": "Briar & Alden LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_56",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Alden LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_14",
+      "name": "Security Agreement LEG-014",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_14",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Security Agreement LEG-014",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-014",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1226",
+      "name": "Yara Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1226",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1227",
+      "name": "Yara Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1227",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1234",
+      "name": "Yara Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1234",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_266",
+      "name": "Elias Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_266",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_153",
+      "name": "Kelbrook Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_153",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018730",
+      "subject": "company_1226",
+      "rel": "owns",
+      "object": "company_1227",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ennerdale Group Limited owns Ennerdale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018731",
+      "subject": "person_1234",
+      "rel": "shareholder_of",
+      "object": "company_1226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Pell is a shareholder of Ennerdale Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018743",
+      "subject": "person_1226",
+      "rel": "family_of",
+      "object": "person_1227",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Hale is a family member of Yara Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018733",
+      "subject": "bank_38",
+      "rel": "lent_to",
+      "object": "company_1226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-03",
+          "value_end": "2026-06-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elm International Bank Limited lent Ennerdale Group Limited GBP 22 million on 3 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018735",
+      "subject": "company_1228",
+      "rel": "guarantor_for",
+      "object": "company_1226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ennerdale Trading Limited guaranteed the loan to Ennerdale Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018734",
+      "subject": "company_1226",
+      "rel": "owes",
+      "object": "bank_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-08",
+          "value_end": "2026-06-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ennerdale Group Limited owes Elm International Bank Limited GBP 9 million as at 8 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018736",
+      "subject": "lawfirm_56",
+      "rel": "represents",
+      "object": "company_1226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Alden LLP represents Ennerdale Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018739",
+      "subject": "company_1226",
+      "rel": "owns",
+      "object": "asset_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ennerdale Group Limited owns Dunhollow Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018740",
+      "subject": "asset_41",
+      "rel": "located_in",
+      "object": "place_153",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Wharf is located in Kelbrook Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018741",
+      "subject": "company_1226",
+      "rel": "party_to",
+      "object": "legal_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ennerdale Group Limited is a party to the Security Agreement LEG-014.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018742",
+      "subject": "person_1227",
+      "rel": "signed",
+      "object": "legal_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Ivers signed the Security Agreement LEG-014.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00262_proposal",
+      "text": "The acquisition of Ennerdale Capital Limited by Ennerdale Group Limited",
+      "speaker": "person_266",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Delacourt, chair of Ennerdale Group Limited, proposed to acquire Ennerdale Capital Limited on 27 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00262_approval",
+      "text": "Regulatory approval for the acquisition of Ennerdale Capital Limited",
+      "speaker": "person_266",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Delacourt confirmed that regulatory approval for the acquisition of Ennerdale Capital Limited by Ennerdale Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00262_link_conditional",
+      "src": "gen_doc_00262_proposal",
+      "dst": "gen_doc_00262_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Ennerdale Capital Limited by Ennerdale Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00262",
+      "surface": "27 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-27",
+      "value_end": "2025-10-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018733",
+      "surface": "3 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-03",
+      "value_end": "2026-06-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "3 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018734",
+      "surface": "8 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-08",
+      "value_end": "2026-06-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "8 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00262",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

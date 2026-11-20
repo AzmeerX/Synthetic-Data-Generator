@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00495_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "c849b7861ffa296f0544b2662e1a3ccde66cc7183eb358b06b1b3e0382aed3f1"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_247",
+      "name": "Northcliff Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_247",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_251",
+      "name": "Northcliff Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_251",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Northcliff Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_116",
+      "name": "Red International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_116",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1436",
+      "name": "Vale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1436",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1438",
+      "name": "Vale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1438",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1439",
+      "name": "Vale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1439",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1440",
+      "name": "Wear Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1440",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_75",
+      "name": "Briar & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_75",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_224",
+      "name": "Side Letter LEG-224",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_224",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-224",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Side Letter LEG-224",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_44",
+      "name": "Amina Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_44",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_45",
+      "name": "Amina Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_45",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_499",
+      "name": "Juno Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_499",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Juno Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_52",
+      "name": "Amina Mercer",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_52",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_03",
+      "name": "Eastmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_03",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022004",
+      "subject": "company_1436",
+      "rel": "owns",
+      "object": "asset_247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Vale Energy Limited owns Northcliff Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022005",
+      "subject": "person_52",
+      "rel": "shareholder_of",
+      "object": "company_1436",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Mercer is a shareholder of Vale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022017",
+      "subject": "person_44",
+      "rel": "family_of",
+      "object": "person_45",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Dunmore is a family member of Amina Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022007",
+      "subject": "bank_116",
+      "rel": "lent_to",
+      "object": "company_1436",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-09",
+          "value_end": "2023-06-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Red International Bank Limited lent Vale Energy Limited GBP 42 million on 9 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022009",
+      "subject": "company_1438",
+      "rel": "guarantor_for",
+      "object": "company_1436",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vale Ventures Limited guaranteed the loan to Vale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022008",
+      "subject": "company_1436",
+      "rel": "owes",
+      "object": "bank_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-14",
+          "value_end": "2023-06-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vale Energy Limited owes Red International Bank Limited GBP 9 million as at 14 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022013",
+      "subject": "company_1436",
+      "rel": "owns",
+      "object": "asset_251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Vale Energy Limited owns Northcliff Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022014",
+      "subject": "asset_251",
+      "rel": "located_in",
+      "object": "place_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff Office Park is located in Eastmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022015",
+      "subject": "company_1436",
+      "rel": "party_to",
+      "object": "legal_224",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Energy Limited is a party to the Side Letter LEG-224.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022016",
+      "subject": "person_45",
+      "rel": "signed",
+      "object": "legal_224",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Ellery signed the Side Letter LEG-224.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00495_proposal",
+      "text": "The acquisition of Wear Holdings Limited by Vale Energy Limited",
+      "speaker": "person_499",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Juno Quade, chair of Vale Energy Limited, proposed to acquire Wear Holdings Limited on 1 January 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00495_approval",
+      "text": "Regulatory approval for the acquisition of Wear Holdings Limited",
+      "speaker": "person_499",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Quade confirmed that regulatory approval for the acquisition of Wear Holdings Limited by Vale Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00495_link_conditional",
+      "src": "gen_doc_00495_proposal",
+      "dst": "gen_doc_00495_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Wear Holdings Limited by Vale Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00491_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00495",
+      "surface": "1 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-01",
+      "value_end": "2027-01-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022007",
+      "surface": "9 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-09",
+      "value_end": "2023-06-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "9 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022008",
+      "surface": "14 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-14",
+      "value_end": "2023-06-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

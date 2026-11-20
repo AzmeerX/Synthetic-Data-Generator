@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00763_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "f05b033138b24d3f77abb0f5acb2200c2314b6f61ab82bd140096c9bb357b59c"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_493",
+      "name": "Merrivale Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_493",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Merrivale Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_94",
+      "name": "Oak Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_94",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1678",
+      "name": "North Redmoor Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1678",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Redmoor Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1679",
+      "name": "North Redmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1679",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Redmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1680",
+      "name": "North Stanbrook Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1680",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Stanbrook Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1682",
+      "name": "North Stanbrook Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1682",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Stanbrook Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_118",
+      "name": "Cairn & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_118",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_83",
+      "name": "Briar & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_83",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_466",
+      "name": "Facility Agreement LEG-466",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_466",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-466",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-466",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_286",
+      "name": "Elias Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_286",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_287",
+      "name": "Elias Zouch",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_287",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_289",
+      "name": "Farah Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_289",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_291",
+      "name": "Farah Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_291",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_294",
+      "name": "Farah Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_294",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_767",
+      "name": "Oren Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_767",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Oren Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_65",
+      "name": "Elmstead",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_65",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Elmstead",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025778",
+      "subject": "company_1678",
+      "rel": "owns",
+      "object": "company_1679",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Redmoor Ventures Limited owns North Redmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025780",
+      "subject": "person_289",
+      "rel": "chair_of",
+      "object": "company_1678",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Briar is the chair of North Redmoor Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025779",
+      "subject": "person_294",
+      "rel": "shareholder_of",
+      "object": "company_1678",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Garrow is a shareholder of North Redmoor Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025791",
+      "subject": "person_286",
+      "rel": "family_of",
+      "object": "person_287",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Yardley is a family member of Elias Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025781",
+      "subject": "bank_94",
+      "rel": "lent_to",
+      "object": "company_1678",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-26",
+          "value_end": "2026-01-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oak Merchant Bank Limited lent North Redmoor Ventures Limited GBP 46 million on 26 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025783",
+      "subject": "company_1680",
+      "rel": "guarantor_for",
+      "object": "company_1678",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Stanbrook Holdings Limited guaranteed the loan to North Redmoor Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025782",
+      "subject": "company_1678",
+      "rel": "owes",
+      "object": "bank_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-31",
+          "value_end": "2026-01-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Redmoor Ventures Limited owes Oak Merchant Bank Limited GBP 11 million as at 31 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025784",
+      "subject": "lawfirm_118",
+      "rel": "represents",
+      "object": "company_1678",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Orrick LLP represents North Redmoor Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025787",
+      "subject": "company_1678",
+      "rel": "owns",
+      "object": "asset_493",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Redmoor Ventures Limited owns Merrivale Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025788",
+      "subject": "asset_493",
+      "rel": "located_in",
+      "object": "place_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Rail Depot is located in Elmstead.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025789",
+      "subject": "company_1678",
+      "rel": "party_to",
+      "object": "legal_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Redmoor Ventures Limited is a party to the Facility Agreement LEG-466.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025790",
+      "subject": "person_287",
+      "rel": "signed",
+      "object": "legal_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Zouch signed the Facility Agreement LEG-466.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00763_proposal",
+      "text": "The acquisition of North Stanbrook Group Limited by North Redmoor Ventures Limited",
+      "speaker": "person_767",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Oren Ravenscroft, chair of North Redmoor Ventures Limited, proposed to acquire North Stanbrook Group Limited on 26 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00763_approval",
+      "text": "Regulatory approval for the acquisition of North Stanbrook Group Limited",
+      "speaker": "person_767",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Ravenscroft confirmed that regulatory approval for the acquisition of North Stanbrook Group Limited by North Redmoor Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00763_link_conditional",
+      "src": "gen_doc_00763_proposal",
+      "dst": "gen_doc_00763_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Stanbrook Group Limited by North Redmoor Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00763",
+      "surface": "26 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-26",
+      "value_end": "2025-07-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025781",
+      "surface": "26 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-26",
+      "value_end": "2026-01-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "26 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025782",
+      "surface": "31 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-31",
+      "value_end": "2026-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "31 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00763",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

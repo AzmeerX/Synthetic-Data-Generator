@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01724_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "05d14de1f5808a1ed96d80a2a9c4f33de13178451442c83bf8b5b9f0716781f2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_189",
+      "name": "Kestrelford Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_189",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_14",
+      "name": "Alder International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_14",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_378",
+      "name": "Fallow Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_378",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Fallow Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_379",
+      "name": "Fallow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_379",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fallow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_380",
+      "name": "Fallow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_380",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_172",
+      "name": "Shareholder Agreement LEG-172",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_172",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-172",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-172",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_336",
+      "name": "Gideon Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_336",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_378",
+      "name": "Gideon Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_378",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_379",
+      "name": "Gideon Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_379",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_386",
+      "name": "Hana Briar",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_386",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_85",
+      "name": "Belmont Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_85",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005507",
+      "subject": "company_378",
+      "rel": "owns",
+      "object": "company_379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fallow Partners Limited owns Fallow Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005516",
+      "subject": "company_378",
+      "rel": "owns",
+      "object": "asset_189",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Partners Limited owns Kestrelford Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005517",
+      "subject": "asset_189",
+      "rel": "located_in",
+      "object": "place_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Mill is located in Belmont Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005513",
+      "subject": "lawfirm_28",
+      "rel": "represents",
+      "object": "company_378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP represents Fallow Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005508",
+      "subject": "person_386",
+      "rel": "shareholder_of",
+      "object": "company_378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Briar is a shareholder of Fallow Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005520",
+      "subject": "person_378",
+      "rel": "family_of",
+      "object": "person_379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Tremayne is a family member of Gideon Underwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005510",
+      "subject": "bank_14",
+      "rel": "lent_to",
+      "object": "company_378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-02-26",
+          "value_end": "2024-02-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder International Bank Limited lent Fallow Partners Limited GBP 46 million on 26 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005512",
+      "subject": "company_380",
+      "rel": "guarantor_for",
+      "object": "company_378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Marine Limited guaranteed the loan to Fallow Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005511",
+      "subject": "company_378",
+      "rel": "owes",
+      "object": "bank_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-02",
+          "value_end": "2024-03-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fallow Partners Limited owes Alder International Bank Limited GBP 11 million as at 2 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005518",
+      "subject": "company_378",
+      "rel": "party_to",
+      "object": "legal_172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Fallow Partners Limited is a party to the Shareholder Agreement LEG-172.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005519",
+      "subject": "person_379",
+      "rel": "signed",
+      "object": "legal_172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Underwood signed the Shareholder Agreement LEG-172.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01724_allegation",
+      "text": "A former employee alleged that Fallow Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Alden noted that a former employee alleged that Fallow Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01724",
+      "surface": "9 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-09",
+      "value_end": "2024-04-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005510",
+      "surface": "26 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-26",
+      "value_end": "2024-02-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005511",
+      "surface": "2 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-02",
+      "value_end": "2024-03-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "2 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01724",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

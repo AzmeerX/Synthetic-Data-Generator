@@ -1,0 +1,688 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01113_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "22766bc7e76d3dec7ac19a510c0c7a4e4a79c82c6f1f26bd0cb6aae0da3b7c30"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_212",
+      "name": "Larkspur Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_212",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Larkspur Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_13",
+      "name": "Alder Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_13",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alder Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Alder Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1993",
+      "name": "North Underhill Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1993",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Underhill Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1994",
+      "name": "North Underhill Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1994",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Underhill Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1995",
+      "name": "North Underhill Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1995",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Underhill Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1998",
+      "name": "North Underhill Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1998",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Underhill Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Underhill Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_43",
+      "name": "Alden & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_43",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_175",
+      "name": "Power of Attorney LEG-175",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_175",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-175",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-175",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1117",
+      "name": "Vera Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1117",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_601",
+      "name": "Lena Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_601",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lena Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_602",
+      "name": "Lena Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_602",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lena Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_604",
+      "name": "Lena Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_604",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Lena Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_606",
+      "name": "Lena Ashby",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_606",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Lena Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_609",
+      "name": "Lena Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_609",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_20",
+      "name": "Harrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_20",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030688",
+      "subject": "company_1993",
+      "rel": "owns",
+      "object": "company_1994",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Underhill Industries Limited owns North Underhill Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030690",
+      "subject": "person_604",
+      "rel": "chair_of",
+      "object": "company_1993",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Yarrow is the chair of North Underhill Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030689",
+      "subject": "person_609",
+      "rel": "shareholder_of",
+      "object": "company_1993",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Delacourt is a shareholder of North Underhill Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030701",
+      "subject": "person_601",
+      "rel": "family_of",
+      "object": "person_602",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lena Ulric is a family member of Lena Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030691",
+      "subject": "bank_13",
+      "rel": "lent_to",
+      "object": "company_1993",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-01",
+          "value_end": "2026-04-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alder Private Bank Limited lent North Underhill Industries Limited GBP 36 million on 1 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030693",
+      "subject": "company_1995",
+      "rel": "guarantor_for",
+      "object": "company_1993",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Underhill Logistics Limited guaranteed the loan to North Underhill Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030692",
+      "subject": "company_1993",
+      "rel": "owes",
+      "object": "bank_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-04-06",
+          "value_end": "2026-04-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Industries Limited owes Alder Private Bank Limited GBP 6 million as at 6 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030694",
+      "subject": "lawfirm_43",
+      "rel": "represents",
+      "object": "company_1993",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Montague LLP represents North Underhill Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030697",
+      "subject": "company_1993",
+      "rel": "owns",
+      "object": "asset_212",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Underhill Industries Limited owns Larkspur Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030698",
+      "subject": "asset_212",
+      "rel": "located_in",
+      "object": "place_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur Farm is located in Harrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030699",
+      "subject": "company_1993",
+      "rel": "party_to",
+      "object": "legal_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Underhill Industries Limited is a party to the Power of Attorney LEG-175.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030700",
+      "subject": "person_602",
+      "rel": "signed",
+      "object": "legal_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Vale signed the Power of Attorney LEG-175.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01113_proposal",
+      "text": "The acquisition of North Underhill Capital Limited by North Underhill Industries Limited",
+      "speaker": "person_1117",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Wyndham, chair of North Underhill Industries Limited, proposed to acquire North Underhill Capital Limited on 14 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01113_approval",
+      "text": "Regulatory approval for the acquisition of North Underhill Capital Limited",
+      "speaker": "person_1117",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Wyndham confirmed that regulatory approval for the acquisition of North Underhill Capital Limited by North Underhill Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01113_link_conditional",
+      "src": "gen_doc_01113_proposal",
+      "dst": "gen_doc_01113_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Underhill Capital Limited by North Underhill Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01113",
+      "surface": "14 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-14",
+      "value_end": "2025-09-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030691",
+      "surface": "1 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-01",
+      "value_end": "2026-04-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "1 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030692",
+      "surface": "6 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-06",
+      "value_end": "2026-04-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "6 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01113",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01671_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "6696872841686874941759087de0fd6d750cb77cded40e3932bc19bd4bde90c6"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_04",
+      "name": "Fenwick Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_04",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_33",
+      "name": "Ashcombe Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_33",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_332",
+      "name": "Barrowfield Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_332",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_334",
+      "name": "Barrowfield Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_334",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Barrowfield Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Barrowfield Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_34",
+      "name": "Ashcombe Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_34",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_35",
+      "name": "Ashcombe Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_35",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ashcombe Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_81",
+      "name": "Briar & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_81",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Balfour LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_33",
+      "name": "Share Purchase Agreement LEG-033",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_33",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Share Purchase Agreement LEG-033",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Share Purchase Agreement LEG-033",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_283",
+      "name": "Elias Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_283",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Elias Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_33",
+      "name": "Freya Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_33",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Freya Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_34",
+      "name": "Lena Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_34",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_41",
+      "name": "Amina Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_41",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_20",
+      "name": "Harrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_20",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000127",
+      "subject": "company_33",
+      "rel": "owns",
+      "object": "company_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Energy Limited owns Ashcombe Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000128",
+      "subject": "person_41",
+      "rel": "shareholder_of",
+      "object": "company_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Alden is a shareholder of Ashcombe Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000140",
+      "subject": "person_33",
+      "rel": "family_of",
+      "object": "person_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Freya Sable is a family member of Lena Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000130",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-01-27",
+          "value_end": "2023-01-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Bank Limited lent Ashcombe Energy Limited GBP 36 million on 27 January 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000132",
+      "subject": "company_35",
+      "rel": "guarantor_for",
+      "object": "company_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ashcombe Ventures Limited guaranteed the loan to Ashcombe Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000131",
+      "subject": "company_33",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-01",
+          "value_end": "2023-02-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ashcombe Energy Limited owes Alder Bank Limited GBP 6 million as at 1 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000136",
+      "subject": "company_33",
+      "rel": "owns",
+      "object": "asset_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Energy Limited owns Fenwick Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000137",
+      "subject": "asset_04",
+      "rel": "located_in",
+      "object": "place_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fenwick Cold Store is located in Harrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000138",
+      "subject": "company_33",
+      "rel": "party_to",
+      "object": "legal_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Energy Limited is a party to the Share Purchase Agreement LEG-033.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000139",
+      "subject": "person_34",
+      "rel": "signed",
+      "object": "legal_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Orrick signed the Share Purchase Agreement LEG-033.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01671_proposal",
+      "text": "The acquisition of Barrowfield Property Limited by Ashcombe Energy Limited",
+      "speaker": "person_283",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Elias Villiers, chair of Ashcombe Energy Limited, proposed to acquire Barrowfield Property Limited on 17 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01671_approval",
+      "text": "Regulatory approval for the acquisition of Barrowfield Property Limited",
+      "speaker": "person_283",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Villiers confirmed that regulatory approval for the acquisition of Barrowfield Property Limited by Ashcombe Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01671_link_conditional",
+      "src": "gen_doc_01671_proposal",
+      "dst": "gen_doc_01671_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Barrowfield Property Limited by Ashcombe Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01667_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01671",
+      "surface": "17 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-17",
+      "value_end": "2026-07-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000130",
+      "surface": "27 January 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-01-27",
+      "value_end": "2023-01-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "27 January 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000131",
+      "surface": "1 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-01",
+      "value_end": "2023-02-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "1 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

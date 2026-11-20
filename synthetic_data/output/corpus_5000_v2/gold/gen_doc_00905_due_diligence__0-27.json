@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00905_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "3c71761c54483a14faa2bb040cb03f30c5cc9b4cc84cec2a5a651784210c1159"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_24",
+      "name": "Calderport Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_24",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_89",
+      "name": "Nether Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_89",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nether Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1805",
+      "name": "North Eastmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1805",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Eastmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1806",
+      "name": "North Eastmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1806",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Eastmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1807",
+      "name": "North Eastmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1807",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_115",
+      "name": "Cairn & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_115",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_593",
+      "name": "Share Purchase Agreement LEG-593",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_593",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-593",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Share Purchase Agreement LEG-593",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_413",
+      "name": "Hana Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_413",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_414",
+      "name": "Hana Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_414",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_421",
+      "name": "Hana Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_421",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_909",
+      "name": "Rhea Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_909",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Rhea Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_12",
+      "name": "Northcliff",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_12",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027757",
+      "subject": "company_1805",
+      "rel": "owns",
+      "object": "company_1806",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Eastmoor Partners Limited owns North Eastmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027766",
+      "subject": "company_1805",
+      "rel": "owns",
+      "object": "asset_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Eastmoor Partners Limited owns Calderport Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027767",
+      "subject": "asset_24",
+      "rel": "located_in",
+      "object": "place_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Cold Store is located in Northcliff.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027763",
+      "subject": "lawfirm_115",
+      "rel": "represents",
+      "object": "company_1805",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Lorne LLP represents North Eastmoor Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027758",
+      "subject": "person_421",
+      "rel": "shareholder_of",
+      "object": "company_1805",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Langford is a shareholder of North Eastmoor Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027770",
+      "subject": "person_413",
+      "rel": "family_of",
+      "object": "person_414",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Delacourt is a family member of Hana Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027760",
+      "subject": "bank_89",
+      "rel": "lent_to",
+      "object": "company_1805",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-29",
+          "value_end": "2025-03-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Trust Bank Limited lent North Eastmoor Partners Limited GBP 20 million on 29 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027762",
+      "subject": "company_1807",
+      "rel": "guarantor_for",
+      "object": "company_1805",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Marine Limited guaranteed the loan to North Eastmoor Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027761",
+      "subject": "company_1805",
+      "rel": "owes",
+      "object": "bank_89",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-03",
+          "value_end": "2025-04-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Eastmoor Partners Limited owes Nether Trust Bank Limited GBP 8 million as at 3 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027768",
+      "subject": "company_1805",
+      "rel": "party_to",
+      "object": "legal_593",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Eastmoor Partners Limited is a party to the Share Purchase Agreement LEG-593.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027769",
+      "subject": "person_414",
+      "rel": "signed",
+      "object": "legal_593",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Everard signed the Share Purchase Agreement LEG-593.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00905_allegation",
+      "text": "A former employee alleged that North Eastmoor Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Rhea Neville noted that a former employee alleged that North Eastmoor Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00905",
+      "surface": "1 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-01",
+      "value_end": "2025-01-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027760",
+      "surface": "29 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-29",
+      "value_end": "2025-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "29 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027761",
+      "surface": "3 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-03",
+      "value_end": "2025-04-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "3 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00905",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

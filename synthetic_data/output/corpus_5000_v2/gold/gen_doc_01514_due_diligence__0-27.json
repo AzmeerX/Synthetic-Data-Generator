@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01514_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "60d4d9e955087fce41caab539f9481e5a70c4eda34e235c66f5b9d3400939c88"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_573",
+      "name": "Quintrell Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_573",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quintrell Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_110",
+      "name": "Quill International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_110",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quill International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2354",
+      "name": "North Cavendish Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2354",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Cavendish Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2355",
+      "name": "North Cavendish Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2355",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Cavendish Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2356",
+      "name": "North Cavendish Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2356",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Cavendish Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_536",
+      "name": "Lease LEG-536",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_536",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-536",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-536",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_126",
+      "name": "Bastian Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_126",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_962",
+      "name": "Silas Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_962",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_963",
+      "name": "Silas Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_963",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_970",
+      "name": "Silas Zouch",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_970",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_21",
+      "name": "Invermere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_21",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036320",
+      "subject": "company_2354",
+      "rel": "owns",
+      "object": "company_2355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Cavendish Group Limited owns North Cavendish Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036329",
+      "subject": "company_2354",
+      "rel": "owns",
+      "object": "asset_573",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Cavendish Group Limited owns Quintrell Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036330",
+      "subject": "asset_573",
+      "rel": "located_in",
+      "object": "place_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell Rail Depot is located in Invermere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036326",
+      "subject": "lawfirm_14",
+      "rel": "represents",
+      "object": "company_2354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ivers LLP represents North Cavendish Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036321",
+      "subject": "person_970",
+      "rel": "shareholder_of",
+      "object": "company_2354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Zouch is a shareholder of North Cavendish Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036333",
+      "subject": "person_962",
+      "rel": "family_of",
+      "object": "person_963",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Ravenscroft is a family member of Silas Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036323",
+      "subject": "bank_110",
+      "rel": "lent_to",
+      "object": "company_2354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-27",
+          "value_end": "2023-02-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill International Bank Limited lent North Cavendish Group Limited GBP 38 million on 27 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036325",
+      "subject": "company_2356",
+      "rel": "guarantor_for",
+      "object": "company_2354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Cavendish Trading Limited guaranteed the loan to North Cavendish Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036324",
+      "subject": "company_2354",
+      "rel": "owes",
+      "object": "bank_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-04",
+          "value_end": "2023-03-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Cavendish Group Limited owes Quill International Bank Limited GBP 7 million as at 4 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036331",
+      "subject": "company_2354",
+      "rel": "party_to",
+      "object": "legal_536",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Cavendish Group Limited is a party to the Lease LEG-536.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036332",
+      "subject": "person_963",
+      "rel": "signed",
+      "object": "legal_536",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Sinclair signed the Lease LEG-536.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01514_allegation",
+      "text": "A former employee alleged that North Cavendish Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Langford noted that a former employee alleged that North Cavendish Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01514",
+      "surface": "26 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-26",
+      "value_end": "2026-10-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036323",
+      "surface": "27 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-27",
+      "value_end": "2023-02-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036324",
+      "surface": "4 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-04",
+      "value_end": "2023-03-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "4 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01514",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

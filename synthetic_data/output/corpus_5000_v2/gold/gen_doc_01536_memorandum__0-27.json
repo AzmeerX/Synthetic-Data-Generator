@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01536_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "d367f750a15e6cffe11ec5b52d0e58a3d89d925b9587c776c9ff82dc7ad376f9"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_593",
+      "name": "Redmoor Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_593",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Redmoor Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Redmoor Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_130",
+      "name": "Uldale Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_130",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2374",
+      "name": "North Dunkeld Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2374",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2375",
+      "name": "North Dunkeld Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2375",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunkeld Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2376",
+      "name": "North Eversley Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2376",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Eversley Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2379",
+      "name": "North Eversley Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2379",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Eversley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Eversley Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_34",
+      "name": "Alden & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_34",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_76",
+      "name": "Briar & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_76",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_556",
+      "name": "Shareholder Agreement LEG-556",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_556",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Shareholder Agreement LEG-556",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-556",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_148",
+      "name": "Calder Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_148",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_982",
+      "name": "Tamsin Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_982",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_983",
+      "name": "Tamsin Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_983",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Tamsin Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_990",
+      "name": "Tamsin Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_990",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tamsin Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_41",
+      "name": "Eastmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_41",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036630",
+      "subject": "company_2374",
+      "rel": "owns",
+      "object": "company_2375",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunkeld Ventures Limited owns North Dunkeld Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036631",
+      "subject": "person_990",
+      "rel": "shareholder_of",
+      "object": "company_2374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tamsin Ulric is a shareholder of North Dunkeld Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036643",
+      "subject": "person_982",
+      "rel": "family_of",
+      "object": "person_983",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tamsin Lorne is a family member of Tamsin Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036633",
+      "subject": "bank_130",
+      "rel": "lent_to",
+      "object": "company_2374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-05",
+          "value_end": "2023-10-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Merchant Bank Limited lent North Dunkeld Ventures Limited GBP 38 million on 5 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036635",
+      "subject": "company_2376",
+      "rel": "guarantor_for",
+      "object": "company_2374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Eversley Holdings Limited guaranteed the loan to North Dunkeld Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036634",
+      "subject": "company_2374",
+      "rel": "owes",
+      "object": "bank_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-10",
+          "value_end": "2023-10-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Dunkeld Ventures Limited owes Uldale Merchant Bank Limited GBP 7 million as at 10 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036636",
+      "subject": "lawfirm_34",
+      "rel": "represents",
+      "object": "company_2374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Delacourt LLP represents North Dunkeld Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036639",
+      "subject": "company_2374",
+      "rel": "owns",
+      "object": "asset_593",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Dunkeld Ventures Limited owns Redmoor Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036640",
+      "subject": "asset_593",
+      "rel": "located_in",
+      "object": "place_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Redmoor Rail Depot is located in Eastmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036641",
+      "subject": "company_2374",
+      "rel": "party_to",
+      "object": "legal_556",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Dunkeld Ventures Limited is a party to the Shareholder Agreement LEG-556.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036642",
+      "subject": "person_983",
+      "rel": "signed",
+      "object": "legal_556",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Tamsin Nyle signed the Shareholder Agreement LEG-556.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01536_proposal",
+      "text": "The acquisition of North Eversley Logistics Limited by North Dunkeld Ventures Limited",
+      "speaker": "person_148",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Ivers, chair of North Dunkeld Ventures Limited, proposed to acquire North Eversley Logistics Limited on 29 March 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01536_approval",
+      "text": "Regulatory approval for the acquisition of North Eversley Logistics Limited",
+      "speaker": "person_148",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Ivers confirmed that regulatory approval for the acquisition of North Eversley Logistics Limited by North Dunkeld Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01536_link_conditional",
+      "src": "gen_doc_01536_proposal",
+      "dst": "gen_doc_01536_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Eversley Logistics Limited by North Dunkeld Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01536",
+      "surface": "29 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-29",
+      "value_end": "2027-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036633",
+      "surface": "5 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-05",
+      "value_end": "2023-10-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "5 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036634",
+      "surface": "10 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-10",
+      "value_end": "2023-10-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01536",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

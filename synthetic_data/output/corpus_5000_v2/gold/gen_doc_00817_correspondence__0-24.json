@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00817_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "a6c57a4c9864d6eac6e52642a0e0ef8942ffe60cb6efbcc49d93c44f027587ca"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_541",
+      "name": "Oakhurst Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_541",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1726",
+      "name": "North Vellacott Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1726",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Vellacott Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1727",
+      "name": "North Vellacott Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1727",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vellacott Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1728",
+      "name": "North Westerby Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1728",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Westerby Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1729",
+      "name": "North Westerby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1729",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Westerby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1730",
+      "name": "North Westerby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1730",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_125",
+      "name": "Cairn & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_125",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Ward LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_514",
+      "name": "Facility Agreement LEG-514",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_514",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-514",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-514",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_334",
+      "name": "Farah Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_334",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_335",
+      "name": "Farah Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_335",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_342",
+      "name": "Gideon Garrow",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_342",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_821",
+      "name": "Petra Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_821",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Petra Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Petra Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_113",
+      "name": "Fairhaven Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_113",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fairhaven Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026526",
+      "subject": "company_1726",
+      "rel": "owns",
+      "object": "company_1727",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vellacott Ventures Limited owns North Vellacott Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026527",
+      "subject": "person_342",
+      "rel": "shareholder_of",
+      "object": "company_1726",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Garrow is a shareholder of North Vellacott Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026539",
+      "subject": "person_334",
+      "rel": "family_of",
+      "object": "person_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Yardley is a family member of Farah Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026529",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_1726",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-11",
+          "value_end": "2022-11-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Merchant Bank Limited lent North Vellacott Ventures Limited GBP 22 million on 11 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026531",
+      "subject": "company_1728",
+      "rel": "guarantor_for",
+      "object": "company_1726",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Westerby Holdings Limited guaranteed the loan to North Vellacott Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026530",
+      "subject": "company_1726",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-16",
+          "value_end": "2022-11-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Vellacott Ventures Limited owes Alder Merchant Bank Limited GBP 9 million as at 16 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026535",
+      "subject": "company_1726",
+      "rel": "owns",
+      "object": "asset_541",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Vellacott Ventures Limited owns Oakhurst Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026536",
+      "subject": "asset_541",
+      "rel": "located_in",
+      "object": "place_113",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Quay is located in Fairhaven Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026537",
+      "subject": "company_1726",
+      "rel": "party_to",
+      "object": "legal_514",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vellacott Ventures Limited is a party to the Facility Agreement LEG-514.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026538",
+      "subject": "person_335",
+      "rel": "signed",
+      "object": "legal_514",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Farah Zouch signed the Facility Agreement LEG-514.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00817_proposal",
+      "text": "The acquisition of North Westerby Group Limited by North Vellacott Ventures Limited",
+      "speaker": "person_821",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Petra Wyndham, chair of North Vellacott Ventures Limited, proposed to acquire North Westerby Group Limited on 8 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00817_approval",
+      "text": "Regulatory approval for the acquisition of North Westerby Group Limited",
+      "speaker": "person_821",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Petra Wyndham confirmed that regulatory approval for the acquisition of North Westerby Group Limited by North Vellacott Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00817_link_conditional",
+      "src": "gen_doc_00817_proposal",
+      "dst": "gen_doc_00817_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Westerby Group Limited by North Vellacott Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00813_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00817",
+      "surface": "8 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-08",
+      "value_end": "2026-08-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026529",
+      "surface": "11 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-11",
+      "value_end": "2022-11-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "11 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026530",
+      "surface": "16 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-16",
+      "value_end": "2022-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "16 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

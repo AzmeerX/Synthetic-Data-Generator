@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00730_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "9da8f459fd19e5abf586bcc0973c8e63a4624cdef6187bac1180b646dc2a004d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_459",
+      "name": "Kelbrook Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_459",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kelbrook Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_463",
+      "name": "Kelbrook Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_463",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_64",
+      "name": "Jarrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_64",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1648",
+      "name": "North Pemberton Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1648",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Pemberton Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1650",
+      "name": "North Pemberton Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1650",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Pemberton Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_88",
+      "name": "Briar & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_88",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_436",
+      "name": "Board Resolution LEG-436",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_436",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-436",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-436",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_256",
+      "name": "Elias Sable",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_256",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_257",
+      "name": "Elias Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_257",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_264",
+      "name": "Elias Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_264",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_734",
+      "name": "Oren Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_734",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_35",
+      "name": "Westerby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_35",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Westerby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025310",
+      "subject": "company_1648",
+      "rel": "owns",
+      "object": "asset_459",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Pemberton Trading Limited owns Kelbrook Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025319",
+      "subject": "company_1648",
+      "rel": "owns",
+      "object": "asset_463",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Trading Limited owns Kelbrook Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025320",
+      "subject": "asset_463",
+      "rel": "located_in",
+      "object": "place_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Works is located in Westerby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025316",
+      "subject": "lawfirm_88",
+      "rel": "represents",
+      "object": "company_1648",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ingram LLP represents North Pemberton Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025311",
+      "subject": "person_264",
+      "rel": "shareholder_of",
+      "object": "company_1648",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Balfour is a shareholder of North Pemberton Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025323",
+      "subject": "person_256",
+      "rel": "family_of",
+      "object": "person_257",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Sable is a family member of Elias Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025313",
+      "subject": "bank_64",
+      "rel": "lent_to",
+      "object": "company_1648",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-02",
+          "value_end": "2025-03-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Merchant Bank Limited lent North Pemberton Trading Limited GBP 26 million on 2 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025315",
+      "subject": "company_1650",
+      "rel": "guarantor_for",
+      "object": "company_1648",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Pemberton Capital Limited guaranteed the loan to North Pemberton Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025314",
+      "subject": "company_1648",
+      "rel": "owes",
+      "object": "bank_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-07",
+          "value_end": "2025-03-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Pemberton Trading Limited owes Jarrow Merchant Bank Limited GBP 11 million as at 7 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025321",
+      "subject": "company_1648",
+      "rel": "party_to",
+      "object": "legal_436",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Pemberton Trading Limited is a party to the Board Resolution LEG-436.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025322",
+      "subject": "person_257",
+      "rel": "signed",
+      "object": "legal_436",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Thorne signed the Board Resolution LEG-436.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00730_allegation",
+      "text": "A former employee alleged that North Pemberton Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Hale noted that a former employee alleged that North Pemberton Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00730",
+      "surface": "7 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-07",
+      "value_end": "2024-12-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025313",
+      "surface": "2 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-02",
+      "value_end": "2025-03-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025314",
+      "surface": "7 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-07",
+      "value_end": "2025-03-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00730",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

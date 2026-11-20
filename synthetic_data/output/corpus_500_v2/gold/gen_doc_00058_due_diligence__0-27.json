@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00058_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "8cc5f5c68acd12503c45c4661c7b8cfdd7cb2222c69c3931f57e05934c1770f2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_34",
+      "name": "Calderport Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_34",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_15",
+      "name": "Bexley Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_15",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_143",
+      "name": "Jarrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_143",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Jarrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_144",
+      "name": "Jarrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_144",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_145",
+      "name": "Kelbrook Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_145",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_23",
+      "name": "Alden & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_23",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_17",
+      "name": "Loan Note LEG-017",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_17",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-017",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-017",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_143",
+      "name": "Calder Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_143",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_144",
+      "name": "Calder Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_144",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_151",
+      "name": "Calder Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_151",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_62",
+      "name": "Amina Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_62",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_30",
+      "name": "Redmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_30",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001843",
+      "subject": "company_143",
+      "rel": "owns",
+      "object": "company_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Ventures Limited owns Jarrow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001852",
+      "subject": "company_143",
+      "rel": "owns",
+      "object": "asset_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Ventures Limited owns Calderport Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001853",
+      "subject": "asset_34",
+      "rel": "located_in",
+      "object": "place_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Silo is located in Redmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001849",
+      "subject": "lawfirm_23",
+      "rel": "represents",
+      "object": "company_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Rook LLP represents Jarrow Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001844",
+      "subject": "person_151",
+      "rel": "shareholder_of",
+      "object": "company_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Lorne is a shareholder of Jarrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001856",
+      "subject": "person_143",
+      "rel": "family_of",
+      "object": "person_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Dunmore is a family member of Calder Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001846",
+      "subject": "bank_15",
+      "rel": "lent_to",
+      "object": "company_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-21",
+          "value_end": "2026-05-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Bank Limited lent Jarrow Ventures Limited GBP 16 million on 21 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001848",
+      "subject": "company_145",
+      "rel": "guarantor_for",
+      "object": "company_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Holdings Limited guaranteed the loan to Jarrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001847",
+      "subject": "company_143",
+      "rel": "owes",
+      "object": "bank_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-26",
+          "value_end": "2026-05-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Ventures Limited owes Bexley Bank Limited GBP 6 million as at 26 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001854",
+      "subject": "company_143",
+      "rel": "party_to",
+      "object": "legal_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Jarrow Ventures Limited is a party to the Loan Note LEG-017.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001855",
+      "subject": "person_144",
+      "rel": "signed",
+      "object": "legal_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Ellery signed the Loan Note LEG-017.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00058_allegation",
+      "text": "A former employee alleged that Jarrow Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Ward noted that a former employee alleged that Jarrow Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00058",
+      "surface": "13 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-13",
+      "value_end": "2025-03-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001846",
+      "surface": "21 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-21",
+      "value_end": "2026-05-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "21 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001847",
+      "surface": "26 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-26",
+      "value_end": "2026-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "26 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00058",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

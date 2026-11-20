@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00514_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "328fa5b86b1dd25bfb68ebd9267f714218debb8a8b2d365910781ad4231438ad"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_268",
+      "name": "Alderport Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_268",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alderport Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Alderport Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1453",
+      "name": "Yorkshire Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1453",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Yorkshire Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1454",
+      "name": "Yorkshire Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1454",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yorkshire Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1455",
+      "name": "Yorkshire Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1455",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yorkshire Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1458",
+      "name": "Yorkshire Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1458",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yorkshire Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Yorkshire Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_23",
+      "name": "Alden & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_23",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_94",
+      "name": "Briar & Osborne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_94",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Osborne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_241",
+      "name": "Share Purchase Agreement LEG-241",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_241",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Share Purchase Agreement LEG-241",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-241",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_518",
+      "name": "Juno Kingsley",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_518",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Juno Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_61",
+      "name": "Amina Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_61",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_62",
+      "name": "Amina Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_62",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Amina Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_69",
+      "name": "Amina Everard",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_69",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_20",
+      "name": "Harrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_20",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022268",
+      "subject": "company_1453",
+      "rel": "owns",
+      "object": "company_1454",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yorkshire Industries Limited owns Yorkshire Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022269",
+      "subject": "person_69",
+      "rel": "shareholder_of",
+      "object": "company_1453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Everard is a shareholder of Yorkshire Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022281",
+      "subject": "person_61",
+      "rel": "family_of",
+      "object": "person_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Vale is a family member of Amina Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022271",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_1453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-12-13",
+          "value_end": "2023-12-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Northbank Bank Limited lent Yorkshire Industries Limited GBP 36 million on 13 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022273",
+      "subject": "company_1455",
+      "rel": "guarantor_for",
+      "object": "company_1453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yorkshire Logistics Limited guaranteed the loan to Yorkshire Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022272",
+      "subject": "company_1453",
+      "rel": "owes",
+      "object": "bank_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-12-18",
+          "value_end": "2023-12-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yorkshire Industries Limited owes Northbank Bank Limited GBP 6 million as at 18 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022274",
+      "subject": "lawfirm_23",
+      "rel": "represents",
+      "object": "company_1453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Rook LLP represents Yorkshire Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022277",
+      "subject": "company_1453",
+      "rel": "owns",
+      "object": "asset_268",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Yorkshire Industries Limited owns Alderport Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022278",
+      "subject": "asset_268",
+      "rel": "located_in",
+      "object": "place_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alderport Plant is located in Harrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022279",
+      "subject": "company_1453",
+      "rel": "party_to",
+      "object": "legal_241",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Yorkshire Industries Limited is a party to the Share Purchase Agreement LEG-241.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022280",
+      "subject": "person_62",
+      "rel": "signed",
+      "object": "legal_241",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Amina Ward signed the Share Purchase Agreement LEG-241.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00514_proposal",
+      "text": "The acquisition of Yorkshire Capital Limited by Yorkshire Industries Limited",
+      "speaker": "person_518",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Kingsley, chair of Yorkshire Industries Limited, proposed to acquire Yorkshire Capital Limited on 14 May 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00514_approval",
+      "text": "Regulatory approval for the acquisition of Yorkshire Capital Limited",
+      "speaker": "person_518",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Juno Kingsley confirmed that regulatory approval for the acquisition of Yorkshire Capital Limited by Yorkshire Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00514_link_conditional",
+      "src": "gen_doc_00514_proposal",
+      "dst": "gen_doc_00514_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Yorkshire Capital Limited by Yorkshire Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00514",
+      "surface": "14 May 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-05-14",
+      "value_end": "2027-05-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 May 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022271",
+      "surface": "13 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-13",
+      "value_end": "2023-12-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "13 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022272",
+      "surface": "18 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-18",
+      "value_end": "2023-12-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00514",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01540_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "9b6835b65b6262499b406b0a5a51534d52c10c26560e33a0330be7703c0fa657"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_01",
+      "name": "Kestrel Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_01",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrel Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Kestrel Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2378",
+      "name": "North Eversley Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2378",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eversley Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2379",
+      "name": "North Eversley Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2379",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2380",
+      "name": "North Eversley Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2380",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2382",
+      "name": "North Eversley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2382",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Eversley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eversley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_38",
+      "name": "Alden & Hastings LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_38",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Hastings LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_80",
+      "name": "Briar & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_80",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_560",
+      "name": "Side Letter LEG-560",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_560",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-560",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-560",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_152",
+      "name": "Calder Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_152",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_986",
+      "name": "Tamsin Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_986",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_987",
+      "name": "Tamsin Rook",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_987",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_989",
+      "name": "Tamsin Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_989",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_991",
+      "name": "Tamsin Vale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_991",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_994",
+      "name": "Tamsin Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_994",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_45",
+      "name": "Ivybridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_45",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ivybridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036694",
+      "subject": "company_2378",
+      "rel": "owns",
+      "object": "company_2379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Group Limited owns North Eversley Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036696",
+      "subject": "person_989",
+      "rel": "chair_of",
+      "object": "company_2378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Thorne is the chair of North Eversley Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036695",
+      "subject": "person_994",
+      "rel": "shareholder_of",
+      "object": "company_2378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Zell is a shareholder of North Eversley Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036707",
+      "subject": "person_986",
+      "rel": "family_of",
+      "object": "person_987",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Quade is a family member of Tamsin Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036697",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_2378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-11-18",
+          "value_end": "2023-11-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Silvergate Bank Limited lent North Eversley Group Limited GBP 46 million on 18 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036699",
+      "subject": "company_2380",
+      "rel": "guarantor_for",
+      "object": "company_2378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Trading Limited guaranteed the loan to North Eversley Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036698",
+      "subject": "company_2378",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-11-23",
+          "value_end": "2023-11-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Eversley Group Limited owes Silvergate Bank Limited GBP 11 million as at 23 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036700",
+      "subject": "lawfirm_38",
+      "rel": "represents",
+      "object": "company_2378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Hastings LLP represents North Eversley Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036703",
+      "subject": "company_2378",
+      "rel": "owns",
+      "object": "asset_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Eversley Group Limited owns Kestrel Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036704",
+      "subject": "asset_01",
+      "rel": "located_in",
+      "object": "place_45",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kestrel Wharf is located in Ivybridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036705",
+      "subject": "company_2378",
+      "rel": "party_to",
+      "object": "legal_560",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Eversley Group Limited is a party to the Side Letter LEG-560.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036706",
+      "subject": "person_987",
+      "rel": "signed",
+      "object": "legal_560",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Rook signed the Side Letter LEG-560.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01540_proposal",
+      "text": "The acquisition of North Eversley Capital Limited by North Eversley Group Limited",
+      "speaker": "person_152",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Mercer, chair of North Eversley Group Limited, proposed to acquire North Eversley Capital Limited on 26 April 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01540_approval",
+      "text": "Regulatory approval for the acquisition of North Eversley Capital Limited",
+      "speaker": "person_152",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Mercer confirmed that regulatory approval for the acquisition of North Eversley Capital Limited by North Eversley Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01540_link_conditional",
+      "src": "gen_doc_01540_proposal",
+      "dst": "gen_doc_01540_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Eversley Capital Limited by North Eversley Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01540",
+      "surface": "26 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-26",
+      "value_end": "2027-04-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036697",
+      "surface": "18 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-18",
+      "value_end": "2023-11-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "18 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036698",
+      "surface": "23 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-23",
+      "value_end": "2023-11-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "23 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01540",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

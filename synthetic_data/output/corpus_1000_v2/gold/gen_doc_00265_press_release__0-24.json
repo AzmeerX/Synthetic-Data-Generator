@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00265_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "46a6263a445dbb7e3ba68ebdd83e8a36f70f1870db52e7b1a96ec19f0cbb63ba"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_139",
+      "name": "Ironside Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_139",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ironside Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_143",
+      "name": "Ironside Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_143",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ironside Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ironside Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_20",
+      "name": "Bexley International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_20",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_332",
+      "name": "Barrowfield Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_332",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_334",
+      "name": "Barrowfield Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_334",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_126",
+      "name": "Licence LEG-126",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_126",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Licence LEG-126",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-126",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_269",
+      "name": "Elias Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_269",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_332",
+      "name": "Farah Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_332",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_333",
+      "name": "Farah Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_333",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_340",
+      "name": "Gideon Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_340",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Gideon Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_39",
+      "name": "Cresswell",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_39",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Cresswell",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004791",
+      "subject": "company_332",
+      "rel": "owns",
+      "object": "asset_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Barrowfield Marine Limited owns Ironside Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004792",
+      "subject": "person_340",
+      "rel": "shareholder_of",
+      "object": "company_332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Gideon Ellery is a shareholder of Barrowfield Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004804",
+      "subject": "person_332",
+      "rel": "family_of",
+      "object": "person_333",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Farah Whitlock is a family member of Farah Wyndham.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004794",
+      "subject": "bank_20",
+      "rel": "lent_to",
+      "object": "company_332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-08",
+          "value_end": "2022-10-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley International Bank Limited lent Barrowfield Marine Limited GBP 34 million on 8 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004796",
+      "subject": "company_334",
+      "rel": "guarantor_for",
+      "object": "company_332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield Property Limited guaranteed the loan to Barrowfield Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004795",
+      "subject": "company_332",
+      "rel": "owes",
+      "object": "bank_20",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-13",
+          "value_end": "2022-10-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Marine Limited owes Bexley International Bank Limited GBP 5 million as at 13 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004800",
+      "subject": "company_332",
+      "rel": "owns",
+      "object": "asset_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Barrowfield Marine Limited owns Ironside Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004801",
+      "subject": "asset_143",
+      "rel": "located_in",
+      "object": "place_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ironside Data Centre is located in Cresswell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004802",
+      "subject": "company_332",
+      "rel": "party_to",
+      "object": "legal_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Marine Limited is a party to the Licence LEG-126.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004803",
+      "subject": "person_333",
+      "rel": "signed",
+      "object": "legal_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Wyndham signed the Licence LEG-126.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00265_allegation",
+      "text": "A former employee alleged that Barrowfield Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Grenville noted that a former employee alleged that Barrowfield Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00265",
+      "surface": "17 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-17",
+      "value_end": "2025-11-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004794",
+      "surface": "8 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-08",
+      "value_end": "2022-10-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "8 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004795",
+      "surface": "13 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-13",
+      "value_end": "2022-10-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "13 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00265",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

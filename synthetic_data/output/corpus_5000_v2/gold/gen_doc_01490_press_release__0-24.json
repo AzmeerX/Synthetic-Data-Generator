@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01490_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "2f01606842984c5c7d99be981a45e9f7ef17135a534a0b33a0ce0b63e0a8520c"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_547",
+      "name": "Oakhurst Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_547",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oakhurst Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_551",
+      "name": "Oakhurst Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_551",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_88",
+      "name": "Nether Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_88",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2332",
+      "name": "North Ashby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2332",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ashby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2334",
+      "name": "North Ashby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2334",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_30",
+      "name": "Alden & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_30",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_514",
+      "name": "Facility Agreement LEG-514",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_514",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-514",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-514",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_102",
+      "name": "Bastian Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_102",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_940",
+      "name": "Silas Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_940",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Silas Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_941",
+      "name": "Silas Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_941",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Silas Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Silas Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_948",
+      "name": "Silas Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_948",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Silas Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_179",
+      "name": "Netherby Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_179",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035975",
+      "subject": "company_2332",
+      "rel": "owns",
+      "object": "asset_547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Ashby Trading Limited owns Oakhurst Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035976",
+      "subject": "person_948",
+      "rel": "shareholder_of",
+      "object": "company_2332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Silas Cavendish is a shareholder of North Ashby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035988",
+      "subject": "person_940",
+      "rel": "family_of",
+      "object": "person_941",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Silas Thorne is a family member of Silas Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035978",
+      "subject": "bank_88",
+      "rel": "lent_to",
+      "object": "company_2332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-30",
+          "value_end": "2022-06-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Nether Merchant Bank Limited lent North Ashby Trading Limited GBP 34 million on 30 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035980",
+      "subject": "company_2334",
+      "rel": "guarantor_for",
+      "object": "company_2332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashby Capital Limited guaranteed the loan to North Ashby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035979",
+      "subject": "company_2332",
+      "rel": "owes",
+      "object": "bank_88",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-05",
+          "value_end": "2022-07-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Ashby Trading Limited owes Nether Merchant Bank Limited GBP 5 million as at 5 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035984",
+      "subject": "company_2332",
+      "rel": "owns",
+      "object": "asset_551",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Ashby Trading Limited owns Oakhurst Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035985",
+      "subject": "asset_551",
+      "rel": "located_in",
+      "object": "place_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Office Park is located in Netherby Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035986",
+      "subject": "company_2332",
+      "rel": "party_to",
+      "object": "legal_514",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Ashby Trading Limited is a party to the Facility Agreement LEG-514.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035987",
+      "subject": "person_941",
+      "rel": "signed",
+      "object": "legal_514",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Silas Ulric signed the Facility Agreement LEG-514.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01490_allegation",
+      "text": "A former employee alleged that North Ashby Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Mercer noted that a former employee alleged that North Ashby Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01490",
+      "surface": "11 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-11",
+      "value_end": "2026-05-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035978",
+      "surface": "30 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-30",
+      "value_end": "2022-06-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "30 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035979",
+      "surface": "5 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-05",
+      "value_end": "2022-07-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "5 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01490",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

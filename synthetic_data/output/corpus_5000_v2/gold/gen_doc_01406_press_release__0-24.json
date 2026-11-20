@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01406_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "aba9542dac0ac0851b14883791cc1bedc6f1c279de52d15ecbb27cfc91132ada"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_476",
+      "name": "Lowmoor Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_476",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lowmoor Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_13",
+      "name": "Alder Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_13",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Alder Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2257",
+      "name": "North Southwold Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2257",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Southwold Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2258",
+      "name": "North Southwold Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2258",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Southwold Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2259",
+      "name": "North Southwold Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2259",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Southwold Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_76",
+      "name": "Briar & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_76",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_439",
+      "name": "Services Agreement LEG-439",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_439",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Services Agreement LEG-439",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Services Agreement LEG-439",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_18",
+      "name": "Farah Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_18",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_865",
+      "name": "Quin Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_865",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quin Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_866",
+      "name": "Quin Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_866",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quin Tremayne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quin Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_873",
+      "name": "Rhea Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_873",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Rhea Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_104",
+      "name": "Elmsworth Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_104",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elmsworth Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034805",
+      "subject": "company_2257",
+      "rel": "owns",
+      "object": "company_2258",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Southwold Industries Limited owns North Southwold Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034806",
+      "subject": "person_873",
+      "rel": "shareholder_of",
+      "object": "company_2257",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Rhea Alden is a shareholder of North Southwold Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034818",
+      "subject": "person_865",
+      "rel": "family_of",
+      "object": "person_866",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quin Sinclair is a family member of Quin Tremayne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034808",
+      "subject": "bank_13",
+      "rel": "lent_to",
+      "object": "company_2257",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-21",
+          "value_end": "2024-11-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Private Bank Limited lent North Southwold Industries Limited GBP 44 million on 21 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034810",
+      "subject": "company_2259",
+      "rel": "guarantor_for",
+      "object": "company_2257",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Southwold Logistics Limited guaranteed the loan to North Southwold Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034809",
+      "subject": "company_2257",
+      "rel": "owes",
+      "object": "bank_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-26",
+          "value_end": "2024-11-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Southwold Industries Limited owes Alder Private Bank Limited GBP 10 million as at 26 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034814",
+      "subject": "company_2257",
+      "rel": "owns",
+      "object": "asset_476",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Industries Limited owns Lowmoor Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034815",
+      "subject": "asset_476",
+      "rel": "located_in",
+      "object": "place_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Fleet is located in Elmsworth Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034816",
+      "subject": "company_2257",
+      "rel": "party_to",
+      "object": "legal_439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Southwold Industries Limited is a party to the Services Agreement LEG-439.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034817",
+      "subject": "person_866",
+      "rel": "signed",
+      "object": "legal_439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quin Tremayne signed the Services Agreement LEG-439.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01406_allegation",
+      "text": "A former employee alleged that North Southwold Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Orrick noted that a former employee alleged that North Southwold Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01406",
+      "surface": "30 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-30",
+      "value_end": "2024-09-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034808",
+      "surface": "21 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-21",
+      "value_end": "2024-11-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "21 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034809",
+      "surface": "26 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-26",
+      "value_end": "2024-11-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "26 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01406",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

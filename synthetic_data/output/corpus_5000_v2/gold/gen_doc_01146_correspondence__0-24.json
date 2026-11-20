@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01146_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "a116f9fbf4f132adb426f6d2d445e413bac5b2458f995634a38b7c23aa61afbd"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_241",
+      "name": "Northcliff Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_241",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Northcliff Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_42",
+      "name": "Fair Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_42",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2022",
+      "name": "North Whitbourne Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2022",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Whitbourne Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2023",
+      "name": "North Whitbourne Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2023",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Whitbourne Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2024",
+      "name": "North Whitbourne Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2024",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Whitbourne Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2025",
+      "name": "North Whitbourne Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2025",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Whitbourne Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2027",
+      "name": "North Whitbourne Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2027",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_76",
+      "name": "Briar & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_76",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Vale LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_204",
+      "name": "Shareholder Agreement LEG-204",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_204",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-204",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-204",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1150",
+      "name": "Wren Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1150",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wren Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_630",
+      "name": "Lena Zouch",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_630",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_631",
+      "name": "Marek Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_631",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Marek Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_638",
+      "name": "Marek Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_638",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marek Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_49",
+      "name": "Mossgrove",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_49",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Mossgrove",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031142",
+      "subject": "company_2022",
+      "rel": "owns",
+      "object": "company_2023",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Whitbourne Capital Limited owns North Whitbourne Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031143",
+      "subject": "person_638",
+      "rel": "shareholder_of",
+      "object": "company_2022",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marek Hale is a shareholder of North Whitbourne Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031155",
+      "subject": "person_630",
+      "rel": "family_of",
+      "object": "person_631",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Zouch is a family member of Marek Alden.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031145",
+      "subject": "bank_42",
+      "rel": "lent_to",
+      "object": "company_2022",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-20",
+          "value_end": "2022-06-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Commercial Bank Limited lent North Whitbourne Capital Limited GBP 14 million on 20 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031147",
+      "subject": "company_2024",
+      "rel": "guarantor_for",
+      "object": "company_2022",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Whitbourne Energy Limited guaranteed the loan to North Whitbourne Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031146",
+      "subject": "company_2022",
+      "rel": "owes",
+      "object": "bank_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-06-25",
+          "value_end": "2022-06-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Whitbourne Capital Limited owes Fair Commercial Bank Limited GBP 5 million as at 25 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031151",
+      "subject": "company_2022",
+      "rel": "owns",
+      "object": "asset_241",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Whitbourne Capital Limited owns Northcliff Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031152",
+      "subject": "asset_241",
+      "rel": "located_in",
+      "object": "place_49",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff Hangar is located in Mossgrove.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031153",
+      "subject": "company_2022",
+      "rel": "party_to",
+      "object": "legal_204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Whitbourne Capital Limited is a party to the Shareholder Agreement LEG-204.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031154",
+      "subject": "person_631",
+      "rel": "signed",
+      "object": "legal_204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Marek Alden signed the Shareholder Agreement LEG-204.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01146_proposal",
+      "text": "The acquisition of North Whitbourne Systems Limited by North Whitbourne Capital Limited",
+      "speaker": "person_1150",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wren Fairfax, chair of North Whitbourne Capital Limited, proposed to acquire North Whitbourne Systems Limited on 3 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01146_approval",
+      "text": "Regulatory approval for the acquisition of North Whitbourne Systems Limited",
+      "speaker": "person_1150",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Fairfax confirmed that regulatory approval for the acquisition of North Whitbourne Systems Limited by North Whitbourne Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01146_link_conditional",
+      "src": "gen_doc_01146_proposal",
+      "dst": "gen_doc_01146_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Whitbourne Systems Limited by North Whitbourne Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01142_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01146",
+      "surface": "3 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-03",
+      "value_end": "2026-05-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031145",
+      "surface": "20 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-20",
+      "value_end": "2022-06-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "20 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031146",
+      "surface": "25 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-25",
+      "value_end": "2022-06-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

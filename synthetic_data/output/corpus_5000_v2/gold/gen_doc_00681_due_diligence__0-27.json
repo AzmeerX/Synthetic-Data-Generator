@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00681_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c7aaf7d9483e812f130f7783d6a24c4db7b47efc3191b0483cb40762a094b2a0"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_418",
+      "name": "Invermere Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_418",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_19",
+      "name": "Bexley Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_19",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1603",
+      "name": "North Lowmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1603",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1604",
+      "name": "North Lowmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1604",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1605",
+      "name": "North Lowmoor Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1605",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lowmoor Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_43",
+      "name": "Alden & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_43",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_391",
+      "name": "Services Agreement LEG-391",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_391",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-391",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-391",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_211",
+      "name": "Daria Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_211",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_212",
+      "name": "Daria Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_212",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_219",
+      "name": "Daria Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_219",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_685",
+      "name": "Nadia Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_685",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_170",
+      "name": "Merrivale Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_170",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024607",
+      "subject": "company_1603",
+      "rel": "owns",
+      "object": "company_1604",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Marine Limited owns North Lowmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024616",
+      "subject": "company_1603",
+      "rel": "owns",
+      "object": "asset_418",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lowmoor Marine Limited owns Invermere Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024617",
+      "subject": "asset_418",
+      "rel": "located_in",
+      "object": "place_170",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Foundry is located in Merrivale Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024613",
+      "subject": "lawfirm_43",
+      "rel": "represents",
+      "object": "company_1603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Montague LLP represents North Lowmoor Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024608",
+      "subject": "person_219",
+      "rel": "shareholder_of",
+      "object": "company_1603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Fairfax is a shareholder of North Lowmoor Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024620",
+      "subject": "person_211",
+      "rel": "family_of",
+      "object": "person_212",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Ward is a family member of Daria Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024610",
+      "subject": "bank_19",
+      "rel": "lent_to",
+      "object": "company_1603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-24",
+          "value_end": "2023-10-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Private Bank Limited lent North Lowmoor Marine Limited GBP 16 million on 24 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024612",
+      "subject": "company_1605",
+      "rel": "guarantor_for",
+      "object": "company_1603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lowmoor Property Limited guaranteed the loan to North Lowmoor Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024611",
+      "subject": "company_1603",
+      "rel": "owes",
+      "object": "bank_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-29",
+          "value_end": "2023-10-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Lowmoor Marine Limited owes Bexley Private Bank Limited GBP 6 million as at 29 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024618",
+      "subject": "company_1603",
+      "rel": "party_to",
+      "object": "legal_391",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Lowmoor Marine Limited is a party to the Services Agreement LEG-391.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024619",
+      "subject": "person_212",
+      "rel": "signed",
+      "object": "legal_391",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Yarrow signed the Services Agreement LEG-391.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00681_allegation",
+      "text": "A former employee alleged that North Lowmoor Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Garrow noted that a former employee alleged that North Lowmoor Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00681",
+      "surface": "13 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-13",
+      "value_end": "2027-04-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024610",
+      "surface": "24 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-24",
+      "value_end": "2023-10-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024611",
+      "surface": "29 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-29",
+      "value_end": "2023-10-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00681",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

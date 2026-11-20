@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01312_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "a1b0e50e456fec3d71cb722bdd5a3799c6fa4f36f51cf7832c7db580deb75704"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_387",
+      "name": "Glenport Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_387",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenport Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_391",
+      "name": "Glenport Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_391",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Glenport Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_60",
+      "name": "Inver Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_60",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Inver Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Inver Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2172",
+      "name": "North Linden Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2172",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2174",
+      "name": "North Linden Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2174",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Linden Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2177",
+      "name": "North Linden Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2177",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Linden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Linden Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_102",
+      "name": "Briar & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_102",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_92",
+      "name": "Briar & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_92",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_354",
+      "name": "Facility Agreement LEG-354",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_354",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Facility Agreement LEG-354",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-354",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1316",
+      "name": "Zane Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1316",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Zane Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_780",
+      "name": "Petra Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_780",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_781",
+      "name": "Petra Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_781",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Petra Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_788",
+      "name": "Petra Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_788",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Petra Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_19",
+      "name": "Glenport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_19",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033481",
+      "subject": "company_2172",
+      "rel": "owns",
+      "object": "asset_387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Linden Holdings Limited owns Glenport Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033482",
+      "subject": "person_788",
+      "rel": "shareholder_of",
+      "object": "company_2172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Petra Orrick is a shareholder of North Linden Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033494",
+      "subject": "person_780",
+      "rel": "family_of",
+      "object": "person_781",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Fenwick is a family member of Petra Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033484",
+      "subject": "bank_60",
+      "rel": "lent_to",
+      "object": "company_2172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-01",
+          "value_end": "2022-05-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Inver Commercial Bank Limited lent North Linden Holdings Limited GBP 34 million on 1 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033486",
+      "subject": "company_2174",
+      "rel": "guarantor_for",
+      "object": "company_2172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Linden Group Limited guaranteed the loan to North Linden Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033485",
+      "subject": "company_2172",
+      "rel": "owes",
+      "object": "bank_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-06",
+          "value_end": "2022-05-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Linden Holdings Limited owes Inver Commercial Bank Limited GBP 5 million as at 6 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033487",
+      "subject": "lawfirm_92",
+      "rel": "represents",
+      "object": "company_2172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Montague LLP represents North Linden Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033490",
+      "subject": "company_2172",
+      "rel": "owns",
+      "object": "asset_391",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Linden Holdings Limited owns Glenport Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033491",
+      "subject": "asset_391",
+      "rel": "located_in",
+      "object": "place_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport Office Park is located in Glenport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033492",
+      "subject": "company_2172",
+      "rel": "party_to",
+      "object": "legal_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Linden Holdings Limited is a party to the Facility Agreement LEG-354.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033493",
+      "subject": "person_781",
+      "rel": "signed",
+      "object": "legal_354",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Petra Garrow signed the Facility Agreement LEG-354.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01312_proposal",
+      "text": "The acquisition of North Linden Partners Limited by North Linden Holdings Limited",
+      "speaker": "person_1316",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Yardley, chair of North Linden Holdings Limited, proposed to acquire North Linden Partners Limited on 26 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01312_approval",
+      "text": "Regulatory approval for the acquisition of North Linden Partners Limited",
+      "speaker": "person_1316",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Zane Yardley confirmed that regulatory approval for the acquisition of North Linden Partners Limited by North Linden Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01312_link_conditional",
+      "src": "gen_doc_01312_proposal",
+      "dst": "gen_doc_01312_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Linden Partners Limited by North Linden Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01312",
+      "surface": "26 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-26",
+      "value_end": "2026-03-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033484",
+      "surface": "1 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-01",
+      "value_end": "2022-05-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "1 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033485",
+      "surface": "6 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-06",
+      "value_end": "2022-05-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "6 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01312",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

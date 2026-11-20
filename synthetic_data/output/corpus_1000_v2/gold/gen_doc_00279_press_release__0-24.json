@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00279_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "fbdedc4f4ac23e6019196ce23b8b5a62034a89f929bacfec2f3c26ebe7fa1d7c"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_156",
+      "name": "Juniper Cross Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_156",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juniper Cross Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Juniper Cross Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_33",
+      "name": "Elm Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_33",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_345",
+      "name": "Cresswell Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_345",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Cresswell Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_346",
+      "name": "Cresswell Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_346",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cresswell Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_347",
+      "name": "Cresswell Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_347",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Cresswell Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_30",
+      "name": "Alden & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_30",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_139",
+      "name": "Debenture LEG-139",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_139",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Debenture LEG-139",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Debenture LEG-139",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_283",
+      "name": "Elias Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_283",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_345",
+      "name": "Gideon Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_345",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gideon Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_346",
+      "name": "Gideon Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_346",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gideon Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Gideon Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_353",
+      "name": "Gideon Sable",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_353",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Gideon Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_52",
+      "name": "Penhurst",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_52",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Penhurst",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004992",
+      "subject": "company_345",
+      "rel": "owns",
+      "object": "company_346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cresswell Energy Limited owns Cresswell Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004993",
+      "subject": "person_353",
+      "rel": "shareholder_of",
+      "object": "company_345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Gideon Sable is a shareholder of Cresswell Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005005",
+      "subject": "person_345",
+      "rel": "family_of",
+      "object": "person_346",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gideon Jarvis is a family member of Gideon Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004995",
+      "subject": "bank_33",
+      "rel": "lent_to",
+      "object": "company_345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-28",
+          "value_end": "2023-02-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elm Bank Limited lent Cresswell Energy Limited GBP 20 million on 28 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004997",
+      "subject": "company_347",
+      "rel": "guarantor_for",
+      "object": "company_345",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Cresswell Ventures Limited guaranteed the loan to Cresswell Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004996",
+      "subject": "company_345",
+      "rel": "owes",
+      "object": "bank_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-05",
+          "value_end": "2023-03-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cresswell Energy Limited owes Elm Bank Limited GBP 8 million as at 5 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005001",
+      "subject": "company_345",
+      "rel": "owns",
+      "object": "asset_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Cresswell Energy Limited owns Juniper Cross Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005002",
+      "subject": "asset_156",
+      "rel": "located_in",
+      "object": "place_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Juniper Cross Wharf is located in Penhurst.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005003",
+      "subject": "company_345",
+      "rel": "party_to",
+      "object": "legal_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Cresswell Energy Limited is a party to the Debenture LEG-139.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005004",
+      "subject": "person_346",
+      "rel": "signed",
+      "object": "legal_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Gideon Kerr signed the Debenture LEG-139.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00279_allegation",
+      "text": "A former employee alleged that Cresswell Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Villiers noted that a former employee alleged that Cresswell Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00279",
+      "surface": "23 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-23",
+      "value_end": "2026-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004995",
+      "surface": "28 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-28",
+      "value_end": "2023-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "28 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004996",
+      "surface": "5 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-05",
+      "value_end": "2023-03-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "5 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00279",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

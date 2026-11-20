@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01440_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "ec6405c0ac8afaeb717b6c09fb887d9af0a44ded8bcf5746e4bcd9b9febb0541"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_503",
+      "name": "Merrivale Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_503",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Merrivale Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_507",
+      "name": "Merrivale Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_507",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merrivale Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2288",
+      "name": "North Upton Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2288",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Upton Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2290",
+      "name": "North Upton Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2290",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Upton Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Upton Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2292",
+      "name": "North Vinehall Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2292",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Vinehall Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Vinehall Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_100",
+      "name": "Briar & Villiers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_100",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Villiers LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Villiers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_470",
+      "name": "Loan Note LEG-470",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_470",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-470",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-470",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_52",
+      "name": "Amina Mercer",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_52",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_896",
+      "name": "Rhea Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_896",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_897",
+      "name": "Rhea Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_897",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Rhea Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_904",
+      "name": "Rhea Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_904",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_135",
+      "name": "Harrowden Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_135",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035290",
+      "subject": "company_2288",
+      "rel": "owns",
+      "object": "asset_503",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Upton Energy Limited owns Merrivale Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035291",
+      "subject": "person_904",
+      "rel": "shareholder_of",
+      "object": "company_2288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Ingram is a shareholder of North Upton Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035303",
+      "subject": "person_896",
+      "rel": "family_of",
+      "object": "person_897",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Ashby is a family member of Rhea Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035293",
+      "subject": "bank_44",
+      "rel": "lent_to",
+      "object": "company_2288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-28",
+          "value_end": "2025-10-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair International Bank Limited lent North Upton Energy Limited GBP 26 million on 28 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035295",
+      "subject": "company_2290",
+      "rel": "guarantor_for",
+      "object": "company_2288",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Upton Ventures Limited guaranteed the loan to North Upton Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035294",
+      "subject": "company_2288",
+      "rel": "owes",
+      "object": "bank_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-11-02",
+          "value_end": "2025-11-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Upton Energy Limited owes Fair International Bank Limited GBP 11 million as at 2 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035299",
+      "subject": "company_2288",
+      "rel": "owns",
+      "object": "asset_507",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Upton Energy Limited owns Merrivale Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035300",
+      "subject": "asset_507",
+      "rel": "located_in",
+      "object": "place_135",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Dock is located in Harrowden Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035301",
+      "subject": "company_2288",
+      "rel": "party_to",
+      "object": "legal_470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Upton Energy Limited is a party to the Loan Note LEG-470.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035302",
+      "subject": "person_897",
+      "rel": "signed",
+      "object": "legal_470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Rhea Balfour signed the Loan Note LEG-470.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01440_proposal",
+      "text": "The acquisition of North Vinehall Holdings Limited by North Upton Energy Limited",
+      "speaker": "person_52",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Mercer, chair of North Upton Energy Limited, proposed to acquire North Vinehall Holdings Limited on 26 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01440_approval",
+      "text": "Regulatory approval for the acquisition of North Vinehall Holdings Limited",
+      "speaker": "person_52",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Mercer confirmed that regulatory approval for the acquisition of North Vinehall Holdings Limited by North Upton Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01440_link_conditional",
+      "src": "gen_doc_01440_proposal",
+      "dst": "gen_doc_01440_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Vinehall Holdings Limited by North Upton Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01436_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01440",
+      "surface": "26 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-26",
+      "value_end": "2025-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035293",
+      "surface": "28 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-28",
+      "value_end": "2025-10-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "28 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035294",
+      "surface": "2 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-02",
+      "value_end": "2025-11-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "2 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

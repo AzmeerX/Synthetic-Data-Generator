@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01391_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "85cba92cb0d2e1dffc0a0ebf9e7e86d0350c7a7a716a931d115120c41021c049"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_462",
+      "name": "Kelbrook Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_462",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_131",
+      "name": "Uldale Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_131",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Uldale Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2243",
+      "name": "North Quenington Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2243",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Quenington Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2244",
+      "name": "North Ravensby Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2244",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2245",
+      "name": "North Ravensby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2245",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Ravensby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2246",
+      "name": "North Ravensby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2246",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Ravensby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2248",
+      "name": "North Ravensby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2248",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Ravensby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_61",
+      "name": "Briar & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_61",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Garrow LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_425",
+      "name": "Trust Deed LEG-425",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_425",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-425",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-425",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_851",
+      "name": "Quin Delacourt",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_851",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_852",
+      "name": "Quin Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_852",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_859",
+      "name": "Quin Langford",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_859",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_90",
+      "name": "Carrow Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_90",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034588",
+      "subject": "company_2243",
+      "rel": "owns",
+      "object": "company_2244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Systems Limited owns North Ravensby Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034589",
+      "subject": "person_859",
+      "rel": "shareholder_of",
+      "object": "company_2243",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Langford is a shareholder of North Quenington Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034601",
+      "subject": "person_851",
+      "rel": "family_of",
+      "object": "person_852",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Delacourt is a family member of Quin Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034591",
+      "subject": "bank_131",
+      "rel": "lent_to",
+      "object": "company_2243",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-06-20",
+          "value_end": "2024-06-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Uldale Trust Bank Limited lent North Quenington Systems Limited GBP 16 million on 20 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034593",
+      "subject": "company_2245",
+      "rel": "guarantor_for",
+      "object": "company_2243",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Ravensby Industries Limited guaranteed the loan to North Quenington Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034592",
+      "subject": "company_2243",
+      "rel": "owes",
+      "object": "bank_131",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-25",
+          "value_end": "2024-06-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Quenington Systems Limited owes Uldale Trust Bank Limited GBP 6 million as at 25 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034597",
+      "subject": "company_2243",
+      "rel": "owns",
+      "object": "asset_462",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quenington Systems Limited owns Kelbrook Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034598",
+      "subject": "asset_462",
+      "rel": "located_in",
+      "object": "place_90",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Marina is located in Carrow Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034599",
+      "subject": "company_2243",
+      "rel": "party_to",
+      "object": "legal_425",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Systems Limited is a party to the Trust Deed LEG-425.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034600",
+      "subject": "person_852",
+      "rel": "signed",
+      "object": "legal_425",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Everard signed the Trust Deed LEG-425.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01391_proposal",
+      "text": "The acquisition of North Ravensby Trading Limited by North Quenington Systems Limited",
+      "speaker": "person_03",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department, chair of North Quenington Systems Limited, proposed to acquire North Ravensby Trading Limited on 17 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01391_approval",
+      "text": "Regulatory approval for the acquisition of North Ravensby Trading Limited",
+      "speaker": "person_03",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department confirmed that regulatory approval for the acquisition of North Ravensby Trading Limited by North Quenington Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01391_link_conditional",
+      "src": "gen_doc_01391_proposal",
+      "dst": "gen_doc_01391_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Ravensby Trading Limited by North Quenington Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01387_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01391",
+      "surface": "17 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-17",
+      "value_end": "2024-06-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034591",
+      "surface": "20 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-20",
+      "value_end": "2024-06-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "20 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034592",
+      "surface": "25 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-25",
+      "value_end": "2024-06-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00122_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "205cef93bb0832fdd56270c319801415ed957707a8bb4c3c6d97897a4099506e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_01",
+      "name": "Kestrel Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_01",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kestrel Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrel Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_14",
+      "name": "Alder International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_14",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_110",
+      "name": "Harrowden Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_110",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Harrowden Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1104",
+      "name": "Selby Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1104",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Selby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Selby Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_111",
+      "name": "Harrowden Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_111",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowden Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_112",
+      "name": "Harrowden Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_112",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowden Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_92",
+      "name": "Briar & Montague LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_92",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Montague LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_110",
+      "name": "Licence LEG-110",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_110",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Licence LEG-110",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-110",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_110",
+      "name": "Bastian Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_110",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_111",
+      "name": "Bastian Vale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_111",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Bastian Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_118",
+      "name": "Bastian Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_118",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_126",
+      "name": "Bastian Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_126",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Bastian Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_57",
+      "name": "Underhill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_57",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Underhill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001329",
+      "subject": "company_110",
+      "rel": "owns",
+      "object": "company_111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrowden Industries Limited owns Harrowden Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001330",
+      "subject": "person_118",
+      "rel": "shareholder_of",
+      "object": "company_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Delacourt is a shareholder of Harrowden Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001342",
+      "subject": "person_110",
+      "rel": "family_of",
+      "object": "person_111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Ulric is a family member of Bastian Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001332",
+      "subject": "bank_14",
+      "rel": "lent_to",
+      "object": "company_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-23",
+          "value_end": "2025-05-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder International Bank Limited lent Harrowden Industries Limited GBP 30 million on 23 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001334",
+      "subject": "company_112",
+      "rel": "guarantor_for",
+      "object": "company_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowden Logistics Limited guaranteed the loan to Harrowden Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001333",
+      "subject": "company_110",
+      "rel": "owes",
+      "object": "bank_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-28",
+          "value_end": "2025-05-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Industries Limited owes Alder International Bank Limited GBP 13 million as at 28 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001335",
+      "subject": "lawfirm_20",
+      "rel": "represents",
+      "object": "company_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Orrick LLP represents Harrowden Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001338",
+      "subject": "company_110",
+      "rel": "owns",
+      "object": "asset_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowden Industries Limited owns Kestrel Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001339",
+      "subject": "asset_01",
+      "rel": "located_in",
+      "object": "place_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrel Wharf is located in Underhill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001340",
+      "subject": "company_110",
+      "rel": "party_to",
+      "object": "legal_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowden Industries Limited is a party to the Licence LEG-110.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001341",
+      "subject": "person_111",
+      "rel": "signed",
+      "object": "legal_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Bastian Vale signed the Licence LEG-110.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00122_proposal",
+      "text": "The acquisition of Selby Holdings Limited by Harrowden Industries Limited",
+      "speaker": "person_126",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Langford, chair of Harrowden Industries Limited, proposed to acquire Selby Holdings Limited on 4 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00122_approval",
+      "text": "Regulatory approval for the acquisition of Selby Holdings Limited",
+      "speaker": "person_126",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Bastian Langford confirmed that regulatory approval for the acquisition of Selby Holdings Limited by Harrowden Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00122_link_conditional",
+      "src": "gen_doc_00122_proposal",
+      "dst": "gen_doc_00122_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Selby Holdings Limited by Harrowden Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00122",
+      "surface": "4 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-04",
+      "value_end": "2026-06-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001332",
+      "surface": "23 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-23",
+      "value_end": "2025-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001333",
+      "surface": "28 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-28",
+      "value_end": "2025-05-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00122",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00597_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "02460b39d1c708bd05b031ddb9ba947d4d6df99579488fb05a4bca75c2264f36"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_339",
+      "name": "Elmford Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_339",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elmford Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_343",
+      "name": "Elmford Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_343",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elmford Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_76",
+      "name": "Low Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_76",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1528",
+      "name": "North Fairhaven Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1528",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Fairhaven Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1530",
+      "name": "North Fairhaven Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1530",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fairhaven Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_98",
+      "name": "Briar & Tremayne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_98",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_316",
+      "name": "Shareholder Agreement LEG-316",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_316",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-316",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-316",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_136",
+      "name": "Bastian Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_136",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_137",
+      "name": "Bastian Wyndham",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_137",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_144",
+      "name": "Calder Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_144",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_601",
+      "name": "Lena Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_601",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_95",
+      "name": "Carrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_95",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023439",
+      "subject": "company_1528",
+      "rel": "owns",
+      "object": "asset_339",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fairhaven Trading Limited owns Elmford Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023448",
+      "subject": "company_1528",
+      "rel": "owns",
+      "object": "asset_343",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Fairhaven Trading Limited owns Elmford Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023449",
+      "subject": "asset_343",
+      "rel": "located_in",
+      "object": "place_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmford Works is located in Carrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023445",
+      "subject": "lawfirm_98",
+      "rel": "represents",
+      "object": "company_1528",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Tremayne LLP represents North Fairhaven Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023440",
+      "subject": "person_144",
+      "rel": "shareholder_of",
+      "object": "company_1528",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Ellery is a shareholder of North Fairhaven Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023452",
+      "subject": "person_136",
+      "rel": "family_of",
+      "object": "person_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Whitlock is a family member of Bastian Wyndham.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023442",
+      "subject": "bank_76",
+      "rel": "lent_to",
+      "object": "company_1528",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-17",
+          "value_end": "2026-03-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Merchant Bank Limited lent North Fairhaven Trading Limited GBP 26 million on 17 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023444",
+      "subject": "company_1530",
+      "rel": "guarantor_for",
+      "object": "company_1528",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fairhaven Capital Limited guaranteed the loan to North Fairhaven Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023443",
+      "subject": "company_1528",
+      "rel": "owes",
+      "object": "bank_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-22",
+          "value_end": "2026-03-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Fairhaven Trading Limited owes Low Merchant Bank Limited GBP 11 million as at 22 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023450",
+      "subject": "company_1528",
+      "rel": "party_to",
+      "object": "legal_316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Fairhaven Trading Limited is a party to the Shareholder Agreement LEG-316.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023451",
+      "subject": "person_137",
+      "rel": "signed",
+      "object": "legal_316",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Wyndham signed the Shareholder Agreement LEG-316.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00597_allegation",
+      "text": "A former employee alleged that North Fairhaven Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Ulric noted that a former employee alleged that North Fairhaven Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00597",
+      "surface": "2 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-02",
+      "value_end": "2025-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023442",
+      "surface": "17 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-17",
+      "value_end": "2026-03-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "17 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023443",
+      "surface": "22 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-22",
+      "value_end": "2026-03-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "22 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00597",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01344_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "7c5886abf4a98888916b5e7240c6a1e3956c6ff6b486e9ec2cec99c5175bb0ca"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_415",
+      "name": "Invermere Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_415",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Invermere Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_419",
+      "name": "Invermere Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_419",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Invermere Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Invermere Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_88",
+      "name": "Nether Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_88",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2200",
+      "name": "North Norbury Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2200",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Norbury Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2202",
+      "name": "North Norbury Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2202",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Norbury Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2205",
+      "name": "North Norbury Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2205",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Norbury Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Norbury Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_120",
+      "name": "Cairn & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_120",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_382",
+      "name": "Licence LEG-382",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_382",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-382",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-382",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1348",
+      "name": "Anika Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1348",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_808",
+      "name": "Petra Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_808",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Petra Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_809",
+      "name": "Petra Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_809",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Petra Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_811",
+      "name": "Petra Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_811",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Petra Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_813",
+      "name": "Petra Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_813",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Petra Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_816",
+      "name": "Petra Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_816",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_47",
+      "name": "Kirkby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_47",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kirkby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033917",
+      "subject": "company_2200",
+      "rel": "owns",
+      "object": "asset_415",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Norbury Trading Limited owns Invermere Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033919",
+      "subject": "person_811",
+      "rel": "chair_of",
+      "object": "company_2200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Montague is the chair of North Norbury Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033918",
+      "subject": "person_816",
+      "rel": "shareholder_of",
+      "object": "company_2200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Sinclair is a shareholder of North Norbury Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033930",
+      "subject": "person_808",
+      "rel": "family_of",
+      "object": "person_809",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Petra Jeffreys is a family member of Petra Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033920",
+      "subject": "bank_88",
+      "rel": "lent_to",
+      "object": "company_2200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-05",
+          "value_end": "2023-03-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nether Merchant Bank Limited lent North Norbury Trading Limited GBP 50 million on 5 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033922",
+      "subject": "company_2202",
+      "rel": "guarantor_for",
+      "object": "company_2200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Norbury Capital Limited guaranteed the loan to North Norbury Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033921",
+      "subject": "company_2200",
+      "rel": "owes",
+      "object": "bank_88",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-10",
+          "value_end": "2023-03-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Norbury Trading Limited owes Nether Merchant Bank Limited GBP 13 million as at 10 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033923",
+      "subject": "lawfirm_120",
+      "rel": "represents",
+      "object": "company_2200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Quade LLP represents North Norbury Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033926",
+      "subject": "company_2200",
+      "rel": "owns",
+      "object": "asset_419",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Norbury Trading Limited owns Invermere Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033927",
+      "subject": "asset_419",
+      "rel": "located_in",
+      "object": "place_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Invermere Data Centre is located in Kirkby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033928",
+      "subject": "company_2200",
+      "rel": "party_to",
+      "object": "legal_382",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Norbury Trading Limited is a party to the Licence LEG-382.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033929",
+      "subject": "person_809",
+      "rel": "signed",
+      "object": "legal_382",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Kingsley signed the Licence LEG-382.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01344_proposal",
+      "text": "The acquisition of North Norbury Property Limited by North Norbury Trading Limited",
+      "speaker": "person_1348",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Grenville, chair of North Norbury Trading Limited, proposed to acquire North Norbury Property Limited on 5 November 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01344_approval",
+      "text": "Regulatory approval for the acquisition of North Norbury Property Limited",
+      "speaker": "person_1348",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Anika Grenville confirmed that regulatory approval for the acquisition of North Norbury Property Limited by North Norbury Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01344_link_conditional",
+      "src": "gen_doc_01344_proposal",
+      "dst": "gen_doc_01344_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Norbury Property Limited by North Norbury Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01344",
+      "surface": "5 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-05",
+      "value_end": "2026-11-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033920",
+      "surface": "5 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-05",
+      "value_end": "2023-03-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "5 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033921",
+      "surface": "10 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-10",
+      "value_end": "2023-03-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "10 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01344",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

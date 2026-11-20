@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01374_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "f6b44ecf72b26dba8a40d5452662a6f69d224e3322e5051fd9f0200d687c07df"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_443",
+      "name": "Jarrow Cross Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_443",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Cross Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_447",
+      "name": "Jarrow Cross Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_447",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Cross Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Cross Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_116",
+      "name": "Red International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_116",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2228",
+      "name": "North Pinewood Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2228",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Pinewood Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2230",
+      "name": "North Pinewood Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2230",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Pinewood Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_18",
+      "name": "Alden & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_18",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_410",
+      "name": "Settlement Agreement LEG-410",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_410",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-410",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-410",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1378",
+      "name": "Bram Mercer",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1378",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bram Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_836",
+      "name": "Quin Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_836",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_837",
+      "name": "Quin Nyle",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_837",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_844",
+      "name": "Quin Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_844",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_75",
+      "name": "Ashcombe Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_75",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034355",
+      "subject": "company_2228",
+      "rel": "owns",
+      "object": "asset_443",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Pinewood Energy Limited owns Jarrow Cross Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034364",
+      "subject": "company_2228",
+      "rel": "owns",
+      "object": "asset_447",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Pinewood Energy Limited owns Jarrow Cross Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034365",
+      "subject": "asset_447",
+      "rel": "located_in",
+      "object": "place_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Cross Dock is located in Ashcombe Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034361",
+      "subject": "lawfirm_18",
+      "rel": "represents",
+      "object": "company_2228",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Mercer LLP represents North Pinewood Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034356",
+      "subject": "person_844",
+      "rel": "shareholder_of",
+      "object": "company_2228",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Vale is a shareholder of North Pinewood Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034368",
+      "subject": "person_836",
+      "rel": "family_of",
+      "object": "person_837",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Mercer is a family member of Quin Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034358",
+      "subject": "bank_116",
+      "rel": "lent_to",
+      "object": "company_2228",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-07",
+          "value_end": "2024-01-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Red International Bank Limited lent North Pinewood Energy Limited GBP 26 million on 7 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034360",
+      "subject": "company_2230",
+      "rel": "guarantor_for",
+      "object": "company_2228",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Pinewood Ventures Limited guaranteed the loan to North Pinewood Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034359",
+      "subject": "company_2228",
+      "rel": "owes",
+      "object": "bank_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-12",
+          "value_end": "2024-01-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Pinewood Energy Limited owes Red International Bank Limited GBP 11 million as at 12 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034366",
+      "subject": "company_2228",
+      "rel": "party_to",
+      "object": "legal_410",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Pinewood Energy Limited is a party to the Settlement Agreement LEG-410.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034367",
+      "subject": "person_837",
+      "rel": "signed",
+      "object": "legal_410",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Nyle signed the Settlement Agreement LEG-410.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01374_allegation",
+      "text": "A former employee alleged that North Pinewood Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bram Mercer noted that a former employee alleged that North Pinewood Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01374",
+      "surface": "19 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-19",
+      "value_end": "2024-02-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034358",
+      "surface": "7 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-07",
+      "value_end": "2024-01-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "7 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034359",
+      "surface": "12 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-12",
+      "value_end": "2024-01-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "12 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01374",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

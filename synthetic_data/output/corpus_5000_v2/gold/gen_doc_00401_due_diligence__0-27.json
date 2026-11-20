@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00401_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e3ea24e81d367971b9f5e72b659d6dab74f397092420c3ded0fd55ab7d66fd65"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_166",
+      "name": "Juniper Cross Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_166",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_31",
+      "name": "Denmoor Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_31",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1351",
+      "name": "Orkney Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1351",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Orkney Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1352",
+      "name": "Orkney Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1352",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Orkney Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1353",
+      "name": "Orkney Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1353",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_51",
+      "name": "Alden & Villiers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_51",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Villiers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_139",
+      "name": "Debenture LEG-139",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_139",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-139",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-139",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_13",
+      "name": "Ivo Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_13",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1351",
+      "name": "Anika Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1351",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1352",
+      "name": "Anika Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1352",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1359",
+      "name": "Anika Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1359",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_98",
+      "name": "Dunmere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_98",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020677",
+      "subject": "company_1351",
+      "rel": "owns",
+      "object": "company_1352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Orkney Marine Limited owns Orkney Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020686",
+      "subject": "company_1351",
+      "rel": "owns",
+      "object": "asset_166",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Orkney Marine Limited owns Juniper Cross Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020687",
+      "subject": "asset_166",
+      "rel": "located_in",
+      "object": "place_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Marina is located in Dunmere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020683",
+      "subject": "lawfirm_51",
+      "rel": "represents",
+      "object": "company_1351",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Villiers LLP represents Orkney Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020678",
+      "subject": "person_1359",
+      "rel": "shareholder_of",
+      "object": "company_1351",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Anika Sinclair is a shareholder of Orkney Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020690",
+      "subject": "person_1351",
+      "rel": "family_of",
+      "object": "person_1352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Jeffreys is a family member of Anika Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020680",
+      "subject": "bank_31",
+      "rel": "lent_to",
+      "object": "company_1351",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-13",
+          "value_end": "2025-07-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Private Bank Limited lent Orkney Marine Limited GBP 32 million on 13 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020682",
+      "subject": "company_1353",
+      "rel": "guarantor_for",
+      "object": "company_1351",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Orkney Property Limited guaranteed the loan to Orkney Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020681",
+      "subject": "company_1351",
+      "rel": "owes",
+      "object": "bank_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-07-18",
+          "value_end": "2025-07-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Orkney Marine Limited owes Denmoor Private Bank Limited GBP 4 million as at 18 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020688",
+      "subject": "company_1351",
+      "rel": "party_to",
+      "object": "legal_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Orkney Marine Limited is a party to the Debenture LEG-139.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020689",
+      "subject": "person_1352",
+      "rel": "signed",
+      "object": "legal_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Anika Kingsley signed the Debenture LEG-139.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00401_allegation",
+      "text": "A former employee alleged that Orkney Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Dunmore noted that a former employee alleged that Orkney Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00401",
+      "surface": "14 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-14",
+      "value_end": "2025-03-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020680",
+      "surface": "13 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-13",
+      "value_end": "2025-07-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020681",
+      "surface": "18 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-18",
+      "value_end": "2025-07-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "18 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00401",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

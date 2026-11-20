@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01495_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "d755963d7fb3363aa5aa59f3f7a5806bf7a007c8e439880bd146c57b2027d579"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_93",
+      "name": "Oak Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_93",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2337",
+      "name": "North Ashby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2337",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2338",
+      "name": "North Ashby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2338",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Ashby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2339",
+      "name": "North Ashby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2339",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Ashby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_234",
+      "name": "Redmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_234",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Redmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Redmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_519",
+      "name": "Services Agreement LEG-519",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_519",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Services Agreement LEG-519",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Services Agreement LEG-519",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_107",
+      "name": "Bastian Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_107",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_945",
+      "name": "Silas Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_945",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Silas Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_946",
+      "name": "Silas Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_946",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Silas Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Silas Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_948",
+      "name": "Silas Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_948",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_953",
+      "name": "Silas Hastings",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_953",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silas Hastings",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036064",
+      "subject": "company_2337",
+      "rel": "party_to",
+      "object": "legal_519",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashby Property Limited is a party to the Services Agreement LEG-519.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036065",
+      "subject": "person_946",
+      "rel": "signed",
+      "object": "legal_519",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Silas Ashby signed the Services Agreement LEG-519.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036055",
+      "subject": "person_948",
+      "rel": "chair_of",
+      "object": "company_2337",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Cavendish is the chair of North Ashby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036056",
+      "subject": "bank_93",
+      "rel": "lent_to",
+      "object": "company_2337",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-24",
+          "value_end": "2022-08-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oak Bank Limited lent North Ashby Property Limited GBP 44 million on 24 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036058",
+      "subject": "company_2339",
+      "rel": "guarantor_for",
+      "object": "company_2337",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Ashby Systems Limited guaranteed the loan to North Ashby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036057",
+      "subject": "company_2337",
+      "rel": "owes",
+      "object": "bank_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-29",
+          "value_end": "2022-08-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Ashby Property Limited owes Oak Bank Limited GBP 10 million as at 29 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036054",
+      "subject": "person_953",
+      "rel": "shareholder_of",
+      "object": "company_2337",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silas Hastings is a shareholder of North Ashby Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036066",
+      "subject": "person_945",
+      "rel": "family_of",
+      "object": "person_946",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Silas Zell is a family member of Silas Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036053",
+      "subject": "company_2337",
+      "rel": "owns",
+      "object": "company_2338",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Ashby Property Limited owns North Ashby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01495_neg_guarantee",
+      "subject": "company_2337",
+      "rel": "guarantor_for",
+      "object": "company_234",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Ashby Property Limited did not guarantee the facility for Redmoor Partners Limited on 15 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01495_allegation",
+      "text": "A former employee alleged that North Ashby Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Rook noted that a former employee alleged that North Ashby Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01495",
+      "surface": "15 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-15",
+      "value_end": "2026-06-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036056",
+      "surface": "24 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-24",
+      "value_end": "2022-08-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "24 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036057",
+      "surface": "29 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-29",
+      "value_end": "2022-08-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "29 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01495",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2026-12-15",
+      "value_end": "2026-12-15",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

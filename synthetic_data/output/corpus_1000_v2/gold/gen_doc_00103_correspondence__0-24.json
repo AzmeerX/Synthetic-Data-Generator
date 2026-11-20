@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00103_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "f87d883859386060035592ada6c7a35e79bdf4010005572c336a4d2357d430b0"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_71",
+      "name": "Eastmere Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_71",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_75",
+      "name": "Eastmere Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_75",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_24",
+      "name": "Carrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_24",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_184",
+      "name": "Netherby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_184",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Netherby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_186",
+      "name": "Netherby Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_186",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Netherby Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_187",
+      "name": "Netherby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_187",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Netherby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_189",
+      "name": "Netherby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_189",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Netherby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Netherby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_58",
+      "name": "Settlement Agreement LEG-058",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_58",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-058",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Settlement Agreement LEG-058",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_107",
+      "name": "Bastian Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_107",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_184",
+      "name": "Calder Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_184",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_185",
+      "name": "Calder Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_185",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_192",
+      "name": "Daria Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_192",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_11",
+      "name": "Marrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_11",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Marrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002482",
+      "subject": "company_184",
+      "rel": "owns",
+      "object": "asset_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Logistics Limited owns Eastmere Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002483",
+      "subject": "person_192",
+      "rel": "shareholder_of",
+      "object": "company_184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Cairn is a shareholder of Netherby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002495",
+      "subject": "person_184",
+      "rel": "family_of",
+      "object": "person_185",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Underwood is a family member of Calder Villiers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002485",
+      "subject": "bank_24",
+      "rel": "lent_to",
+      "object": "company_184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-19",
+          "value_end": "2022-12-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Commercial Bank Limited lent Netherby Logistics Limited GBP 18 million on 19 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002487",
+      "subject": "company_186",
+      "rel": "guarantor_for",
+      "object": "company_184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Netherby Partners Limited guaranteed the loan to Netherby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002486",
+      "subject": "company_184",
+      "rel": "owes",
+      "object": "bank_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-24",
+          "value_end": "2022-12-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Netherby Logistics Limited owes Carrow Commercial Bank Limited GBP 7 million as at 24 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002491",
+      "subject": "company_184",
+      "rel": "owns",
+      "object": "asset_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Logistics Limited owns Eastmere Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002492",
+      "subject": "asset_75",
+      "rel": "located_in",
+      "object": "place_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Plant is located in Marrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002493",
+      "subject": "company_184",
+      "rel": "party_to",
+      "object": "legal_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Netherby Logistics Limited is a party to the Settlement Agreement LEG-058.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002494",
+      "subject": "person_185",
+      "rel": "signed",
+      "object": "legal_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Villiers signed the Settlement Agreement LEG-058.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00103_proposal",
+      "text": "The acquisition of Netherby Energy Limited by Netherby Logistics Limited",
+      "speaker": "person_107",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Rook, chair of Netherby Logistics Limited, proposed to acquire Netherby Energy Limited on 22 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00103_approval",
+      "text": "Regulatory approval for the acquisition of Netherby Energy Limited",
+      "speaker": "person_107",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Rook confirmed that regulatory approval for the acquisition of Netherby Energy Limited by Netherby Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00103_link_conditional",
+      "src": "gen_doc_00103_proposal",
+      "dst": "gen_doc_00103_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Netherby Energy Limited by Netherby Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00099_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00103",
+      "surface": "22 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-22",
+      "value_end": "2026-01-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002485",
+      "surface": "19 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-19",
+      "value_end": "2022-12-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "19 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002486",
+      "surface": "24 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-24",
+      "value_end": "2022-12-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "24 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

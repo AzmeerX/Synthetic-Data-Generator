@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00471_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "f7cb4a7cbb66c0433aa622f1f931039a8423e501d2395cfe038fcc3a6f631e39"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_229",
+      "name": "Marrow Bay Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_229",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Marrow Bay Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_94",
+      "name": "Oak Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_94",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oak Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1414",
+      "name": "Trossachs Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1414",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Trossachs Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1415",
+      "name": "Trossachs Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1415",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Trossachs Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1416",
+      "name": "Uist Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1416",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Uist Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_114",
+      "name": "Cairn & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_114",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_202",
+      "name": "Settlement Agreement LEG-202",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_202",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-202",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-202",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_22",
+      "name": "Anika Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_22",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_23",
+      "name": "Quin Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_23",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_30",
+      "name": "Nolan Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_30",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nolan Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_475",
+      "name": "Ivo Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_475",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_161",
+      "name": "Lowmoor Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_161",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021661",
+      "subject": "company_1414",
+      "rel": "owns",
+      "object": "company_1415",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Trossachs Ventures Limited owns Trossachs Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021670",
+      "subject": "company_1414",
+      "rel": "owns",
+      "object": "asset_229",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Trossachs Ventures Limited owns Marrow Bay Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021671",
+      "subject": "asset_229",
+      "rel": "located_in",
+      "object": "place_161",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Plant is located in Lowmoor Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021667",
+      "subject": "lawfirm_114",
+      "rel": "represents",
+      "object": "company_1414",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Kerr LLP represents Trossachs Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021662",
+      "subject": "person_30",
+      "rel": "shareholder_of",
+      "object": "company_1414",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nolan Quade is a shareholder of Trossachs Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021674",
+      "subject": "person_22",
+      "rel": "family_of",
+      "object": "person_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Anika Dunmore is a family member of Quin Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021664",
+      "subject": "bank_94",
+      "rel": "lent_to",
+      "object": "company_1414",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-10",
+          "value_end": "2022-10-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Merchant Bank Limited lent Trossachs Ventures Limited GBP 38 million on 10 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021666",
+      "subject": "company_1416",
+      "rel": "guarantor_for",
+      "object": "company_1414",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Uist Holdings Limited guaranteed the loan to Trossachs Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021665",
+      "subject": "company_1414",
+      "rel": "owes",
+      "object": "bank_94",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-15",
+          "value_end": "2022-10-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Trossachs Ventures Limited owes Oak Merchant Bank Limited GBP 7 million as at 15 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021672",
+      "subject": "company_1414",
+      "rel": "party_to",
+      "object": "legal_202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trossachs Ventures Limited is a party to the Settlement Agreement LEG-202.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021673",
+      "subject": "person_23",
+      "rel": "signed",
+      "object": "legal_202",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Pell signed the Settlement Agreement LEG-202.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00471_allegation",
+      "text": "A former employee alleged that Trossachs Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Sinclair noted that a former employee alleged that Trossachs Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00471",
+      "surface": "17 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-17",
+      "value_end": "2026-07-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021664",
+      "surface": "10 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-10",
+      "value_end": "2022-10-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021665",
+      "surface": "15 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-15",
+      "value_end": "2022-10-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "15 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00471",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

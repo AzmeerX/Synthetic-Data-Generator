@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00139_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "ca3fbc89c9dd2d666ac90e9be8a59344237005ab594b39c534f2813bc140e04c"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_02",
+      "name": "Dunhollow Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_02",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunhollow Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_31",
+      "name": "Ashcombe Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_31",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_32",
+      "name": "Ashcombe Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_32",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ashcombe Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_33",
+      "name": "Ashcombe Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_33",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_31",
+      "name": "Power of Attorney LEG-031",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_31",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Power of Attorney LEG-031",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Power of Attorney LEG-031",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_143",
+      "name": "Calder Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_143",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_31",
+      "name": "Elias Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_31",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_32",
+      "name": "Xander Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_32",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_39",
+      "name": "Bram Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_39",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Bram Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_18",
+      "name": "Fairmouth",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_18",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fairmouth",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000095",
+      "subject": "company_31",
+      "rel": "owns",
+      "object": "company_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ashcombe Capital Limited owns Ashcombe Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000096",
+      "subject": "person_39",
+      "rel": "shareholder_of",
+      "object": "company_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Bram Kerr is a shareholder of Ashcombe Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000108",
+      "subject": "person_31",
+      "rel": "family_of",
+      "object": "person_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Orrick is a family member of Xander Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000098",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-01-05",
+          "value_end": "2023-01-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited lent Ashcombe Capital Limited GBP 32 million on 5 January 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000100",
+      "subject": "company_33",
+      "rel": "guarantor_for",
+      "object": "company_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Energy Limited guaranteed the loan to Ashcombe Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000099",
+      "subject": "company_31",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-01-10",
+          "value_end": "2023-01-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ashcombe Capital Limited owes Greyhaven Bank Limited GBP 4 million as at 10 January 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000104",
+      "subject": "company_31",
+      "rel": "owns",
+      "object": "asset_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ashcombe Capital Limited owns Dunhollow Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000105",
+      "subject": "asset_02",
+      "rel": "located_in",
+      "object": "place_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunhollow Rail Depot is located in Fairmouth.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000106",
+      "subject": "company_31",
+      "rel": "party_to",
+      "object": "legal_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Capital Limited is a party to the Power of Attorney LEG-031.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000107",
+      "subject": "person_32",
+      "rel": "signed",
+      "object": "legal_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Garrow signed the Power of Attorney LEG-031.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00139_allegation",
+      "text": "A former employee alleged that Ashcombe Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Dunmore noted that a former employee alleged that Ashcombe Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00139",
+      "surface": "1 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-01",
+      "value_end": "2026-10-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000098",
+      "surface": "5 January 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-01-05",
+      "value_end": "2023-01-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "5 January 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000099",
+      "surface": "10 January 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-01-10",
+      "value_end": "2023-01-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "10 January 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00139",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

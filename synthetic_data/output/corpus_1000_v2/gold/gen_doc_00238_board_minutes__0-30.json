@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00238_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "2cb80187695dd0e99ba35771e053abe18e65657f3fd227c61b97e9a06bd11044"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_115",
+      "name": "Greyhaven Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_115",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Greyhaven Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_119",
+      "name": "Harrowgate Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_119",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowgate Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowgate Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_48",
+      "name": "Glen Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_48",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glen Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Glen Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_308",
+      "name": "Yarmouth Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_308",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yarmouth Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_310",
+      "name": "Yarmouth Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_310",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_312",
+      "name": "Yarmouth Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_312",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yarmouth Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yarmouth Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_39",
+      "name": "Alden & Ingram LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_39",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Ingram LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_102",
+      "name": "Loan Note LEG-102",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_102",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-102",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-102",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_242",
+      "name": "Elias Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_242",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_308",
+      "name": "Farah Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_308",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_309",
+      "name": "Farah Yarrow",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_309",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_311",
+      "name": "Farah Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_311",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_313",
+      "name": "Farah Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_313",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_316",
+      "name": "Farah Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_316",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_15",
+      "name": "Carrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_15",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Carrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004416",
+      "subject": "company_308",
+      "rel": "owns",
+      "object": "asset_115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yarmouth Marine Limited owns Greyhaven Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004418",
+      "subject": "person_311",
+      "rel": "chair_of",
+      "object": "company_308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Ashby is the chair of Yarmouth Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004417",
+      "subject": "person_316",
+      "rel": "shareholder_of",
+      "object": "company_308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Fairfax is a shareholder of Yarmouth Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004429",
+      "subject": "person_308",
+      "rel": "family_of",
+      "object": "person_309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Ward is a family member of Farah Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004419",
+      "subject": "bank_48",
+      "rel": "lent_to",
+      "object": "company_308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-13",
+          "value_end": "2026-09-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glen Commercial Bank Limited lent Yarmouth Marine Limited GBP 26 million on 13 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004421",
+      "subject": "company_310",
+      "rel": "guarantor_for",
+      "object": "company_308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Property Limited guaranteed the loan to Yarmouth Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004420",
+      "subject": "company_308",
+      "rel": "owes",
+      "object": "bank_48",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-18",
+          "value_end": "2026-09-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Marine Limited owes Glen Commercial Bank Limited GBP 11 million as at 18 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004422",
+      "subject": "lawfirm_08",
+      "rel": "represents",
+      "object": "company_308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Cairn LLP represents Yarmouth Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004425",
+      "subject": "company_308",
+      "rel": "owns",
+      "object": "asset_119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Yarmouth Marine Limited owns Harrowgate Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004426",
+      "subject": "asset_119",
+      "rel": "located_in",
+      "object": "place_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowgate Rail Depot is located in Carrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004427",
+      "subject": "company_308",
+      "rel": "party_to",
+      "object": "legal_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yarmouth Marine Limited is a party to the Loan Note LEG-102.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004428",
+      "subject": "person_309",
+      "rel": "signed",
+      "object": "legal_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Yarrow signed the Loan Note LEG-102.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00238_proposal",
+      "text": "The acquisition of Yarmouth Systems Limited by Yarmouth Marine Limited",
+      "speaker": "person_242",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Dunmore, chair of Yarmouth Marine Limited, proposed to acquire Yarmouth Systems Limited on 12 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00238_approval",
+      "text": "Regulatory approval for the acquisition of Yarmouth Systems Limited",
+      "speaker": "person_242",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Dunmore confirmed that regulatory approval for the acquisition of Yarmouth Systems Limited by Yarmouth Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00238_link_conditional",
+      "src": "gen_doc_00238_proposal",
+      "dst": "gen_doc_00238_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Yarmouth Systems Limited by Yarmouth Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00238",
+      "surface": "12 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-12",
+      "value_end": "2025-05-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004419",
+      "surface": "13 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-13",
+      "value_end": "2026-09-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "13 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004420",
+      "surface": "18 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-18",
+      "value_end": "2026-09-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "18 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00238",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

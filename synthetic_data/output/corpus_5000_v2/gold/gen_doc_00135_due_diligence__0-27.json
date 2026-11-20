@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00135_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "fe13c24e0736ec9dd807acb9ebd2a5f1102d0b2622903f2fd7452a82da0c7940"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_522",
+      "name": "Netherby Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_522",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_55",
+      "name": "Harrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_55",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1111",
+      "name": "Selby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1111",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Selby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1112",
+      "name": "Selby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1112",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Selby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1113",
+      "name": "Selby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1113",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Selby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_71",
+      "name": "Briar & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_71",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_505",
+      "name": "Trust Deed LEG-505",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_505",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-505",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-505",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1111",
+      "name": "Vera Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1111",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1112",
+      "name": "Vera Sinclair",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1112",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1119",
+      "name": "Vera Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1119",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_139",
+      "name": "Bastian Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_139",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_38",
+      "name": "Barrowfield",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_38",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Barrowfield",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016935",
+      "subject": "company_1111",
+      "rel": "owns",
+      "object": "company_1112",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Selby Marine Limited owns Selby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016944",
+      "subject": "company_1111",
+      "rel": "owns",
+      "object": "asset_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Selby Marine Limited owns Netherby Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016945",
+      "subject": "asset_522",
+      "rel": "located_in",
+      "object": "place_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Marina is located in Barrowfield.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016941",
+      "subject": "lawfirm_71",
+      "rel": "represents",
+      "object": "company_1111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Quade LLP represents Selby Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016936",
+      "subject": "person_1119",
+      "rel": "shareholder_of",
+      "object": "company_1111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Zouch is a shareholder of Selby Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016948",
+      "subject": "person_1111",
+      "rel": "family_of",
+      "object": "person_1112",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Ravenscroft is a family member of Vera Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016938",
+      "subject": "bank_55",
+      "rel": "lent_to",
+      "object": "company_1111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-16",
+          "value_end": "2022-12-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Private Bank Limited lent Selby Marine Limited GBP 32 million on 16 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016940",
+      "subject": "company_1113",
+      "rel": "guarantor_for",
+      "object": "company_1111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Selby Property Limited guaranteed the loan to Selby Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016939",
+      "subject": "company_1111",
+      "rel": "owes",
+      "object": "bank_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-21",
+          "value_end": "2022-12-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Selby Marine Limited owes Harrow Private Bank Limited GBP 4 million as at 21 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016946",
+      "subject": "company_1111",
+      "rel": "party_to",
+      "object": "legal_505",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Selby Marine Limited is a party to the Trust Deed LEG-505.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016947",
+      "subject": "person_1112",
+      "rel": "signed",
+      "object": "legal_505",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Sinclair signed the Trust Deed LEG-505.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00135_allegation",
+      "text": "A former employee alleged that Selby Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Zouch noted that a former employee alleged that Selby Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00135",
+      "surface": "3 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-03",
+      "value_end": "2026-09-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016938",
+      "surface": "16 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-16",
+      "value_end": "2022-12-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016939",
+      "surface": "21 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-21",
+      "value_end": "2022-12-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00135",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

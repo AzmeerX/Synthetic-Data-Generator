@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00118_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "45ab7a15efa5d6307c5d9d911ea43704e0811c54be8ed62e0d5f2280a09b9e83"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_89",
+      "name": "Fenwick Bay Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_89",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bay Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_198",
+      "name": "Oakhurst Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_198",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Oakhurst Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_199",
+      "name": "Oakhurst Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_199",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oakhurst Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_200",
+      "name": "Oakhurst Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_200",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_29",
+      "name": "Alden & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_29",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_72",
+      "name": "Lease LEG-072",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_72",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_122",
+      "name": "Bastian Hastings",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_122",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_198",
+      "name": "Daria Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_198",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_199",
+      "name": "Daria Kerr",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_199",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_206",
+      "name": "Daria Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_206",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Daria Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_25",
+      "name": "Merrivale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_25",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Merrivale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002701",
+      "subject": "company_198",
+      "rel": "owns",
+      "object": "company_199",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oakhurst Partners Limited owns Oakhurst Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002702",
+      "subject": "person_206",
+      "rel": "shareholder_of",
+      "object": "company_198",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Daria Rook is a shareholder of Oakhurst Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002714",
+      "subject": "person_198",
+      "rel": "family_of",
+      "object": "person_199",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Daria Jarvis is a family member of Daria Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002704",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_198",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-22",
+          "value_end": "2023-05-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bank Limited lent Oakhurst Partners Limited GBP 46 million on 22 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002706",
+      "subject": "company_200",
+      "rel": "guarantor_for",
+      "object": "company_198",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst Marine Limited guaranteed the loan to Oakhurst Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002705",
+      "subject": "company_198",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-27",
+          "value_end": "2023-05-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Oakhurst Partners Limited owes Fenwick Bank Limited GBP 11 million as at 27 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002710",
+      "subject": "company_198",
+      "rel": "owns",
+      "object": "asset_89",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Partners Limited owns Fenwick Bay Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002711",
+      "subject": "asset_89",
+      "rel": "located_in",
+      "object": "place_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bay Marina is located in Merrivale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002712",
+      "subject": "company_198",
+      "rel": "party_to",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Partners Limited is a party to the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002713",
+      "subject": "person_199",
+      "rel": "signed",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Daria Kerr signed the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00118_allegation",
+      "text": "A former employee alleged that Oakhurst Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Hastings noted that a former employee alleged that Oakhurst Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00118",
+      "surface": "7 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-07",
+      "value_end": "2026-05-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002704",
+      "surface": "22 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-22",
+      "value_end": "2023-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "22 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002705",
+      "surface": "27 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-27",
+      "value_end": "2023-05-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "27 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00118",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

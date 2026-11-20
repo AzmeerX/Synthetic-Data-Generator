@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00485_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "bec882a16cb5259259874bb04c2dd3ae89c30190b9b4e1b521fcf645edc02026"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_242",
+      "name": "Northcliff Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_242",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_107",
+      "name": "Quill Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_107",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quill Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1427",
+      "name": "Uist Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1427",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Uist Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1428",
+      "name": "Vale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1428",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Vale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1429",
+      "name": "Vale Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1429",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_127",
+      "name": "Cairn & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_127",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_215",
+      "name": "Services Agreement LEG-215",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_215",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-215",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-215",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_35",
+      "name": "Mira Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_35",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Mira Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_36",
+      "name": "Farah Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_36",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_43",
+      "name": "Amina Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_43",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_489",
+      "name": "Juno Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_489",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_174",
+      "name": "Merrivale Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_174",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021864",
+      "subject": "company_1427",
+      "rel": "owns",
+      "object": "company_1428",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Uist Systems Limited owns Vale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021873",
+      "subject": "company_1427",
+      "rel": "owns",
+      "object": "asset_242",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uist Systems Limited owns Northcliff Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021874",
+      "subject": "asset_242",
+      "rel": "located_in",
+      "object": "place_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Quay is located in Merrivale Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021870",
+      "subject": "lawfirm_127",
+      "rel": "represents",
+      "object": "company_1427",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Zell LLP represents Uist Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021865",
+      "subject": "person_43",
+      "rel": "shareholder_of",
+      "object": "company_1427",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Cairn is a shareholder of Uist Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021877",
+      "subject": "person_35",
+      "rel": "family_of",
+      "object": "person_36",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Mira Ivers is a family member of Farah Sable.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021867",
+      "subject": "bank_107",
+      "rel": "lent_to",
+      "object": "company_1427",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-02",
+          "value_end": "2023-03-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Trust Bank Limited lent Uist Systems Limited GBP 24 million on 2 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021869",
+      "subject": "company_1429",
+      "rel": "guarantor_for",
+      "object": "company_1427",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Industries Limited guaranteed the loan to Uist Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021868",
+      "subject": "company_1427",
+      "rel": "owes",
+      "object": "bank_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-07",
+          "value_end": "2023-03-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Uist Systems Limited owes Quill Trust Bank Limited GBP 10 million as at 7 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021875",
+      "subject": "company_1427",
+      "rel": "party_to",
+      "object": "legal_215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Uist Systems Limited is a party to the Services Agreement LEG-215.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021876",
+      "subject": "person_36",
+      "rel": "signed",
+      "object": "legal_215",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Sable signed the Services Agreement LEG-215.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00485_allegation",
+      "text": "A former employee alleged that Uist Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Garrow noted that a former employee alleged that Uist Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00485",
+      "surface": "23 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-23",
+      "value_end": "2026-10-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021867",
+      "surface": "2 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-02",
+      "value_end": "2023-03-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021868",
+      "surface": "7 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-07",
+      "value_end": "2023-03-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00485",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

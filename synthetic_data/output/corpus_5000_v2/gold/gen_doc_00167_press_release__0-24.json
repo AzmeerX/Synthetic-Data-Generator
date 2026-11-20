@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00167_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "886c5111cedc7d659d2bc9ccc3bd6c639a8e0b56ed454a3a66c9ef149e44d40f"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_547",
+      "name": "Oakhurst Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_547",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oakhurst Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_551",
+      "name": "Oakhurst Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_551",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhurst Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_84",
+      "name": "Merri Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_84",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Merri Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Merri Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1140",
+      "name": "Vernon Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1140",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vernon Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1142",
+      "name": "Vernon Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1142",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vernon Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_125",
+      "name": "Cairn & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_125",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_534",
+      "name": "Loan Note LEG-534",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_534",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Loan Note LEG-534",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-534",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1140",
+      "name": "Wren Ulric",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1140",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wren Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1141",
+      "name": "Wren Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1141",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wren Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wren Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1148",
+      "name": "Wren Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1148",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Wren Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_171",
+      "name": "Calder Grenville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_171",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_67",
+      "name": "Gorse",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_67",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Gorse",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017388",
+      "subject": "company_1140",
+      "rel": "owns",
+      "object": "asset_547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vernon Holdings Limited owns Oakhurst Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017389",
+      "subject": "person_1148",
+      "rel": "shareholder_of",
+      "object": "company_1140",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Wren Delacourt is a shareholder of Vernon Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017401",
+      "subject": "person_1140",
+      "rel": "family_of",
+      "object": "person_1141",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wren Ulric is a family member of Wren Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017391",
+      "subject": "bank_84",
+      "rel": "lent_to",
+      "object": "company_1140",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-31",
+          "value_end": "2023-10-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Merri Commercial Bank Limited lent Vernon Holdings Limited GBP 50 million on 31 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017393",
+      "subject": "company_1142",
+      "rel": "guarantor_for",
+      "object": "company_1140",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vernon Group Limited guaranteed the loan to Vernon Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017392",
+      "subject": "company_1140",
+      "rel": "owes",
+      "object": "bank_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-11-05",
+          "value_end": "2023-11-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vernon Holdings Limited owes Merri Commercial Bank Limited GBP 13 million as at 5 November 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017397",
+      "subject": "company_1140",
+      "rel": "owns",
+      "object": "asset_551",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vernon Holdings Limited owns Oakhurst Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017398",
+      "subject": "asset_551",
+      "rel": "located_in",
+      "object": "place_67",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Office Park is located in Gorse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017399",
+      "subject": "company_1140",
+      "rel": "party_to",
+      "object": "legal_534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vernon Holdings Limited is a party to the Loan Note LEG-534.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017400",
+      "subject": "person_1141",
+      "rel": "signed",
+      "object": "legal_534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wren Vale signed the Loan Note LEG-534.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00167_allegation",
+      "text": "A former employee alleged that Vernon Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Grenville noted that a former employee alleged that Vernon Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00167",
+      "surface": "15 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-15",
+      "value_end": "2027-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017391",
+      "surface": "31 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-31",
+      "value_end": "2023-10-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "31 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017392",
+      "surface": "5 November 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-11-05",
+      "value_end": "2023-11-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "5 November 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00167",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

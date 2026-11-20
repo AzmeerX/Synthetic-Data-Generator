@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01412_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "ecc6d74747079a50985b70a37555d05fd933fb504d6235375e7c48eb6ebc59f4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_481",
+      "name": "Lowmoor Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_481",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2262",
+      "name": "North Southwold Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2262",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Southwold Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2263",
+      "name": "North Southwold Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2263",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2264",
+      "name": "North Southwold Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2264",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Southwold Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2265",
+      "name": "North Southwold Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2265",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Southwold Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2267",
+      "name": "North Southwold Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2267",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Southwold Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_82",
+      "name": "Briar & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_82",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_444",
+      "name": "Shareholder Agreement LEG-444",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_444",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-444",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-444",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_24",
+      "name": "Nadia Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_24",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_870",
+      "name": "Quin Wyndham",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_870",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_871",
+      "name": "Quin Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_871",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_878",
+      "name": "Rhea Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_878",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_109",
+      "name": "Elmsworth Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_109",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elmsworth Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034884",
+      "subject": "company_2262",
+      "rel": "owns",
+      "object": "company_2263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Capital Limited owns North Southwold Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034885",
+      "subject": "person_878",
+      "rel": "shareholder_of",
+      "object": "company_2262",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Fenwick is a shareholder of North Southwold Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034897",
+      "subject": "person_870",
+      "rel": "family_of",
+      "object": "person_871",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Wyndham is a family member of Quin Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034887",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_2262",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-01-15",
+          "value_end": "2025-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bexley Commercial Bank Limited lent North Southwold Capital Limited GBP 14 million on 15 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034889",
+      "subject": "company_2264",
+      "rel": "guarantor_for",
+      "object": "company_2262",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Southwold Energy Limited guaranteed the loan to North Southwold Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034888",
+      "subject": "company_2262",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-20",
+          "value_end": "2025-01-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Capital Limited owes Bexley Commercial Bank Limited GBP 5 million as at 20 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034893",
+      "subject": "company_2262",
+      "rel": "owns",
+      "object": "asset_481",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Southwold Capital Limited owns Lowmoor Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034894",
+      "subject": "asset_481",
+      "rel": "located_in",
+      "object": "place_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Quay is located in Elmsworth Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034895",
+      "subject": "company_2262",
+      "rel": "party_to",
+      "object": "legal_444",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Southwold Capital Limited is a party to the Shareholder Agreement LEG-444.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034896",
+      "subject": "person_871",
+      "rel": "signed",
+      "object": "legal_444",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Yardley signed the Shareholder Agreement LEG-444.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01412_proposal",
+      "text": "The acquisition of North Southwold Systems Limited by North Southwold Capital Limited",
+      "speaker": "person_24",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Jarvis, chair of North Southwold Capital Limited, proposed to acquire North Southwold Systems Limited on 11 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01412_approval",
+      "text": "Regulatory approval for the acquisition of North Southwold Systems Limited",
+      "speaker": "person_24",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Jarvis confirmed that regulatory approval for the acquisition of North Southwold Systems Limited by North Southwold Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01412_link_conditional",
+      "src": "gen_doc_01412_proposal",
+      "dst": "gen_doc_01412_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Southwold Systems Limited by North Southwold Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01408_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01412",
+      "surface": "11 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-11",
+      "value_end": "2024-11-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034887",
+      "surface": "15 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-15",
+      "value_end": "2025-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "15 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034888",
+      "surface": "20 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-20",
+      "value_end": "2025-01-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "20 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

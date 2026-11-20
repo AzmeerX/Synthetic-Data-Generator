@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00513_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c7e1e82709c66cb7f3ec47137408192e85dad2804e87be0af01f5740fdec2e1f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_263",
+      "name": "Alderport Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_263",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Alderport Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_267",
+      "name": "Alderport Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_267",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alderport Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_132",
+      "name": "Uldale Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_132",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1452",
+      "name": "Yorkshire Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1452",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Yorkshire Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1454",
+      "name": "Yorkshire Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1454",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yorkshire Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_22",
+      "name": "Alden & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_22",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_240",
+      "name": "Side Letter LEG-240",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_240",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-240",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-240",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_517",
+      "name": "Juno Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_517",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_60",
+      "name": "Amina Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_60",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_61",
+      "name": "Amina Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_61",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_68",
+      "name": "Amina Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_68",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_19",
+      "name": "Glenport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_19",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022254",
+      "subject": "company_1452",
+      "rel": "owns",
+      "object": "asset_263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Yorkshire Holdings Limited owns Alderport Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022263",
+      "subject": "company_1452",
+      "rel": "owns",
+      "object": "asset_267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yorkshire Holdings Limited owns Alderport Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022264",
+      "subject": "asset_267",
+      "rel": "located_in",
+      "object": "place_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Dock is located in Glenport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022260",
+      "subject": "lawfirm_22",
+      "rel": "represents",
+      "object": "company_1452",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Quade LLP represents Yorkshire Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022255",
+      "subject": "person_68",
+      "rel": "shareholder_of",
+      "object": "company_1452",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Delacourt is a shareholder of Yorkshire Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022267",
+      "subject": "person_60",
+      "rel": "family_of",
+      "object": "person_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Ulric is a family member of Amina Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022257",
+      "subject": "bank_132",
+      "rel": "lent_to",
+      "object": "company_1452",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-12-02",
+          "value_end": "2023-12-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Commercial Bank Limited lent Yorkshire Holdings Limited GBP 34 million on 2 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022259",
+      "subject": "company_1454",
+      "rel": "guarantor_for",
+      "object": "company_1452",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yorkshire Group Limited guaranteed the loan to Yorkshire Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022258",
+      "subject": "company_1452",
+      "rel": "owes",
+      "object": "bank_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-12-07",
+          "value_end": "2023-12-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Yorkshire Holdings Limited owes Uldale Commercial Bank Limited GBP 5 million as at 7 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022265",
+      "subject": "company_1452",
+      "rel": "party_to",
+      "object": "legal_240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yorkshire Holdings Limited is a party to the Side Letter LEG-240.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022266",
+      "subject": "person_61",
+      "rel": "signed",
+      "object": "legal_240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Amina Vale signed the Side Letter LEG-240.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00513_allegation",
+      "text": "A former employee alleged that Yorkshire Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Juno Jeffreys noted that a former employee alleged that Yorkshire Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00513",
+      "surface": "7 May 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-05-07",
+      "value_end": "2027-05-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 May 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022257",
+      "surface": "2 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-02",
+      "value_end": "2023-12-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022258",
+      "surface": "7 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-07",
+      "value_end": "2023-12-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00513",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

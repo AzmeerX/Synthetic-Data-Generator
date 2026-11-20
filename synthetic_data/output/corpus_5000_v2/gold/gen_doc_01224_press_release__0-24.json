@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01224_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "402ea5baf6a67c8f150127eebae5019996f888ff69314b5f6430c75617177565"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_312",
+      "name": "Denmoor Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_312",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_113",
+      "name": "Red Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_113",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Red Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Red Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2093",
+      "name": "North Elmstead Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2093",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Elmstead Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2094",
+      "name": "North Elmstead Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2094",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Elmstead Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2095",
+      "name": "North Elmstead Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2095",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Elmstead Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_24",
+      "name": "Alden & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_24",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_275",
+      "name": "Guarantee Deed LEG-275",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_275",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Guarantee Deed LEG-275",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Guarantee Deed LEG-275",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1228",
+      "name": "Yara Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1228",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_701",
+      "name": "Nadia Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_701",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nadia Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_702",
+      "name": "Nadia Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_702",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nadia Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nadia Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_709",
+      "name": "Nadia Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_709",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Nadia Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_120",
+      "name": "Glenmoor Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_120",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glenmoor Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032248",
+      "subject": "company_2093",
+      "rel": "owns",
+      "object": "company_2094",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Elmstead Partners Limited owns North Elmstead Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032249",
+      "subject": "person_709",
+      "rel": "shareholder_of",
+      "object": "company_2093",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Nadia Hastings is a shareholder of North Elmstead Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032261",
+      "subject": "person_701",
+      "rel": "family_of",
+      "object": "person_702",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Nadia Yarrow is a family member of Nadia Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032251",
+      "subject": "bank_113",
+      "rel": "lent_to",
+      "object": "company_2093",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-08-09",
+          "value_end": "2024-08-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Red Trust Bank Limited lent North Elmstead Partners Limited GBP 36 million on 9 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032253",
+      "subject": "company_2095",
+      "rel": "guarantor_for",
+      "object": "company_2093",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Elmstead Marine Limited guaranteed the loan to North Elmstead Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032252",
+      "subject": "company_2093",
+      "rel": "owes",
+      "object": "bank_113",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-08-14",
+          "value_end": "2024-08-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Elmstead Partners Limited owes Red Trust Bank Limited GBP 6 million as at 14 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032257",
+      "subject": "company_2093",
+      "rel": "owns",
+      "object": "asset_312",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Elmstead Partners Limited owns Denmoor Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032258",
+      "subject": "asset_312",
+      "rel": "located_in",
+      "object": "place_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Wharf is located in Glenmoor Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032259",
+      "subject": "company_2093",
+      "rel": "party_to",
+      "object": "legal_275",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmstead Partners Limited is a party to the Guarantee Deed LEG-275.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032260",
+      "subject": "person_702",
+      "rel": "signed",
+      "object": "legal_275",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Nadia Ashby signed the Guarantee Deed LEG-275.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01224_allegation",
+      "text": "A former employee alleged that North Elmstead Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Yara Jarvis noted that a former employee alleged that North Elmstead Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01224",
+      "surface": "18 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-18",
+      "value_end": "2024-07-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032251",
+      "surface": "9 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-09",
+      "value_end": "2024-08-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "9 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032252",
+      "surface": "14 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-14",
+      "value_end": "2024-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "14 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01224",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

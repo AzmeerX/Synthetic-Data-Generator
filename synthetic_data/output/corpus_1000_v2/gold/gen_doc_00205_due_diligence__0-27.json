@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00205_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "7e6c55cb3a850a59b9c07ed390251f6a2bedada05a95224490c560ec22f52420"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_89",
+      "name": "Fenwick Bay Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_89",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_278",
+      "name": "Vellacott Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_278",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_279",
+      "name": "Vellacott Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_279",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Vellacott Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_280",
+      "name": "Vellacott Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_280",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vellacott Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_72",
+      "name": "Lease LEG-072",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_72",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_209",
+      "name": "Daria Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_209",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_278",
+      "name": "Elias Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_278",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_279",
+      "name": "Elias Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_279",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_286",
+      "name": "Elias Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_286",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_85",
+      "name": "Belmont Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_85",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003949",
+      "subject": "company_278",
+      "rel": "owns",
+      "object": "company_279",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Vellacott Industries Limited owns Vellacott Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003958",
+      "subject": "company_278",
+      "rel": "owns",
+      "object": "asset_89",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Vellacott Industries Limited owns Fenwick Bay Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003959",
+      "subject": "asset_89",
+      "rel": "located_in",
+      "object": "place_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Marina is located in Belmont Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003955",
+      "subject": "lawfirm_28",
+      "rel": "represents",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP represents Vellacott Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003950",
+      "subject": "person_286",
+      "rel": "shareholder_of",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Yardley is a shareholder of Vellacott Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003962",
+      "subject": "person_278",
+      "rel": "family_of",
+      "object": "person_279",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Pemberton is a family member of Elias Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003952",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-18",
+          "value_end": "2025-10-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Commercial Bank Limited lent Vellacott Industries Limited GBP 46 million on 18 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003954",
+      "subject": "company_280",
+      "rel": "guarantor_for",
+      "object": "company_278",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vellacott Logistics Limited guaranteed the loan to Vellacott Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003953",
+      "subject": "company_278",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-23",
+          "value_end": "2025-10-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Vellacott Industries Limited owes Bexley Commercial Bank Limited GBP 11 million as at 23 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003960",
+      "subject": "company_278",
+      "rel": "party_to",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Vellacott Industries Limited is a party to the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003961",
+      "subject": "person_279",
+      "rel": "signed",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Ravenscroft signed the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00205_allegation",
+      "text": "A former employee alleged that Vellacott Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Ulric noted that a former employee alleged that Vellacott Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00205",
+      "surface": "23 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-23",
+      "value_end": "2024-09-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003952",
+      "surface": "18 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-18",
+      "value_end": "2025-10-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003953",
+      "surface": "23 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-23",
+      "value_end": "2025-10-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "23 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00205",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

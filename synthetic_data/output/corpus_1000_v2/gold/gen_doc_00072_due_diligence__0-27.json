@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00072_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "bfe9ec550db4eb59a41547e88e0835ac7fcb84283820d6399c69cd0e345fe753"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_43",
+      "name": "Dunhollow Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_43",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_47",
+      "name": "Dunhollow Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_47",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_28",
+      "name": "Denmoor Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_28",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_156",
+      "name": "Kelbrook Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_156",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Kelbrook Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_158",
+      "name": "Lowmoor Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_158",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lowmoor Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_06",
+      "name": "Yarrow & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_06",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yarrow & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_30",
+      "name": "Settlement Agreement LEG-030",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_30",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-030",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-030",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_156",
+      "name": "Calder Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_156",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_157",
+      "name": "Calder Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_157",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_164",
+      "name": "Calder Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_164",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_76",
+      "name": "Amina Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_76",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_43",
+      "name": "Grimsdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_43",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Grimsdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002045",
+      "subject": "company_156",
+      "rel": "owns",
+      "object": "asset_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kelbrook Systems Limited owns Dunhollow Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002054",
+      "subject": "company_156",
+      "rel": "owns",
+      "object": "asset_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Systems Limited owns Dunhollow Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002055",
+      "subject": "asset_47",
+      "rel": "located_in",
+      "object": "place_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Data Centre is located in Grimsdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002051",
+      "subject": "lawfirm_06",
+      "rel": "represents",
+      "object": "company_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yarrow & Zell LLP represents Kelbrook Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002046",
+      "subject": "person_164",
+      "rel": "shareholder_of",
+      "object": "company_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Zell is a shareholder of Kelbrook Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002058",
+      "subject": "person_156",
+      "rel": "family_of",
+      "object": "person_157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Quade is a family member of Calder Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002048",
+      "subject": "bank_28",
+      "rel": "lent_to",
+      "object": "company_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-14",
+          "value_end": "2022-02-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Merchant Bank Limited lent Kelbrook Systems Limited GBP 42 million on 14 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002050",
+      "subject": "company_158",
+      "rel": "guarantor_for",
+      "object": "company_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lowmoor Industries Limited guaranteed the loan to Kelbrook Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002049",
+      "subject": "company_156",
+      "rel": "owes",
+      "object": "bank_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-19",
+          "value_end": "2022-02-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kelbrook Systems Limited owes Denmoor Merchant Bank Limited GBP 9 million as at 19 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002056",
+      "subject": "company_156",
+      "rel": "party_to",
+      "object": "legal_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kelbrook Systems Limited is a party to the Settlement Agreement LEG-030.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002057",
+      "subject": "person_157",
+      "rel": "signed",
+      "object": "legal_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Rook signed the Settlement Agreement LEG-030.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00072_allegation",
+      "text": "A former employee alleged that Kelbrook Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Langford noted that a former employee alleged that Kelbrook Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00072",
+      "surface": "19 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-19",
+      "value_end": "2025-06-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002048",
+      "surface": "14 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-14",
+      "value_end": "2022-02-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002049",
+      "surface": "19 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-19",
+      "value_end": "2022-02-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "19 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00072",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

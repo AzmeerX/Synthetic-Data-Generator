@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00726_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "7e088d13aef7ce3205cdc74e17681434f1812f3d39fbab5afb8196acaf52866f"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_455",
+      "name": "Kelbrook Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_455",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_459",
+      "name": "Kelbrook Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_459",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_60",
+      "name": "Inver Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_60",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Inver Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Inver Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1644",
+      "name": "North Pemberton Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1644",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Pemberton Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1646",
+      "name": "North Pemberton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1646",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Pemberton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1647",
+      "name": "North Pemberton Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1647",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Pemberton Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1649",
+      "name": "North Pemberton Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1649",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Pemberton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Pemberton Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_46",
+      "name": "Alden & Pemberton LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_46",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Pemberton LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Pemberton LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_432",
+      "name": "Side Letter LEG-432",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_432",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-432",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Side Letter LEG-432",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_252",
+      "name": "Elias Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_252",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_253",
+      "name": "Elias Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_253",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elias Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_260",
+      "name": "Elias Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_260",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_730",
+      "name": "Oren Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_730",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oren Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Oren Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_31",
+      "name": "Stanbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_31",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025247",
+      "subject": "company_1644",
+      "rel": "owns",
+      "object": "asset_455",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Holdings Limited owns Kelbrook Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025248",
+      "subject": "person_260",
+      "rel": "shareholder_of",
+      "object": "company_1644",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Ward is a shareholder of North Pemberton Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025260",
+      "subject": "person_252",
+      "rel": "family_of",
+      "object": "person_253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Nyle is a family member of Elias Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025250",
+      "subject": "bank_60",
+      "rel": "lent_to",
+      "object": "company_1644",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-01-17",
+          "value_end": "2025-01-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Inver Commercial Bank Limited lent North Pemberton Holdings Limited GBP 18 million on 17 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025252",
+      "subject": "company_1646",
+      "rel": "guarantor_for",
+      "object": "company_1644",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Pemberton Group Limited guaranteed the loan to North Pemberton Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025251",
+      "subject": "company_1644",
+      "rel": "owes",
+      "object": "bank_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-22",
+          "value_end": "2025-01-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Pemberton Holdings Limited owes Inver Commercial Bank Limited GBP 7 million as at 22 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025256",
+      "subject": "company_1644",
+      "rel": "owns",
+      "object": "asset_459",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Pemberton Holdings Limited owns Kelbrook Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025257",
+      "subject": "asset_459",
+      "rel": "located_in",
+      "object": "place_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Data Centre is located in Stanbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025258",
+      "subject": "company_1644",
+      "rel": "party_to",
+      "object": "legal_432",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Pemberton Holdings Limited is a party to the Side Letter LEG-432.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025259",
+      "subject": "person_253",
+      "rel": "signed",
+      "object": "legal_432",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Elias Pell signed the Side Letter LEG-432.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00726_proposal",
+      "text": "The acquisition of North Pemberton Partners Limited by North Pemberton Holdings Limited",
+      "speaker": "person_730",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oren Dunmore, chair of North Pemberton Holdings Limited, proposed to acquire North Pemberton Partners Limited on 9 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00726_approval",
+      "text": "Regulatory approval for the acquisition of North Pemberton Partners Limited",
+      "speaker": "person_730",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Oren Dunmore confirmed that regulatory approval for the acquisition of North Pemberton Partners Limited by North Pemberton Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00726_link_conditional",
+      "src": "gen_doc_00726_proposal",
+      "dst": "gen_doc_00726_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Pemberton Partners Limited by North Pemberton Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00722_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00726",
+      "surface": "9 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-09",
+      "value_end": "2024-11-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025250",
+      "surface": "17 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-17",
+      "value_end": "2025-01-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "17 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025251",
+      "surface": "22 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-22",
+      "value_end": "2025-01-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "22 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

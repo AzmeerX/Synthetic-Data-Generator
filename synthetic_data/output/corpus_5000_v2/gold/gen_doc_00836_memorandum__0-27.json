@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00836_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "f76047b71fd445b1979ae7f241d5bb5ce6d2173a4dd7d1920e73db591c76746a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_558",
+      "name": "Pemberton Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_558",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Pemberton Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Pemberton Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_27",
+      "name": "Denmoor Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_27",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1743",
+      "name": "North Yarmouth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1743",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1744",
+      "name": "North Yarmouth Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1744",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1745",
+      "name": "North Yarmouth Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1745",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1748",
+      "name": "North Yarmouth Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1748",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Yarmouth Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Yarmouth Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_53",
+      "name": "Alden & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_53",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_531",
+      "name": "Guarantee Deed LEG-531",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_531",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Guarantee Deed LEG-531",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-531",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_351",
+      "name": "Gideon Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_351",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_352",
+      "name": "Gideon Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_352",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_359",
+      "name": "Gideon Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_359",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_840",
+      "name": "Quin Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_840",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Quin Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_130",
+      "name": "Harrowden Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_130",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowden Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026791",
+      "subject": "company_1743",
+      "rel": "owns",
+      "object": "company_1744",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Logistics Limited owns North Yarmouth Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026792",
+      "subject": "person_359",
+      "rel": "shareholder_of",
+      "object": "company_1743",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Zell is a shareholder of North Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026804",
+      "subject": "person_351",
+      "rel": "family_of",
+      "object": "person_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Quade is a family member of Gideon Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026794",
+      "subject": "bank_27",
+      "rel": "lent_to",
+      "object": "company_1743",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-17",
+          "value_end": "2023-05-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Bank Limited lent North Yarmouth Logistics Limited GBP 16 million on 17 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026796",
+      "subject": "company_1745",
+      "rel": "guarantor_for",
+      "object": "company_1743",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yarmouth Partners Limited guaranteed the loan to North Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026795",
+      "subject": "company_1743",
+      "rel": "owes",
+      "object": "bank_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-22",
+          "value_end": "2023-05-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Yarmouth Logistics Limited owes Denmoor Bank Limited GBP 6 million as at 22 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026797",
+      "subject": "lawfirm_53",
+      "rel": "represents",
+      "object": "company_1743",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Wyndham LLP represents North Yarmouth Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026800",
+      "subject": "company_1743",
+      "rel": "owns",
+      "object": "asset_558",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Yarmouth Logistics Limited owns Pemberton Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026801",
+      "subject": "asset_558",
+      "rel": "located_in",
+      "object": "place_130",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Pemberton Foundry is located in Harrowden Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026802",
+      "subject": "company_1743",
+      "rel": "party_to",
+      "object": "legal_531",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Yarmouth Logistics Limited is a party to the Guarantee Deed LEG-531.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026803",
+      "subject": "person_352",
+      "rel": "signed",
+      "object": "legal_531",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Rook signed the Guarantee Deed LEG-531.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00836_proposal",
+      "text": "The acquisition of North Yarmouth Energy Limited by North Yarmouth Logistics Limited",
+      "speaker": "person_840",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Rook, chair of North Yarmouth Logistics Limited, proposed to acquire North Yarmouth Energy Limited on 19 December 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00836_approval",
+      "text": "Regulatory approval for the acquisition of North Yarmouth Energy Limited",
+      "speaker": "person_840",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Quin Rook confirmed that regulatory approval for the acquisition of North Yarmouth Energy Limited by North Yarmouth Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00836_link_conditional",
+      "src": "gen_doc_00836_proposal",
+      "dst": "gen_doc_00836_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Yarmouth Energy Limited by North Yarmouth Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00836",
+      "surface": "19 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-19",
+      "value_end": "2026-12-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026794",
+      "surface": "17 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-17",
+      "value_end": "2023-05-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "17 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026795",
+      "surface": "22 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-22",
+      "value_end": "2023-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "22 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00836",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

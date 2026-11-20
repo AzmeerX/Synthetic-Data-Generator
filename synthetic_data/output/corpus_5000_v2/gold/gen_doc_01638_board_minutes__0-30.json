@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01638_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "dbb427fb7729b4565c22619c89cec4571ca728924361af762626c008d0062911"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_01",
+      "name": "Kestrel Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_01",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrel Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Kestrel Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_30",
+      "name": "Ashcombe Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_30",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ashcombe Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_304",
+      "name": "Yarmouth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_304",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_31",
+      "name": "Ashcombe Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_31",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ashcombe Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_32",
+      "name": "Ashcombe Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_32",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_48",
+      "name": "Alden & Sinclair LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_48",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Sinclair LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_30",
+      "name": "Settlement Agreement LEG-030",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_30",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-030",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-030",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_250",
+      "name": "Elias Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_250",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_30",
+      "name": "Nolan Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_30",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nolan Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_31",
+      "name": "Elias Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_31",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elias Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_33",
+      "name": "Freya Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_33",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Freya Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Freya Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_35",
+      "name": "Mira Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_35",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Mira Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_38",
+      "name": "Lorne Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_38",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_17",
+      "name": "Elmford",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_17",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Elmford",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000081",
+      "subject": "company_30",
+      "rel": "owns",
+      "object": "company_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ashcombe Partners Limited owns Ashcombe Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000083",
+      "subject": "person_33",
+      "rel": "chair_of",
+      "object": "company_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Freya Sable is the chair of Ashcombe Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000082",
+      "subject": "person_38",
+      "rel": "shareholder_of",
+      "object": "company_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Ward is a shareholder of Ashcombe Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000094",
+      "subject": "person_30",
+      "rel": "family_of",
+      "object": "person_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nolan Quade is a family member of Elias Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000084",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-25",
+          "value_end": "2022-12-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fenwick Bank Limited lent Ashcombe Partners Limited GBP 30 million on 25 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000086",
+      "subject": "company_32",
+      "rel": "guarantor_for",
+      "object": "company_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Marine Limited guaranteed the loan to Ashcombe Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000085",
+      "subject": "company_30",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-30",
+          "value_end": "2022-12-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Partners Limited owes Fenwick Bank Limited GBP 13 million as at 30 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000087",
+      "subject": "lawfirm_10",
+      "rel": "represents",
+      "object": "company_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ellery LLP represents Ashcombe Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000090",
+      "subject": "company_30",
+      "rel": "owns",
+      "object": "asset_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ashcombe Partners Limited owns Kestrel Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000091",
+      "subject": "asset_01",
+      "rel": "located_in",
+      "object": "place_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kestrel Wharf is located in Elmford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000092",
+      "subject": "company_30",
+      "rel": "party_to",
+      "object": "legal_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ashcombe Partners Limited is a party to the Settlement Agreement LEG-030.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000093",
+      "subject": "person_31",
+      "rel": "signed",
+      "object": "legal_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Orrick signed the Settlement Agreement LEG-030.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01638_proposal",
+      "text": "The acquisition of Yarmouth Logistics Limited by Ashcombe Partners Limited",
+      "speaker": "person_250",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Lorne, chair of Ashcombe Partners Limited, proposed to acquire Yarmouth Logistics Limited on 28 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01638_approval",
+      "text": "Regulatory approval for the acquisition of Yarmouth Logistics Limited",
+      "speaker": "person_250",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Lorne confirmed that regulatory approval for the acquisition of Yarmouth Logistics Limited by Ashcombe Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01638_link_conditional",
+      "src": "gen_doc_01638_proposal",
+      "dst": "gen_doc_01638_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Yarmouth Logistics Limited by Ashcombe Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01638",
+      "surface": "28 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-28",
+      "value_end": "2025-11-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000084",
+      "surface": "25 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-25",
+      "value_end": "2022-12-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "25 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000085",
+      "surface": "30 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-30",
+      "value_end": "2022-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "30 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01638",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

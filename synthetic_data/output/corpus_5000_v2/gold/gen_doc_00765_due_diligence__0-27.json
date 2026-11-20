@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00765_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "232b045e45fd3b3cec0426a2db0d72dbf0d9a37b1b506b53417ad4a8d00a1ed8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_55",
+      "name": "Dunhollow Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_55",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunhollow Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_59",
+      "name": "Dunhollow Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_59",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_168",
+      "name": "Lowmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_168",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Lowmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_170",
+      "name": "Merrivale Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_170",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Merrivale Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_18",
+      "name": "Alden & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_18",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_42",
+      "name": "Settlement Agreement LEG-042",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_42",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-042",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-042",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_168",
+      "name": "Calder Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_168",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_169",
+      "name": "Calder Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_169",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_176",
+      "name": "Calder Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_176",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_769",
+      "name": "Oren Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_769",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_55",
+      "name": "Saltmarsh",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_55",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Saltmarsh",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002232",
+      "subject": "company_168",
+      "rel": "owns",
+      "object": "asset_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lowmoor Systems Limited owns Dunhollow Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002241",
+      "subject": "company_168",
+      "rel": "owns",
+      "object": "asset_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Systems Limited owns Dunhollow Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002242",
+      "subject": "asset_59",
+      "rel": "located_in",
+      "object": "place_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Office Park is located in Saltmarsh.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002238",
+      "subject": "lawfirm_18",
+      "rel": "represents",
+      "object": "company_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Mercer LLP represents Lowmoor Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002233",
+      "subject": "person_176",
+      "rel": "shareholder_of",
+      "object": "company_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Langford is a shareholder of Lowmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002245",
+      "subject": "person_168",
+      "rel": "family_of",
+      "object": "person_169",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Delacourt is a family member of Calder Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002235",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-26",
+          "value_end": "2022-06-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited lent Lowmoor Systems Limited GBP 26 million on 26 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002237",
+      "subject": "company_170",
+      "rel": "guarantor_for",
+      "object": "company_168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Merrivale Industries Limited guaranteed the loan to Lowmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002236",
+      "subject": "company_168",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-01",
+          "value_end": "2022-07-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Systems Limited owes Harrowgate Bank Limited GBP 11 million as at 1 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002243",
+      "subject": "company_168",
+      "rel": "party_to",
+      "object": "legal_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lowmoor Systems Limited is a party to the Settlement Agreement LEG-042.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002244",
+      "subject": "person_169",
+      "rel": "signed",
+      "object": "legal_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Everard signed the Settlement Agreement LEG-042.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00765_allegation",
+      "text": "A former employee alleged that Lowmoor Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Tremayne noted that a former employee alleged that Lowmoor Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00765",
+      "surface": "9 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-09",
+      "value_end": "2025-08-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002235",
+      "surface": "26 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-26",
+      "value_end": "2022-06-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002236",
+      "surface": "1 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-01",
+      "value_end": "2022-07-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00765",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00061_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "016d0b73e6bbdf737612d0621b74ef163bb83a851269583a4d8ea96c8df85ea4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_456",
+      "name": "Kelbrook Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_456",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_121",
+      "name": "Stan Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_121",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1045",
+      "name": "Neston Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1045",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Neston Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1046",
+      "name": "Neston Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1046",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Neston Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1047",
+      "name": "Neston Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1047",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Neston Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1048",
+      "name": "Neston Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1048",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Neston Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_105",
+      "name": "Glenmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_105",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_31",
+      "name": "Alden & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_31",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Ashby LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_439",
+      "name": "Services Agreement LEG-439",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_439",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Services Agreement LEG-439",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Services Agreement LEG-439",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1045",
+      "name": "Ulric Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1045",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1046",
+      "name": "Ulric Balfour",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1046",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ulric Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1053",
+      "name": "Ulric Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1053",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulric Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_65",
+      "name": "Amina Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_65",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_152",
+      "name": "Kelbrook Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_152",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_015906",
+      "subject": "company_1045",
+      "rel": "owns",
+      "object": "company_1046",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Neston Industries Limited owns Neston Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015907",
+      "subject": "person_1053",
+      "rel": "shareholder_of",
+      "object": "company_1045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ulric Ingram is a shareholder of Neston Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015919",
+      "subject": "person_1045",
+      "rel": "family_of",
+      "object": "person_1046",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ulric Ashby is a family member of Ulric Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015909",
+      "subject": "bank_121",
+      "rel": "lent_to",
+      "object": "company_1045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-08-16",
+          "value_end": "2025-08-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Stan Private Bank Limited lent Neston Industries Limited GBP 20 million on 16 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015911",
+      "subject": "company_1047",
+      "rel": "guarantor_for",
+      "object": "company_1045",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Neston Logistics Limited guaranteed the loan to Neston Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015910",
+      "subject": "company_1045",
+      "rel": "owes",
+      "object": "bank_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-08-21",
+          "value_end": "2025-08-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Neston Industries Limited owes Stan Private Bank Limited GBP 8 million as at 21 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015915",
+      "subject": "company_1045",
+      "rel": "owns",
+      "object": "asset_456",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Neston Industries Limited owns Kelbrook Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015916",
+      "subject": "asset_456",
+      "rel": "located_in",
+      "object": "place_152",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Fleet is located in Kelbrook Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015917",
+      "subject": "company_1045",
+      "rel": "party_to",
+      "object": "legal_439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Neston Industries Limited is a party to the Services Agreement LEG-439.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_015918",
+      "subject": "person_1046",
+      "rel": "signed",
+      "object": "legal_439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ulric Balfour signed the Services Agreement LEG-439.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00061_proposal",
+      "text": "The acquisition of Glenmoor Energy Limited by Neston Industries Limited",
+      "speaker": "person_65",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Ashby, chair of Neston Industries Limited, proposed to acquire Glenmoor Energy Limited on 3 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00061_approval",
+      "text": "Regulatory approval for the acquisition of Glenmoor Energy Limited",
+      "speaker": "person_65",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Ashby confirmed that regulatory approval for the acquisition of Glenmoor Energy Limited by Neston Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00061_link_conditional",
+      "src": "gen_doc_00061_proposal",
+      "dst": "gen_doc_00061_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Glenmoor Energy Limited by Neston Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00057_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00061",
+      "surface": "3 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-03",
+      "value_end": "2025-04-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015909",
+      "surface": "16 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-16",
+      "value_end": "2025-08-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "16 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_015910",
+      "surface": "21 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-21",
+      "value_end": "2025-08-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "21 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

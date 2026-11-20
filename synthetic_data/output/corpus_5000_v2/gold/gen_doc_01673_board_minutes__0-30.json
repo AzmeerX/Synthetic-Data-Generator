@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01673_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "13f6703acd16907d2b0354a6ea38eb21030cc7b3ec58b0b17039d35883e6ba44"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_142",
+      "name": "Ironside Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_142",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_19",
+      "name": "Bexley Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_19",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bexley Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_331",
+      "name": "Barrowfield Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_331",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Barrowfield Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_332",
+      "name": "Barrowfield Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_332",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_333",
+      "name": "Barrowfield Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_333",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_336",
+      "name": "Barrowfield Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_336",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Barrowfield Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_31",
+      "name": "Alden & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_31",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_83",
+      "name": "Briar & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_83",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_125",
+      "name": "Supply Agreement LEG-125",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_125",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-125",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Supply Agreement LEG-125",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_285",
+      "name": "Elias Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_285",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_331",
+      "name": "Farah Villiers",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_331",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_332",
+      "name": "Farah Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_332",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_334",
+      "name": "Farah Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_334",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Farah Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_336",
+      "name": "Gideon Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_336",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Gideon Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_339",
+      "name": "Gideon Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_339",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_38",
+      "name": "Barrowfield",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_38",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Barrowfield",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004773",
+      "subject": "company_331",
+      "rel": "owns",
+      "object": "company_332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Barrowfield Capital Limited owns Barrowfield Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004775",
+      "subject": "person_334",
+      "rel": "chair_of",
+      "object": "company_331",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Yardley is the chair of Barrowfield Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004774",
+      "subject": "person_339",
+      "rel": "shareholder_of",
+      "object": "company_331",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Dunmore is a shareholder of Barrowfield Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004786",
+      "subject": "person_331",
+      "rel": "family_of",
+      "object": "person_332",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Farah Villiers is a family member of Farah Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004776",
+      "subject": "bank_19",
+      "rel": "lent_to",
+      "object": "company_331",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-09-27",
+          "value_end": "2022-09-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Private Bank Limited lent Barrowfield Capital Limited GBP 32 million on 27 September 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004778",
+      "subject": "company_333",
+      "rel": "guarantor_for",
+      "object": "company_331",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Barrowfield Energy Limited guaranteed the loan to Barrowfield Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004777",
+      "subject": "company_331",
+      "rel": "owes",
+      "object": "bank_19",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-02",
+          "value_end": "2022-10-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Barrowfield Capital Limited owes Bexley Private Bank Limited GBP 4 million as at 2 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004779",
+      "subject": "lawfirm_31",
+      "rel": "represents",
+      "object": "company_331",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ashby LLP represents Barrowfield Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004782",
+      "subject": "company_331",
+      "rel": "owns",
+      "object": "asset_142",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Barrowfield Capital Limited owns Ironside Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004783",
+      "subject": "asset_142",
+      "rel": "located_in",
+      "object": "place_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Warehouse is located in Barrowfield.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004784",
+      "subject": "company_331",
+      "rel": "party_to",
+      "object": "legal_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Barrowfield Capital Limited is a party to the Supply Agreement LEG-125.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004785",
+      "subject": "person_332",
+      "rel": "signed",
+      "object": "legal_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Whitlock signed the Supply Agreement LEG-125.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01673_proposal",
+      "text": "The acquisition of Barrowfield Systems Limited by Barrowfield Capital Limited",
+      "speaker": "person_285",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Elias Wyndham, chair of Barrowfield Capital Limited, proposed to acquire Barrowfield Systems Limited on 31 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01673_approval",
+      "text": "Regulatory approval for the acquisition of Barrowfield Systems Limited",
+      "speaker": "person_285",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Wyndham confirmed that regulatory approval for the acquisition of Barrowfield Systems Limited by Barrowfield Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01673_link_conditional",
+      "src": "gen_doc_01673_proposal",
+      "dst": "gen_doc_01673_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Barrowfield Systems Limited by Barrowfield Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01673",
+      "surface": "31 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-31",
+      "value_end": "2026-07-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004776",
+      "surface": "27 September 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-09-27",
+      "value_end": "2022-09-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "27 September 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004777",
+      "surface": "2 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-02",
+      "value_end": "2022-10-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "2 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01673",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

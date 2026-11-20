@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00500_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "69a936dc5e1f3e63c667706b234537717df44db5bdeb9dc738bc0b93889b6ece"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_251",
+      "name": "Northcliff Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_251",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_255",
+      "name": "Alderport Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_255",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alderport Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Alderport Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_120",
+      "name": "Stan Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_120",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stan Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1440",
+      "name": "Wear Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1440",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Wear Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1442",
+      "name": "Wear Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1442",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Wear Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1445",
+      "name": "Wear Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1445",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wear Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Wear Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_80",
+      "name": "Briar & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_80",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_228",
+      "name": "Board Resolution LEG-228",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_228",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Board Resolution LEG-228",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-228",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_48",
+      "name": "Amina Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_48",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_49",
+      "name": "Amina Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_49",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Amina Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_504",
+      "name": "Juno Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_504",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Juno Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_56",
+      "name": "Amina Quade",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_56",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_07",
+      "name": "Ironside",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_07",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022066",
+      "subject": "company_1440",
+      "rel": "owns",
+      "object": "asset_251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wear Holdings Limited owns Northcliff Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022067",
+      "subject": "person_56",
+      "rel": "shareholder_of",
+      "object": "company_1440",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Quade is a shareholder of Wear Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022079",
+      "subject": "person_48",
+      "rel": "family_of",
+      "object": "person_49",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Hale is a family member of Amina Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022069",
+      "subject": "bank_120",
+      "rel": "lent_to",
+      "object": "company_1440",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-07-23",
+          "value_end": "2023-07-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Stan Commercial Bank Limited lent Wear Holdings Limited GBP 50 million on 23 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022071",
+      "subject": "company_1442",
+      "rel": "guarantor_for",
+      "object": "company_1440",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Wear Group Limited guaranteed the loan to Wear Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022070",
+      "subject": "company_1440",
+      "rel": "owes",
+      "object": "bank_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-07-28",
+          "value_end": "2023-07-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Wear Holdings Limited owes Stan Commercial Bank Limited GBP 13 million as at 28 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022072",
+      "subject": "lawfirm_10",
+      "rel": "represents",
+      "object": "company_1440",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ellery LLP represents Wear Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022075",
+      "subject": "company_1440",
+      "rel": "owns",
+      "object": "asset_255",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wear Holdings Limited owns Alderport Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022076",
+      "subject": "asset_255",
+      "rel": "located_in",
+      "object": "place_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alderport Cold Store is located in Ironside.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022077",
+      "subject": "company_1440",
+      "rel": "party_to",
+      "object": "legal_228",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Wear Holdings Limited is a party to the Board Resolution LEG-228.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022078",
+      "subject": "person_49",
+      "rel": "signed",
+      "object": "legal_228",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Amina Ivers signed the Board Resolution LEG-228.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00500_proposal",
+      "text": "The acquisition of Wear Partners Limited by Wear Holdings Limited",
+      "speaker": "person_504",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Vale, chair of Wear Holdings Limited, proposed to acquire Wear Partners Limited on 5 February 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00500_approval",
+      "text": "Regulatory approval for the acquisition of Wear Partners Limited",
+      "speaker": "person_504",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Juno Vale confirmed that regulatory approval for the acquisition of Wear Partners Limited by Wear Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00500_link_conditional",
+      "src": "gen_doc_00500_proposal",
+      "dst": "gen_doc_00500_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Wear Partners Limited by Wear Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00500",
+      "surface": "5 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-05",
+      "value_end": "2027-02-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022069",
+      "surface": "23 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-23",
+      "value_end": "2023-07-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022070",
+      "surface": "28 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-28",
+      "value_end": "2023-07-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00500",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

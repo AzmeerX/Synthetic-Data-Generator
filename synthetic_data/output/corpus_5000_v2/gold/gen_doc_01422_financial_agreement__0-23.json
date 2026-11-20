@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01422_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "b9254d7719459809e2e01548caadc76345dba31265f95a2e4da04bf326c95d1d"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_27",
+      "name": "Denmoor Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_27",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_70",
+      "name": "Kel Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_70",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kel Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2271",
+      "name": "North Thurlow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2271",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Thurlow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2272",
+      "name": "North Thurlow Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2272",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Thurlow Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2273",
+      "name": "North Thurlow Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2273",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Thurlow Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2274",
+      "name": "North Thurlow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2274",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Thurlow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_453",
+      "name": "Security Agreement LEG-453",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_453",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-453",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Security Agreement LEG-453",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_880",
+      "name": "Rhea Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_880",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Rhea Hale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035024",
+      "subject": "company_2271",
+      "rel": "owns",
+      "object": "company_2272",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Thurlow Logistics Limited owns North Thurlow Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035027",
+      "subject": "bank_27",
+      "rel": "lent_to",
+      "object": "company_2271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-04-24",
+          "value_end": "2025-04-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Bank Limited lent North Thurlow Logistics Limited GBP 32 million on 24 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035029",
+      "subject": "company_2273",
+      "rel": "guarantor_for",
+      "object": "company_2271",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Thurlow Partners Limited guaranteed the loan to North Thurlow Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035028",
+      "subject": "company_2271",
+      "rel": "owes",
+      "object": "bank_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-29",
+          "value_end": "2025-04-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Thurlow Logistics Limited owes Denmoor Bank Limited GBP 4 million as at 29 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035035",
+      "subject": "company_2271",
+      "rel": "party_to",
+      "object": "legal_453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Thurlow Logistics Limited is a party to the Security Agreement LEG-453.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035036",
+      "subject": "person_880",
+      "rel": "signed",
+      "object": "legal_453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Rhea Hale signed the Security Agreement LEG-453.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01422_neg_guarantee",
+      "subject": "company_2271",
+      "rel": "guarantor_for",
+      "object": "company_2274",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Thurlow Logistics Limited did not guarantee the facility for North Thurlow Capital Limited on 20 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_01426_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01422",
+      "surface": "20 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-20",
+      "value_end": "2025-01-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "20 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035027",
+      "surface": "24 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-24",
+      "value_end": "2025-04-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "24 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035028",
+      "surface": "29 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-29",
+      "value_end": "2025-04-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "29 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01422",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2025-07-20",
+      "value_end": "2025-07-20",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

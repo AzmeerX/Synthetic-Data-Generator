@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00289_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "6fff7ee339e44faee7ec9874551a53b50b5476ae2c8fa8417c7bfe997609f36d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_65",
+      "name": "Eastmere Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_65",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_62",
+      "name": "Inver International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_62",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Inver International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1250",
+      "name": "Gower Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1250",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Gower Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1251",
+      "name": "Gower Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1251",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1252",
+      "name": "Gower Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1252",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Gower Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_80",
+      "name": "Briar & Ashby LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_80",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ashby LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_38",
+      "name": "Loan Note LEG-038",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_38",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1250",
+      "name": "Yara Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1250",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1251",
+      "name": "Yara Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1251",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1258",
+      "name": "Yara Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1258",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_293",
+      "name": "Farah Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_293",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_177",
+      "name": "Netherby Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_177",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019105",
+      "subject": "company_1250",
+      "rel": "owns",
+      "object": "company_1251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gower Group Limited owns Gower Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019114",
+      "subject": "company_1250",
+      "rel": "owns",
+      "object": "asset_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Gower Group Limited owns Eastmere Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019115",
+      "subject": "asset_65",
+      "rel": "located_in",
+      "object": "place_177",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Foundry is located in Netherby Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019111",
+      "subject": "lawfirm_80",
+      "rel": "represents",
+      "object": "company_1250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ashby LLP represents Gower Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019106",
+      "subject": "person_1258",
+      "rel": "shareholder_of",
+      "object": "company_1250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Yara Pemberton is a shareholder of Gower Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019118",
+      "subject": "person_1250",
+      "rel": "family_of",
+      "object": "person_1251",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Hastings is a family member of Yara Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019108",
+      "subject": "bank_62",
+      "rel": "lent_to",
+      "object": "company_1250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-06-28",
+          "value_end": "2022-06-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver International Bank Limited lent Gower Group Limited GBP 30 million on 28 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019110",
+      "subject": "company_1252",
+      "rel": "guarantor_for",
+      "object": "company_1250",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Gower Trading Limited guaranteed the loan to Gower Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019109",
+      "subject": "company_1250",
+      "rel": "owes",
+      "object": "bank_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-03",
+          "value_end": "2022-07-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Gower Group Limited owes Inver International Bank Limited GBP 13 million as at 3 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019116",
+      "subject": "company_1250",
+      "rel": "party_to",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Gower Group Limited is a party to the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019117",
+      "subject": "person_1251",
+      "rel": "signed",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Ingram signed the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00289_allegation",
+      "text": "A former employee alleged that Gower Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Fenwick noted that a former employee alleged that Gower Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00289",
+      "surface": "4 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-04",
+      "value_end": "2026-05-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019108",
+      "surface": "28 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-28",
+      "value_end": "2022-06-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "28 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019109",
+      "surface": "3 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-03",
+      "value_end": "2022-07-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "3 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00289",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00891_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "6be21b62e2f56a8724f3ea6f544a48e60f1322ce2c43766f0207965bf2802a43"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_12",
+      "name": "Northcliff Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_12",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_77",
+      "name": "Low Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_77",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1793",
+      "name": "North Draycott Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1793",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Draycott Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1794",
+      "name": "North Draycott Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1794",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Draycott Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1795",
+      "name": "North Draycott Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1795",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Draycott Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_103",
+      "name": "Briar & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_103",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_581",
+      "name": "Security Agreement LEG-581",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_581",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-581",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-581",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_401",
+      "name": "Hana Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_401",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_402",
+      "name": "Hana Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_402",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_409",
+      "name": "Hana Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_409",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_895",
+      "name": "Rhea Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_895",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Rhea Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_180",
+      "name": "Netherby Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_180",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027570",
+      "subject": "company_1793",
+      "rel": "owns",
+      "object": "company_1794",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Draycott Partners Limited owns North Draycott Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027579",
+      "subject": "company_1793",
+      "rel": "owns",
+      "object": "asset_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Draycott Partners Limited owns Northcliff Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027580",
+      "subject": "asset_12",
+      "rel": "located_in",
+      "object": "place_180",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Works is located in Netherby Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027576",
+      "subject": "lawfirm_103",
+      "rel": "represents",
+      "object": "company_1793",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Yardley LLP represents North Draycott Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027571",
+      "subject": "person_409",
+      "rel": "shareholder_of",
+      "object": "company_1793",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Zell is a shareholder of North Draycott Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027583",
+      "subject": "person_401",
+      "rel": "family_of",
+      "object": "person_402",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Quade is a family member of Hana Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027573",
+      "subject": "bank_77",
+      "rel": "lent_to",
+      "object": "company_1793",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-17",
+          "value_end": "2024-11-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Trust Bank Limited lent North Draycott Partners Limited GBP 36 million on 17 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027575",
+      "subject": "company_1795",
+      "rel": "guarantor_for",
+      "object": "company_1793",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Draycott Marine Limited guaranteed the loan to North Draycott Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027574",
+      "subject": "company_1793",
+      "rel": "owes",
+      "object": "bank_77",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-22",
+          "value_end": "2024-11-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Draycott Partners Limited owes Low Trust Bank Limited GBP 6 million as at 22 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027581",
+      "subject": "company_1793",
+      "rel": "party_to",
+      "object": "legal_581",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Draycott Partners Limited is a party to the Security Agreement LEG-581.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027582",
+      "subject": "person_402",
+      "rel": "signed",
+      "object": "legal_581",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Rook signed the Security Agreement LEG-581.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00891_allegation",
+      "text": "A former employee alleged that North Draycott Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Rhea Zell noted that a former employee alleged that North Draycott Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00891",
+      "surface": "25 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-25",
+      "value_end": "2024-09-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "25 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027573",
+      "surface": "17 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-17",
+      "value_end": "2024-11-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "17 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027574",
+      "surface": "22 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-22",
+      "value_end": "2024-11-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "22 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00891",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

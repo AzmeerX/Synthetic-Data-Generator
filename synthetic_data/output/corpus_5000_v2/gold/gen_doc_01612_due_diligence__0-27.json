@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01612_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "29bfcd3f49284e784237a443d02d9b43665b37054bf8ea2211c4608539ad11d6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_83",
+      "name": "Fenwick Bay Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_83",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fenwick Bay Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_87",
+      "name": "Fenwick Bay Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_87",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_276",
+      "name": "Uldale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_276",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Uldale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_278",
+      "name": "Vellacott Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_278",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vellacott Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_70",
+      "name": "Loan Note LEG-070",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_70",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-070",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-070",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_224",
+      "name": "Daria Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_224",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_276",
+      "name": "Elias Neville",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_276",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_277",
+      "name": "Elias Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_277",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_284",
+      "name": "Elias Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_284",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_83",
+      "name": "Belmont Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_83",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003916",
+      "subject": "company_276",
+      "rel": "owns",
+      "object": "asset_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Uldale Systems Limited owns Fenwick Bay Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003925",
+      "subject": "company_276",
+      "rel": "owns",
+      "object": "asset_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Systems Limited owns Fenwick Bay Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003926",
+      "subject": "asset_87",
+      "rel": "located_in",
+      "object": "place_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Hangar is located in Belmont Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003922",
+      "subject": "lawfirm_26",
+      "rel": "represents",
+      "object": "company_276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ulric LLP represents Uldale Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003917",
+      "subject": "person_284",
+      "rel": "shareholder_of",
+      "object": "company_276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Whitlock is a shareholder of Uldale Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003929",
+      "subject": "person_276",
+      "rel": "family_of",
+      "object": "person_277",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Neville is a family member of Elias Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003919",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-09-26",
+          "value_end": "2025-09-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited lent Uldale Systems Limited GBP 42 million on 26 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003921",
+      "subject": "company_278",
+      "rel": "guarantor_for",
+      "object": "company_276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vellacott Industries Limited guaranteed the loan to Uldale Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003920",
+      "subject": "company_276",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-01",
+          "value_end": "2025-10-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Systems Limited owes Bexley Merchant Bank Limited GBP 9 million as at 1 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003927",
+      "subject": "company_276",
+      "rel": "party_to",
+      "object": "legal_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Uldale Systems Limited is a party to the Loan Note LEG-070.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003928",
+      "subject": "person_277",
+      "rel": "signed",
+      "object": "legal_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Osborne signed the Loan Note LEG-070.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01612_allegation",
+      "text": "A former employee alleged that Uldale Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Kingsley noted that a former employee alleged that Uldale Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01612",
+      "surface": "30 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-30",
+      "value_end": "2025-05-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003919",
+      "surface": "26 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-26",
+      "value_end": "2025-09-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003920",
+      "surface": "1 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-01",
+      "value_end": "2025-10-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01612",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

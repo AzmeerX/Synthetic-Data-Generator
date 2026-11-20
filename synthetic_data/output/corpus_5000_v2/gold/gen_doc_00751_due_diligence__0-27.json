@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00751_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "666088d8cd9d3822e1f9b967bddb076e450156c6f262d4b3f2090c28674bae3b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_482",
+      "name": "Lowmoor Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_482",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_83",
+      "name": "Merri Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_83",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merri Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Merri Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1667",
+      "name": "North Quintrell Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1667",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Quintrell Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1668",
+      "name": "North Redmoor Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1668",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1669",
+      "name": "North Redmoor Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1669",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Redmoor Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_107",
+      "name": "Cairn & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_107",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_455",
+      "name": "Services Agreement LEG-455",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_455",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-455",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-455",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_275",
+      "name": "Elias Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_275",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_276",
+      "name": "Elias Neville",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_276",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_283",
+      "name": "Elias Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_283",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_755",
+      "name": "Oren Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_755",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_54",
+      "name": "Rushmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_54",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rushmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025606",
+      "subject": "company_1667",
+      "rel": "owns",
+      "object": "company_1668",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Quintrell Systems Limited owns North Redmoor Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025615",
+      "subject": "company_1667",
+      "rel": "owns",
+      "object": "asset_482",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quintrell Systems Limited owns Lowmoor Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025616",
+      "subject": "asset_482",
+      "rel": "located_in",
+      "object": "place_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Marina is located in Rushmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025612",
+      "subject": "lawfirm_107",
+      "rel": "represents",
+      "object": "company_1667",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Dunmore LLP represents North Quintrell Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025607",
+      "subject": "person_283",
+      "rel": "shareholder_of",
+      "object": "company_1667",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Villiers is a shareholder of North Quintrell Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025619",
+      "subject": "person_275",
+      "rel": "family_of",
+      "object": "person_276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Montague is a family member of Elias Neville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025609",
+      "subject": "bank_83",
+      "rel": "lent_to",
+      "object": "company_1667",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-09-27",
+          "value_end": "2025-09-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merri Trust Bank Limited lent North Quintrell Systems Limited GBP 24 million on 27 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025611",
+      "subject": "company_1669",
+      "rel": "guarantor_for",
+      "object": "company_1667",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Redmoor Industries Limited guaranteed the loan to North Quintrell Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025610",
+      "subject": "company_1667",
+      "rel": "owes",
+      "object": "bank_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-02",
+          "value_end": "2025-10-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quintrell Systems Limited owes Merri Trust Bank Limited GBP 10 million as at 2 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025617",
+      "subject": "company_1667",
+      "rel": "party_to",
+      "object": "legal_455",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Quintrell Systems Limited is a party to the Services Agreement LEG-455.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025618",
+      "subject": "person_276",
+      "rel": "signed",
+      "object": "legal_455",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Neville signed the Services Agreement LEG-455.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00751_allegation",
+      "text": "A former employee alleged that North Quintrell Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Everard noted that a former employee alleged that North Quintrell Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00751",
+      "surface": "3 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-03",
+      "value_end": "2025-05-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025609",
+      "surface": "27 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-27",
+      "value_end": "2025-09-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "27 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025610",
+      "surface": "2 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-02",
+      "value_end": "2025-10-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "2 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00751",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01038_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "ca830cd2534d5a1e5eb8cc769b97b20413e959be05e16fee5c7e6c4a69981012"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_144",
+      "name": "Ironside Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_144",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_77",
+      "name": "Low Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_77",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1925",
+      "name": "North Overdale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1925",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Overdale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1926",
+      "name": "North Overdale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1926",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Overdale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1927",
+      "name": "North Overdale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1927",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_105",
+      "name": "Cairn & Alden LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_105",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Alden LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_107",
+      "name": "Debenture LEG-107",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_107",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-107",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-107",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1042",
+      "name": "Ulric Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1042",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ulric Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_533",
+      "name": "Kellan Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_533",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_534",
+      "name": "Kellan Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_534",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Kellan Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_541",
+      "name": "Kellan Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_541",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kellan Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_132",
+      "name": "Harrowden Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_132",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowden Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029628",
+      "subject": "company_1925",
+      "rel": "owns",
+      "object": "company_1926",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Overdale Partners Limited owns North Overdale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029637",
+      "subject": "company_1925",
+      "rel": "owns",
+      "object": "asset_144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Overdale Partners Limited owns Ironside Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029638",
+      "subject": "asset_144",
+      "rel": "located_in",
+      "object": "place_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside Hangar is located in Harrowden Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029634",
+      "subject": "lawfirm_105",
+      "rel": "represents",
+      "object": "company_1925",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Alden LLP represents North Overdale Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029629",
+      "subject": "person_541",
+      "rel": "shareholder_of",
+      "object": "company_1925",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kellan Ivers is a shareholder of North Overdale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029641",
+      "subject": "person_533",
+      "rel": "family_of",
+      "object": "person_534",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Alden is a family member of Kellan Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029631",
+      "subject": "bank_77",
+      "rel": "lent_to",
+      "object": "company_1925",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-14",
+          "value_end": "2024-03-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Trust Bank Limited lent North Overdale Partners Limited GBP 20 million on 14 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029633",
+      "subject": "company_1927",
+      "rel": "guarantor_for",
+      "object": "company_1925",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Marine Limited guaranteed the loan to North Overdale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029632",
+      "subject": "company_1925",
+      "rel": "owes",
+      "object": "bank_77",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-19",
+          "value_end": "2024-03-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Overdale Partners Limited owes Low Trust Bank Limited GBP 8 million as at 19 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029639",
+      "subject": "company_1925",
+      "rel": "party_to",
+      "object": "legal_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Overdale Partners Limited is a party to the Debenture LEG-107.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029640",
+      "subject": "person_534",
+      "rel": "signed",
+      "object": "legal_107",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Kellan Briar signed the Debenture LEG-107.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01038_allegation",
+      "text": "A former employee alleged that North Overdale Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ulric Ward noted that a former employee alleged that North Overdale Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01038",
+      "surface": "7 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-07",
+      "value_end": "2024-04-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029631",
+      "surface": "14 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-14",
+      "value_end": "2024-03-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029632",
+      "surface": "19 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-19",
+      "value_end": "2024-03-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "19 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01038",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

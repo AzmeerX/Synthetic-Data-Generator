@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00220_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "67c0bdb7c992fba290a6c38b4ac18a6e8e4c04b9856c43ea1c703fdab8da271d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_102",
+      "name": "Greyhaven Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_102",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Greyhaven Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Greyhaven Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_31",
+      "name": "Denmoor Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_31",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_291",
+      "name": "Westerby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_291",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Westerby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_292",
+      "name": "Westerby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_292",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_293",
+      "name": "Westerby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_293",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Westerby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_296",
+      "name": "Westerby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_296",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Westerby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Westerby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_21",
+      "name": "Alden & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_21",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_41",
+      "name": "Alden & Kingsley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_41",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Kingsley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_85",
+      "name": "Security Agreement LEG-085",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_85",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Security Agreement LEG-085",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-085",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_224",
+      "name": "Daria Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_224",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_291",
+      "name": "Farah Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_291",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_292",
+      "name": "Farah Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_292",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_299",
+      "name": "Farah Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_299",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_98",
+      "name": "Dunmere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_98",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunmere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004150",
+      "subject": "company_291",
+      "rel": "owns",
+      "object": "company_292",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Westerby Group Limited owns Westerby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004151",
+      "subject": "person_299",
+      "rel": "shareholder_of",
+      "object": "company_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Lorne is a shareholder of Westerby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004163",
+      "subject": "person_291",
+      "rel": "family_of",
+      "object": "person_292",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Dunmore is a family member of Farah Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004153",
+      "subject": "bank_31",
+      "rel": "lent_to",
+      "object": "company_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-10",
+          "value_end": "2026-03-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Private Bank Limited lent Westerby Group Limited GBP 32 million on 10 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004155",
+      "subject": "company_293",
+      "rel": "guarantor_for",
+      "object": "company_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Westerby Trading Limited guaranteed the loan to Westerby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004154",
+      "subject": "company_291",
+      "rel": "owes",
+      "object": "bank_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-15",
+          "value_end": "2026-03-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Westerby Group Limited owes Denmoor Private Bank Limited GBP 4 million as at 15 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004156",
+      "subject": "lawfirm_41",
+      "rel": "represents",
+      "object": "company_291",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Kingsley LLP represents Westerby Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004159",
+      "subject": "company_291",
+      "rel": "owns",
+      "object": "asset_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Westerby Group Limited owns Greyhaven Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004160",
+      "subject": "asset_102",
+      "rel": "located_in",
+      "object": "place_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Greyhaven Cold Store is located in Dunmere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004161",
+      "subject": "company_291",
+      "rel": "party_to",
+      "object": "legal_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Westerby Group Limited is a party to the Security Agreement LEG-085.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004162",
+      "subject": "person_292",
+      "rel": "signed",
+      "object": "legal_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Ellery signed the Security Agreement LEG-085.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00220_proposal",
+      "text": "The acquisition of Westerby Marine Limited by Westerby Group Limited",
+      "speaker": "person_224",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Kingsley, chair of Westerby Group Limited, proposed to acquire Westerby Marine Limited on 6 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00220_approval",
+      "text": "Regulatory approval for the acquisition of Westerby Marine Limited",
+      "speaker": "person_224",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Kingsley confirmed that regulatory approval for the acquisition of Westerby Marine Limited by Westerby Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00220_link_conditional",
+      "src": "gen_doc_00220_proposal",
+      "dst": "gen_doc_00220_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Westerby Marine Limited by Westerby Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00220",
+      "surface": "6 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-06",
+      "value_end": "2025-01-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004153",
+      "surface": "10 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-10",
+      "value_end": "2026-03-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "10 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004154",
+      "surface": "15 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-15",
+      "value_end": "2026-03-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00220",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

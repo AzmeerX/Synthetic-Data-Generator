@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01022_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "18ed8d7e26c3f7fd75d2d7cea4c2a09db57534069415a124ab80d1540283da12"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_129",
+      "name": "Harrowgate Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_129",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Harrowgate Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowgate Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_62",
+      "name": "Inver International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_62",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inver International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Inver International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1910",
+      "name": "North Norwood Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1910",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Norwood Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1911",
+      "name": "North Norwood Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1911",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Norwood Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1912",
+      "name": "North Norwood Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1912",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Norwood Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1915",
+      "name": "North Norwood Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1915",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Norwood Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Norwood Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_82",
+      "name": "Briar & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_82",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_90",
+      "name": "Briar & Kingsley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_90",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Kingsley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_92",
+      "name": "Shareholder Agreement LEG-092",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_92",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-092",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-092",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1026",
+      "name": "Ulric Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1026",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_518",
+      "name": "Juno Kingsley",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_518",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juno Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_519",
+      "name": "Juno Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_519",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juno Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_521",
+      "name": "Juno Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_521",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Juno Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_523",
+      "name": "Juno Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_523",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Juno Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_526",
+      "name": "Juno Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_526",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_117",
+      "name": "Fairhaven Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_117",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairhaven Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029396",
+      "subject": "company_1910",
+      "rel": "owns",
+      "object": "company_1911",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Norwood Group Limited owns North Norwood Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029398",
+      "subject": "person_521",
+      "rel": "chair_of",
+      "object": "company_1910",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Neville is the chair of North Norwood Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029397",
+      "subject": "person_526",
+      "rel": "shareholder_of",
+      "object": "company_1910",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Tremayne is a shareholder of North Norwood Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029409",
+      "subject": "person_518",
+      "rel": "family_of",
+      "object": "person_519",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Juno Kingsley is a family member of Juno Langford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029399",
+      "subject": "bank_62",
+      "rel": "lent_to",
+      "object": "company_1910",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-01",
+          "value_end": "2023-10-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inver International Bank Limited lent North Norwood Group Limited GBP 30 million on 1 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029401",
+      "subject": "company_1912",
+      "rel": "guarantor_for",
+      "object": "company_1910",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Norwood Trading Limited guaranteed the loan to North Norwood Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029400",
+      "subject": "company_1910",
+      "rel": "owes",
+      "object": "bank_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-06",
+          "value_end": "2023-10-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Norwood Group Limited owes Inver International Bank Limited GBP 13 million as at 6 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029402",
+      "subject": "lawfirm_90",
+      "rel": "represents",
+      "object": "company_1910",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Kingsley LLP represents North Norwood Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029405",
+      "subject": "company_1910",
+      "rel": "owns",
+      "object": "asset_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Norwood Group Limited owns Harrowgate Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029406",
+      "subject": "asset_129",
+      "rel": "located_in",
+      "object": "place_117",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Harrowgate Yard is located in Fairhaven Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029407",
+      "subject": "company_1910",
+      "rel": "party_to",
+      "object": "legal_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Norwood Group Limited is a party to the Shareholder Agreement LEG-092.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029408",
+      "subject": "person_519",
+      "rel": "signed",
+      "object": "legal_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Juno Langford signed the Shareholder Agreement LEG-092.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01022_proposal",
+      "text": "The acquisition of North Norwood Marine Limited by North Norwood Group Limited",
+      "speaker": "person_1026",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Garrow, chair of North Norwood Group Limited, proposed to acquire North Norwood Marine Limited on 31 March 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01022_approval",
+      "text": "Regulatory approval for the acquisition of North Norwood Marine Limited",
+      "speaker": "person_1026",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Garrow confirmed that regulatory approval for the acquisition of North Norwood Marine Limited by North Norwood Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01022_link_conditional",
+      "src": "gen_doc_01022_proposal",
+      "dst": "gen_doc_01022_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Norwood Marine Limited by North Norwood Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01022",
+      "surface": "31 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-31",
+      "value_end": "2027-03-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029399",
+      "surface": "1 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-01",
+      "value_end": "2023-10-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "1 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029400",
+      "surface": "6 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-06",
+      "value_end": "2023-10-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "6 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01022",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

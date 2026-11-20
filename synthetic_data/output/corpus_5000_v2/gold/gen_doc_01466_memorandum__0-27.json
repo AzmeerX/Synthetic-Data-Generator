@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01466_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "e832e2ec47327d6cf1b8ea2b507ff51984e55ef6f33d2c9eb9ecfe1627ccfdd1"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_529",
+      "name": "Netherby Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_529",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Netherby Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_66",
+      "name": "Jarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_66",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2310",
+      "name": "North Wexford Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2310",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2311",
+      "name": "North Wexford Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2311",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Wexford Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2312",
+      "name": "North Wexford Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2312",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Wexford Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2315",
+      "name": "North Wexford Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2315",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Wexford Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Wexford Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_100",
+      "name": "Briar & Villiers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_100",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Villiers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_124",
+      "name": "Cairn & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_124",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_492",
+      "name": "Shareholder Agreement LEG-492",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_492",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Shareholder Agreement LEG-492",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-492",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_78",
+      "name": "Amina Neville",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_78",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_918",
+      "name": "Rhea Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_918",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_919",
+      "name": "Rhea Yardley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_919",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Rhea Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_926",
+      "name": "Silas Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_926",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_157",
+      "name": "Kelbrook Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_157",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kelbrook Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035632",
+      "subject": "company_2310",
+      "rel": "owns",
+      "object": "company_2311",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Wexford Capital Limited owns North Wexford Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035633",
+      "subject": "person_926",
+      "rel": "shareholder_of",
+      "object": "company_2310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silas Fenwick is a shareholder of North Wexford Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035645",
+      "subject": "person_918",
+      "rel": "family_of",
+      "object": "person_919",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Wyndham is a family member of Rhea Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035635",
+      "subject": "bank_66",
+      "rel": "lent_to",
+      "object": "company_2310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-27",
+          "value_end": "2026-06-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Commercial Bank Limited lent North Wexford Capital Limited GBP 30 million on 27 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035637",
+      "subject": "company_2312",
+      "rel": "guarantor_for",
+      "object": "company_2310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Wexford Energy Limited guaranteed the loan to North Wexford Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035636",
+      "subject": "company_2310",
+      "rel": "owes",
+      "object": "bank_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-07-02",
+          "value_end": "2026-07-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Wexford Capital Limited owes Jarrow Commercial Bank Limited GBP 13 million as at 2 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035638",
+      "subject": "lawfirm_100",
+      "rel": "represents",
+      "object": "company_2310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Villiers LLP represents North Wexford Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035641",
+      "subject": "company_2310",
+      "rel": "owns",
+      "object": "asset_529",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Wexford Capital Limited owns Netherby Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035642",
+      "subject": "asset_529",
+      "rel": "located_in",
+      "object": "place_157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Estate is located in Kelbrook Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035643",
+      "subject": "company_2310",
+      "rel": "party_to",
+      "object": "legal_492",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Wexford Capital Limited is a party to the Shareholder Agreement LEG-492.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035644",
+      "subject": "person_919",
+      "rel": "signed",
+      "object": "legal_492",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Rhea Yardley signed the Shareholder Agreement LEG-492.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01466_proposal",
+      "text": "The acquisition of North Wexford Systems Limited by North Wexford Capital Limited",
+      "speaker": "person_78",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Neville, chair of North Wexford Capital Limited, proposed to acquire North Wexford Systems Limited on 24 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01466_approval",
+      "text": "Regulatory approval for the acquisition of North Wexford Systems Limited",
+      "speaker": "person_78",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Amina Neville confirmed that regulatory approval for the acquisition of North Wexford Systems Limited by North Wexford Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01466_link_conditional",
+      "src": "gen_doc_01466_proposal",
+      "dst": "gen_doc_01466_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Wexford Systems Limited by North Wexford Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01466",
+      "surface": "24 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-24",
+      "value_end": "2025-11-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035635",
+      "surface": "27 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-27",
+      "value_end": "2026-06-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "27 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035636",
+      "surface": "2 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-02",
+      "value_end": "2026-07-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01466",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

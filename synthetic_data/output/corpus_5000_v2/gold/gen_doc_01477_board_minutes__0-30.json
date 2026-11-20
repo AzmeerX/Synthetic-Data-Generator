@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01477_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "635c1303faf4d79e518752890c1184ecdc8925c07c1123803e6a588225079a83"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_535",
+      "name": "Oakhurst Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_535",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Oakhurst Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_539",
+      "name": "Oakhurst Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_539",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_76",
+      "name": "Low Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_76",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2320",
+      "name": "North Yardley Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2320",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Yardley Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2322",
+      "name": "North Yardley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2322",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2325",
+      "name": "North Yardley Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2325",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Yardley Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Yardley Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_110",
+      "name": "Cairn & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_110",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_17",
+      "name": "Alden & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_17",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_502",
+      "name": "Loan Note LEG-502",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_502",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-502",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-502",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_89",
+      "name": "Amina Zouch",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_89",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_928",
+      "name": "Silas Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_928",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silas Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_929",
+      "name": "Silas Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_929",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silas Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_931",
+      "name": "Silas Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_931",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Silas Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_933",
+      "name": "Silas Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_933",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Silas Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_936",
+      "name": "Silas Pell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_936",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_167",
+      "name": "Merrivale Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_167",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035788",
+      "subject": "company_2320",
+      "rel": "owns",
+      "object": "asset_535",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Yardley Trading Limited owns Oakhurst Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035790",
+      "subject": "person_931",
+      "rel": "chair_of",
+      "object": "company_2320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Kerr is the chair of North Yardley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035789",
+      "subject": "person_936",
+      "rel": "shareholder_of",
+      "object": "company_2320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Pell is a shareholder of North Yardley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035801",
+      "subject": "person_928",
+      "rel": "family_of",
+      "object": "person_929",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Silas Hale is a family member of Silas Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035791",
+      "subject": "bank_76",
+      "rel": "lent_to",
+      "object": "company_2320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-18",
+          "value_end": "2022-02-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low Merchant Bank Limited lent North Yardley Trading Limited GBP 50 million on 18 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035793",
+      "subject": "company_2322",
+      "rel": "guarantor_for",
+      "object": "company_2320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Yardley Capital Limited guaranteed the loan to North Yardley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035792",
+      "subject": "company_2320",
+      "rel": "owes",
+      "object": "bank_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-23",
+          "value_end": "2022-02-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yardley Trading Limited owes Low Merchant Bank Limited GBP 13 million as at 23 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035794",
+      "subject": "lawfirm_110",
+      "rel": "represents",
+      "object": "company_2320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Garrow LLP represents North Yardley Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035797",
+      "subject": "company_2320",
+      "rel": "owns",
+      "object": "asset_539",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Yardley Trading Limited owns Oakhurst Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035798",
+      "subject": "asset_539",
+      "rel": "located_in",
+      "object": "place_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Oakhurst Data Centre is located in Merrivale Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035799",
+      "subject": "company_2320",
+      "rel": "party_to",
+      "object": "legal_502",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Yardley Trading Limited is a party to the Loan Note LEG-502.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035800",
+      "subject": "person_929",
+      "rel": "signed",
+      "object": "legal_502",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Ivers signed the Loan Note LEG-502.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01477_proposal",
+      "text": "The acquisition of North Yardley Property Limited by North Yardley Trading Limited",
+      "speaker": "person_89",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Zouch, chair of North Yardley Trading Limited, proposed to acquire North Yardley Property Limited on 9 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01477_approval",
+      "text": "Regulatory approval for the acquisition of North Yardley Property Limited",
+      "speaker": "person_89",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Zouch confirmed that regulatory approval for the acquisition of North Yardley Property Limited by North Yardley Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01477_link_conditional",
+      "src": "gen_doc_01477_proposal",
+      "dst": "gen_doc_01477_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Yardley Property Limited by North Yardley Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01477",
+      "surface": "9 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-09",
+      "value_end": "2026-02-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035791",
+      "surface": "18 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-18",
+      "value_end": "2022-02-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "18 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035792",
+      "surface": "23 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-23",
+      "value_end": "2022-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "23 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01477",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

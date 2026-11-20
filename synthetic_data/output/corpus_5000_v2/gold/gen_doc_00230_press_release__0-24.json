@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00230_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "1bf60f41d5eb14f5c4be349f5eeb837c79fa1a7da6a08bfcccb0d5a75f3b71ad"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_13",
+      "name": "Oakhaven Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_13",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oakhaven Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhaven Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1198",
+      "name": "Borrowdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1198",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Borrowdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1199",
+      "name": "Borrowdale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1199",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Borrowdale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1200",
+      "name": "Culm Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1200",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Culm Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_70",
+      "name": "Briar & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_70",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_592",
+      "name": "Side Letter LEG-592",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_592",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Side Letter LEG-592",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-592",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1198",
+      "name": "Xander Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1198",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1199",
+      "name": "Xander Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1199",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1206",
+      "name": "Xander Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1206",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Xander Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_234",
+      "name": "Daria Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_234",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_125",
+      "name": "Glenmoor Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_125",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glenmoor Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018293",
+      "subject": "company_1198",
+      "rel": "owns",
+      "object": "company_1199",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Borrowdale Ventures Limited owns Borrowdale Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018294",
+      "subject": "person_1206",
+      "rel": "shareholder_of",
+      "object": "company_1198",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Xander Montague is a shareholder of Borrowdale Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018306",
+      "subject": "person_1198",
+      "rel": "family_of",
+      "object": "person_1199",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Everard is a family member of Xander Fairfax.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018296",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_1198",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-30",
+          "value_end": "2025-07-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alder Merchant Bank Limited lent Borrowdale Ventures Limited GBP 46 million on 30 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018298",
+      "subject": "company_1200",
+      "rel": "guarantor_for",
+      "object": "company_1198",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Culm Holdings Limited guaranteed the loan to Borrowdale Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018297",
+      "subject": "company_1198",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-08-04",
+          "value_end": "2025-08-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Borrowdale Ventures Limited owes Alder Merchant Bank Limited GBP 11 million as at 4 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018302",
+      "subject": "company_1198",
+      "rel": "owns",
+      "object": "asset_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Borrowdale Ventures Limited owns Oakhaven Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018303",
+      "subject": "asset_13",
+      "rel": "located_in",
+      "object": "place_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhaven Yard is located in Glenmoor Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018304",
+      "subject": "company_1198",
+      "rel": "party_to",
+      "object": "legal_592",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Borrowdale Ventures Limited is a party to the Side Letter LEG-592.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018305",
+      "subject": "person_1199",
+      "rel": "signed",
+      "object": "legal_592",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Fairfax signed the Side Letter LEG-592.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00230_allegation",
+      "text": "A former employee alleged that Borrowdale Ventures Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Villiers noted that a former employee alleged that Borrowdale Ventures Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00230",
+      "surface": "17 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-17",
+      "value_end": "2025-03-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018296",
+      "surface": "30 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-30",
+      "value_end": "2025-07-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "30 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018297",
+      "surface": "4 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-04",
+      "value_end": "2025-08-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "4 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00230",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

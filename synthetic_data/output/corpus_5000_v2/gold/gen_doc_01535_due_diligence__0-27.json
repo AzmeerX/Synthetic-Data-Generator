@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01535_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "122fa8a434fe8484ef8be01f54ba31973a049910e58fd3bb11ff7f62edd8e8c8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_592",
+      "name": "Redmoor Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_592",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Redmoor Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_129",
+      "name": "Uldale Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_129",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2373",
+      "name": "North Dunkeld Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2373",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Dunkeld Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2374",
+      "name": "North Dunkeld Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2374",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Dunkeld Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2375",
+      "name": "North Dunkeld Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2375",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Dunkeld Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_33",
+      "name": "Alden & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_33",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_555",
+      "name": "Debenture LEG-555",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_555",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-555",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-555",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_147",
+      "name": "Calder Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_147",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_981",
+      "name": "Tamsin Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_981",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_982",
+      "name": "Tamsin Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_982",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_989",
+      "name": "Tamsin Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_989",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_40",
+      "name": "Draycott",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_40",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Draycott",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036614",
+      "subject": "company_2373",
+      "rel": "owns",
+      "object": "company_2374",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Dunkeld Property Limited owns North Dunkeld Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036623",
+      "subject": "company_2373",
+      "rel": "owns",
+      "object": "asset_592",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Dunkeld Property Limited owns Redmoor Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036624",
+      "subject": "asset_592",
+      "rel": "located_in",
+      "object": "place_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Wharf is located in Draycott.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036620",
+      "subject": "lawfirm_33",
+      "rel": "represents",
+      "object": "company_2373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Cavendish LLP represents North Dunkeld Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036615",
+      "subject": "person_989",
+      "rel": "shareholder_of",
+      "object": "company_2373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Thorne is a shareholder of North Dunkeld Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036627",
+      "subject": "person_981",
+      "rel": "family_of",
+      "object": "person_982",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Kerr is a family member of Tamsin Lorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036617",
+      "subject": "bank_129",
+      "rel": "lent_to",
+      "object": "company_2373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-09-24",
+          "value_end": "2023-09-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Bank Limited lent North Dunkeld Property Limited GBP 36 million on 24 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036619",
+      "subject": "company_2375",
+      "rel": "guarantor_for",
+      "object": "company_2373",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Dunkeld Systems Limited guaranteed the loan to North Dunkeld Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036618",
+      "subject": "company_2373",
+      "rel": "owes",
+      "object": "bank_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-09-29",
+          "value_end": "2023-09-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Dunkeld Property Limited owes Uldale Bank Limited GBP 6 million as at 29 September 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036625",
+      "subject": "company_2373",
+      "rel": "party_to",
+      "object": "legal_555",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Dunkeld Property Limited is a party to the Debenture LEG-555.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036626",
+      "subject": "person_982",
+      "rel": "signed",
+      "object": "legal_555",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Lorne signed the Debenture LEG-555.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01535_allegation",
+      "text": "A former employee alleged that North Dunkeld Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Hale noted that a former employee alleged that North Dunkeld Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01535",
+      "surface": "22 March 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-03-22",
+      "value_end": "2027-03-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 March 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036617",
+      "surface": "24 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-24",
+      "value_end": "2023-09-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036618",
+      "surface": "29 September 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-09-29",
+      "value_end": "2023-09-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 September 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01535",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

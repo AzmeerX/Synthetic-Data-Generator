@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00205_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "ebc60ba264ec9a9485f23d41748a506d3cb3589b138b0241812b45bfdca440ec"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_586",
+      "name": "Quintrell Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_586",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quintrell Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_119",
+      "name": "Stan Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_119",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stan Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1175",
+      "name": "Yelverton Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1175",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Yelverton Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1176",
+      "name": "Alderney Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1176",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Alderney Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1177",
+      "name": "Alderney Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1177",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alderney Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_05",
+      "name": "Quade & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_05",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quade & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_569",
+      "name": "Trust Deed LEG-569",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_569",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-569",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-569",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1175",
+      "name": "Xander Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1175",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1176",
+      "name": "Xander Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1176",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1183",
+      "name": "Xander Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1183",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_209",
+      "name": "Daria Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_209",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_102",
+      "name": "Dunmere Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_102",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017934",
+      "subject": "company_1175",
+      "rel": "owns",
+      "object": "company_1176",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Yelverton Systems Limited owns Alderney Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017943",
+      "subject": "company_1175",
+      "rel": "owns",
+      "object": "asset_586",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yelverton Systems Limited owns Quintrell Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017944",
+      "subject": "asset_586",
+      "rel": "located_in",
+      "object": "place_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell Mill is located in Dunmere Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017940",
+      "subject": "lawfirm_05",
+      "rel": "represents",
+      "object": "company_1175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quade & Thorne LLP represents Yelverton Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017935",
+      "subject": "person_1183",
+      "rel": "shareholder_of",
+      "object": "company_1175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Orrick is a shareholder of Yelverton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017947",
+      "subject": "person_1175",
+      "rel": "family_of",
+      "object": "person_1176",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Fenwick is a family member of Xander Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017937",
+      "subject": "bank_119",
+      "rel": "lent_to",
+      "object": "company_1175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-19",
+          "value_end": "2024-11-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Trust Bank Limited lent Yelverton Systems Limited GBP 40 million on 19 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017939",
+      "subject": "company_1177",
+      "rel": "guarantor_for",
+      "object": "company_1175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alderney Industries Limited guaranteed the loan to Yelverton Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017938",
+      "subject": "company_1175",
+      "rel": "owes",
+      "object": "bank_119",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-24",
+          "value_end": "2024-11-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Yelverton Systems Limited owes Stan Trust Bank Limited GBP 8 million as at 24 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017945",
+      "subject": "company_1175",
+      "rel": "party_to",
+      "object": "legal_569",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yelverton Systems Limited is a party to the Trust Deed LEG-569.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017946",
+      "subject": "person_1176",
+      "rel": "signed",
+      "object": "legal_569",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Hale signed the Trust Deed LEG-569.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00205_allegation",
+      "text": "A former employee alleged that Yelverton Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Ulric noted that a former employee alleged that Yelverton Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00205",
+      "surface": "23 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-23",
+      "value_end": "2024-09-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017937",
+      "surface": "19 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-19",
+      "value_end": "2024-11-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017938",
+      "surface": "24 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-24",
+      "value_end": "2024-11-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "24 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00205",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

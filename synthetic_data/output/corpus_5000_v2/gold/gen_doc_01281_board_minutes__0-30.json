@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01281_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "5a711f5674f2c3af75417b346e0c73be8b0e33c999b0ab389054730f71d808f4"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_359",
+      "name": "Fairmouth Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_359",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Fairmouth Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_363",
+      "name": "Fairmouth Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_363",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairmouth Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_32",
+      "name": "Denmoor International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_32",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2144",
+      "name": "North Inkberrow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2144",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Inkberrow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2146",
+      "name": "North Inkberrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2146",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2149",
+      "name": "North Juniper Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2149",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Juniper Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Juniper Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_64",
+      "name": "Briar & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_64",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_81",
+      "name": "Briar & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_81",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_326",
+      "name": "Loan Note LEG-326",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_326",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-326",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-326",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1285",
+      "name": "Zane Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1285",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_752",
+      "name": "Oren Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_752",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_753",
+      "name": "Oren Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_753",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Cavendish",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_755",
+      "name": "Oren Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_755",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oren Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_757",
+      "name": "Oren Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_757",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Oren Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_760",
+      "name": "Oren Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_760",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_171",
+      "name": "Merrivale Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_171",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033045",
+      "subject": "company_2144",
+      "rel": "owns",
+      "object": "asset_359",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Inkberrow Energy Limited owns Fairmouth Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033047",
+      "subject": "person_755",
+      "rel": "chair_of",
+      "object": "company_2144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Everard is the chair of North Inkberrow Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033046",
+      "subject": "person_760",
+      "rel": "shareholder_of",
+      "object": "company_2144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Jeffreys is a shareholder of North Inkberrow Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033058",
+      "subject": "person_752",
+      "rel": "family_of",
+      "object": "person_753",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Oren Balfour is a family member of Oren Cavendish.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033048",
+      "subject": "bank_32",
+      "rel": "lent_to",
+      "object": "company_2144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-02-21",
+          "value_end": "2026-02-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor International Bank Limited lent North Inkberrow Energy Limited GBP 18 million on 21 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033050",
+      "subject": "company_2146",
+      "rel": "guarantor_for",
+      "object": "company_2144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Inkberrow Ventures Limited guaranteed the loan to North Inkberrow Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033049",
+      "subject": "company_2144",
+      "rel": "owes",
+      "object": "bank_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-02-26",
+          "value_end": "2026-02-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Inkberrow Energy Limited owes Denmoor International Bank Limited GBP 7 million as at 26 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033051",
+      "subject": "lawfirm_64",
+      "rel": "represents",
+      "object": "company_2144",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Jarvis LLP represents North Inkberrow Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033054",
+      "subject": "company_2144",
+      "rel": "owns",
+      "object": "asset_363",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Inkberrow Energy Limited owns Fairmouth Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033055",
+      "subject": "asset_363",
+      "rel": "located_in",
+      "object": "place_171",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth Works is located in Merrivale Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033056",
+      "subject": "company_2144",
+      "rel": "party_to",
+      "object": "legal_326",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Inkberrow Energy Limited is a party to the Loan Note LEG-326.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033057",
+      "subject": "person_753",
+      "rel": "signed",
+      "object": "legal_326",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Cavendish signed the Loan Note LEG-326.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01281_proposal",
+      "text": "The acquisition of North Juniper Industries Limited by North Inkberrow Energy Limited",
+      "speaker": "person_1285",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Rook, chair of North Inkberrow Energy Limited, proposed to acquire North Juniper Industries Limited on 21 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01281_approval",
+      "text": "Regulatory approval for the acquisition of North Juniper Industries Limited",
+      "speaker": "person_1285",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Zane Rook confirmed that regulatory approval for the acquisition of North Juniper Industries Limited by North Inkberrow Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01281_link_conditional",
+      "src": "gen_doc_01281_proposal",
+      "dst": "gen_doc_01281_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Juniper Industries Limited by North Inkberrow Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01281",
+      "surface": "21 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-21",
+      "value_end": "2025-08-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033048",
+      "surface": "21 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-21",
+      "value_end": "2026-02-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "21 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033049",
+      "surface": "26 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-26",
+      "value_end": "2026-02-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "26 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01281",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01136_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "94eedf31282aeeb7442c1cbe84f3eb1884211fe35fdee8c731d4ca5e8d6e10d7"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_232",
+      "name": "Marrow Bay Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_232",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Marrow Bay Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_33",
+      "name": "Elm Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_33",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2013",
+      "name": "North Vicarage Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2013",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Vicarage Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2014",
+      "name": "North Vicarage Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2014",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2015",
+      "name": "North Vicarage Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2015",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_63",
+      "name": "Briar & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_63",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_195",
+      "name": "Guarantee Deed LEG-195",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_195",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-195",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-195",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1140",
+      "name": "Wren Ulric",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1140",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_621",
+      "name": "Lena Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_621",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_622",
+      "name": "Lena Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_622",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_629",
+      "name": "Lena Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_629",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_40",
+      "name": "Draycott",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_40",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Draycott",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031001",
+      "subject": "company_2013",
+      "rel": "owns",
+      "object": "company_2014",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vicarage Property Limited owns North Vicarage Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031010",
+      "subject": "company_2013",
+      "rel": "owns",
+      "object": "asset_232",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Property Limited owns Marrow Bay Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031011",
+      "subject": "asset_232",
+      "rel": "located_in",
+      "object": "place_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Office Park is located in Draycott.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031007",
+      "subject": "lawfirm_63",
+      "rel": "represents",
+      "object": "company_2013",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ivers LLP represents North Vicarage Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031002",
+      "subject": "person_629",
+      "rel": "shareholder_of",
+      "object": "company_2013",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Yardley is a shareholder of North Vicarage Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031014",
+      "subject": "person_621",
+      "rel": "family_of",
+      "object": "person_622",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Pemberton is a family member of Lena Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031004",
+      "subject": "bank_33",
+      "rel": "lent_to",
+      "object": "company_2013",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-13",
+          "value_end": "2022-03-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Bank Limited lent North Vicarage Property Limited GBP 36 million on 13 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031006",
+      "subject": "company_2015",
+      "rel": "guarantor_for",
+      "object": "company_2013",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Systems Limited guaranteed the loan to North Vicarage Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031005",
+      "subject": "company_2013",
+      "rel": "owes",
+      "object": "bank_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-18",
+          "value_end": "2022-03-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Vicarage Property Limited owes Elm Bank Limited GBP 6 million as at 18 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031012",
+      "subject": "company_2013",
+      "rel": "party_to",
+      "object": "legal_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Vicarage Property Limited is a party to the Guarantee Deed LEG-195.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031013",
+      "subject": "person_622",
+      "rel": "signed",
+      "object": "legal_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Ravenscroft signed the Guarantee Deed LEG-195.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01136_allegation",
+      "text": "A former employee alleged that North Vicarage Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Ulric noted that a former employee alleged that North Vicarage Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01136",
+      "surface": "22 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-22",
+      "value_end": "2026-02-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031004",
+      "surface": "13 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-13",
+      "value_end": "2022-03-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031005",
+      "surface": "18 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-18",
+      "value_end": "2022-03-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "18 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01136",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

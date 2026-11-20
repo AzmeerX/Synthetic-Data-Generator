@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01551_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "01a3f906029e555b54fd0534b8a4f92a5d2f6322ae8729d65f2f7b6c495fdb1f"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_07",
+      "name": "Ironside Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_07",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_12",
+      "name": "Alder Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_12",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2388",
+      "name": "North Fingal Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2388",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fingal Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2390",
+      "name": "North Fingal Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2390",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fingal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Fingal Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Fingal Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_570",
+      "name": "Settlement Agreement LEG-570",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_570",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Settlement Agreement LEG-570",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Settlement Agreement LEG-570",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1004",
+      "name": "Tamsin Jeffreys",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1004",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tamsin Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_163",
+      "name": "Calder Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_163",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_996",
+      "name": "Tamsin Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_996",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_997",
+      "name": "Tamsin Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_997",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tamsin Cavendish",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_999",
+      "name": "Tamsin Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_999",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tamsin Everard",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036859",
+      "subject": "company_2388",
+      "rel": "party_to",
+      "object": "legal_570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fingal Holdings Limited is a party to the Settlement Agreement LEG-570.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036860",
+      "subject": "person_997",
+      "rel": "signed",
+      "object": "legal_570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tamsin Cavendish signed the Settlement Agreement LEG-570.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036850",
+      "subject": "person_999",
+      "rel": "chair_of",
+      "object": "company_2388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tamsin Everard is the chair of North Fingal Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036851",
+      "subject": "bank_12",
+      "rel": "lent_to",
+      "object": "company_2388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-07",
+          "value_end": "2024-03-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Alder Commercial Bank Limited lent North Fingal Holdings Limited GBP 26 million on 7 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036853",
+      "subject": "company_2390",
+      "rel": "guarantor_for",
+      "object": "company_2388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Fingal Group Limited guaranteed the loan to North Fingal Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036852",
+      "subject": "company_2388",
+      "rel": "owes",
+      "object": "bank_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-12",
+          "value_end": "2024-03-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Fingal Holdings Limited owes Alder Commercial Bank Limited GBP 11 million as at 12 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036849",
+      "subject": "person_1004",
+      "rel": "shareholder_of",
+      "object": "company_2388",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tamsin Jeffreys is a shareholder of North Fingal Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036861",
+      "subject": "person_996",
+      "rel": "family_of",
+      "object": "person_997",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Balfour is a family member of Tamsin Cavendish.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036848",
+      "subject": "company_2388",
+      "rel": "owns",
+      "object": "asset_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Fingal Holdings Limited owns Ironside Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01551_neg_guarantee",
+      "subject": "company_2388",
+      "rel": "guarantor_for",
+      "object": "company_2390",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Fingal Holdings Limited did not guarantee the facility for North Fingal Group Limited on 29 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01551_allegation",
+      "text": "A former employee alleged that North Fingal Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Yarrow noted that a former employee alleged that North Fingal Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01551",
+      "surface": "29 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-29",
+      "value_end": "2024-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036851",
+      "surface": "7 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-07",
+      "value_end": "2024-03-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "7 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036852",
+      "surface": "12 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-12",
+      "value_end": "2024-03-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "12 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01551",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2024-09-29",
+      "value_end": "2024-09-29",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

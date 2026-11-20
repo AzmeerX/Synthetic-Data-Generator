@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01463_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "07bc9cee46282e8a3452f0f3c99318e94590ba83c32ca2fba68fb20651397f3a"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_523",
+      "name": "Netherby Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_523",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Netherby Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_527",
+      "name": "Netherby Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_527",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Netherby Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_64",
+      "name": "Jarrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_64",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Jarrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2308",
+      "name": "North Wexford Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2308",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Wexford Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2310",
+      "name": "North Wexford Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2310",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Wexford Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2312",
+      "name": "North Wexford Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2312",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Wexford Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Wexford Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_121",
+      "name": "Cairn & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_121",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Cairn & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_98",
+      "name": "Briar & Tremayne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_98",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_490",
+      "name": "Settlement Agreement LEG-490",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_490",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-490",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-490",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_75",
+      "name": "Amina Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_75",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_916",
+      "name": "Rhea Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_916",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Rhea Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_917",
+      "name": "Rhea Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_917",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Rhea Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_919",
+      "name": "Rhea Yardley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_919",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Rhea Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_921",
+      "name": "Silas Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_921",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Silas Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_924",
+      "name": "Silas Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_924",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_155",
+      "name": "Kelbrook Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_155",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kelbrook Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035601",
+      "subject": "company_2308",
+      "rel": "owns",
+      "object": "asset_523",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Wexford Trading Limited owns Netherby Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035603",
+      "subject": "person_919",
+      "rel": "chair_of",
+      "object": "company_2308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Yardley is the chair of North Wexford Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035602",
+      "subject": "person_924",
+      "rel": "shareholder_of",
+      "object": "company_2308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Dunmore is a shareholder of North Wexford Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035614",
+      "subject": "person_916",
+      "rel": "family_of",
+      "object": "person_917",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Rhea Villiers is a family member of Rhea Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035604",
+      "subject": "bank_64",
+      "rel": "lent_to",
+      "object": "company_2308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-05",
+          "value_end": "2026-06-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Jarrow Merchant Bank Limited lent North Wexford Trading Limited GBP 26 million on 5 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035606",
+      "subject": "company_2310",
+      "rel": "guarantor_for",
+      "object": "company_2308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Wexford Capital Limited guaranteed the loan to North Wexford Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035605",
+      "subject": "company_2308",
+      "rel": "owes",
+      "object": "bank_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-10",
+          "value_end": "2026-06-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Wexford Trading Limited owes Jarrow Merchant Bank Limited GBP 11 million as at 10 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035607",
+      "subject": "lawfirm_98",
+      "rel": "represents",
+      "object": "company_2308",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Tremayne LLP represents North Wexford Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035610",
+      "subject": "company_2308",
+      "rel": "owns",
+      "object": "asset_527",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Wexford Trading Limited owns Netherby Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035611",
+      "subject": "asset_527",
+      "rel": "located_in",
+      "object": "place_155",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Netherby Dock is located in Kelbrook Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035612",
+      "subject": "company_2308",
+      "rel": "party_to",
+      "object": "legal_490",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Wexford Trading Limited is a party to the Settlement Agreement LEG-490.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035613",
+      "subject": "person_917",
+      "rel": "signed",
+      "object": "legal_490",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Whitlock signed the Settlement Agreement LEG-490.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01463_proposal",
+      "text": "The acquisition of North Wexford Energy Limited by North Wexford Trading Limited",
+      "speaker": "person_75",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Kingsley, chair of North Wexford Trading Limited, proposed to acquire North Wexford Energy Limited on 3 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01463_approval",
+      "text": "Regulatory approval for the acquisition of North Wexford Energy Limited",
+      "speaker": "person_75",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Kingsley confirmed that regulatory approval for the acquisition of North Wexford Energy Limited by North Wexford Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01463_link_conditional",
+      "src": "gen_doc_01463_proposal",
+      "dst": "gen_doc_01463_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Wexford Energy Limited by North Wexford Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01463",
+      "surface": "3 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-03",
+      "value_end": "2025-11-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "3 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035604",
+      "surface": "5 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-05",
+      "value_end": "2026-06-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "5 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035605",
+      "surface": "10 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-10",
+      "value_end": "2026-06-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "10 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01463",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

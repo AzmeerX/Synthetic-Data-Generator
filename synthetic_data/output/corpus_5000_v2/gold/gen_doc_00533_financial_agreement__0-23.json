@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00533_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "506ec8dbb014ac61c8e6c793490380ac1b623a22ce96d1580393b5a45abee77c"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1470",
+      "name": "North Ashcombe Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1470",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Ashcombe Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1471",
+      "name": "North Ashcombe Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1471",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashcombe Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1472",
+      "name": "North Ashcombe Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1472",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashcombe Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1473",
+      "name": "North Ashcombe Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1473",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Ashcombe Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_258",
+      "name": "Facility Agreement LEG-258",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_258",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Facility Agreement LEG-258",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Facility Agreement LEG-258",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_79",
+      "name": "Amina Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_79",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Amina Osborne",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022534",
+      "subject": "company_1470",
+      "rel": "owns",
+      "object": "company_1471",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashcombe Capital Limited owns North Ashcombe Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022537",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_1470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-06-17",
+          "value_end": "2024-06-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Commercial Bank Limited lent North Ashcombe Capital Limited GBP 30 million on 17 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022539",
+      "subject": "company_1472",
+      "rel": "guarantor_for",
+      "object": "company_1470",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Ashcombe Energy Limited guaranteed the loan to North Ashcombe Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022538",
+      "subject": "company_1470",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-06-22",
+          "value_end": "2024-06-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Ashcombe Capital Limited owes Bexley Commercial Bank Limited GBP 13 million as at 22 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022545",
+      "subject": "company_1470",
+      "rel": "party_to",
+      "object": "legal_258",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ashcombe Capital Limited is a party to the Facility Agreement LEG-258.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022546",
+      "subject": "person_79",
+      "rel": "signed",
+      "object": "legal_258",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Amina Osborne signed the Facility Agreement LEG-258.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00533_neg_guarantee",
+      "subject": "company_1470",
+      "rel": "guarantor_for",
+      "object": "company_1473",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Ashcombe Capital Limited did not guarantee the facility for North Ashcombe Property Limited on 11 June 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_00537_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00533",
+      "surface": "11 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-11",
+      "value_end": "2024-06-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022537",
+      "surface": "17 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-17",
+      "value_end": "2024-06-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "17 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022538",
+      "surface": "22 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-22",
+      "value_end": "2024-06-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "22 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00533",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2024-12-11",
+      "value_end": "2024-12-11",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

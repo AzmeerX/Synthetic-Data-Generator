@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00439_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "e77acb12542007abcc75575591d7e6b66a4c2d8ef9416a1909cfacd3d62ac4f8"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_201",
+      "name": "Larkspur Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_201",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_66",
+      "name": "Jarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_66",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Jarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Jarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1386",
+      "name": "Rannoch Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1386",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Rannoch Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1387",
+      "name": "Rannoch Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1387",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Rannoch Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1388",
+      "name": "Rannoch Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1388",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rannoch Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1389",
+      "name": "Rannoch Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1389",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Rannoch Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1390",
+      "name": "Rannoch Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1390",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Rannoch Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Rannoch Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_19",
+      "name": "Alden & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_19",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Nyle LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_174",
+      "name": "Licence LEG-174",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_174",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-174",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-174",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_02",
+      "name": "Ines Hale",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_02",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ines Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1386",
+      "name": "Bram Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1386",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1387",
+      "name": "Bram Ward",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1387",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bram Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_443",
+      "name": "Ivo Jarvis",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_443",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ivo Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ivo Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_133",
+      "name": "Harrowden Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_133",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021224",
+      "subject": "company_1386",
+      "rel": "owns",
+      "object": "company_1387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Rannoch Capital Limited owns Rannoch Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021225",
+      "subject": "person_02",
+      "rel": "shareholder_of",
+      "object": "company_1386",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ines Hale is a shareholder of Rannoch Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021237",
+      "subject": "person_1386",
+      "rel": "family_of",
+      "object": "person_1387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Vale is a family member of Bram Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021227",
+      "subject": "bank_66",
+      "rel": "lent_to",
+      "object": "company_1386",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-08-02",
+          "value_end": "2026-08-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Jarrow Commercial Bank Limited lent Rannoch Capital Limited GBP 22 million on 2 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021229",
+      "subject": "company_1388",
+      "rel": "guarantor_for",
+      "object": "company_1386",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rannoch Energy Limited guaranteed the loan to Rannoch Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021228",
+      "subject": "company_1386",
+      "rel": "owes",
+      "object": "bank_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-08-07",
+          "value_end": "2026-08-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Rannoch Capital Limited owes Jarrow Commercial Bank Limited GBP 9 million as at 7 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021233",
+      "subject": "company_1386",
+      "rel": "owns",
+      "object": "asset_201",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Rannoch Capital Limited owns Larkspur Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021234",
+      "subject": "asset_201",
+      "rel": "located_in",
+      "object": "place_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Foundry is located in Harrowden Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021235",
+      "subject": "company_1386",
+      "rel": "party_to",
+      "object": "legal_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Rannoch Capital Limited is a party to the Licence LEG-174.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021236",
+      "subject": "person_1387",
+      "rel": "signed",
+      "object": "legal_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bram Ward signed the Licence LEG-174.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00439_proposal",
+      "text": "The acquisition of Rannoch Ventures Limited by Rannoch Capital Limited",
+      "speaker": "person_443",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ivo Jarvis, chair of Rannoch Capital Limited, proposed to acquire Rannoch Ventures Limited on 5 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00439_approval",
+      "text": "Regulatory approval for the acquisition of Rannoch Ventures Limited",
+      "speaker": "person_443",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ivo Jarvis confirmed that regulatory approval for the acquisition of Rannoch Ventures Limited by Rannoch Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00439_link_conditional",
+      "src": "gen_doc_00439_proposal",
+      "dst": "gen_doc_00439_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Rannoch Ventures Limited by Rannoch Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00435_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00439",
+      "surface": "5 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-05",
+      "value_end": "2025-12-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021227",
+      "surface": "2 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-02",
+      "value_end": "2026-08-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "2 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021228",
+      "surface": "7 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-07",
+      "value_end": "2026-08-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "7 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

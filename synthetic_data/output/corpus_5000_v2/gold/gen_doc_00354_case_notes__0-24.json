@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00354_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "6befda71b0beff756f3d355793b82706e2c938e83d58d1e7cc4369a7f558c694"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_121",
+      "name": "Stan Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_121",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Stan Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1309",
+      "name": "Lorne Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1309",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lorne Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1310",
+      "name": "Lorne Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1310",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lorne Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1311",
+      "name": "Lorne Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1311",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lorne Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Lorne Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Lorne Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_97",
+      "name": "Share Purchase Agreement LEG-097",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_97",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Share Purchase Agreement LEG-097",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Share Purchase Agreement LEG-097",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1309",
+      "name": "Zane Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1309",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Zane Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1310",
+      "name": "Zane Sinclair",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1310",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Zane Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Zane Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1312",
+      "name": "Zane Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1312",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zane Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1317",
+      "name": "Zane Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1317",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Zane Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_358",
+      "name": "Gideon Yarrow",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_358",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gideon Yarrow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020033",
+      "subject": "company_1309",
+      "rel": "party_to",
+      "object": "legal_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lorne Industries Limited is a party to the Share Purchase Agreement LEG-097.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020034",
+      "subject": "person_1310",
+      "rel": "signed",
+      "object": "legal_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Zane Sinclair signed the Share Purchase Agreement LEG-097.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020024",
+      "subject": "person_1312",
+      "rel": "chair_of",
+      "object": "company_1309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Zane Underwood is the chair of Lorne Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020025",
+      "subject": "bank_121",
+      "rel": "lent_to",
+      "object": "company_1309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-07",
+          "value_end": "2024-04-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Stan Private Bank Limited lent Lorne Industries Limited GBP 28 million on 7 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020027",
+      "subject": "company_1311",
+      "rel": "guarantor_for",
+      "object": "company_1309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lorne Logistics Limited guaranteed the loan to Lorne Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020026",
+      "subject": "company_1309",
+      "rel": "owes",
+      "object": "bank_121",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-12",
+          "value_end": "2024-04-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lorne Industries Limited owes Stan Private Bank Limited GBP 12 million as at 12 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020023",
+      "subject": "person_1317",
+      "rel": "shareholder_of",
+      "object": "company_1309",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Zane Zouch is a shareholder of Lorne Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020035",
+      "subject": "person_1309",
+      "rel": "family_of",
+      "object": "person_1310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Zane Ravenscroft is a family member of Zane Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020022",
+      "subject": "company_1309",
+      "rel": "owns",
+      "object": "company_1310",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lorne Industries Limited owns Lorne Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00354_neg_guarantee",
+      "subject": "company_1309",
+      "rel": "guarantor_for",
+      "object": "company_1311",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lorne Industries Limited did not guarantee the facility for Lorne Logistics Limited on 19 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00354_allegation",
+      "text": "A former employee alleged that Lorne Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Gideon Yarrow noted that a former employee alleged that Lorne Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00354",
+      "surface": "19 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-19",
+      "value_end": "2024-04-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020025",
+      "surface": "7 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-07",
+      "value_end": "2024-04-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "7 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020026",
+      "surface": "12 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-12",
+      "value_end": "2024-04-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "12 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00354",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2024-10-19",
+      "value_end": "2024-10-19",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

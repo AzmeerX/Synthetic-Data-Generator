@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01458_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e9d3a486b3d88f0c09eb859b3ed0d532a6dea23108a702a8407915fd5f19edad"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_522",
+      "name": "Netherby Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_522",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_59",
+      "name": "Inver Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_59",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Inver Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2303",
+      "name": "North Vinehall Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2303",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Vinehall Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2304",
+      "name": "North Wexford Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2304",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Wexford Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2305",
+      "name": "North Wexford Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2305",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Wexford Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_93",
+      "name": "Briar & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_93",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_485",
+      "name": "Security Agreement LEG-485",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_485",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-485",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-485",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_70",
+      "name": "Amina Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_70",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_911",
+      "name": "Rhea Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_911",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_912",
+      "name": "Rhea Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_912",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_919",
+      "name": "Rhea Yardley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_919",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_150",
+      "name": "Jarrow Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_150",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Jarrow Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035523",
+      "subject": "company_2303",
+      "rel": "owns",
+      "object": "company_2304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vinehall Systems Limited owns North Wexford Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035532",
+      "subject": "company_2303",
+      "rel": "owns",
+      "object": "asset_522",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Systems Limited owns Netherby Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035533",
+      "subject": "asset_522",
+      "rel": "located_in",
+      "object": "place_150",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Marina is located in Jarrow Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035529",
+      "subject": "lawfirm_93",
+      "rel": "represents",
+      "object": "company_2303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Neville LLP represents North Vinehall Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035524",
+      "subject": "person_919",
+      "rel": "shareholder_of",
+      "object": "company_2303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Rhea Yardley is a shareholder of North Vinehall Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035536",
+      "subject": "person_911",
+      "rel": "family_of",
+      "object": "person_912",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Rhea Pemberton is a family member of Rhea Ravenscroft.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035526",
+      "subject": "bank_59",
+      "rel": "lent_to",
+      "object": "company_2303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-11",
+          "value_end": "2026-04-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver Trust Bank Limited lent North Vinehall Systems Limited GBP 16 million on 11 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035528",
+      "subject": "company_2305",
+      "rel": "guarantor_for",
+      "object": "company_2303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Wexford Industries Limited guaranteed the loan to North Vinehall Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035527",
+      "subject": "company_2303",
+      "rel": "owes",
+      "object": "bank_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-04-16",
+          "value_end": "2026-04-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Vinehall Systems Limited owes Inver Trust Bank Limited GBP 6 million as at 16 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035534",
+      "subject": "company_2303",
+      "rel": "party_to",
+      "object": "legal_485",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Vinehall Systems Limited is a party to the Security Agreement LEG-485.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035535",
+      "subject": "person_912",
+      "rel": "signed",
+      "object": "legal_485",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Rhea Ravenscroft signed the Security Agreement LEG-485.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01458_allegation",
+      "text": "A former employee alleged that North Vinehall Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Fairfax noted that a former employee alleged that North Vinehall Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01458",
+      "surface": "29 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-29",
+      "value_end": "2025-09-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035526",
+      "surface": "11 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-11",
+      "value_end": "2026-04-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "11 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035527",
+      "surface": "16 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-16",
+      "value_end": "2026-04-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "16 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01458",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

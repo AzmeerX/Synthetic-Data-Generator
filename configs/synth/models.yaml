@@ -1,0 +1,13 @@
+endpoints:
+  # T1 base layer: Granite 3.1 8B with GLiNER2 (endpoint name kept for code compatibility)
+  t1_micro: { base_url: "http://localhost:1234/v1", model: "ibm/granite-3.1-8b", context_length: 8192,
+              tokenizer: "data/tokenizers/granite-3.1-8b/tokenizer.json", structured_mode: strict_schema, temperature: 0.0 }
+  # T2 middle manager: Mistral 14B reasoning; reasoning_budget = thinking tokens on top of each answer cap
+  t2:       { base_url: "http://localhost:1234/v1", model: "ministral-3-14b-reasoning-2512", context_length: 32768,
+              tokenizer: "data/tokenizers/mistral-14b/tokenizer.json", structured_mode: strict_schema, temperature: 0.0,
+              reasoning_budget: 4000 }
+  t3:       { base_url: "https://<provider>/v1", model: "<frontier id>", api_key_env: SYNTH_T3_API_KEY,
+              context_length: 65536, structured_mode: json_then_validate, local: false,
+              price_per_mtok_in: 0.0, price_per_mtok_out: 0.0 }
+gliner:     { model: "fastino/gliner2.5-base-v1", device: cuda, threshold: 0.5, window_words: 384, overlap_words: 64 }
+tier1:      { relation_mode: micro }      # micro | gliner | gliner+micro   (experiment E1)

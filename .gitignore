@@ -1,0 +1,52 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Build artifacts
+build/
+dist/
+
+# Local secrets and configuration
+.env
+.env.*
+config.local.yaml
+config.yaml
+*.pem
+*.key
+*.p12
+secrets.yaml
+
+# Local databases and profiling output
+*.db
+*.sqlite
+*.sqlite3
+*.pstats
+*.prof
+.prof/
+
+# Generated scratch output. The four published V2 datasets are explicitly
+# un-ignored below and remain part of the repository.
+synthetic_data/output/*
+!synthetic_data/output/pilot_20_v2/
+!synthetic_data/output/corpus_500_v2/
+!synthetic_data/output/corpus_1000_v2/
+!synthetic_data/output/corpus_5000_v2/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01568_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "db83a658595a2659fba8feb99a0c6c5d352a26deb3fd8d88a81649b2cd17e8a6"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_26",
+      "name": "Calderport Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_26",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Calderport Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_27",
+      "name": "Denmoor Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_27",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2403",
+      "name": "North Grafton Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2403",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Grafton Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2404",
+      "name": "North Grafton Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2404",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Grafton Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2405",
+      "name": "North Grafton Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2405",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Grafton Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2408",
+      "name": "North Grafton Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2408",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Grafton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Grafton Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_09",
+      "name": "Alden & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_09",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_63",
+      "name": "Briar & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_63",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_585",
+      "name": "Trust Deed LEG-585",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_585",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-585",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-585",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1011",
+      "name": "Tamsin Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1011",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1012",
+      "name": "Tamsin Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1012",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1014",
+      "name": "Tamsin Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1014",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Underwood",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1016",
+      "name": "Tamsin Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1016",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1019",
+      "name": "Tamsin Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1019",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_180",
+      "name": "Calder Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_180",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_70",
+      "name": "Kingsmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_70",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kingsmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_037083",
+      "subject": "company_2403",
+      "rel": "owns",
+      "object": "company_2404",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Grafton Logistics Limited owns North Grafton Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037085",
+      "subject": "person_1014",
+      "rel": "chair_of",
+      "object": "company_2403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Underwood is the chair of North Grafton Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037084",
+      "subject": "person_1019",
+      "rel": "shareholder_of",
+      "object": "company_2403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Zouch is a shareholder of North Grafton Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037096",
+      "subject": "person_1011",
+      "rel": "family_of",
+      "object": "person_1012",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Ravenscroft is a family member of Tamsin Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037086",
+      "subject": "bank_27",
+      "rel": "lent_to",
+      "object": "company_2403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-08-19",
+          "value_end": "2024-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor Bank Limited lent North Grafton Logistics Limited GBP 16 million on 19 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037088",
+      "subject": "company_2405",
+      "rel": "guarantor_for",
+      "object": "company_2403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Grafton Partners Limited guaranteed the loan to North Grafton Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037087",
+      "subject": "company_2403",
+      "rel": "owes",
+      "object": "bank_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-08-24",
+          "value_end": "2024-08-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Grafton Logistics Limited owes Denmoor Bank Limited GBP 6 million as at 24 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037089",
+      "subject": "lawfirm_63",
+      "rel": "represents",
+      "object": "company_2403",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Ivers LLP represents North Grafton Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037092",
+      "subject": "company_2403",
+      "rel": "owns",
+      "object": "asset_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Grafton Logistics Limited owns Calderport Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037093",
+      "subject": "asset_26",
+      "rel": "located_in",
+      "object": "place_70",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Calderport Warehouse is located in Kingsmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037094",
+      "subject": "company_2403",
+      "rel": "party_to",
+      "object": "legal_585",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Grafton Logistics Limited is a party to the Trust Deed LEG-585.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_037095",
+      "subject": "person_1012",
+      "rel": "signed",
+      "object": "legal_585",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Sinclair signed the Trust Deed LEG-585.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01568_proposal",
+      "text": "The acquisition of North Grafton Energy Limited by North Grafton Logistics Limited",
+      "speaker": "person_180",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Pemberton, chair of North Grafton Logistics Limited, proposed to acquire North Grafton Energy Limited on 26 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01568_approval",
+      "text": "Regulatory approval for the acquisition of North Grafton Energy Limited",
+      "speaker": "person_180",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Pemberton confirmed that regulatory approval for the acquisition of North Grafton Energy Limited by North Grafton Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01568_link_conditional",
+      "src": "gen_doc_01568_proposal",
+      "dst": "gen_doc_01568_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Grafton Energy Limited by North Grafton Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01568",
+      "surface": "26 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-26",
+      "value_end": "2024-07-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_037086",
+      "surface": "19 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-19",
+      "value_end": "2024-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "19 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_037087",
+      "surface": "24 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-24",
+      "value_end": "2024-08-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "24 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01568",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00997_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "67e5afedb1b3ac434a05242fb31f3ea16d3ebd6b348e0258c5464ce5d887c652"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_108",
+      "name": "Greyhaven Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_108",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Greyhaven Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Greyhaven Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_41",
+      "name": "Fair Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_41",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1889",
+      "name": "North Lambley Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1889",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Lambley Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1890",
+      "name": "North Lambley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1890",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1891",
+      "name": "North Lambley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1891",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Lambley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1893",
+      "name": "North Lambley Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1893",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Lambley Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Lambley Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_57",
+      "name": "Briar & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_57",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_69",
+      "name": "Briar & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_69",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_71",
+      "name": "Services Agreement LEG-071",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_71",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Services Agreement LEG-071",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-071",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1001",
+      "name": "Tamsin Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1001",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Tamsin Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Tamsin Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_497",
+      "name": "Juno Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_497",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_498",
+      "name": "Juno Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_498",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Juno Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_505",
+      "name": "Juno Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_505",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juno Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_96",
+      "name": "Dunmere Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_96",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunmere Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029067",
+      "subject": "company_1889",
+      "rel": "owns",
+      "object": "company_1890",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Partners Limited owns North Lambley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029068",
+      "subject": "person_505",
+      "rel": "shareholder_of",
+      "object": "company_1889",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juno Ward is a shareholder of North Lambley Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029080",
+      "subject": "person_497",
+      "rel": "family_of",
+      "object": "person_498",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Orrick is a family member of Juno Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029070",
+      "subject": "bank_41",
+      "rel": "lent_to",
+      "object": "company_1889",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-12",
+          "value_end": "2023-02-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Trust Bank Limited lent North Lambley Partners Limited GBP 28 million on 12 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029072",
+      "subject": "company_1891",
+      "rel": "guarantor_for",
+      "object": "company_1889",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Lambley Marine Limited guaranteed the loan to North Lambley Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029071",
+      "subject": "company_1889",
+      "rel": "owes",
+      "object": "bank_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-17",
+          "value_end": "2023-02-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Lambley Partners Limited owes Fair Trust Bank Limited GBP 12 million as at 17 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029073",
+      "subject": "lawfirm_69",
+      "rel": "represents",
+      "object": "company_1889",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Orrick LLP represents North Lambley Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029076",
+      "subject": "company_1889",
+      "rel": "owns",
+      "object": "asset_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Lambley Partners Limited owns Greyhaven Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029077",
+      "subject": "asset_108",
+      "rel": "located_in",
+      "object": "place_96",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Greyhaven Marina is located in Dunmere Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029078",
+      "subject": "company_1889",
+      "rel": "party_to",
+      "object": "legal_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Lambley Partners Limited is a party to the Services Agreement LEG-071.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029079",
+      "subject": "person_498",
+      "rel": "signed",
+      "object": "legal_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Juno Pell signed the Services Agreement LEG-071.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00997_proposal",
+      "text": "The acquisition of North Lambley Property Limited by North Lambley Partners Limited",
+      "speaker": "person_1001",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Tamsin Grenville, chair of North Lambley Partners Limited, proposed to acquire North Lambley Property Limited on 7 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00997_approval",
+      "text": "Regulatory approval for the acquisition of North Lambley Property Limited",
+      "speaker": "person_1001",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Tamsin Grenville confirmed that regulatory approval for the acquisition of North Lambley Property Limited by North Lambley Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00997_link_conditional",
+      "src": "gen_doc_00997_proposal",
+      "dst": "gen_doc_00997_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Lambley Property Limited by North Lambley Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00997",
+      "surface": "7 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-07",
+      "value_end": "2026-10-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029070",
+      "surface": "12 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-12",
+      "value_end": "2023-02-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "12 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029071",
+      "surface": "17 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-17",
+      "value_end": "2023-02-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "17 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00997",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

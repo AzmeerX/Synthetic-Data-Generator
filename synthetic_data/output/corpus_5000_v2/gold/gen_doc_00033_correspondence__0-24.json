@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00033_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "4c1ff406849479cf2fe98d79d85f8aff33baad590863e90ca8bbfeb401d3877a"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_109",
+      "name": "Greyhaven Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_109",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_05",
+      "name": "Fenwick Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_05",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fenwick Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_102",
+      "name": "Glenmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_102",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Glenmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1022",
+      "name": "Langton Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1022",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Langton Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1024",
+      "name": "Langton Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1024",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Langton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Langton Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_103",
+      "name": "Glenmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_103",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_104",
+      "name": "Glenmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_104",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Glenmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_121",
+      "name": "Cairn & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_121",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Rook LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_102",
+      "name": "Loan Note LEG-102",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_102",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-102",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-102",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_102",
+      "name": "Bastian Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_102",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_103",
+      "name": "Bastian Nyle",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_103",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_110",
+      "name": "Bastian Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_110",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_37",
+      "name": "Gideon Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_37",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Gideon Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Gideon Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_49",
+      "name": "Mossgrove",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_49",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Mossgrove",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001204",
+      "subject": "company_102",
+      "rel": "owns",
+      "object": "company_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Partners Limited owns Glenmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001205",
+      "subject": "person_110",
+      "rel": "shareholder_of",
+      "object": "company_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Ulric is a shareholder of Glenmoor Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001217",
+      "subject": "person_102",
+      "rel": "family_of",
+      "object": "person_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Mercer is a family member of Bastian Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001207",
+      "subject": "bank_05",
+      "rel": "lent_to",
+      "object": "company_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-02-24",
+          "value_end": "2025-02-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fenwick Bank Limited lent Glenmoor Partners Limited GBP 14 million on 24 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001209",
+      "subject": "company_104",
+      "rel": "guarantor_for",
+      "object": "company_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Glenmoor Marine Limited guaranteed the loan to Glenmoor Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001208",
+      "subject": "company_102",
+      "rel": "owes",
+      "object": "bank_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-01",
+          "value_end": "2025-03-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Glenmoor Partners Limited owes Fenwick Bank Limited GBP 5 million as at 1 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001213",
+      "subject": "company_102",
+      "rel": "owns",
+      "object": "asset_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glenmoor Partners Limited owns Greyhaven Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001214",
+      "subject": "asset_109",
+      "rel": "located_in",
+      "object": "place_49",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Works is located in Mossgrove.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001215",
+      "subject": "company_102",
+      "rel": "party_to",
+      "object": "legal_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Partners Limited is a party to the Loan Note LEG-102.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001216",
+      "subject": "person_103",
+      "rel": "signed",
+      "object": "legal_102",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Nyle signed the Loan Note LEG-102.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00033_proposal",
+      "text": "The acquisition of Langton Trading Limited by Glenmoor Partners Limited",
+      "speaker": "person_37",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Gideon Nyle, chair of Glenmoor Partners Limited, proposed to acquire Langton Trading Limited on 19 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00033_approval",
+      "text": "Regulatory approval for the acquisition of Langton Trading Limited",
+      "speaker": "person_37",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Gideon Nyle confirmed that regulatory approval for the acquisition of Langton Trading Limited by Glenmoor Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00033_link_conditional",
+      "src": "gen_doc_00033_proposal",
+      "dst": "gen_doc_00033_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Langton Trading Limited by Glenmoor Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00029_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00033",
+      "surface": "19 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-19",
+      "value_end": "2024-09-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001207",
+      "surface": "24 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-24",
+      "value_end": "2025-02-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "24 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001208",
+      "surface": "1 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-01",
+      "value_end": "2025-03-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "1 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

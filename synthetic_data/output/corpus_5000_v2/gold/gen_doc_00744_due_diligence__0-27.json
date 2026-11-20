@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00744_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e2a3b28eafad0da2a6250f4f7d8ec03da2199dd9cfceaa42663a56e89f44a6a6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_471",
+      "name": "Kelbrook Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_471",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kelbrook Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_475",
+      "name": "Lowmoor Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_475",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_76",
+      "name": "Low Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_76",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1660",
+      "name": "North Quintrell Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1660",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Quintrell Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1662",
+      "name": "North Quintrell Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1662",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quintrell Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_100",
+      "name": "Briar & Villiers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_100",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Villiers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_448",
+      "name": "Side Letter LEG-448",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_448",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-448",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-448",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_268",
+      "name": "Elias Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_268",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_269",
+      "name": "Elias Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_269",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_276",
+      "name": "Elias Neville",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_276",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_748",
+      "name": "Oren Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_748",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_47",
+      "name": "Kirkby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_47",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kirkby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025496",
+      "subject": "company_1660",
+      "rel": "owns",
+      "object": "asset_471",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Quintrell Trading Limited owns Kelbrook Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025505",
+      "subject": "company_1660",
+      "rel": "owns",
+      "object": "asset_475",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quintrell Trading Limited owns Lowmoor Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025506",
+      "subject": "asset_475",
+      "rel": "located_in",
+      "object": "place_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Cold Store is located in Kirkby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025502",
+      "subject": "lawfirm_100",
+      "rel": "represents",
+      "object": "company_1660",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Villiers LLP represents North Quintrell Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025497",
+      "subject": "person_276",
+      "rel": "shareholder_of",
+      "object": "company_1660",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Neville is a shareholder of North Quintrell Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025509",
+      "subject": "person_268",
+      "rel": "family_of",
+      "object": "person_269",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Fairfax is a family member of Elias Grenville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025499",
+      "subject": "bank_76",
+      "rel": "lent_to",
+      "object": "company_1660",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-12",
+          "value_end": "2025-07-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Merchant Bank Limited lent North Quintrell Trading Limited GBP 50 million on 12 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025501",
+      "subject": "company_1662",
+      "rel": "guarantor_for",
+      "object": "company_1660",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quintrell Capital Limited guaranteed the loan to North Quintrell Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025500",
+      "subject": "company_1660",
+      "rel": "owes",
+      "object": "bank_76",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-07-17",
+          "value_end": "2025-07-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quintrell Trading Limited owes Low Merchant Bank Limited GBP 13 million as at 17 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025507",
+      "subject": "company_1660",
+      "rel": "party_to",
+      "object": "legal_448",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Quintrell Trading Limited is a party to the Side Letter LEG-448.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025508",
+      "subject": "person_269",
+      "rel": "signed",
+      "object": "legal_448",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Grenville signed the Side Letter LEG-448.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00744_allegation",
+      "text": "A former employee alleged that North Quintrell Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Oren Ward noted that a former employee alleged that North Quintrell Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00744",
+      "surface": "15 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-15",
+      "value_end": "2025-03-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "15 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025499",
+      "surface": "12 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-12",
+      "value_end": "2025-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "12 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025500",
+      "surface": "17 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-17",
+      "value_end": "2025-07-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "17 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00744",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

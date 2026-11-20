@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00345_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "8ce225d1f36ac93bfb390439d205b631c7aaacd105019987613f22c9bb3a948b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_111",
+      "name": "Greyhaven Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_111",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Greyhaven Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_115",
+      "name": "Greyhaven Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_115",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_112",
+      "name": "Red Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_112",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Red Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Red Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1300",
+      "name": "Kintyre Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1300",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Kintyre Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1302",
+      "name": "Kintyre Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1302",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kintyre Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_130",
+      "name": "Cairn & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_130",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_88",
+      "name": "Lease LEG-088",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_88",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-088",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-088",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1300",
+      "name": "Zane Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1300",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1301",
+      "name": "Zane Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1301",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1308",
+      "name": "Zane Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1308",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_349",
+      "name": "Gideon Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_349",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_47",
+      "name": "Kirkby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_47",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kirkby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019883",
+      "subject": "company_1300",
+      "rel": "owns",
+      "object": "asset_111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kintyre Trading Limited owns Greyhaven Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019892",
+      "subject": "company_1300",
+      "rel": "owns",
+      "object": "asset_115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kintyre Trading Limited owns Greyhaven Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019893",
+      "subject": "asset_115",
+      "rel": "located_in",
+      "object": "place_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Estate is located in Kirkby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019889",
+      "subject": "lawfirm_130",
+      "rel": "represents",
+      "object": "company_1300",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Cavendish LLP represents Kintyre Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019884",
+      "subject": "person_1308",
+      "rel": "shareholder_of",
+      "object": "company_1300",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Pemberton is a shareholder of Kintyre Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019896",
+      "subject": "person_1300",
+      "rel": "family_of",
+      "object": "person_1301",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Hastings is a family member of Zane Ingram.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019886",
+      "subject": "bank_112",
+      "rel": "lent_to",
+      "object": "company_1300",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-12-30",
+          "value_end": "2023-12-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Red Merchant Bank Limited lent Kintyre Trading Limited GBP 50 million on 30 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019888",
+      "subject": "company_1302",
+      "rel": "guarantor_for",
+      "object": "company_1300",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kintyre Capital Limited guaranteed the loan to Kintyre Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019887",
+      "subject": "company_1300",
+      "rel": "owes",
+      "object": "bank_112",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-04",
+          "value_end": "2024-01-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kintyre Trading Limited owes Red Merchant Bank Limited GBP 13 million as at 4 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019894",
+      "subject": "company_1300",
+      "rel": "party_to",
+      "object": "legal_88",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Kintyre Trading Limited is a party to the Lease LEG-088.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019895",
+      "subject": "person_1301",
+      "rel": "signed",
+      "object": "legal_88",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Ingram signed the Lease LEG-088.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00345_allegation",
+      "text": "A former employee alleged that Kintyre Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Orrick noted that a former employee alleged that Kintyre Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00345",
+      "surface": "16 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-16",
+      "value_end": "2024-02-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019886",
+      "surface": "30 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-30",
+      "value_end": "2023-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "30 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019887",
+      "surface": "4 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-04",
+      "value_end": "2024-01-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "4 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00345",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01137_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "63c9508f3122eae429fba35b9fcc627c949cc99f042793a189fedd078f4fd65d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_233",
+      "name": "Northcliff Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_233",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Northcliff Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_34",
+      "name": "Elm Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_34",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elm Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2014",
+      "name": "North Vicarage Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2014",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Vicarage Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2015",
+      "name": "North Vicarage Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2015",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2016",
+      "name": "North Whitbourne Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2016",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Whitbourne Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2019",
+      "name": "North Whitbourne Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2019",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Whitbourne Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Whitbourne Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_64",
+      "name": "Briar & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_64",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_67",
+      "name": "Briar & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_67",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_196",
+      "name": "Board Resolution LEG-196",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_196",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Board Resolution LEG-196",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-196",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1141",
+      "name": "Wren Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1141",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wren Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Wren Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_622",
+      "name": "Lena Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_622",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_623",
+      "name": "Lena Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_623",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lena Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_630",
+      "name": "Lena Zouch",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_630",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_41",
+      "name": "Eastmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_41",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031017",
+      "subject": "company_2014",
+      "rel": "owns",
+      "object": "company_2015",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Ventures Limited owns North Vicarage Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031018",
+      "subject": "person_630",
+      "rel": "shareholder_of",
+      "object": "company_2014",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Zouch is a shareholder of North Vicarage Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031030",
+      "subject": "person_622",
+      "rel": "family_of",
+      "object": "person_623",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Ravenscroft is a family member of Lena Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031020",
+      "subject": "bank_34",
+      "rel": "lent_to",
+      "object": "company_2014",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-24",
+          "value_end": "2022-03-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elm Merchant Bank Limited lent North Vicarage Ventures Limited GBP 38 million on 24 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031022",
+      "subject": "company_2016",
+      "rel": "guarantor_for",
+      "object": "company_2014",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Whitbourne Holdings Limited guaranteed the loan to North Vicarage Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031021",
+      "subject": "company_2014",
+      "rel": "owes",
+      "object": "bank_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-29",
+          "value_end": "2022-03-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Vicarage Ventures Limited owes Elm Merchant Bank Limited GBP 7 million as at 29 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031023",
+      "subject": "lawfirm_64",
+      "rel": "represents",
+      "object": "company_2014",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Jarvis LLP represents North Vicarage Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031026",
+      "subject": "company_2014",
+      "rel": "owns",
+      "object": "asset_233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Vicarage Ventures Limited owns Northcliff Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031027",
+      "subject": "asset_233",
+      "rel": "located_in",
+      "object": "place_41",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Wharf is located in Eastmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031028",
+      "subject": "company_2014",
+      "rel": "party_to",
+      "object": "legal_196",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Vicarage Ventures Limited is a party to the Board Resolution LEG-196.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031029",
+      "subject": "person_623",
+      "rel": "signed",
+      "object": "legal_196",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lena Sinclair signed the Board Resolution LEG-196.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01137_proposal",
+      "text": "The acquisition of North Whitbourne Logistics Limited by North Vicarage Ventures Limited",
+      "speaker": "person_1141",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wren Vale, chair of North Vicarage Ventures Limited, proposed to acquire North Whitbourne Logistics Limited on 1 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01137_approval",
+      "text": "Regulatory approval for the acquisition of North Whitbourne Logistics Limited",
+      "speaker": "person_1141",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Wren Vale confirmed that regulatory approval for the acquisition of North Whitbourne Logistics Limited by North Vicarage Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01137_link_conditional",
+      "src": "gen_doc_01137_proposal",
+      "dst": "gen_doc_01137_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Whitbourne Logistics Limited by North Vicarage Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01137",
+      "surface": "1 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-01",
+      "value_end": "2026-03-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031020",
+      "surface": "24 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-24",
+      "value_end": "2022-03-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "24 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031021",
+      "surface": "29 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-29",
+      "value_end": "2022-03-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "29 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01137",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

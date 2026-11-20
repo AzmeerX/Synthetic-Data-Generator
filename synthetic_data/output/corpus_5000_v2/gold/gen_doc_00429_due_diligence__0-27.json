@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00429_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "34e9d69c9b37b1a9ebf0717ad36f70ef3a0e2ca6e3e524abba817dcaad52d533"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_192",
+      "name": "Kestrelford Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_192",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_57",
+      "name": "Inver Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_57",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Inver Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1377",
+      "name": "Quantock Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1377",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Quantock Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1378",
+      "name": "Quantock Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1378",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quantock Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1379",
+      "name": "Quantock Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1379",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_77",
+      "name": "Briar & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_77",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_165",
+      "name": "Security Agreement LEG-165",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_165",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-165",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-165",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1377",
+      "name": "Bram Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1377",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bram Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1378",
+      "name": "Bram Mercer",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1378",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bram Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bram Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1385",
+      "name": "Bram Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1385",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bram Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_433",
+      "name": "Hana Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_433",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Hana Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_124",
+      "name": "Glenmoor Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_124",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenmoor Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021084",
+      "subject": "company_1377",
+      "rel": "owns",
+      "object": "company_1378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quantock Property Limited owns Quantock Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021093",
+      "subject": "company_1377",
+      "rel": "owns",
+      "object": "asset_192",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quantock Property Limited owns Kestrelford Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021094",
+      "subject": "asset_192",
+      "rel": "located_in",
+      "object": "place_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Estate is located in Glenmoor Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021090",
+      "subject": "lawfirm_77",
+      "rel": "represents",
+      "object": "company_1377",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Ward LLP represents Quantock Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021085",
+      "subject": "person_1385",
+      "rel": "shareholder_of",
+      "object": "company_1377",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bram Ulric is a shareholder of Quantock Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021097",
+      "subject": "person_1377",
+      "rel": "family_of",
+      "object": "person_1378",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bram Lorne is a family member of Bram Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021087",
+      "subject": "bank_57",
+      "rel": "lent_to",
+      "object": "company_1377",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-25",
+          "value_end": "2026-04-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inver Bank Limited lent Quantock Property Limited GBP 44 million on 25 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021089",
+      "subject": "company_1379",
+      "rel": "guarantor_for",
+      "object": "company_1377",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quantock Systems Limited guaranteed the loan to Quantock Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021088",
+      "subject": "company_1377",
+      "rel": "owes",
+      "object": "bank_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-04-30",
+          "value_end": "2026-04-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Quantock Property Limited owes Inver Bank Limited GBP 10 million as at 30 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021095",
+      "subject": "company_1377",
+      "rel": "party_to",
+      "object": "legal_165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Quantock Property Limited is a party to the Security Agreement LEG-165.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021096",
+      "subject": "person_1378",
+      "rel": "signed",
+      "object": "legal_165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bram Mercer signed the Security Agreement LEG-165.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00429_allegation",
+      "text": "A former employee alleged that Quantock Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Hana Yardley noted that a former employee alleged that Quantock Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00429",
+      "surface": "26 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-26",
+      "value_end": "2025-09-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021087",
+      "surface": "25 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-25",
+      "value_end": "2026-04-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "25 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021088",
+      "surface": "30 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-30",
+      "value_end": "2026-04-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "30 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00429",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

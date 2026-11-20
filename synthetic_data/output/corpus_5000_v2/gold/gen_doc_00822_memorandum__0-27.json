@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00822_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "eede0bf77e56babb8bdf34b715e79cf21ad010fcf926b234e74559e3dfac65b6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_545",
+      "name": "Oakhurst Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_545",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_14",
+      "name": "Alder International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_14",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alder International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1730",
+      "name": "North Westerby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1730",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Westerby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1731",
+      "name": "North Westerby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1731",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Westerby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1732",
+      "name": "North Westerby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1732",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Westerby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1735",
+      "name": "North Westerby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1735",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Westerby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Westerby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_40",
+      "name": "Alden & Jeffreys LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_40",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Jeffreys LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_518",
+      "name": "Loan Note LEG-518",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_518",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Loan Note LEG-518",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-518",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_338",
+      "name": "Gideon Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_338",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_339",
+      "name": "Gideon Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_339",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_346",
+      "name": "Gideon Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_346",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_826",
+      "name": "Quin Cairn",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_826",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Quin Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_117",
+      "name": "Fairhaven Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_117",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairhaven Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026589",
+      "subject": "company_1730",
+      "rel": "owns",
+      "object": "company_1731",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Westerby Group Limited owns North Westerby Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026590",
+      "subject": "person_346",
+      "rel": "shareholder_of",
+      "object": "company_1730",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Kerr is a shareholder of North Westerby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026602",
+      "subject": "person_338",
+      "rel": "family_of",
+      "object": "person_339",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Cairn is a family member of Gideon Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026592",
+      "subject": "bank_14",
+      "rel": "lent_to",
+      "object": "company_1730",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-25",
+          "value_end": "2022-12-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Alder International Bank Limited lent North Westerby Group Limited GBP 30 million on 25 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026594",
+      "subject": "company_1732",
+      "rel": "guarantor_for",
+      "object": "company_1730",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Westerby Trading Limited guaranteed the loan to North Westerby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026593",
+      "subject": "company_1730",
+      "rel": "owes",
+      "object": "bank_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-30",
+          "value_end": "2022-12-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Westerby Group Limited owes Alder International Bank Limited GBP 13 million as at 30 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026595",
+      "subject": "lawfirm_40",
+      "rel": "represents",
+      "object": "company_1730",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Jeffreys LLP represents North Westerby Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026598",
+      "subject": "company_1730",
+      "rel": "owns",
+      "object": "asset_545",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Westerby Group Limited owns Oakhurst Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026599",
+      "subject": "asset_545",
+      "rel": "located_in",
+      "object": "place_117",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Oakhurst Silo is located in Fairhaven Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026600",
+      "subject": "company_1730",
+      "rel": "party_to",
+      "object": "legal_518",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Westerby Group Limited is a party to the Loan Note LEG-518.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026601",
+      "subject": "person_339",
+      "rel": "signed",
+      "object": "legal_518",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Dunmore signed the Loan Note LEG-518.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00822_proposal",
+      "text": "The acquisition of North Westerby Marine Limited by North Westerby Group Limited",
+      "speaker": "person_826",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Cairn, chair of North Westerby Group Limited, proposed to acquire North Westerby Marine Limited on 12 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00822_approval",
+      "text": "Regulatory approval for the acquisition of North Westerby Marine Limited",
+      "speaker": "person_826",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Quin Cairn confirmed that regulatory approval for the acquisition of North Westerby Marine Limited by North Westerby Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00822_link_conditional",
+      "src": "gen_doc_00822_proposal",
+      "dst": "gen_doc_00822_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Westerby Marine Limited by North Westerby Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00822",
+      "surface": "12 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-12",
+      "value_end": "2026-09-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026592",
+      "surface": "25 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-25",
+      "value_end": "2022-12-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026593",
+      "surface": "30 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-30",
+      "value_end": "2022-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "30 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00822",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

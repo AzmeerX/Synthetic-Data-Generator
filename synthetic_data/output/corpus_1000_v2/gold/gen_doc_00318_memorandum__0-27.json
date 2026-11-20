@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00318_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "56756d04c5282679ef3cf60e1b185e88eeaba6a165f8966af923f9a7363afa57"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_187",
+      "name": "Kestrelford Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_187",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_191",
+      "name": "Kestrelford Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_191",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kestrelford Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrelford Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_380",
+      "name": "Fallow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_380",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Fallow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_382",
+      "name": "Fallow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_382",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fallow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_385",
+      "name": "Grimsdale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_385",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Grimsdale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_19",
+      "name": "Alden & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_19",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_30",
+      "name": "Alden & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_30",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_174",
+      "name": "Licence LEG-174",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_174",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Licence LEG-174",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-174",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_322",
+      "name": "Farah Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_322",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Farah Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_380",
+      "name": "Gideon Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_380",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_381",
+      "name": "Gideon Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_381",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_388",
+      "name": "Hana Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_388",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_87",
+      "name": "Belmont Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_87",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Belmont Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005539",
+      "subject": "company_380",
+      "rel": "owns",
+      "object": "asset_187",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fallow Marine Limited owns Kestrelford Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005540",
+      "subject": "person_388",
+      "rel": "shareholder_of",
+      "object": "company_380",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Dunmore is a shareholder of Fallow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005552",
+      "subject": "person_380",
+      "rel": "family_of",
+      "object": "person_381",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Villiers is a family member of Gideon Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005542",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_380",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-19",
+          "value_end": "2024-03-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Bexley Merchant Bank Limited lent Fallow Marine Limited GBP 50 million on 19 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005544",
+      "subject": "company_382",
+      "rel": "guarantor_for",
+      "object": "company_380",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fallow Property Limited guaranteed the loan to Fallow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005543",
+      "subject": "company_380",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-24",
+          "value_end": "2024-03-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fallow Marine Limited owes Bexley Merchant Bank Limited GBP 13 million as at 24 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005545",
+      "subject": "lawfirm_30",
+      "rel": "represents",
+      "object": "company_380",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Zell LLP represents Fallow Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005548",
+      "subject": "company_380",
+      "rel": "owns",
+      "object": "asset_191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fallow Marine Limited owns Kestrelford Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005549",
+      "subject": "asset_191",
+      "rel": "located_in",
+      "object": "place_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Kestrelford Plant is located in Belmont Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005550",
+      "subject": "company_380",
+      "rel": "party_to",
+      "object": "legal_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fallow Marine Limited is a party to the Licence LEG-174.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005551",
+      "subject": "person_381",
+      "rel": "signed",
+      "object": "legal_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Gideon Whitlock signed the Licence LEG-174.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00318_proposal",
+      "text": "The acquisition of Grimsdale Holdings Limited by Fallow Marine Limited",
+      "speaker": "person_322",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Farah Langford, chair of Fallow Marine Limited, proposed to acquire Grimsdale Holdings Limited on 23 November 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00318_approval",
+      "text": "Regulatory approval for the acquisition of Grimsdale Holdings Limited",
+      "speaker": "person_322",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Farah Langford confirmed that regulatory approval for the acquisition of Grimsdale Holdings Limited by Fallow Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00318_link_conditional",
+      "src": "gen_doc_00318_proposal",
+      "dst": "gen_doc_00318_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Grimsdale Holdings Limited by Fallow Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00318",
+      "surface": "23 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-23",
+      "value_end": "2026-11-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005542",
+      "surface": "19 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-19",
+      "value_end": "2024-03-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "19 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005543",
+      "surface": "24 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-24",
+      "value_end": "2024-03-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00318",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

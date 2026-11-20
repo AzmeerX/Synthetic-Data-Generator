@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01493_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "76a9e0a13290b96cab139e293d9950da8f6244b70df6ef298bd2061ea203584a"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_554",
+      "name": "Pemberton Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_554",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_91",
+      "name": "Nether Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_91",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nether Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2335",
+      "name": "North Ashby Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2335",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Ashby Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2336",
+      "name": "North Ashby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2336",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2337",
+      "name": "North Ashby Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2337",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ashby Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_125",
+      "name": "Cairn & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_125",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_517",
+      "name": "Security Agreement LEG-517",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_517",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-517",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-517",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_105",
+      "name": "Bastian Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_105",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_943",
+      "name": "Silas Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_943",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_944",
+      "name": "Silas Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_944",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_951",
+      "name": "Silas Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_951",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_02",
+      "name": "Dunhollow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_02",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036021",
+      "subject": "company_2335",
+      "rel": "owns",
+      "object": "company_2336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Ashby Marine Limited owns North Ashby Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036030",
+      "subject": "company_2335",
+      "rel": "owns",
+      "object": "asset_554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Ashby Marine Limited owns Pemberton Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036031",
+      "subject": "asset_554",
+      "rel": "located_in",
+      "object": "place_02",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Terminal is located in Dunhollow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036027",
+      "subject": "lawfirm_125",
+      "rel": "represents",
+      "object": "company_2335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ward LLP represents North Ashby Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036022",
+      "subject": "person_951",
+      "rel": "shareholder_of",
+      "object": "company_2335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Fairfax is a shareholder of North Ashby Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036034",
+      "subject": "person_943",
+      "rel": "family_of",
+      "object": "person_944",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Ward is a family member of Silas Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036024",
+      "subject": "bank_91",
+      "rel": "lent_to",
+      "object": "company_2335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-02",
+          "value_end": "2022-08-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Private Bank Limited lent North Ashby Marine Limited GBP 40 million on 2 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036026",
+      "subject": "company_2337",
+      "rel": "guarantor_for",
+      "object": "company_2335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Ashby Property Limited guaranteed the loan to North Ashby Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036025",
+      "subject": "company_2335",
+      "rel": "owes",
+      "object": "bank_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-07",
+          "value_end": "2022-08-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Ashby Marine Limited owes Nether Private Bank Limited GBP 8 million as at 7 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036032",
+      "subject": "company_2335",
+      "rel": "party_to",
+      "object": "legal_517",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Ashby Marine Limited is a party to the Security Agreement LEG-517.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036033",
+      "subject": "person_944",
+      "rel": "signed",
+      "object": "legal_517",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Yarrow signed the Security Agreement LEG-517.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01493_allegation",
+      "text": "A former employee alleged that North Ashby Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Pell noted that a former employee alleged that North Ashby Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01493",
+      "surface": "1 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-01",
+      "value_end": "2026-06-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036024",
+      "surface": "2 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-02",
+      "value_end": "2022-08-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036025",
+      "surface": "7 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-07",
+      "value_end": "2022-08-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01493",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

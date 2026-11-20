@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00177_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "8f779c66ff4c1153bac1daba4de07adb3829596744a821451cc2cf917b25cfa2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_59",
+      "name": "Dunhollow Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_59",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunhollow Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_63",
+      "name": "Eastmere Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_63",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_44",
+      "name": "Fair International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_44",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_252",
+      "name": "Stanbrook Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_252",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Stanbrook Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_254",
+      "name": "Tarrow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_254",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tarrow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_02",
+      "name": "Marlowe & Reed LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_02",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_46",
+      "name": "Licence LEG-046",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_46",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-046",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-046",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_181",
+      "name": "Calder Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_181",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_252",
+      "name": "Elias Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_252",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_253",
+      "name": "Elias Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_253",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_260",
+      "name": "Elias Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_260",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_59",
+      "name": "Whitbourne",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_59",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Whitbourne",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003542",
+      "subject": "company_252",
+      "rel": "owns",
+      "object": "asset_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Stanbrook Systems Limited owns Dunhollow Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003551",
+      "subject": "company_252",
+      "rel": "owns",
+      "object": "asset_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Stanbrook Systems Limited owns Eastmere Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003552",
+      "subject": "asset_63",
+      "rel": "located_in",
+      "object": "place_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Fleet is located in Whitbourne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003548",
+      "subject": "lawfirm_02",
+      "rel": "represents",
+      "object": "company_252",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marlowe & Reed LLP represents Stanbrook Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003543",
+      "subject": "person_260",
+      "rel": "shareholder_of",
+      "object": "company_252",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Elias Ward is a shareholder of Stanbrook Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003555",
+      "subject": "person_252",
+      "rel": "family_of",
+      "object": "person_253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Elias Nyle is a family member of Elias Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003545",
+      "subject": "bank_44",
+      "rel": "lent_to",
+      "object": "company_252",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-01-05",
+          "value_end": "2025-01-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair International Bank Limited lent Stanbrook Systems Limited GBP 34 million on 5 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003547",
+      "subject": "company_254",
+      "rel": "guarantor_for",
+      "object": "company_252",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tarrow Industries Limited guaranteed the loan to Stanbrook Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003546",
+      "subject": "company_252",
+      "rel": "owes",
+      "object": "bank_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-10",
+          "value_end": "2025-01-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Stanbrook Systems Limited owes Fair International Bank Limited GBP 5 million as at 10 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003553",
+      "subject": "company_252",
+      "rel": "party_to",
+      "object": "legal_46",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Stanbrook Systems Limited is a party to the Licence LEG-046.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003554",
+      "subject": "person_253",
+      "rel": "signed",
+      "object": "legal_46",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Elias Pell signed the Licence LEG-046.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00177_allegation",
+      "text": "A former employee alleged that Stanbrook Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Ravenscroft noted that a former employee alleged that Stanbrook Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00177",
+      "surface": "11 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-11",
+      "value_end": "2024-03-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003545",
+      "surface": "5 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-05",
+      "value_end": "2025-01-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "5 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003546",
+      "surface": "10 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-10",
+      "value_end": "2025-01-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "10 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00177",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

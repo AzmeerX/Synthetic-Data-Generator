@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01507_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "02fbaefb95e40db490440dad5296e68ef7438d06f5b34765df2e9b7e2e5607d1"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_563",
+      "name": "Pemberton Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_563",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_567",
+      "name": "Pemberton Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_567",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_104",
+      "name": "Pember International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_104",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2348",
+      "name": "North Bramley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2348",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Bramley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2350",
+      "name": "North Bramley Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2350",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bramley Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_530",
+      "name": "Facility Agreement LEG-530",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_530",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-530",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-530",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_119",
+      "name": "Bastian Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_119",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_956",
+      "name": "Silas Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_956",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_957",
+      "name": "Silas Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_957",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_964",
+      "name": "Silas Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_964",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_15",
+      "name": "Carrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_15",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036226",
+      "subject": "company_2348",
+      "rel": "owns",
+      "object": "asset_563",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Bramley Energy Limited owns Pemberton Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036235",
+      "subject": "company_2348",
+      "rel": "owns",
+      "object": "asset_567",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Bramley Energy Limited owns Pemberton Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036236",
+      "subject": "asset_567",
+      "rel": "located_in",
+      "object": "place_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Dock is located in Carrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036232",
+      "subject": "lawfirm_08",
+      "rel": "represents",
+      "object": "company_2348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Cairn LLP represents North Bramley Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036227",
+      "subject": "person_964",
+      "rel": "shareholder_of",
+      "object": "company_2348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silas Tremayne is a shareholder of North Bramley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036239",
+      "subject": "person_956",
+      "rel": "family_of",
+      "object": "person_957",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Silas Kingsley is a family member of Silas Langford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036229",
+      "subject": "bank_104",
+      "rel": "lent_to",
+      "object": "company_2348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-23",
+          "value_end": "2022-12-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember International Bank Limited lent North Bramley Energy Limited GBP 26 million on 23 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036231",
+      "subject": "company_2350",
+      "rel": "guarantor_for",
+      "object": "company_2348",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bramley Ventures Limited guaranteed the loan to North Bramley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036230",
+      "subject": "company_2348",
+      "rel": "owes",
+      "object": "bank_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-28",
+          "value_end": "2022-12-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Bramley Energy Limited owes Pember International Bank Limited GBP 11 million as at 28 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036237",
+      "subject": "company_2348",
+      "rel": "party_to",
+      "object": "legal_530",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Bramley Energy Limited is a party to the Facility Agreement LEG-530.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036238",
+      "subject": "person_957",
+      "rel": "signed",
+      "object": "legal_530",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Silas Langford signed the Facility Agreement LEG-530.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01507_allegation",
+      "text": "A former employee alleged that North Bramley Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Everard noted that a former employee alleged that North Bramley Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01507",
+      "surface": "7 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-07",
+      "value_end": "2026-09-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036229",
+      "surface": "23 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-23",
+      "value_end": "2022-12-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036230",
+      "surface": "28 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-28",
+      "value_end": "2022-12-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "28 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01507",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

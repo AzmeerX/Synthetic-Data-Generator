@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00912_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e3784849e7efa01b50d69578a142a9439314f82178ca0e49349c7d2cd0a66178"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_30",
+      "name": "Calderport Quay",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_30",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Quay",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Quay",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_95",
+      "name": "Oak Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_95",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oak Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1811",
+      "name": "North Eastmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1811",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Eastmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1812",
+      "name": "North Fallow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1812",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Fallow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1813",
+      "name": "North Fallow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1813",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fallow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_121",
+      "name": "Cairn & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_121",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_599",
+      "name": "Services Agreement LEG-599",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_599",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-599",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-599",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_419",
+      "name": "Hana Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_419",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_420",
+      "name": "Hana Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_420",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_427",
+      "name": "Hana Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_427",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_916",
+      "name": "Rhea Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_916",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Rhea Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_18",
+      "name": "Fairmouth",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_18",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027851",
+      "subject": "company_1811",
+      "rel": "owns",
+      "object": "company_1812",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Eastmoor Systems Limited owns North Fallow Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027860",
+      "subject": "company_1811",
+      "rel": "owns",
+      "object": "asset_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Eastmoor Systems Limited owns Calderport Quay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027861",
+      "subject": "asset_30",
+      "rel": "located_in",
+      "object": "place_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Quay is located in Fairmouth.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027857",
+      "subject": "lawfirm_121",
+      "rel": "represents",
+      "object": "company_1811",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Rook LLP represents North Eastmoor Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027852",
+      "subject": "person_427",
+      "rel": "shareholder_of",
+      "object": "company_1811",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Sinclair is a shareholder of North Eastmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027864",
+      "subject": "person_419",
+      "rel": "family_of",
+      "object": "person_420",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Jeffreys is a family member of Hana Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027854",
+      "subject": "bank_95",
+      "rel": "lent_to",
+      "object": "company_1811",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-06-03",
+          "value_end": "2025-06-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Trust Bank Limited lent North Eastmoor Systems Limited GBP 32 million on 3 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027856",
+      "subject": "company_1813",
+      "rel": "guarantor_for",
+      "object": "company_1811",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fallow Industries Limited guaranteed the loan to North Eastmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027855",
+      "subject": "company_1811",
+      "rel": "owes",
+      "object": "bank_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-06-08",
+          "value_end": "2025-06-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Eastmoor Systems Limited owes Oak Trust Bank Limited GBP 4 million as at 8 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027862",
+      "subject": "company_1811",
+      "rel": "party_to",
+      "object": "legal_599",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Eastmoor Systems Limited is a party to the Services Agreement LEG-599.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027863",
+      "subject": "person_420",
+      "rel": "signed",
+      "object": "legal_599",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Kingsley signed the Services Agreement LEG-599.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00912_allegation",
+      "text": "A former employee alleged that North Eastmoor Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Rhea Villiers noted that a former employee alleged that North Eastmoor Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00912",
+      "surface": "19 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-19",
+      "value_end": "2025-02-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027854",
+      "surface": "3 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-03",
+      "value_end": "2025-06-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "3 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027855",
+      "surface": "8 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-08",
+      "value_end": "2025-06-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "8 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00912",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

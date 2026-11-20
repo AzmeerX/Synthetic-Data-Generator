@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01546_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "7d7a8696370d4cddb5f23d748946146f8e94dc02e19daf79a2c6e5dce5c862a2"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_06",
+      "name": "Harrowgate Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_06",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Harrowgate Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowgate Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2383",
+      "name": "North Eversley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2383",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eversley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2384",
+      "name": "North Eversley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2384",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2385",
+      "name": "North Eversley Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2385",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Eversley Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_86",
+      "name": "Briar & Grenville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_86",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Grenville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_565",
+      "name": "Security Agreement LEG-565",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_565",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Security Agreement LEG-565",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-565",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_158",
+      "name": "Calder Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_158",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_991",
+      "name": "Tamsin Vale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_991",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_992",
+      "name": "Tamsin Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_992",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_999",
+      "name": "Tamsin Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_999",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Tamsin Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_50",
+      "name": "Norwood",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_50",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Norwood",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036770",
+      "subject": "company_2383",
+      "rel": "owns",
+      "object": "company_2384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Eversley Marine Limited owns North Eversley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036771",
+      "subject": "person_999",
+      "rel": "shareholder_of",
+      "object": "company_2383",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Tamsin Everard is a shareholder of North Eversley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036783",
+      "subject": "person_991",
+      "rel": "family_of",
+      "object": "person_992",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Tamsin Vale is a family member of Tamsin Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036773",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_2383",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-12",
+          "value_end": "2024-01-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited lent North Eversley Marine Limited GBP 16 million on 12 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036775",
+      "subject": "company_2385",
+      "rel": "guarantor_for",
+      "object": "company_2383",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Eversley Property Limited guaranteed the loan to North Eversley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036774",
+      "subject": "company_2383",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-17",
+          "value_end": "2024-01-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Marine Limited owes Greyhaven Bank Limited GBP 6 million as at 17 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036779",
+      "subject": "company_2383",
+      "rel": "owns",
+      "object": "asset_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Eversley Marine Limited owns Harrowgate Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036780",
+      "subject": "asset_06",
+      "rel": "located_in",
+      "object": "place_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowgate Warehouse is located in Norwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036781",
+      "subject": "company_2383",
+      "rel": "party_to",
+      "object": "legal_565",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Marine Limited is a party to the Security Agreement LEG-565.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036782",
+      "subject": "person_992",
+      "rel": "signed",
+      "object": "legal_565",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Tamsin Ward signed the Security Agreement LEG-565.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01546_allegation",
+      "text": "A former employee alleged that North Eversley Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Sable noted that a former employee alleged that North Eversley Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01546",
+      "surface": "23 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-23",
+      "value_end": "2024-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036773",
+      "surface": "12 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-12",
+      "value_end": "2024-01-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "12 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036774",
+      "surface": "17 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-17",
+      "value_end": "2024-01-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "17 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01546",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

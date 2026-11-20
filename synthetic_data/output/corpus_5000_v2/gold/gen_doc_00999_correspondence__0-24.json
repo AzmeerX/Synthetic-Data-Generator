@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00999_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "bc6964345629a30364799bb188ab38074a9a9e6c9b8cdca60f48a524cb32559d"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_109",
+      "name": "Greyhaven Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_109",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Greyhaven Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_42",
+      "name": "Fair Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_42",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1890",
+      "name": "North Lambley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1890",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Lambley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1891",
+      "name": "North Lambley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1891",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1892",
+      "name": "North Lambley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1892",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Lambley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1893",
+      "name": "North Lambley Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1893",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Lambley Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1895",
+      "name": "North Lambley Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1895",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Lambley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Lambley Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_59",
+      "name": "Briar & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_59",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Ellery LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_72",
+      "name": "Lease LEG-072",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_72",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lease LEG-072",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1003",
+      "name": "Tamsin Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1003",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Tamsin Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_498",
+      "name": "Juno Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_498",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_499",
+      "name": "Juno Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_499",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Juno Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_506",
+      "name": "Juno Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_506",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juno Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_97",
+      "name": "Dunmere Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_97",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmere Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029083",
+      "subject": "company_1890",
+      "rel": "owns",
+      "object": "company_1891",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Lambley Capital Limited owns North Lambley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029084",
+      "subject": "person_506",
+      "rel": "shareholder_of",
+      "object": "company_1890",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juno Yarrow is a shareholder of North Lambley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029096",
+      "subject": "person_498",
+      "rel": "family_of",
+      "object": "person_499",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Juno Pell is a family member of Juno Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029086",
+      "subject": "bank_42",
+      "rel": "lent_to",
+      "object": "company_1890",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-23",
+          "value_end": "2023-02-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Commercial Bank Limited lent North Lambley Capital Limited GBP 30 million on 23 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029088",
+      "subject": "company_1892",
+      "rel": "guarantor_for",
+      "object": "company_1890",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Lambley Energy Limited guaranteed the loan to North Lambley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029087",
+      "subject": "company_1890",
+      "rel": "owes",
+      "object": "bank_42",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-28",
+          "value_end": "2023-02-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Lambley Capital Limited owes Fair Commercial Bank Limited GBP 13 million as at 28 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029092",
+      "subject": "company_1890",
+      "rel": "owns",
+      "object": "asset_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Lambley Capital Limited owns Greyhaven Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029093",
+      "subject": "asset_109",
+      "rel": "located_in",
+      "object": "place_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Works is located in Dunmere Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029094",
+      "subject": "company_1890",
+      "rel": "party_to",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Lambley Capital Limited is a party to the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029095",
+      "subject": "person_499",
+      "rel": "signed",
+      "object": "legal_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Juno Quade signed the Lease LEG-072.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00999_proposal",
+      "text": "The acquisition of North Lambley Systems Limited by North Lambley Capital Limited",
+      "speaker": "person_1003",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Tamsin Ingram, chair of North Lambley Capital Limited, proposed to acquire North Lambley Systems Limited on 21 October 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00999_approval",
+      "text": "Regulatory approval for the acquisition of North Lambley Systems Limited",
+      "speaker": "person_1003",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Ingram confirmed that regulatory approval for the acquisition of North Lambley Systems Limited by North Lambley Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00999_link_conditional",
+      "src": "gen_doc_00999_proposal",
+      "dst": "gen_doc_00999_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Lambley Systems Limited by North Lambley Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00995_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00999",
+      "surface": "21 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-21",
+      "value_end": "2026-10-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029086",
+      "surface": "23 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-23",
+      "value_end": "2023-02-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "23 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029087",
+      "surface": "28 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-28",
+      "value_end": "2023-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "28 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

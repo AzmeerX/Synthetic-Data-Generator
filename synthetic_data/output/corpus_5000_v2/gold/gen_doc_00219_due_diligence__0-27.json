@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00219_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "7bf97e84afd6272c27450a4785e92fe79bdcdb836979f29163177c14357484fe"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_03",
+      "name": "Eastmere Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_03",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_595",
+      "name": "Redmoor Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_595",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Redmoor Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_132",
+      "name": "Uldale Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_132",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1188",
+      "name": "Borrowdale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1188",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Borrowdale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1190",
+      "name": "Borrowdale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1190",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Borrowdale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_18",
+      "name": "Alden & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_18",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_582",
+      "name": "Loan Note LEG-582",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_582",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-582",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-582",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1188",
+      "name": "Xander Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1188",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1189",
+      "name": "Xander Ulric",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1189",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1196",
+      "name": "Xander Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1196",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_223",
+      "name": "Daria Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_223",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_115",
+      "name": "Fairhaven Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_115",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairhaven Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018137",
+      "subject": "company_1188",
+      "rel": "owns",
+      "object": "asset_595",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Borrowdale Holdings Limited owns Redmoor Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018146",
+      "subject": "company_1188",
+      "rel": "owns",
+      "object": "asset_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Borrowdale Holdings Limited owns Eastmere Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018147",
+      "subject": "asset_03",
+      "rel": "located_in",
+      "object": "place_115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Terminal is located in Fairhaven Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018143",
+      "subject": "lawfirm_18",
+      "rel": "represents",
+      "object": "company_1188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Mercer LLP represents Borrowdale Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018138",
+      "subject": "person_1196",
+      "rel": "shareholder_of",
+      "object": "company_1188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Cavendish is a shareholder of Borrowdale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018150",
+      "subject": "person_1188",
+      "rel": "family_of",
+      "object": "person_1189",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Thorne is a family member of Xander Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018140",
+      "subject": "bank_132",
+      "rel": "lent_to",
+      "object": "company_1188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-04-11",
+          "value_end": "2025-04-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Commercial Bank Limited lent Borrowdale Holdings Limited GBP 26 million on 11 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018142",
+      "subject": "company_1190",
+      "rel": "guarantor_for",
+      "object": "company_1188",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Borrowdale Group Limited guaranteed the loan to Borrowdale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018141",
+      "subject": "company_1188",
+      "rel": "owes",
+      "object": "bank_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-16",
+          "value_end": "2025-04-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Borrowdale Holdings Limited owes Uldale Commercial Bank Limited GBP 11 million as at 16 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018148",
+      "subject": "company_1188",
+      "rel": "party_to",
+      "object": "legal_582",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Borrowdale Holdings Limited is a party to the Loan Note LEG-582.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018149",
+      "subject": "person_1189",
+      "rel": "signed",
+      "object": "legal_582",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Ulric signed the Loan Note LEG-582.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00219_allegation",
+      "text": "A former employee alleged that Borrowdale Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Jeffreys noted that a former employee alleged that Borrowdale Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00219",
+      "surface": "30 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-30",
+      "value_end": "2024-12-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018140",
+      "surface": "11 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-11",
+      "value_end": "2025-04-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "11 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018141",
+      "surface": "16 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-16",
+      "value_end": "2025-04-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "16 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00219",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

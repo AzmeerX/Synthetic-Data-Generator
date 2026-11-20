@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00086_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "66397ddd1f39298163c8e46683fbfafa3c8919d413f4224df02bbc42967bfed5"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_475",
+      "name": "Lowmoor Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_475",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_479",
+      "name": "Lowmoor Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_479",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_12",
+      "name": "Alder Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_12",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1068",
+      "name": "Priors Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1068",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1070",
+      "name": "Priors Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1070",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_28",
+      "name": "Alden & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_28",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_462",
+      "name": "Licence LEG-462",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_462",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-462",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-462",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1068",
+      "name": "Ulric Yardley",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1068",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulric Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1069",
+      "name": "Ulric Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1069",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulric Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ulric Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1076",
+      "name": "Vera Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1076",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_90",
+      "name": "Bastian Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_90",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_175",
+      "name": "Netherby Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_175",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016266",
+      "subject": "company_1068",
+      "rel": "owns",
+      "object": "asset_475",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Priors Holdings Limited owns Lowmoor Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016275",
+      "subject": "company_1068",
+      "rel": "owns",
+      "object": "asset_479",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Priors Holdings Limited owns Lowmoor Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016276",
+      "subject": "asset_479",
+      "rel": "located_in",
+      "object": "place_175",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Data Centre is located in Netherby Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016272",
+      "subject": "lawfirm_28",
+      "rel": "represents",
+      "object": "company_1068",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ward LLP represents Priors Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016267",
+      "subject": "person_1076",
+      "rel": "shareholder_of",
+      "object": "company_1068",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Garrow is a shareholder of Priors Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016279",
+      "subject": "person_1068",
+      "rel": "family_of",
+      "object": "person_1069",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulric Yardley is a family member of Ulric Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016269",
+      "subject": "bank_12",
+      "rel": "lent_to",
+      "object": "company_1068",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-26",
+          "value_end": "2026-04-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Commercial Bank Limited lent Priors Holdings Limited GBP 26 million on 26 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016271",
+      "subject": "company_1070",
+      "rel": "guarantor_for",
+      "object": "company_1068",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Group Limited guaranteed the loan to Priors Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016270",
+      "subject": "company_1068",
+      "rel": "owes",
+      "object": "bank_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-01",
+          "value_end": "2026-05-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Priors Holdings Limited owes Alder Commercial Bank Limited GBP 11 million as at 1 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016277",
+      "subject": "company_1068",
+      "rel": "party_to",
+      "object": "legal_462",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Priors Holdings Limited is a party to the Licence LEG-462.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016278",
+      "subject": "person_1069",
+      "rel": "signed",
+      "object": "legal_462",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ulric Zouch signed the Licence LEG-462.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00086_allegation",
+      "text": "A former employee alleged that Priors Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Alden noted that a former employee alleged that Priors Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00086",
+      "surface": "25 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-25",
+      "value_end": "2025-09-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "25 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016269",
+      "surface": "26 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-26",
+      "value_end": "2026-04-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016270",
+      "surface": "1 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-01",
+      "value_end": "2026-05-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "1 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00086",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

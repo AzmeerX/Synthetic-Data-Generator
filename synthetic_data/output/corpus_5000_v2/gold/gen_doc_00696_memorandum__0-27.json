@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00696_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "f8aa5e116a1fcac991a1dbe86f6a34460790ad71b0e233174b4204a84d9a871d"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_432",
+      "name": "Jarrow Cross Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_432",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Cross Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_33",
+      "name": "Elm Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_33",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Elm Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1617",
+      "name": "North Merrivale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1617",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1618",
+      "name": "North Merrivale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1618",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1619",
+      "name": "North Merrivale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1619",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Merrivale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1621",
+      "name": "North Netherby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1621",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Netherby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Netherby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_16",
+      "name": "Alden & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_16",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_57",
+      "name": "Briar & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_57",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_405",
+      "name": "Security Agreement LEG-405",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_405",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Security Agreement LEG-405",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-405",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_225",
+      "name": "Daria Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_225",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_226",
+      "name": "Daria Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_226",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Daria Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_233",
+      "name": "Daria Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_233",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_700",
+      "name": "Nadia Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_700",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Nadia Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_04",
+      "name": "Fenwick Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_04",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024826",
+      "subject": "company_1617",
+      "rel": "owns",
+      "object": "company_1618",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Property Limited owns North Merrivale Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024827",
+      "subject": "person_233",
+      "rel": "shareholder_of",
+      "object": "company_1617",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Underwood is a shareholder of North Merrivale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024839",
+      "subject": "person_225",
+      "rel": "family_of",
+      "object": "person_226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Langford is a family member of Daria Montague.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024829",
+      "subject": "bank_33",
+      "rel": "lent_to",
+      "object": "company_1617",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-26",
+          "value_end": "2024-03-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Elm Bank Limited lent North Merrivale Property Limited GBP 44 million on 26 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024831",
+      "subject": "company_1619",
+      "rel": "guarantor_for",
+      "object": "company_1617",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Merrivale Systems Limited guaranteed the loan to North Merrivale Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024830",
+      "subject": "company_1617",
+      "rel": "owes",
+      "object": "bank_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-31",
+          "value_end": "2024-03-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Merrivale Property Limited owes Elm Bank Limited GBP 10 million as at 31 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024832",
+      "subject": "lawfirm_57",
+      "rel": "represents",
+      "object": "company_1617",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Cairn LLP represents North Merrivale Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024835",
+      "subject": "company_1617",
+      "rel": "owns",
+      "object": "asset_432",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Merrivale Property Limited owns Jarrow Cross Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024836",
+      "subject": "asset_432",
+      "rel": "located_in",
+      "object": "place_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Jarrow Cross Wharf is located in Fenwick Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024837",
+      "subject": "company_1617",
+      "rel": "party_to",
+      "object": "legal_405",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Merrivale Property Limited is a party to the Security Agreement LEG-405.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024838",
+      "subject": "person_226",
+      "rel": "signed",
+      "object": "legal_405",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Daria Montague signed the Security Agreement LEG-405.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00696_proposal",
+      "text": "The acquisition of North Netherby Industries Limited by North Merrivale Property Limited",
+      "speaker": "person_700",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Nadia Ward, chair of North Merrivale Property Limited, proposed to acquire North Netherby Industries Limited on 13 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00696_approval",
+      "text": "Regulatory approval for the acquisition of North Netherby Industries Limited",
+      "speaker": "person_700",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Nadia Ward confirmed that regulatory approval for the acquisition of North Netherby Industries Limited by North Merrivale Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00696_link_conditional",
+      "src": "gen_doc_00696_proposal",
+      "dst": "gen_doc_00696_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Netherby Industries Limited by North Merrivale Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00696",
+      "surface": "13 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-13",
+      "value_end": "2024-04-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024829",
+      "surface": "26 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-26",
+      "value_end": "2024-03-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "26 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024830",
+      "surface": "31 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-31",
+      "value_end": "2024-03-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "31 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00696",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

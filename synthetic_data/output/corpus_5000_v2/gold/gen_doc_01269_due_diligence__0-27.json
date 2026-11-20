@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01269_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "93be98b734b159d7147d409bb9c0caadf31c30f43e94a2dfd1c336011b86cbcd"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_352",
+      "name": "Fairmouth Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_352",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fairmouth Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_21",
+      "name": "Carrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_21",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2133",
+      "name": "North Hampstead Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2133",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Hampstead Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2134",
+      "name": "North Hampstead Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2134",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hampstead Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2135",
+      "name": "North Hampstead Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2135",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hampstead Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_53",
+      "name": "Alden & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_53",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_315",
+      "name": "Debenture LEG-315",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_315",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-315",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-315",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1273",
+      "name": "Zane Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1273",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_741",
+      "name": "Oren Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_741",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_742",
+      "name": "Oren Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_742",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_749",
+      "name": "Oren Yarrow",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_749",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_160",
+      "name": "Lowmoor Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_160",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_032872",
+      "subject": "company_2133",
+      "rel": "owns",
+      "object": "company_2134",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Hampstead Property Limited owns North Hampstead Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032881",
+      "subject": "company_2133",
+      "rel": "owns",
+      "object": "asset_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Hampstead Property Limited owns Fairmouth Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032882",
+      "subject": "asset_352",
+      "rel": "located_in",
+      "object": "place_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Wharf is located in Lowmoor Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032878",
+      "subject": "lawfirm_53",
+      "rel": "represents",
+      "object": "company_2133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Wyndham LLP represents North Hampstead Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032873",
+      "subject": "person_749",
+      "rel": "shareholder_of",
+      "object": "company_2133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Oren Yarrow is a shareholder of North Hampstead Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032885",
+      "subject": "person_741",
+      "rel": "family_of",
+      "object": "person_742",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Pell is a family member of Oren Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032875",
+      "subject": "bank_21",
+      "rel": "lent_to",
+      "object": "company_2133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-23",
+          "value_end": "2025-10-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bank Limited lent North Hampstead Property Limited GBP 36 million on 23 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032877",
+      "subject": "company_2135",
+      "rel": "guarantor_for",
+      "object": "company_2133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Hampstead Systems Limited guaranteed the loan to North Hampstead Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032876",
+      "subject": "company_2133",
+      "rel": "owes",
+      "object": "bank_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-28",
+          "value_end": "2025-10-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Hampstead Property Limited owes Carrow Bank Limited GBP 6 million as at 28 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032883",
+      "subject": "company_2133",
+      "rel": "party_to",
+      "object": "legal_315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Hampstead Property Limited is a party to the Debenture LEG-315.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_032884",
+      "subject": "person_742",
+      "rel": "signed",
+      "object": "legal_315",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Quade signed the Debenture LEG-315.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01269_allegation",
+      "text": "A former employee alleged that North Hampstead Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Fenwick noted that a former employee alleged that North Hampstead Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01269",
+      "surface": "29 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-29",
+      "value_end": "2025-05-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032875",
+      "surface": "23 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-23",
+      "value_end": "2025-10-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_032876",
+      "surface": "28 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-28",
+      "value_end": "2025-10-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "28 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01269",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

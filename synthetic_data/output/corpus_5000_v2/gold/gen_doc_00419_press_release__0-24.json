@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00419_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "4f121379e1cb75e55be003f4777edb0d2fe2a94bff4467b358f69bfe966fcb42"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_179",
+      "name": "Kestrelford Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_179",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Kestrelford Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_183",
+      "name": "Kestrelford Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_183",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kestrelford Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kestrelford Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_48",
+      "name": "Glen Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_48",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glen Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Glen Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1368",
+      "name": "Quantock Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1368",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Quantock Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1370",
+      "name": "Quantock Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1370",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quantock Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_118",
+      "name": "Cairn & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_118",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_156",
+      "name": "Shareholder Agreement LEG-156",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_156",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Shareholder Agreement LEG-156",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-156",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1368",
+      "name": "Bram Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1368",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Bram Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1369",
+      "name": "Bram Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1369",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Bram Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bram Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1376",
+      "name": "Bram Jarvis",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1376",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Bram Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_423",
+      "name": "Hana Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_423",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Hana Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_115",
+      "name": "Fairhaven Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_115",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fairhaven Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020944",
+      "subject": "company_1368",
+      "rel": "owns",
+      "object": "asset_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Quantock Holdings Limited owns Kestrelford Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020945",
+      "subject": "person_1376",
+      "rel": "shareholder_of",
+      "object": "company_1368",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Bram Jarvis is a shareholder of Quantock Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020957",
+      "subject": "person_1368",
+      "rel": "family_of",
+      "object": "person_1369",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Bram Briar is a family member of Bram Cairn.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020947",
+      "subject": "bank_48",
+      "rel": "lent_to",
+      "object": "company_1368",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-16",
+          "value_end": "2026-01-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glen Commercial Bank Limited lent Quantock Holdings Limited GBP 26 million on 16 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020949",
+      "subject": "company_1370",
+      "rel": "guarantor_for",
+      "object": "company_1368",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quantock Group Limited guaranteed the loan to Quantock Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020948",
+      "subject": "company_1368",
+      "rel": "owes",
+      "object": "bank_48",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-21",
+          "value_end": "2026-01-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quantock Holdings Limited owes Glen Commercial Bank Limited GBP 11 million as at 21 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020953",
+      "subject": "company_1368",
+      "rel": "owns",
+      "object": "asset_183",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quantock Holdings Limited owns Kestrelford Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020954",
+      "subject": "asset_183",
+      "rel": "located_in",
+      "object": "place_115",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kestrelford Data Centre is located in Fairhaven Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020955",
+      "subject": "company_1368",
+      "rel": "party_to",
+      "object": "legal_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quantock Holdings Limited is a party to the Shareholder Agreement LEG-156.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020956",
+      "subject": "person_1369",
+      "rel": "signed",
+      "object": "legal_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Bram Cairn signed the Shareholder Agreement LEG-156.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00419_allegation",
+      "text": "A former employee alleged that Quantock Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Hana Neville noted that a former employee alleged that Quantock Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00419",
+      "surface": "18 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-18",
+      "value_end": "2025-07-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020947",
+      "surface": "16 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-16",
+      "value_end": "2026-01-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "16 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020948",
+      "surface": "21 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-21",
+      "value_end": "2026-01-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "21 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00419",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

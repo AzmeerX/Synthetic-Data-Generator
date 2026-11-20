@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00303_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "7f14ebcaf3658d830a622d1c7fa5aa075c540117daff45c7e536622a9507acf3"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_78",
+      "name": "Eastmere Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_78",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_75",
+      "name": "Low Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_75",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1263",
+      "name": "Hereford Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1263",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Hereford Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1264",
+      "name": "Hereford Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1264",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1265",
+      "name": "Hereford Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1265",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Hereford Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_93",
+      "name": "Briar & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_93",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_51",
+      "name": "Guarantee Deed LEG-051",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_51",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-051",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Guarantee Deed LEG-051",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1263",
+      "name": "Yara Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1263",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1264",
+      "name": "Yara Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1264",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1271",
+      "name": "Zane Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1271",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_307",
+      "name": "Farah Vale",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_307",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_10",
+      "name": "Larkspur",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_10",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Larkspur",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019307",
+      "subject": "company_1263",
+      "rel": "owns",
+      "object": "company_1264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Hereford Logistics Limited owns Hereford Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019316",
+      "subject": "company_1263",
+      "rel": "owns",
+      "object": "asset_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Hereford Logistics Limited owns Eastmere Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019317",
+      "subject": "asset_78",
+      "rel": "located_in",
+      "object": "place_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere Office Park is located in Larkspur.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019313",
+      "subject": "lawfirm_93",
+      "rel": "represents",
+      "object": "company_1263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Neville LLP represents Hereford Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019308",
+      "subject": "person_1271",
+      "rel": "shareholder_of",
+      "object": "company_1263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Dunmore is a shareholder of Hereford Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019320",
+      "subject": "person_1263",
+      "rel": "family_of",
+      "object": "person_1264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Yara Villiers is a family member of Yara Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019310",
+      "subject": "bank_75",
+      "rel": "lent_to",
+      "object": "company_1263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-18",
+          "value_end": "2022-11-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Bank Limited lent Hereford Logistics Limited GBP 16 million on 18 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019312",
+      "subject": "company_1265",
+      "rel": "guarantor_for",
+      "object": "company_1263",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Hereford Partners Limited guaranteed the loan to Hereford Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019311",
+      "subject": "company_1263",
+      "rel": "owes",
+      "object": "bank_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-23",
+          "value_end": "2022-11-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Hereford Logistics Limited owes Low Bank Limited GBP 6 million as at 23 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019318",
+      "subject": "company_1263",
+      "rel": "party_to",
+      "object": "legal_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Hereford Logistics Limited is a party to the Guarantee Deed LEG-051.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019319",
+      "subject": "person_1264",
+      "rel": "signed",
+      "object": "legal_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Whitlock signed the Guarantee Deed LEG-051.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00303_allegation",
+      "text": "A former employee alleged that Hereford Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Vale noted that a former employee alleged that Hereford Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00303",
+      "surface": "10 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-10",
+      "value_end": "2026-08-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019310",
+      "surface": "18 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-18",
+      "value_end": "2022-11-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019311",
+      "surface": "23 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-23",
+      "value_end": "2022-11-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "23 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00303",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

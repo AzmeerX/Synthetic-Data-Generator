@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00240_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "3345b70d2e272e1a0cd4c63f82f2027b5f519f96df84b26e22551e826b02bd58"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_21",
+      "name": "Calderport Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_21",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1206",
+      "name": "Culm Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1206",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Culm Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1207",
+      "name": "Culm Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1207",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Culm Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1208",
+      "name": "Culm Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1208",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_36",
+      "name": "Alden & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_36",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_600",
+      "name": "Lease LEG-600",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_600",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-600",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-600",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1206",
+      "name": "Xander Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1206",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1207",
+      "name": "Xander Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1207",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1214",
+      "name": "Xander Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1214",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_244",
+      "name": "Elias Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_244",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_133",
+      "name": "Harrowden Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_133",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowden Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018418",
+      "subject": "company_1206",
+      "rel": "owns",
+      "object": "company_1207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Culm Capital Limited owns Culm Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018427",
+      "subject": "company_1206",
+      "rel": "owns",
+      "object": "asset_21",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Culm Capital Limited owns Calderport Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018428",
+      "subject": "asset_21",
+      "rel": "located_in",
+      "object": "place_133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Wharf is located in Harrowden Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018424",
+      "subject": "lawfirm_36",
+      "rel": "represents",
+      "object": "company_1206",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Fairfax LLP represents Culm Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018419",
+      "subject": "person_1214",
+      "rel": "shareholder_of",
+      "object": "company_1206",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Villiers is a shareholder of Culm Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018431",
+      "subject": "person_1206",
+      "rel": "family_of",
+      "object": "person_1207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Montague is a family member of Xander Neville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018421",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_1206",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-26",
+          "value_end": "2025-10-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley Commercial Bank Limited lent Culm Capital Limited GBP 22 million on 26 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018423",
+      "subject": "company_1208",
+      "rel": "guarantor_for",
+      "object": "company_1206",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Culm Energy Limited guaranteed the loan to Culm Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018422",
+      "subject": "company_1206",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-31",
+          "value_end": "2025-10-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Culm Capital Limited owes Bexley Commercial Bank Limited GBP 9 million as at 31 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018429",
+      "subject": "company_1206",
+      "rel": "party_to",
+      "object": "legal_600",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Culm Capital Limited is a party to the Lease LEG-600.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018430",
+      "subject": "person_1207",
+      "rel": "signed",
+      "object": "legal_600",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Neville signed the Lease LEG-600.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00240_allegation",
+      "text": "A former employee alleged that Culm Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Elias Fenwick noted that a former employee alleged that Culm Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00240",
+      "surface": "26 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-26",
+      "value_end": "2025-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018421",
+      "surface": "26 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-26",
+      "value_end": "2025-10-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "26 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018422",
+      "surface": "31 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-31",
+      "value_end": "2025-10-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "31 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00240",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

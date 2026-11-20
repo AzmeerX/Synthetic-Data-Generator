@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01599_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "aac6433163a275d13b4f603684eefb027842fafb41609485b27a0e317098f16e"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_71",
+      "name": "Eastmere Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_71",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Eastmere Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_75",
+      "name": "Eastmere Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_75",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_03",
+      "name": "Dunmore Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_03",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmore Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_264",
+      "name": "Tarrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_264",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Tarrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_266",
+      "name": "Uldale Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_266",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_269",
+      "name": "Uldale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_269",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Uldale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Uldale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_127",
+      "name": "Cairn & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_127",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_58",
+      "name": "Settlement Agreement LEG-058",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_58",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Settlement Agreement LEG-058",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-058",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_211",
+      "name": "Daria Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_211",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_264",
+      "name": "Elias Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_264",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_265",
+      "name": "Elias Cavendish",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_265",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Cavendish",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_272",
+      "name": "Elias Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_272",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_71",
+      "name": "Linden",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_71",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Linden",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003729",
+      "subject": "company_264",
+      "rel": "owns",
+      "object": "asset_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Tarrow Systems Limited owns Eastmere Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003730",
+      "subject": "person_272",
+      "rel": "shareholder_of",
+      "object": "company_264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Jeffreys is a shareholder of Tarrow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003742",
+      "subject": "person_264",
+      "rel": "family_of",
+      "object": "person_265",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Balfour is a family member of Elias Cavendish.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003732",
+      "subject": "bank_03",
+      "rel": "lent_to",
+      "object": "company_264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-17",
+          "value_end": "2025-05-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmore Bank Limited lent Tarrow Systems Limited GBP 18 million on 17 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003734",
+      "subject": "company_266",
+      "rel": "guarantor_for",
+      "object": "company_264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Industries Limited guaranteed the loan to Tarrow Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003733",
+      "subject": "company_264",
+      "rel": "owes",
+      "object": "bank_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-22",
+          "value_end": "2025-05-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Systems Limited owes Dunmore Bank Limited GBP 7 million as at 22 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003735",
+      "subject": "lawfirm_14",
+      "rel": "represents",
+      "object": "company_264",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Ivers LLP represents Tarrow Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003738",
+      "subject": "company_264",
+      "rel": "owns",
+      "object": "asset_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Systems Limited owns Eastmere Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003739",
+      "subject": "asset_75",
+      "rel": "located_in",
+      "object": "place_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Plant is located in Linden.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003740",
+      "subject": "company_264",
+      "rel": "party_to",
+      "object": "legal_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Tarrow Systems Limited is a party to the Settlement Agreement LEG-058.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003741",
+      "subject": "person_265",
+      "rel": "signed",
+      "object": "legal_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Cavendish signed the Settlement Agreement LEG-058.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01599_proposal",
+      "text": "The acquisition of Uldale Trading Limited by Tarrow Systems Limited",
+      "speaker": "person_211",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Ward, chair of Tarrow Systems Limited, proposed to acquire Uldale Trading Limited on 28 February 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01599_approval",
+      "text": "Regulatory approval for the acquisition of Uldale Trading Limited",
+      "speaker": "person_211",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Daria Ward confirmed that regulatory approval for the acquisition of Uldale Trading Limited by Tarrow Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01599_link_conditional",
+      "src": "gen_doc_01599_proposal",
+      "dst": "gen_doc_01599_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Uldale Trading Limited by Tarrow Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01599",
+      "surface": "28 February 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-02-28",
+      "value_end": "2025-02-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 February 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003732",
+      "surface": "17 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-17",
+      "value_end": "2025-05-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "17 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003733",
+      "surface": "22 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-22",
+      "value_end": "2025-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "22 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01599",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

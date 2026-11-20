@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00251_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "bde193c936972a3f348141ce001c4a582ce7718154e668073d71a58066179175"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_27",
+      "name": "Calderport Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_27",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calderport Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_31",
+      "name": "Calderport Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_31",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calderport Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Calderport Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_28",
+      "name": "Denmoor Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_28",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1216",
+      "name": "Dartmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1216",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Dartmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1218",
+      "name": "Dartmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1218",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dartmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_91",
+      "name": "Briar & Langford LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_91",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Langford LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_04",
+      "name": "Facility Agreement LEG-004",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_04",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Facility Agreement LEG-004",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Facility Agreement LEG-004",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1216",
+      "name": "Xander Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1216",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1217",
+      "name": "Xander Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1217",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1224",
+      "name": "Yara Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1224",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Yara Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_255",
+      "name": "Elias Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_255",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_143",
+      "name": "Inglemere Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_143",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018573",
+      "subject": "company_1216",
+      "rel": "owns",
+      "object": "asset_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Dartmoor Trading Limited owns Calderport Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018574",
+      "subject": "person_1224",
+      "rel": "shareholder_of",
+      "object": "company_1216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Yara Fenwick is a shareholder of Dartmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018586",
+      "subject": "person_1216",
+      "rel": "family_of",
+      "object": "person_1217",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Wyndham is a family member of Xander Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018576",
+      "subject": "bank_28",
+      "rel": "lent_to",
+      "object": "company_1216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-02-13",
+          "value_end": "2026-02-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Merchant Bank Limited lent Dartmoor Trading Limited GBP 42 million on 13 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018578",
+      "subject": "company_1218",
+      "rel": "guarantor_for",
+      "object": "company_1216",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dartmoor Capital Limited guaranteed the loan to Dartmoor Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018577",
+      "subject": "company_1216",
+      "rel": "owes",
+      "object": "bank_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-02-18",
+          "value_end": "2026-02-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Dartmoor Trading Limited owes Denmoor Merchant Bank Limited GBP 9 million as at 18 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018582",
+      "subject": "company_1216",
+      "rel": "owns",
+      "object": "asset_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dartmoor Trading Limited owns Calderport Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018583",
+      "subject": "asset_31",
+      "rel": "located_in",
+      "object": "place_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Calderport Marina is located in Inglemere Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018584",
+      "subject": "company_1216",
+      "rel": "party_to",
+      "object": "legal_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dartmoor Trading Limited is a party to the Facility Agreement LEG-004.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018585",
+      "subject": "person_1217",
+      "rel": "signed",
+      "object": "legal_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Yardley signed the Facility Agreement LEG-004.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00251_allegation",
+      "text": "A former employee alleged that Dartmoor Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Rook noted that a former employee alleged that Dartmoor Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00251",
+      "surface": "11 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-11",
+      "value_end": "2025-08-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018576",
+      "surface": "13 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-13",
+      "value_end": "2026-02-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "13 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018577",
+      "surface": "18 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-18",
+      "value_end": "2026-02-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "18 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00251",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

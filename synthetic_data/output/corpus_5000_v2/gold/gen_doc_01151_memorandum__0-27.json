@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01151_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "a3bc1c742fea8a4d21f136e1fb9c05844c13067a3d7a57658db43b8410ecd4a9"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_246",
+      "name": "Northcliff Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_246",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Northcliff Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_47",
+      "name": "Glen Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_47",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Glen Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2027",
+      "name": "North Whitbourne Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2027",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Whitbourne Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2028",
+      "name": "North Yewdale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2028",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yewdale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2029",
+      "name": "North Yewdale Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2029",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yewdale Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2031",
+      "name": "North Yewdale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2031",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Yewdale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Yewdale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_77",
+      "name": "Briar & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_77",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_81",
+      "name": "Briar & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_81",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_209",
+      "name": "Share Purchase Agreement LEG-209",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_209",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Share Purchase Agreement LEG-209",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-209",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1155",
+      "name": "Wren Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1155",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wren Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Wren Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_635",
+      "name": "Marek Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_635",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_636",
+      "name": "Marek Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_636",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Marek Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_643",
+      "name": "Marek Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_643",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marek Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_54",
+      "name": "Rushmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_54",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Rushmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031220",
+      "subject": "company_2027",
+      "rel": "owns",
+      "object": "company_2028",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Whitbourne Systems Limited owns North Yewdale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031221",
+      "subject": "person_643",
+      "rel": "shareholder_of",
+      "object": "company_2027",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marek Mercer is a shareholder of North Whitbourne Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031233",
+      "subject": "person_635",
+      "rel": "family_of",
+      "object": "person_636",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Marek Ellery is a family member of Marek Fenwick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031223",
+      "subject": "bank_47",
+      "rel": "lent_to",
+      "object": "company_2027",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-14",
+          "value_end": "2022-08-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Glen Trust Bank Limited lent North Whitbourne Systems Limited GBP 24 million on 14 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031225",
+      "subject": "company_2029",
+      "rel": "guarantor_for",
+      "object": "company_2027",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Yewdale Industries Limited guaranteed the loan to North Whitbourne Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031224",
+      "subject": "company_2027",
+      "rel": "owes",
+      "object": "bank_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-19",
+          "value_end": "2022-08-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Whitbourne Systems Limited owes Glen Trust Bank Limited GBP 10 million as at 19 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031226",
+      "subject": "lawfirm_77",
+      "rel": "represents",
+      "object": "company_2027",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Ward LLP represents North Whitbourne Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031229",
+      "subject": "company_2027",
+      "rel": "owns",
+      "object": "asset_246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Whitbourne Systems Limited owns Northcliff Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031230",
+      "subject": "asset_246",
+      "rel": "located_in",
+      "object": "place_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Mill is located in Rushmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031231",
+      "subject": "company_2027",
+      "rel": "party_to",
+      "object": "legal_209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Whitbourne Systems Limited is a party to the Share Purchase Agreement LEG-209.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031232",
+      "subject": "person_636",
+      "rel": "signed",
+      "object": "legal_209",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Marek Fenwick signed the Share Purchase Agreement LEG-209.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01151_proposal",
+      "text": "The acquisition of North Yewdale Logistics Limited by North Whitbourne Systems Limited",
+      "speaker": "person_1155",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wren Kingsley, chair of North Whitbourne Systems Limited, proposed to acquire North Yewdale Logistics Limited on 7 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01151_approval",
+      "text": "Regulatory approval for the acquisition of North Yewdale Logistics Limited",
+      "speaker": "person_1155",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Wren Kingsley confirmed that regulatory approval for the acquisition of North Yewdale Logistics Limited by North Whitbourne Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01151_link_conditional",
+      "src": "gen_doc_01151_proposal",
+      "dst": "gen_doc_01151_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Yewdale Logistics Limited by North Whitbourne Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01151",
+      "surface": "7 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-07",
+      "value_end": "2026-06-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031223",
+      "surface": "14 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-14",
+      "value_end": "2022-08-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "14 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031224",
+      "surface": "19 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-19",
+      "value_end": "2022-08-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01151",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

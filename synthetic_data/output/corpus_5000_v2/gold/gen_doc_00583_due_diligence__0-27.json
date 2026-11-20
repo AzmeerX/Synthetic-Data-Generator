@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00583_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "828ec7744bccf58fc16c52a367dc03740a68a2957fa7ee40b21e4e77f327d2da"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_330",
+      "name": "Denmoor Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_330",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_63",
+      "name": "Jarrow Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_63",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1515",
+      "name": "North Elmsworth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1515",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Elmsworth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1516",
+      "name": "North Elmsworth Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1516",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Elmsworth Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1517",
+      "name": "North Elmsworth Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1517",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmsworth Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_85",
+      "name": "Briar & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_85",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_303",
+      "name": "Power of Attorney LEG-303",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_303",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-303",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-303",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_123",
+      "name": "Bastian Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_123",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_124",
+      "name": "Bastian Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_124",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Jeffreys",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_131",
+      "name": "Bastian Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_131",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_587",
+      "name": "Lena Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_587",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_82",
+      "name": "Belmont Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_82",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023236",
+      "subject": "company_1515",
+      "rel": "owns",
+      "object": "company_1516",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Elmsworth Logistics Limited owns North Elmsworth Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023245",
+      "subject": "company_1515",
+      "rel": "owns",
+      "object": "asset_330",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Elmsworth Logistics Limited owns Denmoor Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023246",
+      "subject": "asset_330",
+      "rel": "located_in",
+      "object": "place_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Farm is located in Belmont Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023242",
+      "subject": "lawfirm_85",
+      "rel": "represents",
+      "object": "company_1515",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Fairfax LLP represents North Elmsworth Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023237",
+      "subject": "person_131",
+      "rel": "shareholder_of",
+      "object": "company_1515",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Ravenscroft is a shareholder of North Elmsworth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023249",
+      "subject": "person_123",
+      "rel": "family_of",
+      "object": "person_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Ingram is a family member of Bastian Jeffreys.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023239",
+      "subject": "bank_63",
+      "rel": "lent_to",
+      "object": "company_1515",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-25",
+          "value_end": "2025-10-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Bank Limited lent North Elmsworth Logistics Limited GBP 40 million on 25 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023241",
+      "subject": "company_1517",
+      "rel": "guarantor_for",
+      "object": "company_1515",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Elmsworth Partners Limited guaranteed the loan to North Elmsworth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023240",
+      "subject": "company_1515",
+      "rel": "owes",
+      "object": "bank_63",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-30",
+          "value_end": "2025-10-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Elmsworth Logistics Limited owes Jarrow Bank Limited GBP 8 million as at 30 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023247",
+      "subject": "company_1515",
+      "rel": "party_to",
+      "object": "legal_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Elmsworth Logistics Limited is a party to the Power of Attorney LEG-303.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023248",
+      "subject": "person_124",
+      "rel": "signed",
+      "object": "legal_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Jeffreys signed the Power of Attorney LEG-303.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00583_allegation",
+      "text": "A former employee alleged that North Elmsworth Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Fenwick noted that a former employee alleged that North Elmsworth Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00583",
+      "surface": "27 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-27",
+      "value_end": "2025-05-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023239",
+      "surface": "25 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-25",
+      "value_end": "2025-10-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "25 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023240",
+      "surface": "30 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-30",
+      "value_end": "2025-10-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "30 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00583",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

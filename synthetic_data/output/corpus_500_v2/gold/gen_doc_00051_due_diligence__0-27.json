@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00051_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "310cb3120c183962a4ef65119e9e9c1da684ea53cbb120a103e444cc3228a045"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_28",
+      "name": "Calderport Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_28",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_09",
+      "name": "Alder Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_09",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_137",
+      "name": "Jarrow Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_137",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Jarrow Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_138",
+      "name": "Jarrow Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_138",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_139",
+      "name": "Jarrow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_139",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_17",
+      "name": "Alden & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_17",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_11",
+      "name": "Board Resolution LEG-011",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_11",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-011",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-011",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_137",
+      "name": "Bastian Wyndham",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_137",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_138",
+      "name": "Bastian Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_138",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_145",
+      "name": "Calder Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_145",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_55",
+      "name": "Amina Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_55",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_24",
+      "name": "Lowmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_24",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001749",
+      "subject": "company_137",
+      "rel": "owns",
+      "object": "company_138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Jarrow Trading Limited owns Jarrow Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001758",
+      "subject": "company_137",
+      "rel": "owns",
+      "object": "asset_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Trading Limited owns Calderport Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001759",
+      "subject": "asset_28",
+      "rel": "located_in",
+      "object": "place_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport Data Centre is located in Lowmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001755",
+      "subject": "lawfirm_17",
+      "rel": "represents",
+      "object": "company_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Lorne LLP represents Jarrow Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001750",
+      "subject": "person_145",
+      "rel": "shareholder_of",
+      "object": "company_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Fenwick is a shareholder of Jarrow Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001762",
+      "subject": "person_137",
+      "rel": "family_of",
+      "object": "person_138",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Wyndham is a family member of Bastian Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001752",
+      "subject": "bank_09",
+      "rel": "lent_to",
+      "object": "company_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-03-16",
+          "value_end": "2026-03-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Bank Limited lent Jarrow Trading Limited GBP 44 million on 16 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001754",
+      "subject": "company_139",
+      "rel": "guarantor_for",
+      "object": "company_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Jarrow Capital Limited guaranteed the loan to Jarrow Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001753",
+      "subject": "company_137",
+      "rel": "owes",
+      "object": "bank_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-03-21",
+          "value_end": "2026-03-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Trading Limited owes Alder Bank Limited GBP 10 million as at 21 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001760",
+      "subject": "company_137",
+      "rel": "party_to",
+      "object": "legal_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Jarrow Trading Limited is a party to the Board Resolution LEG-011.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001761",
+      "subject": "person_138",
+      "rel": "signed",
+      "object": "legal_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Yardley signed the Board Resolution LEG-011.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00051_allegation",
+      "text": "A former employee alleged that Jarrow Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Pell noted that a former employee alleged that Jarrow Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00051",
+      "surface": "23 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-23",
+      "value_end": "2025-01-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001752",
+      "surface": "16 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-16",
+      "value_end": "2026-03-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001753",
+      "surface": "21 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-21",
+      "value_end": "2026-03-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00051",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

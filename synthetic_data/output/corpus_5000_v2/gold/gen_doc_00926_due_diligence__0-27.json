@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00926_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "6f69678072d0916e4145825db006ce29c24e8958e30ad193eb68b63eba4068ae"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_39",
+      "name": "Calderport Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_39",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Calderport Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_43",
+      "name": "Dunhollow Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_43",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_108",
+      "name": "Quill Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_108",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quill Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1824",
+      "name": "North Grimsdale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1824",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Grimsdale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1826",
+      "name": "North Grimsdale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1826",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Grimsdale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_06",
+      "name": "Facility Agreement LEG-006",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_06",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-006",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-006",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_432",
+      "name": "Hana Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_432",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_433",
+      "name": "Hana Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_433",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_440",
+      "name": "Ivo Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_440",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_930",
+      "name": "Silas Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_930",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_31",
+      "name": "Stanbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_31",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Stanbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028054",
+      "subject": "company_1824",
+      "rel": "owns",
+      "object": "asset_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Grimsdale Holdings Limited owns Calderport Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028063",
+      "subject": "company_1824",
+      "rel": "owns",
+      "object": "asset_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Grimsdale Holdings Limited owns Dunhollow Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028064",
+      "subject": "asset_43",
+      "rel": "located_in",
+      "object": "place_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunhollow Cold Store is located in Stanbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028060",
+      "subject": "lawfirm_04",
+      "rel": "represents",
+      "object": "company_1824",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP represents North Grimsdale Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028055",
+      "subject": "person_440",
+      "rel": "shareholder_of",
+      "object": "company_1824",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ivo Garrow is a shareholder of North Grimsdale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028067",
+      "subject": "person_432",
+      "rel": "family_of",
+      "object": "person_433",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Wyndham is a family member of Hana Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028057",
+      "subject": "bank_108",
+      "rel": "lent_to",
+      "object": "company_1824",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-24",
+          "value_end": "2025-10-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Commercial Bank Limited lent North Grimsdale Holdings Limited GBP 18 million on 24 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028059",
+      "subject": "company_1826",
+      "rel": "guarantor_for",
+      "object": "company_1824",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Grimsdale Group Limited guaranteed the loan to North Grimsdale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028058",
+      "subject": "company_1824",
+      "rel": "owes",
+      "object": "bank_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-29",
+          "value_end": "2025-10-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Grimsdale Holdings Limited owes Quill Commercial Bank Limited GBP 7 million as at 29 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028065",
+      "subject": "company_1824",
+      "rel": "party_to",
+      "object": "legal_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Grimsdale Holdings Limited is a party to the Facility Agreement LEG-006.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028066",
+      "subject": "person_433",
+      "rel": "signed",
+      "object": "legal_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Yardley signed the Facility Agreement LEG-006.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00926_allegation",
+      "text": "A former employee alleged that North Grimsdale Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Silas Jarvis noted that a former employee alleged that North Grimsdale Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00926",
+      "surface": "28 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-28",
+      "value_end": "2025-05-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028057",
+      "surface": "24 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-24",
+      "value_end": "2025-10-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028058",
+      "surface": "29 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-29",
+      "value_end": "2025-10-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00926",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

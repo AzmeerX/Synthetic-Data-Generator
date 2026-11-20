@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00317_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "6f79a49792b20d2c0d7e26b0fd67b59c710c0b4bf164200aa7e68cbf61e6b924"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_09",
+      "name": "Kestrelford Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_09",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_38",
+      "name": "Belmont Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_38",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Belmont Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_39",
+      "name": "Belmont Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_39",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Belmont Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_40",
+      "name": "Belmont Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_40",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Belmont Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_38",
+      "name": "Loan Note LEG-038",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_38",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-038",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_321",
+      "name": "Farah Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_321",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_38",
+      "name": "Lorne Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_38",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_39",
+      "name": "Bram Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_39",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bram Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bram Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_46",
+      "name": "Amina Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_46",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_05",
+      "name": "Greyhaven",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_05",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000207",
+      "subject": "company_38",
+      "rel": "owns",
+      "object": "company_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Belmont Industries Limited owns Belmont Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000216",
+      "subject": "company_38",
+      "rel": "owns",
+      "object": "asset_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Belmont Industries Limited owns Kestrelford Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000217",
+      "subject": "asset_09",
+      "rel": "located_in",
+      "object": "place_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kestrelford Hangar is located in Greyhaven.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000213",
+      "subject": "lawfirm_08",
+      "rel": "represents",
+      "object": "company_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Cairn LLP represents Belmont Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000208",
+      "subject": "person_46",
+      "rel": "shareholder_of",
+      "object": "company_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Fenwick is a shareholder of Belmont Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000220",
+      "subject": "person_38",
+      "rel": "family_of",
+      "object": "person_39",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Ward is a family member of Bram Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000210",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-03-23",
+          "value_end": "2023-03-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited lent Belmont Industries Limited GBP 46 million on 23 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000212",
+      "subject": "company_40",
+      "rel": "guarantor_for",
+      "object": "company_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Belmont Logistics Limited guaranteed the loan to Belmont Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000211",
+      "subject": "company_38",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-03-28",
+          "value_end": "2023-03-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Belmont Industries Limited owes Silvergate Bank Limited GBP 11 million as at 28 March 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000218",
+      "subject": "company_38",
+      "rel": "party_to",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Belmont Industries Limited is a party to the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000219",
+      "subject": "person_39",
+      "rel": "signed",
+      "object": "legal_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bram Kerr signed the Loan Note LEG-038.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00317_allegation",
+      "text": "A former employee alleged that Belmont Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Kingsley noted that a former employee alleged that Belmont Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00317",
+      "surface": "16 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-16",
+      "value_end": "2026-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000210",
+      "surface": "23 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-23",
+      "value_end": "2023-03-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000211",
+      "surface": "28 March 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-03-28",
+      "value_end": "2023-03-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "28 March 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00317",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

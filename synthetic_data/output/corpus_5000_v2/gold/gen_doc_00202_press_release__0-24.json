@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00202_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "c9c349475073fa9c2d23f1489d7fecb47cc50cdf347a29c2e924ca68dbd5129e"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_579",
+      "name": "Quintrell Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_579",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Quintrell Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_583",
+      "name": "Quintrell Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_583",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quintrell Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Quintrell Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_116",
+      "name": "Red International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_116",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Red International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1172",
+      "name": "Yelverton Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1172",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yelverton Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1174",
+      "name": "Yelverton Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1174",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yelverton Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_42",
+      "name": "Alden & Langford LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_42",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Langford LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_566",
+      "name": "Loan Note LEG-566",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_566",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Loan Note LEG-566",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-566",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1172",
+      "name": "Xander Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1172",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1173",
+      "name": "Xander Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1173",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1180",
+      "name": "Xander Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1180",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Xander Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_206",
+      "name": "Daria Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_206",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_99",
+      "name": "Dunmere Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_99",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmere Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017889",
+      "subject": "company_1172",
+      "rel": "owns",
+      "object": "asset_579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Yelverton Energy Limited owns Quintrell Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017890",
+      "subject": "person_1180",
+      "rel": "shareholder_of",
+      "object": "company_1172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Xander Lorne is a shareholder of Yelverton Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017902",
+      "subject": "person_1172",
+      "rel": "family_of",
+      "object": "person_1173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Xander Cairn is a family member of Xander Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017892",
+      "subject": "bank_116",
+      "rel": "lent_to",
+      "object": "company_1172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-17",
+          "value_end": "2024-10-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Red International Bank Limited lent Yelverton Energy Limited GBP 34 million on 17 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017894",
+      "subject": "company_1174",
+      "rel": "guarantor_for",
+      "object": "company_1172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yelverton Ventures Limited guaranteed the loan to Yelverton Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017893",
+      "subject": "company_1172",
+      "rel": "owes",
+      "object": "bank_116",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-22",
+          "value_end": "2024-10-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yelverton Energy Limited owes Red International Bank Limited GBP 5 million as at 22 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017898",
+      "subject": "company_1172",
+      "rel": "owns",
+      "object": "asset_583",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Yelverton Energy Limited owns Quintrell Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017899",
+      "subject": "asset_583",
+      "rel": "located_in",
+      "object": "place_99",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quintrell Works is located in Dunmere Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017900",
+      "subject": "company_1172",
+      "rel": "party_to",
+      "object": "legal_566",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yelverton Energy Limited is a party to the Loan Note LEG-566.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017901",
+      "subject": "person_1173",
+      "rel": "signed",
+      "object": "legal_566",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Xander Dunmore signed the Loan Note LEG-566.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00202_allegation",
+      "text": "A former employee alleged that Yelverton Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Rook noted that a former employee alleged that Yelverton Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00202",
+      "surface": "2 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-02",
+      "value_end": "2024-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017892",
+      "surface": "17 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-17",
+      "value_end": "2024-10-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "17 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017893",
+      "surface": "22 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-22",
+      "value_end": "2024-10-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "22 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00202",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

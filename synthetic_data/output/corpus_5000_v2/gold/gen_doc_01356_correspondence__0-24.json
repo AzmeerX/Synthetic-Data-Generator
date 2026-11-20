@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01356_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "bbc487f93a4724bbcb774b718dcd1f787362253bab6933b47fd9fb1d4793380d"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_430",
+      "name": "Invermere Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_430",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Invermere Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Invermere Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_99",
+      "name": "Pember Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_99",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Pember Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2211",
+      "name": "North Osterley Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2211",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Osterley Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2212",
+      "name": "North Osterley Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2212",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2213",
+      "name": "North Osterley Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2213",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Osterley Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2214",
+      "name": "North Osterley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2214",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Osterley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2216",
+      "name": "North Osterley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2216",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Osterley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_393",
+      "name": "Trust Deed LEG-393",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_393",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-393",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-393",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1360",
+      "name": "Anika Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1360",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Anika Tremayne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_819",
+      "name": "Petra Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_819",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_820",
+      "name": "Petra Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_820",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Petra Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_827",
+      "name": "Quin Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_827",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_58",
+      "name": "Vicarage",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_58",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vicarage",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034088",
+      "subject": "company_2211",
+      "rel": "owns",
+      "object": "company_2212",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Osterley Logistics Limited owns North Osterley Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034089",
+      "subject": "person_827",
+      "rel": "shareholder_of",
+      "object": "company_2211",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Dunmore is a shareholder of North Osterley Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034101",
+      "subject": "person_819",
+      "rel": "family_of",
+      "object": "person_820",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Villiers is a family member of Petra Whitlock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034091",
+      "subject": "bank_99",
+      "rel": "lent_to",
+      "object": "company_2211",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-07-04",
+          "value_end": "2023-07-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Pember Bank Limited lent North Osterley Logistics Limited GBP 32 million on 4 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034093",
+      "subject": "company_2213",
+      "rel": "guarantor_for",
+      "object": "company_2211",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Osterley Partners Limited guaranteed the loan to North Osterley Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034092",
+      "subject": "company_2211",
+      "rel": "owes",
+      "object": "bank_99",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-07-09",
+          "value_end": "2023-07-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Osterley Logistics Limited owes Pember Bank Limited GBP 4 million as at 9 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034097",
+      "subject": "company_2211",
+      "rel": "owns",
+      "object": "asset_430",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Osterley Logistics Limited owns Invermere Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034098",
+      "subject": "asset_430",
+      "rel": "located_in",
+      "object": "place_58",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Invermere Farm is located in Vicarage.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034099",
+      "subject": "company_2211",
+      "rel": "party_to",
+      "object": "legal_393",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Osterley Logistics Limited is a party to the Trust Deed LEG-393.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034100",
+      "subject": "person_820",
+      "rel": "signed",
+      "object": "legal_393",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Petra Whitlock signed the Trust Deed LEG-393.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01356_proposal",
+      "text": "The acquisition of North Osterley Energy Limited by North Osterley Logistics Limited",
+      "speaker": "person_1360",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Anika Tremayne, chair of North Osterley Logistics Limited, proposed to acquire North Osterley Energy Limited on 28 January 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01356_approval",
+      "text": "Regulatory approval for the acquisition of North Osterley Energy Limited",
+      "speaker": "person_1360",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Anika Tremayne confirmed that regulatory approval for the acquisition of North Osterley Energy Limited by North Osterley Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01356_link_conditional",
+      "src": "gen_doc_01356_proposal",
+      "dst": "gen_doc_01356_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Osterley Energy Limited by North Osterley Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01352_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01356",
+      "surface": "28 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-28",
+      "value_end": "2027-01-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034091",
+      "surface": "4 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-04",
+      "value_end": "2023-07-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "4 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034092",
+      "surface": "9 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-09",
+      "value_end": "2023-07-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "9 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

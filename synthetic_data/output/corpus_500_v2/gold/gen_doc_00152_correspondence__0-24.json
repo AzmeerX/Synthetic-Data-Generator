@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00152_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "3f1e4451f9676a0dd1516d33640612101e113378b539ecf84ad374c8d22ac2e4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_11",
+      "name": "Marrow Bay Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_11",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Marrow Bay Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_15",
+      "name": "Quarrystone Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_15",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_44",
+      "name": "Belmont Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_44",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Belmont Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_46",
+      "name": "Belmont Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_46",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Belmont Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_47",
+      "name": "Belmont Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_47",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Belmont Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_49",
+      "name": "Carrow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_49",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Carrow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Carrow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_03",
+      "name": "Cairn & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_03",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_44",
+      "name": "Shareholder Agreement LEG-044",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_44",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-044",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-044",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_156",
+      "name": "Calder Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_156",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_44",
+      "name": "Amina Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_44",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_45",
+      "name": "Amina Ellery",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_45",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_52",
+      "name": "Amina Mercer",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_52",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_11",
+      "name": "Marrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_11",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Marrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000300",
+      "subject": "company_44",
+      "rel": "owns",
+      "object": "asset_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Belmont Marine Limited owns Marrow Bay Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000301",
+      "subject": "person_52",
+      "rel": "shareholder_of",
+      "object": "company_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Mercer is a shareholder of Belmont Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000313",
+      "subject": "person_44",
+      "rel": "family_of",
+      "object": "person_45",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Dunmore is a family member of Amina Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000303",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-28",
+          "value_end": "2023-05-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrowgate Bank Limited lent Belmont Marine Limited GBP 18 million on 28 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000305",
+      "subject": "company_46",
+      "rel": "guarantor_for",
+      "object": "company_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Belmont Property Limited guaranteed the loan to Belmont Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000304",
+      "subject": "company_44",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-02",
+          "value_end": "2023-06-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Belmont Marine Limited owes Harrowgate Bank Limited GBP 7 million as at 2 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000309",
+      "subject": "company_44",
+      "rel": "owns",
+      "object": "asset_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Belmont Marine Limited owns Quarrystone Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000310",
+      "subject": "asset_15",
+      "rel": "located_in",
+      "object": "place_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Quarrystone Mill is located in Marrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000311",
+      "subject": "company_44",
+      "rel": "party_to",
+      "object": "legal_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Belmont Marine Limited is a party to the Shareholder Agreement LEG-044.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000312",
+      "subject": "person_45",
+      "rel": "signed",
+      "object": "legal_44",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Amina Ellery signed the Shareholder Agreement LEG-044.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00152_proposal",
+      "text": "The acquisition of Carrow Holdings Limited by Belmont Marine Limited",
+      "speaker": "person_156",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Quade, chair of Belmont Marine Limited, proposed to acquire Carrow Holdings Limited on 31 December 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00152_approval",
+      "text": "Regulatory approval for the acquisition of Carrow Holdings Limited",
+      "speaker": "person_156",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Quade confirmed that regulatory approval for the acquisition of Carrow Holdings Limited by Belmont Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00152_link_conditional",
+      "src": "gen_doc_00152_proposal",
+      "dst": "gen_doc_00152_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Carrow Holdings Limited by Belmont Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00148_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00152",
+      "surface": "31 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-31",
+      "value_end": "2026-12-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000303",
+      "surface": "28 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-28",
+      "value_end": "2023-05-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "28 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000304",
+      "surface": "2 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-02",
+      "value_end": "2023-06-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "2 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

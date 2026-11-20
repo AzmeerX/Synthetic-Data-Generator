@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00100_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "1be6c339b37f6524479989ffe20be6d594f5fcd7dfe9b70d831aeaf20315e757"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_487",
+      "name": "Lowmoor Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_487",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Lowmoor Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_491",
+      "name": "Lowmoor Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_491",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_24",
+      "name": "Carrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_24",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1080",
+      "name": "Quill Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1080",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Quill Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1082",
+      "name": "Quill Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1082",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_40",
+      "name": "Alden & Jeffreys LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_40",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jeffreys LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_474",
+      "name": "Settlement Agreement LEG-474",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_474",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-474",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-474",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_104",
+      "name": "Bastian Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_104",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1080",
+      "name": "Vera Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1080",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1081",
+      "name": "Vera Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1081",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1088",
+      "name": "Vera Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1088",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_07",
+      "name": "Ironside",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_07",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ironside",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016453",
+      "subject": "company_1080",
+      "rel": "owns",
+      "object": "asset_487",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quill Holdings Limited owns Lowmoor Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016462",
+      "subject": "company_1080",
+      "rel": "owns",
+      "object": "asset_491",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quill Holdings Limited owns Lowmoor Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016463",
+      "subject": "asset_491",
+      "rel": "located_in",
+      "object": "place_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Office Park is located in Ironside.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016459",
+      "subject": "lawfirm_40",
+      "rel": "represents",
+      "object": "company_1080",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jeffreys LLP represents Quill Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016454",
+      "subject": "person_1088",
+      "rel": "shareholder_of",
+      "object": "company_1080",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Sable is a shareholder of Quill Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016466",
+      "subject": "person_1080",
+      "rel": "family_of",
+      "object": "person_1081",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Kerr is a family member of Vera Lorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016456",
+      "subject": "bank_24",
+      "rel": "lent_to",
+      "object": "company_1080",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-05",
+          "value_end": "2026-09-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Commercial Bank Limited lent Quill Holdings Limited GBP 50 million on 5 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016458",
+      "subject": "company_1082",
+      "rel": "guarantor_for",
+      "object": "company_1080",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Group Limited guaranteed the loan to Quill Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016457",
+      "subject": "company_1080",
+      "rel": "owes",
+      "object": "bank_24",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-10",
+          "value_end": "2026-09-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Quill Holdings Limited owes Carrow Commercial Bank Limited GBP 13 million as at 10 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016464",
+      "subject": "company_1080",
+      "rel": "party_to",
+      "object": "legal_474",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Quill Holdings Limited is a party to the Settlement Agreement LEG-474.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016465",
+      "subject": "person_1081",
+      "rel": "signed",
+      "object": "legal_474",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Lorne signed the Settlement Agreement LEG-474.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00100_allegation",
+      "text": "A former employee alleged that Quill Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Orrick noted that a former employee alleged that Quill Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00100",
+      "surface": "1 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-01",
+      "value_end": "2026-01-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016456",
+      "surface": "5 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-05",
+      "value_end": "2026-09-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "5 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016457",
+      "surface": "10 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-10",
+      "value_end": "2026-09-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "10 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00100",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

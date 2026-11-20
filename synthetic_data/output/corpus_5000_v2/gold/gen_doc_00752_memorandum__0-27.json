@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00752_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "e426bb4b06fda1d0147dc0987f65195c2c982cac190667fcb3fb09545393f502"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_479",
+      "name": "Lowmoor Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_479",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Lowmoor Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_483",
+      "name": "Lowmoor Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_483",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_84",
+      "name": "Merri Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_84",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Merri Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Merri Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1668",
+      "name": "North Redmoor Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1668",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Redmoor Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1670",
+      "name": "North Redmoor Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1670",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1672",
+      "name": "North Redmoor Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1672",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Redmoor Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Redmoor Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_108",
+      "name": "Cairn & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_108",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_72",
+      "name": "Briar & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_72",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_456",
+      "name": "Lease LEG-456",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_456",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lease LEG-456",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-456",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_276",
+      "name": "Elias Neville",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_276",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_277",
+      "name": "Elias Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_277",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_284",
+      "name": "Elias Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_284",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_756",
+      "name": "Oren Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_756",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Oren Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_55",
+      "name": "Saltmarsh",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_55",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Saltmarsh",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025622",
+      "subject": "company_1668",
+      "rel": "owns",
+      "object": "asset_479",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Redmoor Holdings Limited owns Lowmoor Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025623",
+      "subject": "person_284",
+      "rel": "shareholder_of",
+      "object": "company_1668",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elias Whitlock is a shareholder of North Redmoor Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025635",
+      "subject": "person_276",
+      "rel": "family_of",
+      "object": "person_277",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elias Neville is a family member of Elias Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025625",
+      "subject": "bank_84",
+      "rel": "lent_to",
+      "object": "company_1668",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-08",
+          "value_end": "2025-10-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Merri Commercial Bank Limited lent North Redmoor Holdings Limited GBP 26 million on 8 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025627",
+      "subject": "company_1670",
+      "rel": "guarantor_for",
+      "object": "company_1668",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Redmoor Group Limited guaranteed the loan to North Redmoor Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025626",
+      "subject": "company_1668",
+      "rel": "owes",
+      "object": "bank_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-13",
+          "value_end": "2025-10-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Redmoor Holdings Limited owes Merri Commercial Bank Limited GBP 11 million as at 13 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025628",
+      "subject": "lawfirm_108",
+      "rel": "represents",
+      "object": "company_1668",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Ellery LLP represents North Redmoor Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025631",
+      "subject": "company_1668",
+      "rel": "owns",
+      "object": "asset_483",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Redmoor Holdings Limited owns Lowmoor Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025632",
+      "subject": "asset_483",
+      "rel": "located_in",
+      "object": "place_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Works is located in Saltmarsh.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025633",
+      "subject": "company_1668",
+      "rel": "party_to",
+      "object": "legal_456",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Redmoor Holdings Limited is a party to the Lease LEG-456.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025634",
+      "subject": "person_277",
+      "rel": "signed",
+      "object": "legal_456",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Elias Osborne signed the Lease LEG-456.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00752_proposal",
+      "text": "The acquisition of North Redmoor Trading Limited by North Redmoor Holdings Limited",
+      "speaker": "person_756",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Fairfax, chair of North Redmoor Holdings Limited, proposed to acquire North Redmoor Trading Limited on 10 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00752_approval",
+      "text": "Regulatory approval for the acquisition of North Redmoor Trading Limited",
+      "speaker": "person_756",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Oren Fairfax confirmed that regulatory approval for the acquisition of North Redmoor Trading Limited by North Redmoor Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00752_link_conditional",
+      "src": "gen_doc_00752_proposal",
+      "dst": "gen_doc_00752_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Redmoor Trading Limited by North Redmoor Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00752",
+      "surface": "10 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-10",
+      "value_end": "2025-05-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025625",
+      "surface": "8 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-08",
+      "value_end": "2025-10-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "8 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025626",
+      "surface": "13 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-13",
+      "value_end": "2025-10-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00752",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

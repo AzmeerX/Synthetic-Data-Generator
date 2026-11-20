@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00618_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "43bc6ede78538f7e110db4e5890399a64bd5c12b5635e9f745441d88ada7e84b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_362",
+      "name": "Fairmouth Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_362",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fairmouth Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_95",
+      "name": "Oak Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_95",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oak Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1547",
+      "name": "North Glenmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1547",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1548",
+      "name": "North Harrowden Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1548",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Harrowden Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1549",
+      "name": "North Harrowden Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1549",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Harrowden Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_117",
+      "name": "Cairn & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_117",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_335",
+      "name": "Power of Attorney LEG-335",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_335",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-335",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-335",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_155",
+      "name": "Calder Pell",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_155",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_156",
+      "name": "Calder Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_156",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_163",
+      "name": "Calder Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_163",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_622",
+      "name": "Lena Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_622",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_114",
+      "name": "Fairhaven Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_114",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairhaven Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023735",
+      "subject": "company_1547",
+      "rel": "owns",
+      "object": "company_1548",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Glenmoor Systems Limited owns North Harrowden Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023744",
+      "subject": "company_1547",
+      "rel": "owns",
+      "object": "asset_362",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Systems Limited owns Fairmouth Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023745",
+      "subject": "asset_362",
+      "rel": "located_in",
+      "object": "place_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Marina is located in Fairhaven Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023741",
+      "subject": "lawfirm_117",
+      "rel": "represents",
+      "object": "company_1547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Nyle LLP represents North Glenmoor Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023736",
+      "subject": "person_163",
+      "rel": "shareholder_of",
+      "object": "company_1547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Yarrow is a shareholder of North Glenmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023748",
+      "subject": "person_155",
+      "rel": "family_of",
+      "object": "person_156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Pell is a family member of Calder Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023738",
+      "subject": "bank_95",
+      "rel": "lent_to",
+      "object": "company_1547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-15",
+          "value_end": "2022-02-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Trust Bank Limited lent North Glenmoor Systems Limited GBP 24 million on 15 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023740",
+      "subject": "company_1549",
+      "rel": "guarantor_for",
+      "object": "company_1547",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Harrowden Industries Limited guaranteed the loan to North Glenmoor Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023739",
+      "subject": "company_1547",
+      "rel": "owes",
+      "object": "bank_95",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-20",
+          "value_end": "2022-02-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Glenmoor Systems Limited owes Oak Trust Bank Limited GBP 10 million as at 20 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023746",
+      "subject": "company_1547",
+      "rel": "party_to",
+      "object": "legal_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Glenmoor Systems Limited is a party to the Power of Attorney LEG-335.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023747",
+      "subject": "person_156",
+      "rel": "signed",
+      "object": "legal_335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Quade signed the Power of Attorney LEG-335.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00618_allegation",
+      "text": "A former employee alleged that North Glenmoor Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Ravenscroft noted that a former employee alleged that North Glenmoor Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00618",
+      "surface": "27 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-27",
+      "value_end": "2026-01-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023738",
+      "surface": "15 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-15",
+      "value_end": "2022-02-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023739",
+      "surface": "20 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-20",
+      "value_end": "2022-02-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00618",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

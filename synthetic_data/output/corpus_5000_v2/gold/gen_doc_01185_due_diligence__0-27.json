@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01185_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "59c27766d44b40bdab309452158fa62163fcea1998c14e767e11c72896c2093b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_277",
+      "name": "Bexhaven Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_277",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexhaven Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Bexhaven Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_78",
+      "name": "Low Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_78",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Low Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2058",
+      "name": "North Bexley Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2058",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Bexley Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2059",
+      "name": "North Bexley Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2059",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Bexley Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2060",
+      "name": "North Bexley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2060",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bexley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_108",
+      "name": "Cairn & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_108",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_240",
+      "name": "Side Letter LEG-240",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_240",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-240",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-240",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1189",
+      "name": "Xander Ulric",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1189",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_666",
+      "name": "Marek Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_666",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_667",
+      "name": "Marek Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_667",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_674",
+      "name": "Marek Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_674",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_85",
+      "name": "Belmont Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_85",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031703",
+      "subject": "company_2058",
+      "rel": "owns",
+      "object": "company_2059",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Bexley Capital Limited owns North Bexley Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031712",
+      "subject": "company_2058",
+      "rel": "owns",
+      "object": "asset_277",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Bexley Capital Limited owns Bexhaven Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031713",
+      "subject": "asset_277",
+      "rel": "located_in",
+      "object": "place_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bexhaven Warehouse is located in Belmont Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031709",
+      "subject": "lawfirm_108",
+      "rel": "represents",
+      "object": "company_2058",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ellery LLP represents North Bexley Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031704",
+      "subject": "person_674",
+      "rel": "shareholder_of",
+      "object": "company_2058",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Villiers is a shareholder of North Bexley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031716",
+      "subject": "person_666",
+      "rel": "family_of",
+      "object": "person_667",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Montague is a family member of Marek Neville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031706",
+      "subject": "bank_78",
+      "rel": "lent_to",
+      "object": "company_2058",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-07-21",
+          "value_end": "2023-07-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Low Commercial Bank Limited lent North Bexley Capital Limited GBP 46 million on 21 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031708",
+      "subject": "company_2060",
+      "rel": "guarantor_for",
+      "object": "company_2058",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bexley Energy Limited guaranteed the loan to North Bexley Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031707",
+      "subject": "company_2058",
+      "rel": "owes",
+      "object": "bank_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-07-26",
+          "value_end": "2023-07-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Bexley Capital Limited owes Low Commercial Bank Limited GBP 11 million as at 26 July 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031714",
+      "subject": "company_2058",
+      "rel": "party_to",
+      "object": "legal_240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Bexley Capital Limited is a party to the Side Letter LEG-240.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031715",
+      "subject": "person_667",
+      "rel": "signed",
+      "object": "legal_240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Neville signed the Side Letter LEG-240.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01185_allegation",
+      "text": "A former employee alleged that North Bexley Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Ulric noted that a former employee alleged that North Bexley Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01185",
+      "surface": "31 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-31",
+      "value_end": "2027-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031706",
+      "surface": "21 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-21",
+      "value_end": "2023-07-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "21 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031707",
+      "surface": "26 July 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-07-26",
+      "value_end": "2023-07-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "26 July 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01185",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

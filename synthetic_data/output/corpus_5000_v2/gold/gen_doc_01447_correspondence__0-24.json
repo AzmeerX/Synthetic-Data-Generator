@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01447_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "6ccd0bcf5aa9a204818e6b00a60d11529871c0d42dc84f7a3c81049dacdc704a"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_513",
+      "name": "Netherby Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_513",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_50",
+      "name": "Glen International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_50",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Glen International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Glen International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2294",
+      "name": "North Vinehall Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2294",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Vinehall Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2295",
+      "name": "North Vinehall Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2295",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2296",
+      "name": "North Vinehall Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2296",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Vinehall Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2297",
+      "name": "North Vinehall Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2297",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Vinehall Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2299",
+      "name": "North Vinehall Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2299",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Vinehall Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Vinehall Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_107",
+      "name": "Cairn & Dunmore LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_107",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Dunmore LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Dunmore LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_476",
+      "name": "Shareholder Agreement LEG-476",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_476",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-476",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Shareholder Agreement LEG-476",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_59",
+      "name": "Amina Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_59",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_902",
+      "name": "Rhea Grenville",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_902",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_903",
+      "name": "Rhea Hastings",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_903",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Rhea Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_910",
+      "name": "Rhea Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_910",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_141",
+      "name": "Inglemere Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_141",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inglemere Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_035384",
+      "subject": "company_2294",
+      "rel": "owns",
+      "object": "company_2295",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vinehall Group Limited owns North Vinehall Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035385",
+      "subject": "person_910",
+      "rel": "shareholder_of",
+      "object": "company_2294",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Rhea Osborne is a shareholder of North Vinehall Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035397",
+      "subject": "person_902",
+      "rel": "family_of",
+      "object": "person_903",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rhea Grenville is a family member of Rhea Hastings.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035387",
+      "subject": "bank_50",
+      "rel": "lent_to",
+      "object": "company_2294",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-02",
+          "value_end": "2026-01-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Glen International Bank Limited lent North Vinehall Group Limited GBP 38 million on 2 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035389",
+      "subject": "company_2296",
+      "rel": "guarantor_for",
+      "object": "company_2294",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Vinehall Trading Limited guaranteed the loan to North Vinehall Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035388",
+      "subject": "company_2294",
+      "rel": "owes",
+      "object": "bank_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-07",
+          "value_end": "2026-01-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Vinehall Group Limited owes Glen International Bank Limited GBP 7 million as at 7 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035393",
+      "subject": "company_2294",
+      "rel": "owns",
+      "object": "asset_513",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Vinehall Group Limited owns Netherby Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035394",
+      "subject": "asset_513",
+      "rel": "located_in",
+      "object": "place_141",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Rail Depot is located in Inglemere Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035395",
+      "subject": "company_2294",
+      "rel": "party_to",
+      "object": "legal_476",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vinehall Group Limited is a party to the Shareholder Agreement LEG-476.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_035396",
+      "subject": "person_903",
+      "rel": "signed",
+      "object": "legal_476",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Rhea Hastings signed the Shareholder Agreement LEG-476.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01447_proposal",
+      "text": "The acquisition of North Vinehall Marine Limited by North Vinehall Group Limited",
+      "speaker": "person_59",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Thorne, chair of North Vinehall Group Limited, proposed to acquire North Vinehall Marine Limited on 14 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01447_approval",
+      "text": "Regulatory approval for the acquisition of North Vinehall Marine Limited",
+      "speaker": "person_59",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Thorne confirmed that regulatory approval for the acquisition of North Vinehall Marine Limited by North Vinehall Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01447_link_conditional",
+      "src": "gen_doc_01447_proposal",
+      "dst": "gen_doc_01447_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Vinehall Marine Limited by North Vinehall Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01443_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01447",
+      "surface": "14 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-14",
+      "value_end": "2025-07-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "14 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035387",
+      "surface": "2 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-02",
+      "value_end": "2026-01-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "2 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_035388",
+      "surface": "7 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-07",
+      "value_end": "2026-01-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "7 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

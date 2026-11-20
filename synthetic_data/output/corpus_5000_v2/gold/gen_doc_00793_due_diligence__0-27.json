@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00793_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "80b6848ead3b27e2c307baf72530cd65624d3453e86cbc81b8620a0c03459b0c"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_515",
+      "name": "Netherby Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_515",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Netherby Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_519",
+      "name": "Netherby Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_519",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_120",
+      "name": "Stan Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_120",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stan Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1704",
+      "name": "North Uldale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1704",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Uldale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1706",
+      "name": "North Uldale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1706",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_14",
+      "name": "Alden & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_14",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_492",
+      "name": "Shareholder Agreement LEG-492",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_492",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-492",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-492",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_312",
+      "name": "Farah Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_312",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_313",
+      "name": "Farah Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_313",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Cavendish",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_320",
+      "name": "Farah Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_320",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_797",
+      "name": "Petra Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_797",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Petra Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_91",
+      "name": "Carrow Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_91",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Carrow Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026183",
+      "subject": "company_1704",
+      "rel": "owns",
+      "object": "asset_515",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Uldale Holdings Limited owns Netherby Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026192",
+      "subject": "company_1704",
+      "rel": "owns",
+      "object": "asset_519",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Holdings Limited owns Netherby Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026193",
+      "subject": "asset_519",
+      "rel": "located_in",
+      "object": "place_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Netherby Data Centre is located in Carrow Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026189",
+      "subject": "lawfirm_14",
+      "rel": "represents",
+      "object": "company_1704",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Ivers LLP represents North Uldale Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026184",
+      "subject": "person_320",
+      "rel": "shareholder_of",
+      "object": "company_1704",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Jeffreys is a shareholder of North Uldale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026196",
+      "subject": "person_312",
+      "rel": "family_of",
+      "object": "person_313",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Balfour is a family member of Farah Cavendish.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026186",
+      "subject": "bank_120",
+      "rel": "lent_to",
+      "object": "company_1704",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-14",
+          "value_end": "2022-03-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan Commercial Bank Limited lent North Uldale Holdings Limited GBP 18 million on 14 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026188",
+      "subject": "company_1706",
+      "rel": "guarantor_for",
+      "object": "company_1704",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Group Limited guaranteed the loan to North Uldale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026187",
+      "subject": "company_1704",
+      "rel": "owes",
+      "object": "bank_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-19",
+          "value_end": "2022-03-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Uldale Holdings Limited owes Stan Commercial Bank Limited GBP 7 million as at 19 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026194",
+      "subject": "company_1704",
+      "rel": "party_to",
+      "object": "legal_492",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Uldale Holdings Limited is a party to the Shareholder Agreement LEG-492.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026195",
+      "subject": "person_313",
+      "rel": "signed",
+      "object": "legal_492",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Cavendish signed the Shareholder Agreement LEG-492.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00793_allegation",
+      "text": "A former employee alleged that North Uldale Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Petra Yarrow noted that a former employee alleged that North Uldale Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00793",
+      "surface": "21 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-21",
+      "value_end": "2026-02-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026186",
+      "surface": "14 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-14",
+      "value_end": "2022-03-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "14 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026187",
+      "surface": "19 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-19",
+      "value_end": "2022-03-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "19 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00793",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

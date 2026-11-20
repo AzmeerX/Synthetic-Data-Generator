@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00625_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "bb7b678941e8ec93a3590bf54d66efd402b547a23626b3472ea07fa6233132e4"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_368",
+      "name": "Fairmouth Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_368",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fairmouth Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_101",
+      "name": "Pember Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_101",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1553",
+      "name": "North Harrowden Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1553",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Harrowden Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1554",
+      "name": "North Harrowden Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1554",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Harrowden Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1555",
+      "name": "North Harrowden Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1555",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Harrowden Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_123",
+      "name": "Cairn & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_123",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_341",
+      "name": "Security Agreement LEG-341",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_341",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-341",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-341",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_161",
+      "name": "Calder Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_161",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_162",
+      "name": "Calder Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_162",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_169",
+      "name": "Calder Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_169",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_629",
+      "name": "Lena Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_629",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_120",
+      "name": "Glenmoor Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_120",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenmoor Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023828",
+      "subject": "company_1553",
+      "rel": "owns",
+      "object": "company_1554",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Harrowden Partners Limited owns North Harrowden Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023837",
+      "subject": "company_1553",
+      "rel": "owns",
+      "object": "asset_368",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Harrowden Partners Limited owns Fairmouth Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023838",
+      "subject": "asset_368",
+      "rel": "located_in",
+      "object": "place_120",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fairmouth Plant is located in Glenmoor Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023834",
+      "subject": "lawfirm_123",
+      "rel": "represents",
+      "object": "company_1553",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Ulric LLP represents North Harrowden Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023829",
+      "subject": "person_169",
+      "rel": "shareholder_of",
+      "object": "company_1553",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Everard is a shareholder of North Harrowden Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023841",
+      "subject": "person_161",
+      "rel": "family_of",
+      "object": "person_162",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Vale is a family member of Calder Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023831",
+      "subject": "bank_101",
+      "rel": "lent_to",
+      "object": "company_1553",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-04-22",
+          "value_end": "2022-04-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Trust Bank Limited lent North Harrowden Partners Limited GBP 36 million on 22 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023833",
+      "subject": "company_1555",
+      "rel": "guarantor_for",
+      "object": "company_1553",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Harrowden Marine Limited guaranteed the loan to North Harrowden Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023832",
+      "subject": "company_1553",
+      "rel": "owes",
+      "object": "bank_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-04-27",
+          "value_end": "2022-04-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Harrowden Partners Limited owes Pember Trust Bank Limited GBP 6 million as at 27 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023839",
+      "subject": "company_1553",
+      "rel": "party_to",
+      "object": "legal_341",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Harrowden Partners Limited is a party to the Security Agreement LEG-341.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023840",
+      "subject": "person_162",
+      "rel": "signed",
+      "object": "legal_341",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Ward signed the Security Agreement LEG-341.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00625_allegation",
+      "text": "A former employee alleged that North Harrowden Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lena Yardley noted that a former employee alleged that North Harrowden Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00625",
+      "surface": "17 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-17",
+      "value_end": "2026-03-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023831",
+      "surface": "22 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-22",
+      "value_end": "2022-04-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "22 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023832",
+      "surface": "27 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-27",
+      "value_end": "2022-04-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "27 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00625",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

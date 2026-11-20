@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00112_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "7b5333cea0e7c703f6f411ccfe8d8f86274027435089e709c09262b2e15acbba"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_502",
+      "name": "Merrivale Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_502",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Merrivale Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_35",
+      "name": "Elm Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_35",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elm Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elm Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1091",
+      "name": "Quill Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1091",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Quill Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1092",
+      "name": "Rothbury Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1092",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Rothbury Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1093",
+      "name": "Rothbury Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1093",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Rothbury Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1096",
+      "name": "Rothbury Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1096",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Rothbury Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Rothbury Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_51",
+      "name": "Alden & Villiers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_51",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Villiers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_82",
+      "name": "Briar & Cavendish LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_82",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Cavendish LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_485",
+      "name": "Security Agreement LEG-485",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_485",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Security Agreement LEG-485",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Security Agreement LEG-485",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1091",
+      "name": "Vera Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1091",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vera Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1092",
+      "name": "Vera Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1092",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vera Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1094",
+      "name": "Vera Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1094",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vera Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1096",
+      "name": "Vera Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1096",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vera Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1099",
+      "name": "Vera Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1099",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_116",
+      "name": "Bastian Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_116",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_18",
+      "name": "Fairmouth",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_18",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016624",
+      "subject": "company_1091",
+      "rel": "owns",
+      "object": "company_1092",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quill Systems Limited owns Rothbury Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016626",
+      "subject": "person_1094",
+      "rel": "chair_of",
+      "object": "company_1091",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Zell is the chair of Quill Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016625",
+      "subject": "person_1099",
+      "rel": "shareholder_of",
+      "object": "company_1091",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Everard is a shareholder of Quill Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016637",
+      "subject": "person_1091",
+      "rel": "family_of",
+      "object": "person_1092",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vera Vale is a family member of Vera Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016627",
+      "subject": "bank_35",
+      "rel": "lent_to",
+      "object": "company_1091",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-10",
+          "value_end": "2022-05-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Elm Trust Bank Limited lent Quill Systems Limited GBP 32 million on 10 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016629",
+      "subject": "company_1093",
+      "rel": "guarantor_for",
+      "object": "company_1091",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Rothbury Industries Limited guaranteed the loan to Quill Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016628",
+      "subject": "company_1091",
+      "rel": "owes",
+      "object": "bank_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-15",
+          "value_end": "2022-05-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quill Systems Limited owes Elm Trust Bank Limited GBP 4 million as at 15 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016630",
+      "subject": "lawfirm_51",
+      "rel": "represents",
+      "object": "company_1091",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Villiers LLP represents Quill Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016633",
+      "subject": "company_1091",
+      "rel": "owns",
+      "object": "asset_502",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Quill Systems Limited owns Merrivale Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016634",
+      "subject": "asset_502",
+      "rel": "located_in",
+      "object": "place_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Marina is located in Fairmouth.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016635",
+      "subject": "company_1091",
+      "rel": "party_to",
+      "object": "legal_485",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Quill Systems Limited is a party to the Security Agreement LEG-485.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016636",
+      "subject": "person_1092",
+      "rel": "signed",
+      "object": "legal_485",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Ward signed the Security Agreement LEG-485.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00112_proposal",
+      "text": "The acquisition of Rothbury Trading Limited by Quill Systems Limited",
+      "speaker": "person_116",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Balfour, chair of Quill Systems Limited, proposed to acquire Rothbury Trading Limited on 26 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00112_approval",
+      "text": "Regulatory approval for the acquisition of Rothbury Trading Limited",
+      "speaker": "person_116",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Balfour confirmed that regulatory approval for the acquisition of Rothbury Trading Limited by Quill Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00112_link_conditional",
+      "src": "gen_doc_00112_proposal",
+      "dst": "gen_doc_00112_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Rothbury Trading Limited by Quill Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00112",
+      "surface": "26 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-26",
+      "value_end": "2026-03-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016627",
+      "surface": "10 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-10",
+      "value_end": "2022-05-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "10 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016628",
+      "surface": "15 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-15",
+      "value_end": "2022-05-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "15 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00112",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

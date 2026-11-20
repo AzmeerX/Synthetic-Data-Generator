@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00863_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "bdc4c7a6896ee02cc910c6658a02fe922a7b4da7ef0d97adbadb378b96236639"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_579",
+      "name": "Quintrell Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_579",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quintrell Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_583",
+      "name": "Quintrell Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_583",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quintrell Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_52",
+      "name": "Harrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_52",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1768",
+      "name": "North Barrowfield Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1768",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Barrowfield Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1770",
+      "name": "North Barrowfield Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1770",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Barrowfield Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_78",
+      "name": "Briar & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_78",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_556",
+      "name": "Shareholder Agreement LEG-556",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_556",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-556",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-556",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_376",
+      "name": "Gideon Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_376",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_377",
+      "name": "Gideon Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_377",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_384",
+      "name": "Gideon Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_384",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_867",
+      "name": "Quin Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_867",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_155",
+      "name": "Kelbrook Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_155",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027181",
+      "subject": "company_1768",
+      "rel": "owns",
+      "object": "asset_579",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Barrowfield Trading Limited owns Quintrell Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027190",
+      "subject": "company_1768",
+      "rel": "owns",
+      "object": "asset_583",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Barrowfield Trading Limited owns Quintrell Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027191",
+      "subject": "asset_583",
+      "rel": "located_in",
+      "object": "place_155",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quintrell Works is located in Kelbrook Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027187",
+      "subject": "lawfirm_78",
+      "rel": "represents",
+      "object": "company_1768",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Yarrow LLP represents North Barrowfield Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027182",
+      "subject": "person_384",
+      "rel": "shareholder_of",
+      "object": "company_1768",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Zouch is a shareholder of North Barrowfield Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027194",
+      "subject": "person_376",
+      "rel": "family_of",
+      "object": "person_377",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Ravenscroft is a family member of Gideon Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027184",
+      "subject": "bank_52",
+      "rel": "lent_to",
+      "object": "company_1768",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-02-16",
+          "value_end": "2024-02-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Merchant Bank Limited lent North Barrowfield Trading Limited GBP 26 million on 16 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027186",
+      "subject": "company_1770",
+      "rel": "guarantor_for",
+      "object": "company_1768",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Barrowfield Capital Limited guaranteed the loan to North Barrowfield Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027185",
+      "subject": "company_1768",
+      "rel": "owes",
+      "object": "bank_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-02-21",
+          "value_end": "2024-02-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Barrowfield Trading Limited owes Harrow Merchant Bank Limited GBP 11 million as at 21 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027192",
+      "subject": "company_1768",
+      "rel": "party_to",
+      "object": "legal_556",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Barrowfield Trading Limited is a party to the Shareholder Agreement LEG-556.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027193",
+      "subject": "person_377",
+      "rel": "signed",
+      "object": "legal_556",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Sinclair signed the Shareholder Agreement LEG-556.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00863_allegation",
+      "text": "A former employee alleged that North Barrowfield Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Underwood noted that a former employee alleged that North Barrowfield Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00863",
+      "surface": "13 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-13",
+      "value_end": "2024-03-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027184",
+      "surface": "16 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-16",
+      "value_end": "2024-02-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027185",
+      "surface": "21 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-21",
+      "value_end": "2024-02-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "21 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00863",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

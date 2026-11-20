@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00695_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "ee691973791f3fb537243b5c605155f5cdcde9e685a898750b7509c12a2422e9"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_427",
+      "name": "Invermere Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_427",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Invermere Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_431",
+      "name": "Invermere Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_431",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_32",
+      "name": "Denmoor International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_32",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1616",
+      "name": "North Merrivale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1616",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Merrivale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1618",
+      "name": "North Merrivale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1618",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_56",
+      "name": "Briar & Alden LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_56",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Alden LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_404",
+      "name": "Board Resolution LEG-404",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_404",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-404",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-404",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_224",
+      "name": "Daria Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_224",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_225",
+      "name": "Daria Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_225",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_232",
+      "name": "Daria Tremayne",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_232",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_699",
+      "name": "Nadia Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_699",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_03",
+      "name": "Eastmere",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_03",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Eastmere",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024811",
+      "subject": "company_1616",
+      "rel": "owns",
+      "object": "asset_427",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Merrivale Energy Limited owns Invermere Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024820",
+      "subject": "company_1616",
+      "rel": "owns",
+      "object": "asset_431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Energy Limited owns Invermere Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024821",
+      "subject": "asset_431",
+      "rel": "located_in",
+      "object": "place_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Invermere Office Park is located in Eastmere.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024817",
+      "subject": "lawfirm_56",
+      "rel": "represents",
+      "object": "company_1616",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Alden LLP represents North Merrivale Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024812",
+      "subject": "person_232",
+      "rel": "shareholder_of",
+      "object": "company_1616",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Tremayne is a shareholder of North Merrivale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024824",
+      "subject": "person_224",
+      "rel": "family_of",
+      "object": "person_225",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Kingsley is a family member of Daria Langford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024814",
+      "subject": "bank_32",
+      "rel": "lent_to",
+      "object": "company_1616",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-15",
+          "value_end": "2024-03-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor International Bank Limited lent North Merrivale Energy Limited GBP 42 million on 15 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024816",
+      "subject": "company_1618",
+      "rel": "guarantor_for",
+      "object": "company_1616",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Ventures Limited guaranteed the loan to North Merrivale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024815",
+      "subject": "company_1616",
+      "rel": "owes",
+      "object": "bank_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-20",
+          "value_end": "2024-03-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Merrivale Energy Limited owes Denmoor International Bank Limited GBP 9 million as at 20 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024822",
+      "subject": "company_1616",
+      "rel": "party_to",
+      "object": "legal_404",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Merrivale Energy Limited is a party to the Board Resolution LEG-404.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024823",
+      "subject": "person_225",
+      "rel": "signed",
+      "object": "legal_404",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Langford signed the Board Resolution LEG-404.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00695_allegation",
+      "text": "A former employee alleged that North Merrivale Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Nadia Vale noted that a former employee alleged that North Merrivale Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00695",
+      "surface": "6 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-06",
+      "value_end": "2024-04-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024814",
+      "surface": "15 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-15",
+      "value_end": "2024-03-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024815",
+      "surface": "20 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-20",
+      "value_end": "2024-03-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00695",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

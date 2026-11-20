@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00917_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "dc63569f07e28b03e5913be51dca32030106719372052e6c409b5f1c6c5db5af"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_31",
+      "name": "Calderport Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_31",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calderport Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_35",
+      "name": "Calderport Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_35",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Calderport Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_100",
+      "name": "Pember Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_100",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1816",
+      "name": "North Fallow Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1816",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fallow Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1818",
+      "name": "North Fallow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1818",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Fallow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1820",
+      "name": "North Fallow Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1820",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Fallow Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fallow Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_126",
+      "name": "Cairn & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_126",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_604",
+      "name": "Shareholder Agreement LEG-604",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_604",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-604",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-604",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_424",
+      "name": "Hana Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_424",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_425",
+      "name": "Hana Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_425",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Pemberton",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_427",
+      "name": "Hana Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_427",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_429",
+      "name": "Hana Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_429",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Hana Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_432",
+      "name": "Hana Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_432",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_921",
+      "name": "Silas Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_921",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Alden",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_23",
+      "name": "Kelbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_23",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kelbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027929",
+      "subject": "company_1816",
+      "rel": "owns",
+      "object": "asset_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Fallow Trading Limited owns Calderport Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027931",
+      "subject": "person_427",
+      "rel": "chair_of",
+      "object": "company_1816",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Hana Sinclair is the chair of North Fallow Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027930",
+      "subject": "person_432",
+      "rel": "shareholder_of",
+      "object": "company_1816",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Wyndham is a shareholder of North Fallow Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027942",
+      "subject": "person_424",
+      "rel": "family_of",
+      "object": "person_425",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Hana Osborne is a family member of Hana Pemberton.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027932",
+      "subject": "bank_100",
+      "rel": "lent_to",
+      "object": "company_1816",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-07-28",
+          "value_end": "2025-07-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pember Merchant Bank Limited lent North Fallow Trading Limited GBP 42 million on 28 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027934",
+      "subject": "company_1818",
+      "rel": "guarantor_for",
+      "object": "company_1816",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Fallow Capital Limited guaranteed the loan to North Fallow Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027933",
+      "subject": "company_1816",
+      "rel": "owes",
+      "object": "bank_100",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-08-02",
+          "value_end": "2025-08-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fallow Trading Limited owes Pember Merchant Bank Limited GBP 9 million as at 2 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027935",
+      "subject": "lawfirm_126",
+      "rel": "represents",
+      "object": "company_1816",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Yarrow LLP represents North Fallow Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027938",
+      "subject": "company_1816",
+      "rel": "owns",
+      "object": "asset_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Fallow Trading Limited owns Calderport Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027939",
+      "subject": "asset_35",
+      "rel": "located_in",
+      "object": "place_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Calderport Mill is located in Kelbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027940",
+      "subject": "company_1816",
+      "rel": "party_to",
+      "object": "legal_604",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Fallow Trading Limited is a party to the Shareholder Agreement LEG-604.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027941",
+      "subject": "person_425",
+      "rel": "signed",
+      "object": "legal_604",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Pemberton signed the Shareholder Agreement LEG-604.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00917_proposal",
+      "text": "The acquisition of North Fallow Energy Limited by North Fallow Trading Limited",
+      "speaker": "person_921",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Silas Alden, chair of North Fallow Trading Limited, proposed to acquire North Fallow Energy Limited on 26 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00917_approval",
+      "text": "Regulatory approval for the acquisition of North Fallow Energy Limited",
+      "speaker": "person_921",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Silas Alden confirmed that regulatory approval for the acquisition of North Fallow Energy Limited by North Fallow Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00917_link_conditional",
+      "src": "gen_doc_00917_proposal",
+      "dst": "gen_doc_00917_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Fallow Energy Limited by North Fallow Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00917",
+      "surface": "26 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-26",
+      "value_end": "2025-03-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027932",
+      "surface": "28 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-28",
+      "value_end": "2025-07-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "28 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027933",
+      "surface": "2 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-02",
+      "value_end": "2025-08-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "2 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00917",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

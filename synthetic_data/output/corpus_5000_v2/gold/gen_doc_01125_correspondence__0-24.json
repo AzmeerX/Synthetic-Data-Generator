@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01125_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "cb4190da2089c5aa317b8edb7070d58929811cef8aa914a45ee901fbec6247e6"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_222",
+      "name": "Marrow Bay Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_222",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Marrow Bay Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Marrow Bay Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_23",
+      "name": "Carrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_23",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Carrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2003",
+      "name": "North Underhill Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2003",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Underhill Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2004",
+      "name": "North Vicarage Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2004",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2005",
+      "name": "North Vicarage Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2005",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Vicarage Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2006",
+      "name": "North Vicarage Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2006",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Vicarage Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2008",
+      "name": "North Vicarage Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2008",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Vicarage Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Vicarage Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_55",
+      "name": "Alden & Zouch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_55",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Zouch LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Zouch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_185",
+      "name": "Trust Deed LEG-185",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_185",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Trust Deed LEG-185",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Trust Deed LEG-185",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1129",
+      "name": "Wren Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1129",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wren Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_611",
+      "name": "Lena Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_611",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_612",
+      "name": "Lena Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_612",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_619",
+      "name": "Lena Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_619",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_30",
+      "name": "Redmoor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_30",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Redmoor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030845",
+      "subject": "company_2003",
+      "rel": "owns",
+      "object": "company_2004",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Underhill Systems Limited owns North Vicarage Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030846",
+      "subject": "person_619",
+      "rel": "shareholder_of",
+      "object": "company_2003",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Neville is a shareholder of North Underhill Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030858",
+      "subject": "person_611",
+      "rel": "family_of",
+      "object": "person_612",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Fairfax is a family member of Lena Grenville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030848",
+      "subject": "bank_23",
+      "rel": "lent_to",
+      "object": "company_2003",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-20",
+          "value_end": "2026-07-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Carrow Trust Bank Limited lent North Underhill Systems Limited GBP 16 million on 20 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030850",
+      "subject": "company_2005",
+      "rel": "guarantor_for",
+      "object": "company_2003",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Vicarage Industries Limited guaranteed the loan to North Underhill Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030849",
+      "subject": "company_2003",
+      "rel": "owes",
+      "object": "bank_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-07-25",
+          "value_end": "2026-07-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Underhill Systems Limited owes Carrow Trust Bank Limited GBP 6 million as at 25 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030854",
+      "subject": "company_2003",
+      "rel": "owns",
+      "object": "asset_222",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Underhill Systems Limited owns Marrow Bay Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030855",
+      "subject": "asset_222",
+      "rel": "located_in",
+      "object": "place_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Marrow Bay Hangar is located in Redmoor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030856",
+      "subject": "company_2003",
+      "rel": "party_to",
+      "object": "legal_185",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Underhill Systems Limited is a party to the Trust Deed LEG-185.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030857",
+      "subject": "person_612",
+      "rel": "signed",
+      "object": "legal_185",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Grenville signed the Trust Deed LEG-185.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01125_proposal",
+      "text": "The acquisition of North Vicarage Trading Limited by North Underhill Systems Limited",
+      "speaker": "person_1129",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Wren Jarvis, chair of North Underhill Systems Limited, proposed to acquire North Vicarage Trading Limited on 7 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01125_approval",
+      "text": "Regulatory approval for the acquisition of North Vicarage Trading Limited",
+      "speaker": "person_1129",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Wren Jarvis confirmed that regulatory approval for the acquisition of North Vicarage Trading Limited by North Underhill Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01125_link_conditional",
+      "src": "gen_doc_01125_proposal",
+      "dst": "gen_doc_01125_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Vicarage Trading Limited by North Underhill Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01121_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01125",
+      "surface": "7 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-07",
+      "value_end": "2025-12-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030848",
+      "surface": "20 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-20",
+      "value_end": "2026-07-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "20 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030849",
+      "surface": "25 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-25",
+      "value_end": "2026-07-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "25 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

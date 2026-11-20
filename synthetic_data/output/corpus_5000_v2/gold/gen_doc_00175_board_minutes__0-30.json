@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00175_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "9d5887e3824b818276225917183afd1078b60b03040417f7e15c8d24d526d191"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_555",
+      "name": "Pemberton Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_555",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pemberton Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_559",
+      "name": "Pemberton Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_559",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Pemberton Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Pemberton Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_92",
+      "name": "Nether International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_92",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nether International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nether International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1148",
+      "name": "Vernon Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1148",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vernon Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1150",
+      "name": "Vernon Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1150",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vernon Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1152",
+      "name": "Wilton Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1152",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Wilton Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_108",
+      "name": "Cairn & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_108",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_15",
+      "name": "Alden & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_15",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_542",
+      "name": "Licence LEG-542",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_542",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-542",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-542",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1148",
+      "name": "Wren Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1148",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Wren Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1149",
+      "name": "Wren Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1149",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Wren Everard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Wren Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1151",
+      "name": "Wren Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1151",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Wren Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1153",
+      "name": "Wren Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1153",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Wren Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1156",
+      "name": "Wren Langford",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1156",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_179",
+      "name": "Calder Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_179",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_75",
+      "name": "Ashcombe Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_75",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ashcombe Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017514",
+      "subject": "company_1148",
+      "rel": "owns",
+      "object": "asset_555",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vernon Energy Limited owns Pemberton Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017516",
+      "subject": "person_1151",
+      "rel": "chair_of",
+      "object": "company_1148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Grenville is the chair of Vernon Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017515",
+      "subject": "person_1156",
+      "rel": "shareholder_of",
+      "object": "company_1148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Langford is a shareholder of Vernon Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017527",
+      "subject": "person_1148",
+      "rel": "family_of",
+      "object": "person_1149",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Wren Delacourt is a family member of Wren Everard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017517",
+      "subject": "bank_92",
+      "rel": "lent_to",
+      "object": "company_1148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-27",
+          "value_end": "2024-01-27",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nether International Bank Limited lent Vernon Energy Limited GBP 26 million on 27 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017519",
+      "subject": "company_1150",
+      "rel": "guarantor_for",
+      "object": "company_1148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vernon Ventures Limited guaranteed the loan to Vernon Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017518",
+      "subject": "company_1148",
+      "rel": "owes",
+      "object": "bank_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-02-01",
+          "value_end": "2024-02-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vernon Energy Limited owes Nether International Bank Limited GBP 11 million as at 1 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017520",
+      "subject": "lawfirm_108",
+      "rel": "represents",
+      "object": "company_1148",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Ellery LLP represents Vernon Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017523",
+      "subject": "company_1148",
+      "rel": "owns",
+      "object": "asset_559",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Vernon Energy Limited owns Pemberton Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017524",
+      "subject": "asset_559",
+      "rel": "located_in",
+      "object": "place_75",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Pemberton Data Centre is located in Ashcombe Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017525",
+      "subject": "company_1148",
+      "rel": "party_to",
+      "object": "legal_542",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Vernon Energy Limited is a party to the Licence LEG-542.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017526",
+      "subject": "person_1149",
+      "rel": "signed",
+      "object": "legal_542",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Wren Everard signed the Licence LEG-542.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00175_proposal",
+      "text": "The acquisition of Wilton Holdings Limited by Vernon Energy Limited",
+      "speaker": "person_179",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Osborne, chair of Vernon Energy Limited, proposed to acquire Wilton Holdings Limited on 26 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00175_approval",
+      "text": "Regulatory approval for the acquisition of Wilton Holdings Limited",
+      "speaker": "person_179",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Osborne confirmed that regulatory approval for the acquisition of Wilton Holdings Limited by Vernon Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00175_link_conditional",
+      "src": "gen_doc_00175_proposal",
+      "dst": "gen_doc_00175_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Wilton Holdings Limited by Vernon Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00175",
+      "surface": "26 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-26",
+      "value_end": "2024-02-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017517",
+      "surface": "27 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-27",
+      "value_end": "2024-01-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "27 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017518",
+      "surface": "1 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-01",
+      "value_end": "2024-02-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "1 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00175",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

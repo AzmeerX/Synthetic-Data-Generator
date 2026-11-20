@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01392_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "eda933a743826b6b6287cb50e6113b7635f6b5ecf2183d1b0c21a17c845da731"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_459",
+      "name": "Kelbrook Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_459",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Kelbrook Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_463",
+      "name": "Kelbrook Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_463",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kelbrook Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_132",
+      "name": "Uldale Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_132",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2244",
+      "name": "North Ravensby Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2244",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Ravensby Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2246",
+      "name": "North Ravensby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2246",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Ravensby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_62",
+      "name": "Briar & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_62",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Briar & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_426",
+      "name": "Settlement Agreement LEG-426",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_426",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Settlement Agreement LEG-426",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-426",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_04",
+      "name": "Marek Nyle",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_04",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Marek Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_852",
+      "name": "Quin Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_852",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quin Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_853",
+      "name": "Quin Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_853",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quin Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Quin Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_860",
+      "name": "Quin Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_860",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Quin Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_91",
+      "name": "Carrow Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_91",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034603",
+      "subject": "company_2244",
+      "rel": "owns",
+      "object": "asset_459",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Ravensby Holdings Limited owns Kelbrook Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034604",
+      "subject": "person_860",
+      "rel": "shareholder_of",
+      "object": "company_2244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Quin Montague is a shareholder of North Ravensby Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034616",
+      "subject": "person_852",
+      "rel": "family_of",
+      "object": "person_853",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quin Everard is a family member of Quin Fairfax.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034606",
+      "subject": "bank_132",
+      "rel": "lent_to",
+      "object": "company_2244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-07-01",
+          "value_end": "2024-07-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Commercial Bank Limited lent North Ravensby Holdings Limited GBP 18 million on 1 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034608",
+      "subject": "company_2246",
+      "rel": "guarantor_for",
+      "object": "company_2244",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Ravensby Group Limited guaranteed the loan to North Ravensby Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034607",
+      "subject": "company_2244",
+      "rel": "owes",
+      "object": "bank_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-07-06",
+          "value_end": "2024-07-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Ravensby Holdings Limited owes Uldale Commercial Bank Limited GBP 7 million as at 6 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034612",
+      "subject": "company_2244",
+      "rel": "owns",
+      "object": "asset_463",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Ravensby Holdings Limited owns Kelbrook Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034613",
+      "subject": "asset_463",
+      "rel": "located_in",
+      "object": "place_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Works is located in Carrow Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034614",
+      "subject": "company_2244",
+      "rel": "party_to",
+      "object": "legal_426",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Ravensby Holdings Limited is a party to the Settlement Agreement LEG-426.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034615",
+      "subject": "person_853",
+      "rel": "signed",
+      "object": "legal_426",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Quin Fairfax signed the Settlement Agreement LEG-426.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01392_allegation",
+      "text": "A former employee alleged that North Ravensby Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Marek Nyle noted that a former employee alleged that North Ravensby Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01392",
+      "surface": "24 June 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-06-24",
+      "value_end": "2024-06-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 June 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034606",
+      "surface": "1 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-01",
+      "value_end": "2024-07-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "1 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034607",
+      "surface": "6 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-06",
+      "value_end": "2024-07-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "6 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01392",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

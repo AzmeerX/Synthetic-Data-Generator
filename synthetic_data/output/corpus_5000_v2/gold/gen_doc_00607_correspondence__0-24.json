@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00607_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "4d7d68a4956b483f115676ffbf4304a79a2d7b6889310e1794196ec501144607"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_352",
+      "name": "Fairmouth Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_352",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fairmouth Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fairmouth Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_85",
+      "name": "Merri Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_85",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Merri Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Merri Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1537",
+      "name": "North Glenmoor Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1537",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1538",
+      "name": "North Glenmoor Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1538",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1539",
+      "name": "North Glenmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1539",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Glenmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_154",
+      "name": "Kelbrook Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_154",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Kelbrook Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1541",
+      "name": "North Glenmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1541",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Glenmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Glenmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_57",
+      "name": "Briar & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_57",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Cairn LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_325",
+      "name": "Security Agreement LEG-325",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_325",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-325",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-325",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_145",
+      "name": "Calder Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_145",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_146",
+      "name": "Calder Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_146",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_153",
+      "name": "Calder Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_153",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_611",
+      "name": "Lena Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_611",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lena Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Lena Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_104",
+      "name": "Elmsworth Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_104",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Elmsworth Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023578",
+      "subject": "company_1537",
+      "rel": "owns",
+      "object": "company_1538",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Glenmoor Industries Limited owns North Glenmoor Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023579",
+      "subject": "person_153",
+      "rel": "shareholder_of",
+      "object": "company_1537",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calder Nyle is a shareholder of North Glenmoor Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023591",
+      "subject": "person_145",
+      "rel": "family_of",
+      "object": "person_146",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Calder Fenwick is a family member of Calder Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023581",
+      "subject": "bank_85",
+      "rel": "lent_to",
+      "object": "company_1537",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-24",
+          "value_end": "2026-06-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Merri Private Bank Limited lent North Glenmoor Industries Limited GBP 44 million on 24 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023583",
+      "subject": "company_1539",
+      "rel": "guarantor_for",
+      "object": "company_1537",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Glenmoor Logistics Limited guaranteed the loan to North Glenmoor Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023582",
+      "subject": "company_1537",
+      "rel": "owes",
+      "object": "bank_85",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-29",
+          "value_end": "2026-06-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Glenmoor Industries Limited owes Merri Private Bank Limited GBP 10 million as at 29 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023587",
+      "subject": "company_1537",
+      "rel": "owns",
+      "object": "asset_352",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Glenmoor Industries Limited owns Fairmouth Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023588",
+      "subject": "asset_352",
+      "rel": "located_in",
+      "object": "place_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fairmouth Wharf is located in Elmsworth Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023589",
+      "subject": "company_1537",
+      "rel": "party_to",
+      "object": "legal_325",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Industries Limited is a party to the Security Agreement LEG-325.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023590",
+      "subject": "person_146",
+      "rel": "signed",
+      "object": "legal_325",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Calder Garrow signed the Security Agreement LEG-325.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00607_proposal",
+      "text": "The acquisition of North Glenmoor Partners Limited by North Glenmoor Industries Limited",
+      "speaker": "person_611",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Lena Fairfax, chair of North Glenmoor Industries Limited, proposed to acquire North Glenmoor Partners Limited on 11 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00607_approval",
+      "text": "Regulatory approval for the acquisition of North Glenmoor Partners Limited",
+      "speaker": "person_611",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lena Fairfax confirmed that regulatory approval for the acquisition of North Glenmoor Partners Limited by North Glenmoor Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00607_link_conditional",
+      "src": "gen_doc_00607_proposal",
+      "dst": "gen_doc_00607_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Glenmoor Partners Limited by North Glenmoor Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00603_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00607",
+      "surface": "11 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-11",
+      "value_end": "2025-11-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023581",
+      "surface": "24 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-24",
+      "value_end": "2026-06-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "24 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023582",
+      "surface": "29 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-29",
+      "value_end": "2026-06-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "29 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

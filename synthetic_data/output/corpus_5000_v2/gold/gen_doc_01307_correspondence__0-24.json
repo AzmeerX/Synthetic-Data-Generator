@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01307_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "8c5f1472adf69cecf14c17945f2c24ea1e315ddccd21c95b486f6d27036e3d7a"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_383",
+      "name": "Glenport Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_383",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenport Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_387",
+      "name": "Glenport Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_387",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Glenport Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Glenport Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_56",
+      "name": "Harrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_56",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2168",
+      "name": "North Kingsmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2168",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Kingsmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2170",
+      "name": "North Kingsmoor Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2170",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Kingsmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Kingsmoor Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2172",
+      "name": "North Linden Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2172",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Linden Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_08",
+      "name": "Alden & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_08",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_350",
+      "name": "Licence LEG-350",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_350",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-350",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-350",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1311",
+      "name": "Zane Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1311",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Zane Tremayne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_776",
+      "name": "Petra Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_776",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_777",
+      "name": "Petra Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_777",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Petra Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_784",
+      "name": "Petra Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_784",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Petra Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_15",
+      "name": "Carrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_15",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033419",
+      "subject": "company_2168",
+      "rel": "owns",
+      "object": "asset_383",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Kingsmoor Energy Limited owns Glenport Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033420",
+      "subject": "person_784",
+      "rel": "shareholder_of",
+      "object": "company_2168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Petra Kerr is a shareholder of North Kingsmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033432",
+      "subject": "person_776",
+      "rel": "family_of",
+      "object": "person_777",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Petra Briar is a family member of Petra Cairn.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033422",
+      "subject": "bank_56",
+      "rel": "lent_to",
+      "object": "company_2168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-18",
+          "value_end": "2022-03-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow International Bank Limited lent North Kingsmoor Energy Limited GBP 26 million on 18 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033424",
+      "subject": "company_2170",
+      "rel": "guarantor_for",
+      "object": "company_2168",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Kingsmoor Ventures Limited guaranteed the loan to North Kingsmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033423",
+      "subject": "company_2168",
+      "rel": "owes",
+      "object": "bank_56",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-03-23",
+          "value_end": "2022-03-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Kingsmoor Energy Limited owes Harrow International Bank Limited GBP 11 million as at 23 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033428",
+      "subject": "company_2168",
+      "rel": "owns",
+      "object": "asset_387",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Kingsmoor Energy Limited owns Glenport Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033429",
+      "subject": "asset_387",
+      "rel": "located_in",
+      "object": "place_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glenport Dock is located in Carrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033430",
+      "subject": "company_2168",
+      "rel": "party_to",
+      "object": "legal_350",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Energy Limited is a party to the Licence LEG-350.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033431",
+      "subject": "person_777",
+      "rel": "signed",
+      "object": "legal_350",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Petra Cairn signed the Licence LEG-350.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01307_proposal",
+      "text": "The acquisition of North Linden Holdings Limited by North Kingsmoor Energy Limited",
+      "speaker": "person_1311",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Zane Tremayne, chair of North Kingsmoor Energy Limited, proposed to acquire North Linden Holdings Limited on 19 February 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01307_approval",
+      "text": "Regulatory approval for the acquisition of North Linden Holdings Limited",
+      "speaker": "person_1311",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Zane Tremayne confirmed that regulatory approval for the acquisition of North Linden Holdings Limited by North Kingsmoor Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01307_link_conditional",
+      "src": "gen_doc_01307_proposal",
+      "dst": "gen_doc_01307_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Linden Holdings Limited by North Kingsmoor Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01303_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01307",
+      "surface": "19 February 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-02-19",
+      "value_end": "2026-02-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 February 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033422",
+      "surface": "18 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-18",
+      "value_end": "2022-03-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "18 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033423",
+      "surface": "23 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-23",
+      "value_end": "2022-03-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

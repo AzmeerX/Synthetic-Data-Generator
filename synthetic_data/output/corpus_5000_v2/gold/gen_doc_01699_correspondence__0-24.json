@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01699_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "9aef98ff3d0317f29bdfbbea8bc23f8d3ad1b675846198930ca2a134151e4567"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_166",
+      "name": "Juniper Cross Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_166",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Juniper Cross Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_43",
+      "name": "Fair Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_43",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_355",
+      "name": "Draycott Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_355",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Draycott Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_356",
+      "name": "Draycott Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_356",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_357",
+      "name": "Draycott Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_357",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Draycott Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_358",
+      "name": "Draycott Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_358",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Draycott Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_36",
+      "name": "Ashcombe Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_36",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ashcombe Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ashcombe Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_149",
+      "name": "Security Agreement LEG-149",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_149",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Security Agreement LEG-149",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Security Agreement LEG-149",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_311",
+      "name": "Farah Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_311",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_355",
+      "name": "Gideon Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_355",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_356",
+      "name": "Gideon Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_356",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_363",
+      "name": "Gideon Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_363",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_62",
+      "name": "Bexley",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_62",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexley",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005147",
+      "subject": "company_355",
+      "rel": "owns",
+      "object": "company_356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Draycott Capital Limited owns Draycott Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005148",
+      "subject": "person_363",
+      "rel": "shareholder_of",
+      "object": "company_355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Gideon Delacourt is a shareholder of Draycott Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005160",
+      "subject": "person_355",
+      "rel": "family_of",
+      "object": "person_356",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Gideon Ulric is a family member of Gideon Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005150",
+      "subject": "bank_43",
+      "rel": "lent_to",
+      "object": "company_355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-18",
+          "value_end": "2023-06-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Fair Private Bank Limited lent Draycott Capital Limited GBP 40 million on 18 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005152",
+      "subject": "company_357",
+      "rel": "guarantor_for",
+      "object": "company_355",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Draycott Energy Limited guaranteed the loan to Draycott Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005151",
+      "subject": "company_355",
+      "rel": "owes",
+      "object": "bank_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-23",
+          "value_end": "2023-06-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Draycott Capital Limited owes Fair Private Bank Limited GBP 8 million as at 23 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005156",
+      "subject": "company_355",
+      "rel": "owns",
+      "object": "asset_166",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Draycott Capital Limited owns Juniper Cross Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005157",
+      "subject": "asset_166",
+      "rel": "located_in",
+      "object": "place_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Marina is located in Bexley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005158",
+      "subject": "company_355",
+      "rel": "party_to",
+      "object": "legal_149",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Draycott Capital Limited is a party to the Security Agreement LEG-149.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005159",
+      "subject": "person_356",
+      "rel": "signed",
+      "object": "legal_149",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Gideon Vale signed the Security Agreement LEG-149.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01699_proposal",
+      "text": "The acquisition of Ashcombe Systems Limited by Draycott Capital Limited",
+      "speaker": "person_311",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Ashby, chair of Draycott Capital Limited, proposed to acquire Ashcombe Systems Limited on 29 January 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01699_approval",
+      "text": "Regulatory approval for the acquisition of Ashcombe Systems Limited",
+      "speaker": "person_311",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Ashby confirmed that regulatory approval for the acquisition of Ashcombe Systems Limited by Draycott Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01699_link_conditional",
+      "src": "gen_doc_01699_proposal",
+      "dst": "gen_doc_01699_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Ashcombe Systems Limited by Draycott Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01695_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01699",
+      "surface": "29 January 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-01-29",
+      "value_end": "2027-01-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 January 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005150",
+      "surface": "18 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-18",
+      "value_end": "2023-06-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "18 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005151",
+      "surface": "23 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-23",
+      "value_end": "2023-06-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

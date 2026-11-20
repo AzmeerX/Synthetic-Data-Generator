@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00691_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "958deadd70598e18ed92e4850054d71d67cd6a70363bae4720431366f943d1c1"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_423",
+      "name": "Invermere Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_423",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Invermere Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_427",
+      "name": "Invermere Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_427",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Invermere Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Invermere Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_28",
+      "name": "Denmoor Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_28",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1612",
+      "name": "North Merrivale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1612",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Merrivale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1614",
+      "name": "North Merrivale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1614",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Merrivale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1615",
+      "name": "North Merrivale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1615",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Merrivale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1617",
+      "name": "North Merrivale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1617",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Merrivale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_129",
+      "name": "Cairn & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_129",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Balfour LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_400",
+      "name": "Side Letter LEG-400",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_400",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Side Letter LEG-400",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Side Letter LEG-400",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_220",
+      "name": "Daria Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_220",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_221",
+      "name": "Daria Hastings",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_221",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_228",
+      "name": "Daria Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_228",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_695",
+      "name": "Nadia Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_695",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_179",
+      "name": "Netherby Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_179",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024749",
+      "subject": "company_1612",
+      "rel": "owns",
+      "object": "asset_423",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Merrivale Trading Limited owns Invermere Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024750",
+      "subject": "person_228",
+      "rel": "shareholder_of",
+      "object": "company_1612",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Daria Osborne is a shareholder of North Merrivale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024762",
+      "subject": "person_220",
+      "rel": "family_of",
+      "object": "person_221",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Daria Grenville is a family member of Daria Hastings.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024752",
+      "subject": "bank_28",
+      "rel": "lent_to",
+      "object": "company_1612",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-31",
+          "value_end": "2024-01-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Merchant Bank Limited lent North Merrivale Trading Limited GBP 34 million on 31 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024754",
+      "subject": "company_1614",
+      "rel": "guarantor_for",
+      "object": "company_1612",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Merrivale Capital Limited guaranteed the loan to North Merrivale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024753",
+      "subject": "company_1612",
+      "rel": "owes",
+      "object": "bank_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-02-05",
+          "value_end": "2024-02-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Merrivale Trading Limited owes Denmoor Merchant Bank Limited GBP 5 million as at 5 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024758",
+      "subject": "company_1612",
+      "rel": "owns",
+      "object": "asset_427",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Merrivale Trading Limited owns Invermere Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024759",
+      "subject": "asset_427",
+      "rel": "located_in",
+      "object": "place_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Invermere Dock is located in Netherby Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024760",
+      "subject": "company_1612",
+      "rel": "party_to",
+      "object": "legal_400",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Merrivale Trading Limited is a party to the Side Letter LEG-400.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024761",
+      "subject": "person_221",
+      "rel": "signed",
+      "object": "legal_400",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Daria Hastings signed the Side Letter LEG-400.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00691_proposal",
+      "text": "The acquisition of North Merrivale Property Limited by North Merrivale Trading Limited",
+      "speaker": "person_695",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Rook, chair of North Merrivale Trading Limited, proposed to acquire North Merrivale Property Limited on 9 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00691_approval",
+      "text": "Regulatory approval for the acquisition of North Merrivale Property Limited",
+      "speaker": "person_695",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Rook confirmed that regulatory approval for the acquisition of North Merrivale Property Limited by North Merrivale Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00691_link_conditional",
+      "src": "gen_doc_00691_proposal",
+      "dst": "gen_doc_00691_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Merrivale Property Limited by North Merrivale Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00687_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00691",
+      "surface": "9 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-09",
+      "value_end": "2024-03-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "9 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024752",
+      "surface": "31 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-31",
+      "value_end": "2024-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "31 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024753",
+      "surface": "5 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-05",
+      "value_end": "2024-02-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "5 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

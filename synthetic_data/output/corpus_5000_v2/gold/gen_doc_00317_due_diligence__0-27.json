@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00317_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "8b164c4ba5d8d03b3f5278fcba8d8193d91f72026ef28399e08927cad8867ca9"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_87",
+      "name": "Fenwick Bay Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_87",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fenwick Bay Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_91",
+      "name": "Fenwick Bay Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_91",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_88",
+      "name": "Nether Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_88",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Nether Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1276",
+      "name": "Isbourne Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1276",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Isbourne Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1278",
+      "name": "Isbourne Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1278",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Isbourne Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_106",
+      "name": "Cairn & Briar LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_106",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Briar LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_64",
+      "name": "Side Letter LEG-064",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_64",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1276",
+      "name": "Zane Ivers",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1276",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1277",
+      "name": "Zane Jarvis",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1277",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1284",
+      "name": "Zane Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1284",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_321",
+      "name": "Farah Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_321",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_23",
+      "name": "Kelbrook",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_23",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019509",
+      "subject": "company_1276",
+      "rel": "owns",
+      "object": "asset_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Isbourne Trading Limited owns Fenwick Bay Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019518",
+      "subject": "company_1276",
+      "rel": "owns",
+      "object": "asset_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Isbourne Trading Limited owns Fenwick Bay Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019519",
+      "subject": "asset_91",
+      "rel": "located_in",
+      "object": "place_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Yard is located in Kelbrook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019515",
+      "subject": "lawfirm_106",
+      "rel": "represents",
+      "object": "company_1276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Briar LLP represents Isbourne Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019510",
+      "subject": "person_1284",
+      "rel": "shareholder_of",
+      "object": "company_1276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Zane Quade is a shareholder of Isbourne Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019522",
+      "subject": "person_1276",
+      "rel": "family_of",
+      "object": "person_1277",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Zane Ivers is a family member of Zane Jarvis.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019512",
+      "subject": "bank_88",
+      "rel": "lent_to",
+      "object": "company_1276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-04-10",
+          "value_end": "2023-04-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Merchant Bank Limited lent Isbourne Trading Limited GBP 42 million on 10 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019514",
+      "subject": "company_1278",
+      "rel": "guarantor_for",
+      "object": "company_1276",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Isbourne Capital Limited guaranteed the loan to Isbourne Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019513",
+      "subject": "company_1276",
+      "rel": "owes",
+      "object": "bank_88",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-15",
+          "value_end": "2023-04-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Isbourne Trading Limited owes Nether Merchant Bank Limited GBP 9 million as at 15 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019520",
+      "subject": "company_1276",
+      "rel": "party_to",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Isbourne Trading Limited is a party to the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019521",
+      "subject": "person_1277",
+      "rel": "signed",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Zane Jarvis signed the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00317_allegation",
+      "text": "A former employee alleged that Isbourne Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Farah Kingsley noted that a former employee alleged that Isbourne Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00317",
+      "surface": "16 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-16",
+      "value_end": "2026-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019512",
+      "surface": "10 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-10",
+      "value_end": "2023-04-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019513",
+      "surface": "15 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-15",
+      "value_end": "2023-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "15 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00317",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

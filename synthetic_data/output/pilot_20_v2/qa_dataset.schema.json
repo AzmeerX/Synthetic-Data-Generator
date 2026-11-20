@@ -1,0 +1,358 @@
+{
+  "$defs": {
+    "QADocument": {
+      "additionalProperties": false,
+      "properties": {
+        "document_id": {
+          "title": "Document Id",
+          "type": "string"
+        },
+        "filename": {
+          "title": "Filename",
+          "type": "string"
+        },
+        "text_sha256": {
+          "title": "Text Sha256",
+          "type": "string"
+        },
+        "pages": {
+          "maximum": 5,
+          "minimum": 1,
+          "title": "Pages",
+          "type": "integer"
+        },
+        "doc_type": {
+          "title": "Doc Type",
+          "type": "string"
+        },
+        "doc_date": {
+          "title": "Doc Date",
+          "type": "string"
+        },
+        "sentence_count": {
+          "minimum": 1,
+          "title": "Sentence Count",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "document_id",
+        "filename",
+        "text_sha256",
+        "pages",
+        "doc_type",
+        "doc_date",
+        "sentence_count"
+      ],
+      "title": "QADocument",
+      "type": "object"
+    },
+    "QAQuery": {
+      "additionalProperties": false,
+      "properties": {
+        "query_id": {
+          "title": "Query Id",
+          "type": "string"
+        },
+        "question": {
+          "title": "Question",
+          "type": "string"
+        },
+        "query_type": {
+          "enum": [
+            "entity_lookup",
+            "relationship_lookup",
+            "financial",
+            "temporal",
+            "historical_change",
+            "multi_hop",
+            "identity_resolution",
+            "negation",
+            "proposed_vs_completed",
+            "alleged_status",
+            "contradiction",
+            "provenance",
+            "unanswerable"
+          ],
+          "title": "Query Type",
+          "type": "string"
+        },
+        "expected_answer": {
+          "title": "Expected Answer",
+          "type": "string"
+        },
+        "answer_type": {
+          "enum": [
+            "entity",
+            "money",
+            "date",
+            "period",
+            "boolean",
+            "document",
+            "contradiction",
+            "text",
+            "unanswerable"
+          ],
+          "title": "Answer Type",
+          "type": "string"
+        },
+        "answerable": {
+          "title": "Answerable",
+          "type": "boolean"
+        },
+        "supporting_evidence": {
+          "items": {
+            "$ref": "#/$defs/QueryEvidence"
+          },
+          "title": "Supporting Evidence",
+          "type": "array"
+        },
+        "gold_fact_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Gold Fact Ids",
+          "type": "array"
+        },
+        "relevant_document_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Relevant Document Ids",
+          "type": "array"
+        },
+        "notes": {
+          "default": "",
+          "title": "Notes",
+          "type": "string"
+        },
+        "unanswerable_kind": {
+          "anyOf": [
+            {
+              "enum": [
+                "absent_attribute",
+                "absent_relationship",
+                "unsupported_historical_date",
+                "absent_financial_information",
+                "false_presupposition"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Unanswerable Kind"
+        },
+        "unanswerable_proof": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/UnanswerableProof"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "query_id",
+        "question",
+        "query_type",
+        "expected_answer",
+        "answer_type",
+        "answerable"
+      ],
+      "title": "QAQuery",
+      "type": "object"
+    },
+    "QueryEvidence": {
+      "additionalProperties": false,
+      "description": "One exact, verifiable piece of evidence in one generated document.",
+      "properties": {
+        "document_id": {
+          "description": "Stable generator id, e.g. gen_doc_00000",
+          "title": "Document Id",
+          "type": "string"
+        },
+        "filename": {
+          "title": "Filename",
+          "type": "string"
+        },
+        "text_sha256": {
+          "description": "sha256 of the ingested canonical text",
+          "title": "Text Sha256",
+          "type": "string"
+        },
+        "sentence_idx": {
+          "minimum": 0,
+          "title": "Sentence Idx",
+          "type": "integer"
+        },
+        "sentence_id": {
+          "description": "Portable Synth label, e.g. s7",
+          "title": "Sentence Id",
+          "type": "string"
+        },
+        "quote": {
+          "title": "Quote",
+          "type": "string"
+        }
+      },
+      "required": [
+        "document_id",
+        "filename",
+        "text_sha256",
+        "sentence_idx",
+        "sentence_id",
+        "quote"
+      ],
+      "title": "QueryEvidence",
+      "type": "object"
+    },
+    "UnanswerableProof": {
+      "additionalProperties": false,
+      "description": "Structured evidence that a question cannot be answered from the world.\n\nThe proof is derived from the generator's fact index and entity/relation\nstructure, not from keyword absence in the question.  ``checked_fact_ids``\nnames the distractor facts that were inspected and found not to support the\nasked relation, attribute or date.",
+      "properties": {
+        "kind": {
+          "enum": [
+            "absent_attribute",
+            "absent_relationship",
+            "unsupported_historical_date",
+            "absent_financial_information",
+            "false_presupposition"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "subject_id": {
+          "title": "Subject Id",
+          "type": "string"
+        },
+        "relation": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Relation"
+        },
+        "object_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Object Id"
+        },
+        "attribute": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Attribute"
+        },
+        "reference_date": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Reference Date"
+        },
+        "checked_fact_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Checked Fact Ids",
+          "type": "array"
+        },
+        "checked_document_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Checked Document Ids",
+          "type": "array"
+        },
+        "explanation": {
+          "title": "Explanation",
+          "type": "string"
+        }
+      },
+      "required": [
+        "kind",
+        "subject_id",
+        "explanation"
+      ],
+      "title": "UnanswerableProof",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "default": 1,
+      "title": "Version",
+      "type": "integer"
+    },
+    "seed": {
+      "title": "Seed",
+      "type": "integer"
+    },
+    "target_pages": {
+      "title": "Target Pages",
+      "type": "integer"
+    },
+    "actual_pages": {
+      "title": "Actual Pages",
+      "type": "integer"
+    },
+    "documents": {
+      "items": {
+        "$ref": "#/$defs/QADocument"
+      },
+      "title": "Documents",
+      "type": "array"
+    },
+    "queries": {
+      "items": {
+        "$ref": "#/$defs/QAQuery"
+      },
+      "title": "Queries",
+      "type": "array"
+    },
+    "notes": {
+      "default": "",
+      "title": "Notes",
+      "type": "string"
+    }
+  },
+  "required": [
+    "seed",
+    "target_pages",
+    "actual_pages",
+    "documents",
+    "queries"
+  ],
+  "title": "QADataset",
+  "type": "object"
+}

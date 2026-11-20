@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00369_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "b3513faa0b7a6a58f1064c8691479b48778707b3b48b5077ed8199f373f677e6"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_137",
+      "name": "Ironside Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_137",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ironside Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1322",
+      "name": "Moray Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1322",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Moray Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1323",
+      "name": "Moray Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1323",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Moray Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1324",
+      "name": "Moray Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1324",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Moray Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1325",
+      "name": "Moray Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1325",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Moray Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1327",
+      "name": "Moray Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1327",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Moray Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Moray Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_79",
+      "name": "Briar & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_79",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Zell LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_110",
+      "name": "Licence LEG-110",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_110",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-110",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-110",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1322",
+      "name": "Anika Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1322",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1323",
+      "name": "Anika Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1323",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1330",
+      "name": "Anika Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1330",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_373",
+      "name": "Gideon Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_373",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Gideon Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Gideon Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_69",
+      "name": "Inkberrow",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_69",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inkberrow",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020228",
+      "subject": "company_1322",
+      "rel": "owns",
+      "object": "company_1323",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Moray Group Limited owns Moray Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020229",
+      "subject": "person_1330",
+      "rel": "shareholder_of",
+      "object": "company_1322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Nyle is a shareholder of Moray Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020241",
+      "subject": "person_1322",
+      "rel": "family_of",
+      "object": "person_1323",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Fenwick is a family member of Anika Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020231",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_1322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-08-28",
+          "value_end": "2024-08-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Silvergate Bank Limited lent Moray Group Limited GBP 14 million on 28 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020233",
+      "subject": "company_1324",
+      "rel": "guarantor_for",
+      "object": "company_1322",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Moray Trading Limited guaranteed the loan to Moray Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020232",
+      "subject": "company_1322",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-09-02",
+          "value_end": "2024-09-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Moray Group Limited owes Silvergate Bank Limited GBP 5 million as at 2 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020237",
+      "subject": "company_1322",
+      "rel": "owns",
+      "object": "asset_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Moray Group Limited owns Ironside Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020238",
+      "subject": "asset_137",
+      "rel": "located_in",
+      "object": "place_69",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Wharf is located in Inkberrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020239",
+      "subject": "company_1322",
+      "rel": "party_to",
+      "object": "legal_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Moray Group Limited is a party to the Licence LEG-110.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020240",
+      "subject": "person_1323",
+      "rel": "signed",
+      "object": "legal_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Garrow signed the Licence LEG-110.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00369_proposal",
+      "text": "The acquisition of Moray Marine Limited by Moray Group Limited",
+      "speaker": "person_373",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Gideon Neville, chair of Moray Group Limited, proposed to acquire Moray Marine Limited on 2 August 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00369_approval",
+      "text": "Regulatory approval for the acquisition of Moray Marine Limited",
+      "speaker": "person_373",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Gideon Neville confirmed that regulatory approval for the acquisition of Moray Marine Limited by Moray Group Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00369_link_conditional",
+      "src": "gen_doc_00369_proposal",
+      "dst": "gen_doc_00369_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Moray Marine Limited by Moray Group Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00365_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00369",
+      "surface": "2 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-02",
+      "value_end": "2024-08-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "2 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020231",
+      "surface": "28 August 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-08-28",
+      "value_end": "2024-08-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "28 August 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020232",
+      "surface": "2 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-02",
+      "value_end": "2024-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "2 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

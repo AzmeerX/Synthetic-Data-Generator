@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01099_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "0369367279822ac5d394e32aa1976ea7c5ee29520a9b13991b427a88c2ce8509"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_195",
+      "name": "Larkspur Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_195",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Larkspur Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_199",
+      "name": "Larkspur Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_199",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Larkspur Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_132",
+      "name": "Uldale Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_132",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uldale Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1980",
+      "name": "North Trentvale Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1980",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Trentvale Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1982",
+      "name": "North Trentvale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1982",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Trentvale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1985",
+      "name": "North Trentvale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1985",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_29",
+      "name": "Alden & Yarrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_29",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Yarrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_30",
+      "name": "Alden & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_30",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_162",
+      "name": "Facility Agreement LEG-162",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_162",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-162",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-162",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1103",
+      "name": "Vera Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1103",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Ingram",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_588",
+      "name": "Lena Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_588",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lena Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_589",
+      "name": "Lena Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_589",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lena Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_591",
+      "name": "Lena Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_591",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Lena Jarvis",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_593",
+      "name": "Lena Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_593",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Lena Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_596",
+      "name": "Lena Pell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_596",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_07",
+      "name": "Ironside",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_07",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030486",
+      "subject": "company_1980",
+      "rel": "owns",
+      "object": "asset_195",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Trentvale Holdings Limited owns Larkspur Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030488",
+      "subject": "person_591",
+      "rel": "chair_of",
+      "object": "company_1980",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Jarvis is the chair of North Trentvale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030487",
+      "subject": "person_596",
+      "rel": "shareholder_of",
+      "object": "company_1980",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Pell is a shareholder of North Trentvale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030499",
+      "subject": "person_588",
+      "rel": "family_of",
+      "object": "person_589",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Lena Garrow is a family member of Lena Hale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030489",
+      "subject": "bank_132",
+      "rel": "lent_to",
+      "object": "company_1980",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-11-09",
+          "value_end": "2025-11-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Uldale Commercial Bank Limited lent North Trentvale Holdings Limited GBP 50 million on 9 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030491",
+      "subject": "company_1982",
+      "rel": "guarantor_for",
+      "object": "company_1980",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Trentvale Group Limited guaranteed the loan to North Trentvale Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030490",
+      "subject": "company_1980",
+      "rel": "owes",
+      "object": "bank_132",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-11-14",
+          "value_end": "2025-11-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Trentvale Holdings Limited owes Uldale Commercial Bank Limited GBP 13 million as at 14 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030492",
+      "subject": "lawfirm_30",
+      "rel": "represents",
+      "object": "company_1980",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Zell LLP represents North Trentvale Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030495",
+      "subject": "company_1980",
+      "rel": "owns",
+      "object": "asset_199",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Trentvale Holdings Limited owns Larkspur Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030496",
+      "subject": "asset_199",
+      "rel": "located_in",
+      "object": "place_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Larkspur Fleet is located in Ironside.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030497",
+      "subject": "company_1980",
+      "rel": "party_to",
+      "object": "legal_162",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Trentvale Holdings Limited is a party to the Facility Agreement LEG-162.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030498",
+      "subject": "person_589",
+      "rel": "signed",
+      "object": "legal_162",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Hale signed the Facility Agreement LEG-162.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01099_proposal",
+      "text": "The acquisition of North Trentvale Partners Limited by North Trentvale Holdings Limited",
+      "speaker": "person_1103",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Ingram, chair of North Trentvale Holdings Limited, proposed to acquire North Trentvale Partners Limited on 8 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01099_approval",
+      "text": "Regulatory approval for the acquisition of North Trentvale Partners Limited",
+      "speaker": "person_1103",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vera Ingram confirmed that regulatory approval for the acquisition of North Trentvale Partners Limited by North Trentvale Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01099_link_conditional",
+      "src": "gen_doc_01099_proposal",
+      "dst": "gen_doc_01099_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Trentvale Partners Limited by North Trentvale Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01099",
+      "surface": "8 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-08",
+      "value_end": "2025-06-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030489",
+      "surface": "9 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-09",
+      "value_end": "2025-11-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "9 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030490",
+      "surface": "14 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-14",
+      "value_end": "2025-11-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "14 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01099",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

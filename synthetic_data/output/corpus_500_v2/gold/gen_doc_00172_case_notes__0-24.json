@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00172_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "7b371d9f0cbd16e3be23106f481371a9a8cda0462dfbef069e55c9c4d9dd8be3"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_67",
+      "name": "Eastmere Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_67",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Eastmere Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_32",
+      "name": "Denmoor International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_32",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_64",
+      "name": "Dunmere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_64",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Dunmere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_66",
+      "name": "Dunmere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_66",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_67",
+      "name": "Dunmere Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_67",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Dunmere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Dunmere Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_64",
+      "name": "Side Letter LEG-064",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_64",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Side Letter LEG-064",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_176",
+      "name": "Calder Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_176",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_64",
+      "name": "Amina Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_64",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Amina Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_65",
+      "name": "Amina Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_65",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Amina Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Amina Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_67",
+      "name": "Amina Cavendish",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_67",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_72",
+      "name": "Amina Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_72",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Amina Hastings",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000621",
+      "subject": "company_64",
+      "rel": "party_to",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Dunmere Logistics Limited is a party to the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000622",
+      "subject": "person_65",
+      "rel": "signed",
+      "object": "legal_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Amina Ashby signed the Side Letter LEG-064.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000612",
+      "subject": "person_67",
+      "rel": "chair_of",
+      "object": "company_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Cavendish is the chair of Dunmere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000613",
+      "subject": "bank_32",
+      "rel": "lent_to",
+      "object": "company_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-03",
+          "value_end": "2024-01-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Denmoor International Bank Limited lent Dunmere Logistics Limited GBP 18 million on 3 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000615",
+      "subject": "company_66",
+      "rel": "guarantor_for",
+      "object": "company_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Dunmere Partners Limited guaranteed the loan to Dunmere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000614",
+      "subject": "company_64",
+      "rel": "owes",
+      "object": "bank_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-08",
+          "value_end": "2024-01-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Dunmere Logistics Limited owes Denmoor International Bank Limited GBP 7 million as at 8 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000611",
+      "subject": "person_72",
+      "rel": "shareholder_of",
+      "object": "company_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Amina Hastings is a shareholder of Dunmere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000623",
+      "subject": "person_64",
+      "rel": "family_of",
+      "object": "person_65",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Amina Zell is a family member of Amina Ashby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000610",
+      "subject": "company_64",
+      "rel": "owns",
+      "object": "asset_67",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Dunmere Logistics Limited owns Eastmere Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00172_neg_guarantee",
+      "subject": "company_64",
+      "rel": "guarantor_for",
+      "object": "company_67",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Dunmere Logistics Limited did not guarantee the facility for Dunmere Capital Limited on 5 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00172_allegation",
+      "text": "A former employee alleged that Dunmere Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Langford noted that a former employee alleged that Dunmere Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00172",
+      "surface": "5 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-05",
+      "value_end": "2024-02-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000613",
+      "surface": "3 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-03",
+      "value_end": "2024-01-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "3 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000614",
+      "surface": "8 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-08",
+      "value_end": "2024-01-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "8 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00172",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2024-08-05",
+      "value_end": "2024-08-05",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

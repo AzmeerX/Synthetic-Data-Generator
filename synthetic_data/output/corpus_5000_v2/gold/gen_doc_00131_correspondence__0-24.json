@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00131_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "5c31725fb81eef8709ba54af13a8711626737061f5d0badc39c0307ac1348a59"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_515",
+      "name": "Netherby Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_515",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Netherby Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_519",
+      "name": "Netherby Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_519",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Netherby Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_52",
+      "name": "Harrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_52",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1108",
+      "name": "Selby Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1108",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Selby Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1110",
+      "name": "Selby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1110",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Selby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Selby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1112",
+      "name": "Selby Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1112",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Selby Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Selby Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_02",
+      "name": "Marlowe & Reed LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_02",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_502",
+      "name": "Loan Note LEG-502",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_502",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-502",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-502",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1108",
+      "name": "Vera Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1108",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1109",
+      "name": "Vera Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1109",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vera Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1116",
+      "name": "Vera Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1116",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vera Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_135",
+      "name": "Bastian Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_135",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Villiers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_35",
+      "name": "Westerby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_35",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Westerby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016890",
+      "subject": "company_1108",
+      "rel": "owns",
+      "object": "asset_515",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Selby Trading Limited owns Netherby Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016891",
+      "subject": "person_1116",
+      "rel": "shareholder_of",
+      "object": "company_1108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vera Whitlock is a shareholder of Selby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016903",
+      "subject": "person_1108",
+      "rel": "family_of",
+      "object": "person_1109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vera Neville is a family member of Vera Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016893",
+      "subject": "bank_52",
+      "rel": "lent_to",
+      "object": "company_1108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-11-13",
+          "value_end": "2022-11-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Harrow Merchant Bank Limited lent Selby Trading Limited GBP 26 million on 13 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016895",
+      "subject": "company_1110",
+      "rel": "guarantor_for",
+      "object": "company_1108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Selby Capital Limited guaranteed the loan to Selby Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016894",
+      "subject": "company_1108",
+      "rel": "owes",
+      "object": "bank_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-11-18",
+          "value_end": "2022-11-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Selby Trading Limited owes Harrow Merchant Bank Limited GBP 11 million as at 18 November 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016899",
+      "subject": "company_1108",
+      "rel": "owns",
+      "object": "asset_519",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Selby Trading Limited owns Netherby Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016900",
+      "subject": "asset_519",
+      "rel": "located_in",
+      "object": "place_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Data Centre is located in Westerby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016901",
+      "subject": "company_1108",
+      "rel": "party_to",
+      "object": "legal_502",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Selby Trading Limited is a party to the Loan Note LEG-502.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016902",
+      "subject": "person_1109",
+      "rel": "signed",
+      "object": "legal_502",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Vera Osborne signed the Loan Note LEG-502.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00131_proposal",
+      "text": "The acquisition of Selby Energy Limited by Selby Trading Limited",
+      "speaker": "person_135",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Bastian Villiers, chair of Selby Trading Limited, proposed to acquire Selby Energy Limited on 6 August 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00131_approval",
+      "text": "Regulatory approval for the acquisition of Selby Energy Limited",
+      "speaker": "person_135",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Villiers confirmed that regulatory approval for the acquisition of Selby Energy Limited by Selby Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00131_link_conditional",
+      "src": "gen_doc_00131_proposal",
+      "dst": "gen_doc_00131_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Selby Energy Limited by Selby Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00127_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00131",
+      "surface": "6 August 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-08-06",
+      "value_end": "2026-08-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 August 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016893",
+      "surface": "13 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-13",
+      "value_end": "2022-11-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "13 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016894",
+      "surface": "18 November 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-11-18",
+      "value_end": "2022-11-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 November 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

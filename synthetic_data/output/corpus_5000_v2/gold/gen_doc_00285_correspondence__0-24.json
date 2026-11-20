@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00285_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "2ac835e741096b7228864bd1750b6d382aed49ab37c712d6385fa49915a7f967"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_62",
+      "name": "Eastmere Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_62",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_59",
+      "name": "Inver Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_59",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Inver Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Inver Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1247",
+      "name": "Fermanagh Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1247",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1248",
+      "name": "Gower Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1248",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Gower Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1249",
+      "name": "Gower Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1249",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gower Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_125",
+      "name": "Inglemere Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_125",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Inglemere Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1251",
+      "name": "Gower Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1251",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Gower Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_114",
+      "name": "Cairn & Kerr LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_114",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Kerr LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Kerr LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_35",
+      "name": "Guarantee Deed LEG-035",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_35",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Guarantee Deed LEG-035",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Guarantee Deed LEG-035",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1247",
+      "name": "Yara Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1247",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1248",
+      "name": "Yara Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1248",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yara Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1255",
+      "name": "Yara Montague",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1255",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_289",
+      "name": "Farah Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_289",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_174",
+      "name": "Merrivale Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_174",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Merrivale Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019057",
+      "subject": "company_1247",
+      "rel": "owns",
+      "object": "company_1248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Systems Limited owns Gower Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019058",
+      "subject": "person_1255",
+      "rel": "shareholder_of",
+      "object": "company_1247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Montague is a shareholder of Fermanagh Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019070",
+      "subject": "person_1247",
+      "rel": "family_of",
+      "object": "person_1248",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Everard is a family member of Yara Fairfax.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019060",
+      "subject": "bank_59",
+      "rel": "lent_to",
+      "object": "company_1247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-26",
+          "value_end": "2022-05-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Inver Trust Bank Limited lent Fermanagh Systems Limited GBP 24 million on 26 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019062",
+      "subject": "company_1249",
+      "rel": "guarantor_for",
+      "object": "company_1247",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gower Industries Limited guaranteed the loan to Fermanagh Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019061",
+      "subject": "company_1247",
+      "rel": "owes",
+      "object": "bank_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-31",
+          "value_end": "2022-05-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Fermanagh Systems Limited owes Inver Trust Bank Limited GBP 10 million as at 31 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019066",
+      "subject": "company_1247",
+      "rel": "owns",
+      "object": "asset_62",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fermanagh Systems Limited owns Eastmere Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019067",
+      "subject": "asset_62",
+      "rel": "located_in",
+      "object": "place_174",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Eastmere Cold Store is located in Merrivale Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019068",
+      "subject": "company_1247",
+      "rel": "party_to",
+      "object": "legal_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Fermanagh Systems Limited is a party to the Guarantee Deed LEG-035.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019069",
+      "subject": "person_1248",
+      "rel": "signed",
+      "object": "legal_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Yara Fairfax signed the Guarantee Deed LEG-035.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00285_proposal",
+      "text": "The acquisition of Gower Logistics Limited by Fermanagh Systems Limited",
+      "speaker": "person_289",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Briar, chair of Fermanagh Systems Limited, proposed to acquire Gower Logistics Limited on 6 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00285_approval",
+      "text": "Regulatory approval for the acquisition of Gower Logistics Limited",
+      "speaker": "person_289",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Briar confirmed that regulatory approval for the acquisition of Gower Logistics Limited by Fermanagh Systems Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00285_link_conditional",
+      "src": "gen_doc_00285_proposal",
+      "dst": "gen_doc_00285_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Gower Logistics Limited by Fermanagh Systems Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00281_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00285",
+      "surface": "6 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-06",
+      "value_end": "2026-04-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019060",
+      "surface": "26 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-26",
+      "value_end": "2022-05-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "26 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019061",
+      "surface": "31 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-31",
+      "value_end": "2022-05-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "31 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

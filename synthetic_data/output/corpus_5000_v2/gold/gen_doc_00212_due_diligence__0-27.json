@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00212_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "aed7bf89a5e0ce18fadd45b52036deb4060eeed77a369a4e549ea50527176855"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_592",
+      "name": "Redmoor Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_592",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Redmoor Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_125",
+      "name": "Tarrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_125",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1181",
+      "name": "Alderney Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1181",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Alderney Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1182",
+      "name": "Alderney Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1182",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Alderney Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1183",
+      "name": "Alderney Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1183",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alderney Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_11",
+      "name": "Alden & Fenwick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_11",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Fenwick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_575",
+      "name": "Power of Attorney LEG-575",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_575",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Power of Attorney LEG-575",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Power of Attorney LEG-575",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1181",
+      "name": "Xander Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1181",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1182",
+      "name": "Xander Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1182",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1189",
+      "name": "Xander Ulric",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1189",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_216",
+      "name": "Daria Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_216",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_108",
+      "name": "Elmsworth Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_108",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Elmsworth Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_018027",
+      "subject": "company_1181",
+      "rel": "owns",
+      "object": "company_1182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Alderney Partners Limited owns Alderney Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018036",
+      "subject": "company_1181",
+      "rel": "owns",
+      "object": "asset_592",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alderney Partners Limited owns Redmoor Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018037",
+      "subject": "asset_592",
+      "rel": "located_in",
+      "object": "place_108",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Redmoor Wharf is located in Elmsworth Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018033",
+      "subject": "lawfirm_11",
+      "rel": "represents",
+      "object": "company_1181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Fenwick LLP represents Alderney Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018028",
+      "subject": "person_1189",
+      "rel": "shareholder_of",
+      "object": "company_1181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Xander Ulric is a shareholder of Alderney Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018040",
+      "subject": "person_1181",
+      "rel": "family_of",
+      "object": "person_1182",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Xander Mercer is a family member of Xander Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018030",
+      "subject": "bank_125",
+      "rel": "lent_to",
+      "object": "company_1181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-01-24",
+          "value_end": "2025-01-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Trust Bank Limited lent Alderney Partners Limited GBP 12 million on 24 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018032",
+      "subject": "company_1183",
+      "rel": "guarantor_for",
+      "object": "company_1181",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alderney Marine Limited guaranteed the loan to Alderney Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018031",
+      "subject": "company_1181",
+      "rel": "owes",
+      "object": "bank_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-29",
+          "value_end": "2025-01-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alderney Partners Limited owes Tarrow Trust Bank Limited GBP 4 million as at 29 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018038",
+      "subject": "company_1181",
+      "rel": "party_to",
+      "object": "legal_575",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Alderney Partners Limited is a party to the Power of Attorney LEG-575.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_018039",
+      "subject": "person_1182",
+      "rel": "signed",
+      "object": "legal_575",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Xander Nyle signed the Power of Attorney LEG-575.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00212_allegation",
+      "text": "A former employee alleged that Alderney Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Cavendish noted that a former employee alleged that Alderney Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00212",
+      "surface": "11 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-11",
+      "value_end": "2024-11-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018030",
+      "surface": "24 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-24",
+      "value_end": "2025-01-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_018031",
+      "surface": "29 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-29",
+      "value_end": "2025-01-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00212",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

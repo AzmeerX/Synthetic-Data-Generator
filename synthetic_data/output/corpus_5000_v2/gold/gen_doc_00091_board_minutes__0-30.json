@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00091_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "76d28e81d8b49eb3ccc3c38f790d41959f79b528780e89bc06af46ab001843f7"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_479",
+      "name": "Lowmoor Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_479",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lowmoor Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_483",
+      "name": "Lowmoor Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_483",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_16",
+      "name": "Bexley Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_16",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bexley Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1072",
+      "name": "Priors Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1072",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Priors Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1074",
+      "name": "Priors Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1074",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Priors Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1077",
+      "name": "Priors Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1077",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Priors Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Priors Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_32",
+      "name": "Alden & Balfour LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_32",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Balfour LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_61",
+      "name": "Briar & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_61",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_466",
+      "name": "Facility Agreement LEG-466",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_466",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-466",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-466",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1072",
+      "name": "Vera Cairn",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1072",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vera Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1073",
+      "name": "Vera Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1073",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vera Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1075",
+      "name": "Vera Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1075",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vera Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1077",
+      "name": "Vera Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1077",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vera Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1080",
+      "name": "Vera Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1080",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_95",
+      "name": "Bastian Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_95",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Fenwick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_179",
+      "name": "Netherby Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_179",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Netherby Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016328",
+      "subject": "company_1072",
+      "rel": "owns",
+      "object": "asset_479",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Priors Trading Limited owns Lowmoor Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016330",
+      "subject": "person_1075",
+      "rel": "chair_of",
+      "object": "company_1072",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Vera Fenwick is the chair of Priors Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016329",
+      "subject": "person_1080",
+      "rel": "shareholder_of",
+      "object": "company_1072",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Kerr is a shareholder of Priors Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016341",
+      "subject": "person_1072",
+      "rel": "family_of",
+      "object": "person_1073",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Vera Cairn is a family member of Vera Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016331",
+      "subject": "bank_16",
+      "rel": "lent_to",
+      "object": "company_1072",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-06-09",
+          "value_end": "2026-06-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Bexley Merchant Bank Limited lent Priors Trading Limited GBP 34 million on 9 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016333",
+      "subject": "company_1074",
+      "rel": "guarantor_for",
+      "object": "company_1072",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Priors Capital Limited guaranteed the loan to Priors Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016332",
+      "subject": "company_1072",
+      "rel": "owes",
+      "object": "bank_16",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-06-14",
+          "value_end": "2026-06-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Priors Trading Limited owes Bexley Merchant Bank Limited GBP 5 million as at 14 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016334",
+      "subject": "lawfirm_32",
+      "rel": "represents",
+      "object": "company_1072",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Balfour LLP represents Priors Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016337",
+      "subject": "company_1072",
+      "rel": "owns",
+      "object": "asset_483",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Priors Trading Limited owns Lowmoor Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016338",
+      "subject": "asset_483",
+      "rel": "located_in",
+      "object": "place_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Works is located in Netherby Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016339",
+      "subject": "company_1072",
+      "rel": "party_to",
+      "object": "legal_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Priors Trading Limited is a party to the Facility Agreement LEG-466.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016340",
+      "subject": "person_1073",
+      "rel": "signed",
+      "object": "legal_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Vera Dunmore signed the Facility Agreement LEG-466.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00091_proposal",
+      "text": "The acquisition of Priors Property Limited by Priors Trading Limited",
+      "speaker": "person_95",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Bastian Fenwick, chair of Priors Trading Limited, proposed to acquire Priors Property Limited on 30 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00091_approval",
+      "text": "Regulatory approval for the acquisition of Priors Property Limited",
+      "speaker": "person_95",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Bastian Fenwick confirmed that regulatory approval for the acquisition of Priors Property Limited by Priors Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00091_link_conditional",
+      "src": "gen_doc_00091_proposal",
+      "dst": "gen_doc_00091_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Priors Property Limited by Priors Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00091",
+      "surface": "30 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-30",
+      "value_end": "2025-10-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "30 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016331",
+      "surface": "9 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-09",
+      "value_end": "2026-06-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "9 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016332",
+      "surface": "14 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-14",
+      "value_end": "2026-06-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "14 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00091",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00835_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "1d539bd42038e2a3eb1c03d2fa063399adda055a4a83f952c8779dab6e78b167"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_557",
+      "name": "Pemberton Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_557",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_26",
+      "name": "Carrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_26",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1742",
+      "name": "North Yarmouth Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1742",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Yarmouth Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1743",
+      "name": "North Yarmouth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1743",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Yarmouth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1744",
+      "name": "North Yarmouth Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1744",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_52",
+      "name": "Alden & Whitlock LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_52",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Whitlock LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_530",
+      "name": "Facility Agreement LEG-530",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_530",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-530",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-530",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_350",
+      "name": "Gideon Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_350",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_351",
+      "name": "Gideon Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_351",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_358",
+      "name": "Gideon Yarrow",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_358",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_839",
+      "name": "Quin Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_839",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_129",
+      "name": "Harrowden Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_129",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrowden Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026777",
+      "subject": "company_1742",
+      "rel": "owns",
+      "object": "company_1743",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Yarmouth Group Limited owns North Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026786",
+      "subject": "company_1742",
+      "rel": "owns",
+      "object": "asset_557",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Yarmouth Group Limited owns Pemberton Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026787",
+      "subject": "asset_557",
+      "rel": "located_in",
+      "object": "place_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Warehouse is located in Harrowden Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026783",
+      "subject": "lawfirm_52",
+      "rel": "represents",
+      "object": "company_1742",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Whitlock LLP represents North Yarmouth Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026778",
+      "subject": "person_358",
+      "rel": "shareholder_of",
+      "object": "company_1742",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Gideon Yarrow is a shareholder of North Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026790",
+      "subject": "person_350",
+      "rel": "family_of",
+      "object": "person_351",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Gideon Pell is a family member of Gideon Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026780",
+      "subject": "bank_26",
+      "rel": "lent_to",
+      "object": "company_1742",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-06",
+          "value_end": "2023-05-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow International Bank Limited lent North Yarmouth Group Limited GBP 14 million on 6 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026782",
+      "subject": "company_1744",
+      "rel": "guarantor_for",
+      "object": "company_1742",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Yarmouth Trading Limited guaranteed the loan to North Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026781",
+      "subject": "company_1742",
+      "rel": "owes",
+      "object": "bank_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-11",
+          "value_end": "2023-05-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Yarmouth Group Limited owes Carrow International Bank Limited GBP 5 million as at 11 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026788",
+      "subject": "company_1742",
+      "rel": "party_to",
+      "object": "legal_530",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Yarmouth Group Limited is a party to the Facility Agreement LEG-530.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026789",
+      "subject": "person_351",
+      "rel": "signed",
+      "object": "legal_530",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Gideon Quade signed the Facility Agreement LEG-530.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00835_allegation",
+      "text": "A former employee alleged that North Yarmouth Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Quin Quade noted that a former employee alleged that North Yarmouth Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00835",
+      "surface": "12 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-12",
+      "value_end": "2026-12-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "12 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026780",
+      "surface": "6 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-06",
+      "value_end": "2023-05-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "6 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026781",
+      "surface": "11 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-11",
+      "value_end": "2023-05-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "11 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00835",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

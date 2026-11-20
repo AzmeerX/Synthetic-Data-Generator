@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00780_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "ed2e240f0371bfff797a459e848f33e2574cb5855b8457255a08ed838168c7b3"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_508",
+      "name": "Merrivale Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_508",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Merrivale Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Merrivale Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_109",
+      "name": "Quill Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_109",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quill Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quill Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1693",
+      "name": "North Tarrow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1693",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Tarrow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1694",
+      "name": "North Tarrow Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1694",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Tarrow Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1695",
+      "name": "North Tarrow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1695",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Tarrow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1698",
+      "name": "North Tarrow Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1698",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Tarrow Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Tarrow Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_01",
+      "name": "Harrow & Finch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_01",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Harrow & Finch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_03",
+      "name": "Cairn & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_03",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_481",
+      "name": "Share Purchase Agreement LEG-481",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_481",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Share Purchase Agreement LEG-481",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-481",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_301",
+      "name": "Farah Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_301",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_302",
+      "name": "Farah Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_302",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_309",
+      "name": "Farah Yarrow",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_309",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_784",
+      "name": "Petra Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_784",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_80",
+      "name": "Ashcombe Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_80",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ashcombe Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026010",
+      "subject": "company_1693",
+      "rel": "owns",
+      "object": "company_1694",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Tarrow Industries Limited owns North Tarrow Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026011",
+      "subject": "person_309",
+      "rel": "shareholder_of",
+      "object": "company_1693",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Yarrow is a shareholder of North Tarrow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026023",
+      "subject": "person_301",
+      "rel": "family_of",
+      "object": "person_302",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Nyle is a family member of Farah Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026013",
+      "subject": "bank_109",
+      "rel": "lent_to",
+      "object": "company_1693",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-10",
+          "value_end": "2026-07-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Quill Private Bank Limited lent North Tarrow Industries Limited GBP 36 million on 10 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026015",
+      "subject": "company_1695",
+      "rel": "guarantor_for",
+      "object": "company_1693",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Tarrow Logistics Limited guaranteed the loan to North Tarrow Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026014",
+      "subject": "company_1693",
+      "rel": "owes",
+      "object": "bank_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-07-15",
+          "value_end": "2026-07-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Tarrow Industries Limited owes Quill Private Bank Limited GBP 6 million as at 15 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026016",
+      "subject": "lawfirm_03",
+      "rel": "represents",
+      "object": "company_1693",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Sable LLP represents North Tarrow Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026019",
+      "subject": "company_1693",
+      "rel": "owns",
+      "object": "asset_508",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Tarrow Industries Limited owns Merrivale Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026020",
+      "subject": "asset_508",
+      "rel": "located_in",
+      "object": "place_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Merrivale Plant is located in Ashcombe Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026021",
+      "subject": "company_1693",
+      "rel": "party_to",
+      "object": "legal_481",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Tarrow Industries Limited is a party to the Share Purchase Agreement LEG-481.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026022",
+      "subject": "person_302",
+      "rel": "signed",
+      "object": "legal_481",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Pell signed the Share Purchase Agreement LEG-481.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00780_proposal",
+      "text": "The acquisition of North Tarrow Capital Limited by North Tarrow Industries Limited",
+      "speaker": "person_784",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Kerr, chair of North Tarrow Industries Limited, proposed to acquire North Tarrow Capital Limited on 22 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00780_approval",
+      "text": "Regulatory approval for the acquisition of North Tarrow Capital Limited",
+      "speaker": "person_784",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Kerr confirmed that regulatory approval for the acquisition of North Tarrow Capital Limited by North Tarrow Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00780_link_conditional",
+      "src": "gen_doc_00780_proposal",
+      "dst": "gen_doc_00780_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Tarrow Capital Limited by North Tarrow Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00780",
+      "surface": "22 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-22",
+      "value_end": "2025-11-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026013",
+      "surface": "10 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-10",
+      "value_end": "2026-07-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "10 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026014",
+      "surface": "15 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-15",
+      "value_end": "2026-07-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00780",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

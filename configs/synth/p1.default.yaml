@@ -1,0 +1,83 @@
+# Synth P1 run defaults. The whole resolved config (this file + models.yaml +
+# the ontology pack + prompt hashes) is hashed into the run registry (L1).
+version: 1
+seed: 7
+paths:
+  raw: data/raw
+  runs: data/synth_runs
+  gold: data/gold
+  prompts: configs/synth/prompts
+  tokenizers: data/tokenizers
+ontology: configs/synth/ontology/corporate_legal.v1.yaml
+models: configs/synth/models.yaml
+db:
+  url_env: SYNTH_DB_URL
+  default_url: postgresql://synth:synth@localhost:5432/synth
+
+# Module implementations (CLAUDE.md invariant 9: stable contracts, swappable impls).
+modules: {u1: gen1, u2: gen1, u3: gen1, u4: gen1, u5: gen1, u6: gen1, u7: existing,
+          u8: gen1, u9: gen1, u10: gen1, u11: gen1, u12: gen1}
+
+ingest:               # U1
+  pdf_pipeline: native          # docling NativePdfPipeline (no models); `standard` needs the models extra
+  ocr_min_chars: 50             # pages below this get OCR (or the pypdf fallback, logged)
+  header_footer_share: 0.6      # same line on >= 60% of pages -> filtered
+  doc_date_window_chars: 1500
+
+chunking:
+  micro:   {target_tokens: 400, cap_tokens: 500}     # cut B (U5)
+  section: {target_tokens: 1500, cap_tokens: 2000}   # T2 grouping (U7)
+
+caps:                 # token caps, enforced by the gateway (spec §10)
+  u4_whoswho: 150
+  u4_time_chunk: 60
+  u4_time_section: 100
+  u5_in: 650
+  u5_out: 600
+  u7_in: 3000
+  u7_rows: 1000
+  u7_out: 1200
+  u7_rechecks: 1
+  u7_widen_asks: 2
+  u10_packet: 8000
+  u10_out: 1200
+  u10_asks: 3
+  u10_added: 6000
+  arm_in: 2000
+  arm_out: 4000
+
+grounding:            # locator (spec §5)
+  fuzzy_accept: 85              # below -> NOT_FOUND (rejected)
+  fuzzy_pass: 92                # 85..92 -> grounded but GROUNDING_FUZZY_LOW at the gate
+  min_quote_words: 5
+
+contract:             # U6
+  confidence_floor: 0.35
+
+t2:                   # U7
+  mode: diff                    # diff | full (existing code outputs its whole graph; adapter diffs)
+
+resolver:             # U8, hand-set weights (documented in DECISIONS.md)
+  merge_threshold: 0.90
+  apart_threshold: 0.20
+  max_edit_distance: 2
+  rival_margin: 0.05    # rivals kept apart from each other within this score -> escalate, never merge by order
+  bias: -4.0
+  weights:
+    name_similarity: 4.0
+    type_match: 1.5
+    role_org_overlap: 2.0
+    comention_overlap: 1.0
+    document_overlap: -0.5
+    conflicting_roles: -3.0
+    t2_merge_proposal: 2.5
+    t2_split_proposal: -4.0
+
+gate:                 # U9
+  escalate_max_share: 0.10
+  escalate_target_share: 0.05
+  low_conf: 0.6
+
+eval:
+  bootstrap_resamples: 1000
+  bootstrap_seed: 7

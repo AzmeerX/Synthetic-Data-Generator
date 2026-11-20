@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00121_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "49cb8bbff1e07ffeeb8ff50c59d2869ca280ab7d32eac4d714b8e564da116975"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_87",
+      "name": "Fenwick Bay Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_87",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Fenwick Bay Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_91",
+      "name": "Fenwick Bay Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_91",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fenwick Bay Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_200",
+      "name": "Oakhurst Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_200",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Oakhurst Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_202",
+      "name": "Oakhurst Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_202",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Oakhurst Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_74",
+      "name": "Settlement Agreement LEG-074",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_74",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Settlement Agreement LEG-074",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Settlement Agreement LEG-074",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_125",
+      "name": "Bastian Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_125",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_200",
+      "name": "Daria Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_200",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_201",
+      "name": "Daria Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_201",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_208",
+      "name": "Daria Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_208",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_27",
+      "name": "Oakhurst",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_27",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Oakhurst",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002732",
+      "subject": "company_200",
+      "rel": "owns",
+      "object": "asset_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Oakhurst Marine Limited owns Fenwick Bay Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002741",
+      "subject": "company_200",
+      "rel": "owns",
+      "object": "asset_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Oakhurst Marine Limited owns Fenwick Bay Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002742",
+      "subject": "asset_91",
+      "rel": "located_in",
+      "object": "place_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Fenwick Bay Yard is located in Oakhurst.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002738",
+      "subject": "lawfirm_20",
+      "rel": "represents",
+      "object": "company_200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Orrick LLP represents Oakhurst Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002733",
+      "subject": "person_208",
+      "rel": "shareholder_of",
+      "object": "company_200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Daria Thorne is a shareholder of Oakhurst Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002745",
+      "subject": "person_200",
+      "rel": "family_of",
+      "object": "person_201",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Daria Lorne is a family member of Daria Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002735",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-06-13",
+          "value_end": "2023-06-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowgate Bank Limited lent Oakhurst Marine Limited GBP 50 million on 13 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002737",
+      "subject": "company_202",
+      "rel": "guarantor_for",
+      "object": "company_200",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Oakhurst Property Limited guaranteed the loan to Oakhurst Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002736",
+      "subject": "company_200",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-06-18",
+          "value_end": "2023-06-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Oakhurst Marine Limited owes Harrowgate Bank Limited GBP 13 million as at 18 June 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002743",
+      "subject": "company_200",
+      "rel": "party_to",
+      "object": "legal_74",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhurst Marine Limited is a party to the Settlement Agreement LEG-074.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002744",
+      "subject": "person_201",
+      "rel": "signed",
+      "object": "legal_74",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Daria Mercer signed the Settlement Agreement LEG-074.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00121_allegation",
+      "text": "A former employee alleged that Oakhurst Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bastian Kingsley noted that a former employee alleged that Oakhurst Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00121",
+      "surface": "28 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-28",
+      "value_end": "2026-05-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002735",
+      "surface": "13 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-13",
+      "value_end": "2023-06-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002736",
+      "surface": "18 June 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-06-18",
+      "value_end": "2023-06-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "18 June 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00121",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01602_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "af472defd452fa3ac95e7de9af23bf143cf101d336adf27fd19dab985ffe5525"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_78",
+      "name": "Eastmere Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_78",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Eastmere Office Park",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_267",
+      "name": "Uldale Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_267",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Uldale Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_268",
+      "name": "Uldale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_268",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Uldale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_269",
+      "name": "Uldale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_269",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Uldale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_61",
+      "name": "Supply Agreement LEG-061",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_61",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Supply Agreement LEG-061",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Supply Agreement LEG-061",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_214",
+      "name": "Daria Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_214",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_267",
+      "name": "Elias Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_267",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_268",
+      "name": "Elias Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_268",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Fairfax",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_275",
+      "name": "Elias Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_275",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_74",
+      "name": "Ashcombe Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_74",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ashcombe Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003776",
+      "subject": "company_267",
+      "rel": "owns",
+      "object": "company_268",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Uldale Group Limited owns Uldale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003777",
+      "subject": "person_275",
+      "rel": "shareholder_of",
+      "object": "company_267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Montague is a shareholder of Uldale Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003789",
+      "subject": "person_267",
+      "rel": "family_of",
+      "object": "person_268",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Everard is a family member of Elias Fairfax.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003779",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-06-19",
+          "value_end": "2025-06-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Bank Limited lent Uldale Group Limited GBP 24 million on 19 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003781",
+      "subject": "company_269",
+      "rel": "guarantor_for",
+      "object": "company_267",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Uldale Trading Limited guaranteed the loan to Uldale Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003780",
+      "subject": "company_267",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-06-24",
+          "value_end": "2025-06-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Uldale Group Limited owes Greyhaven Bank Limited GBP 10 million as at 24 June 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003785",
+      "subject": "company_267",
+      "rel": "owns",
+      "object": "asset_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Uldale Group Limited owns Eastmere Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003786",
+      "subject": "asset_78",
+      "rel": "located_in",
+      "object": "place_74",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Office Park is located in Ashcombe Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003787",
+      "subject": "company_267",
+      "rel": "party_to",
+      "object": "legal_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Group Limited is a party to the Supply Agreement LEG-061.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003788",
+      "subject": "person_268",
+      "rel": "signed",
+      "object": "legal_61",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Fairfax signed the Supply Agreement LEG-061.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01602_allegation",
+      "text": "A former employee alleged that Uldale Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Ashby noted that a former employee alleged that Uldale Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01602",
+      "surface": "21 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-21",
+      "value_end": "2025-03-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003779",
+      "surface": "19 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-19",
+      "value_end": "2025-06-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "19 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003780",
+      "surface": "24 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-24",
+      "value_end": "2025-06-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "24 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01602",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

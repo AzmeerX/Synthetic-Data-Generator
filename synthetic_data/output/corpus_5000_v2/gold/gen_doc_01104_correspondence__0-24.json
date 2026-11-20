@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01104_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "c72887e657f978095096ba784f040015f66b57e231745b1fbd14cd279657c3a9"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_204",
+      "name": "Larkspur Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_204",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_04",
+      "name": "Eastmere Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_04",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Eastmere Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Eastmere Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1985",
+      "name": "North Trentvale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1985",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Trentvale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1986",
+      "name": "North Trentvale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1986",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Trentvale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1987",
+      "name": "North Trentvale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1987",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Trentvale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1988",
+      "name": "North Trentvale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1988",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Trentvale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_199",
+      "name": "Oakhurst Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_199",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Oakhurst Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_34",
+      "name": "Alden & Delacourt LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_34",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Delacourt LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_167",
+      "name": "Services Agreement LEG-167",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_167",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Services Agreement LEG-167",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Services Agreement LEG-167",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1108",
+      "name": "Vera Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1108",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vera Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_593",
+      "name": "Lena Lorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_593",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_594",
+      "name": "Lena Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_594",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_601",
+      "name": "Lena Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_601",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_12",
+      "name": "Northcliff",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_12",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Northcliff",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030564",
+      "subject": "company_1985",
+      "rel": "owns",
+      "object": "company_1986",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Trentvale Partners Limited owns North Trentvale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030565",
+      "subject": "person_601",
+      "rel": "shareholder_of",
+      "object": "company_1985",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Ulric is a shareholder of North Trentvale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030577",
+      "subject": "person_593",
+      "rel": "family_of",
+      "object": "person_594",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lena Lorne is a family member of Lena Mercer.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030567",
+      "subject": "bank_04",
+      "rel": "lent_to",
+      "object": "company_1985",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-01-03",
+          "value_end": "2026-01-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Eastmere Bank Limited lent North Trentvale Partners Limited GBP 20 million on 3 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030569",
+      "subject": "company_1987",
+      "rel": "guarantor_for",
+      "object": "company_1985",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Trentvale Marine Limited guaranteed the loan to North Trentvale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030568",
+      "subject": "company_1985",
+      "rel": "owes",
+      "object": "bank_04",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-01-08",
+          "value_end": "2026-01-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Trentvale Partners Limited owes Eastmere Bank Limited GBP 8 million as at 8 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030573",
+      "subject": "company_1985",
+      "rel": "owns",
+      "object": "asset_204",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Trentvale Partners Limited owns Larkspur Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030574",
+      "subject": "asset_204",
+      "rel": "located_in",
+      "object": "place_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Marina is located in Northcliff.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030575",
+      "subject": "company_1985",
+      "rel": "party_to",
+      "object": "legal_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Trentvale Partners Limited is a party to the Services Agreement LEG-167.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030576",
+      "subject": "person_594",
+      "rel": "signed",
+      "object": "legal_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Lena Mercer signed the Services Agreement LEG-167.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01104_proposal",
+      "text": "The acquisition of Oakhurst Capital Limited by North Trentvale Partners Limited",
+      "speaker": "person_1108",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vera Neville, chair of North Trentvale Partners Limited, proposed to acquire Oakhurst Capital Limited on 13 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01104_approval",
+      "text": "Regulatory approval for the acquisition of Oakhurst Capital Limited",
+      "speaker": "person_1108",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Neville confirmed that regulatory approval for the acquisition of Oakhurst Capital Limited by North Trentvale Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01104_link_conditional",
+      "src": "gen_doc_01104_proposal",
+      "dst": "gen_doc_01104_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Oakhurst Capital Limited by North Trentvale Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01100_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01104",
+      "surface": "13 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-13",
+      "value_end": "2025-07-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030567",
+      "surface": "3 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-03",
+      "value_end": "2026-01-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "3 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030568",
+      "surface": "8 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-08",
+      "value_end": "2026-01-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "8 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

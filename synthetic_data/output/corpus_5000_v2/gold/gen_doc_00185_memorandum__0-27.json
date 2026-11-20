@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00185_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "2eafcf573c21dea5e9e78caa5d21ce7b90bc4bdd115876025dc5c51a9ea7fc62"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_568",
+      "name": "Pemberton Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_568",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Pemberton Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Pemberton Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_101",
+      "name": "Pember Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_101",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1157",
+      "name": "Wilton Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1157",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Wilton Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1158",
+      "name": "Wilton Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1158",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1159",
+      "name": "Wilton Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1159",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Wilton Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1161",
+      "name": "Wilton Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1161",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Wilton Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Wilton Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_117",
+      "name": "Cairn & Nyle LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_117",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Nyle LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_25",
+      "name": "Alden & Thorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_25",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Alden & Thorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_551",
+      "name": "Services Agreement LEG-551",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_551",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Services Agreement LEG-551",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-551",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1157",
+      "name": "Wren Montague",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1157",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1158",
+      "name": "Wren Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1158",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Wren Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1165",
+      "name": "Wren Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1165",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_189",
+      "name": "Calder Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_189",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_84",
+      "name": "Belmont Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_84",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Belmont Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017654",
+      "subject": "company_1157",
+      "rel": "owns",
+      "object": "company_1158",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Partners Limited owns Wilton Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017655",
+      "subject": "person_1165",
+      "rel": "shareholder_of",
+      "object": "company_1157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Villiers is a shareholder of Wilton Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017667",
+      "subject": "person_1157",
+      "rel": "family_of",
+      "object": "person_1158",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Montague is a family member of Wren Neville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017657",
+      "subject": "bank_101",
+      "rel": "lent_to",
+      "object": "company_1157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-05-05",
+          "value_end": "2024-05-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Trust Bank Limited lent Wilton Partners Limited GBP 44 million on 5 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017659",
+      "subject": "company_1159",
+      "rel": "guarantor_for",
+      "object": "company_1157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Wilton Marine Limited guaranteed the loan to Wilton Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017658",
+      "subject": "company_1157",
+      "rel": "owes",
+      "object": "bank_101",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-05-10",
+          "value_end": "2024-05-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Wilton Partners Limited owes Pember Trust Bank Limited GBP 10 million as at 10 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017660",
+      "subject": "lawfirm_117",
+      "rel": "represents",
+      "object": "company_1157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Nyle LLP represents Wilton Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017663",
+      "subject": "company_1157",
+      "rel": "owns",
+      "object": "asset_568",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wilton Partners Limited owns Pemberton Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017664",
+      "subject": "asset_568",
+      "rel": "located_in",
+      "object": "place_84",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Pemberton Plant is located in Belmont Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017665",
+      "subject": "company_1157",
+      "rel": "party_to",
+      "object": "legal_551",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Wilton Partners Limited is a party to the Services Agreement LEG-551.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017666",
+      "subject": "person_1158",
+      "rel": "signed",
+      "object": "legal_551",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Wren Neville signed the Services Agreement LEG-551.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00185_proposal",
+      "text": "The acquisition of Wilton Property Limited by Wilton Partners Limited",
+      "speaker": "person_189",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Zouch, chair of Wilton Partners Limited, proposed to acquire Wilton Property Limited on 6 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00185_approval",
+      "text": "Regulatory approval for the acquisition of Wilton Property Limited",
+      "speaker": "person_189",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Calder Zouch confirmed that regulatory approval for the acquisition of Wilton Property Limited by Wilton Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00185_link_conditional",
+      "src": "gen_doc_00185_proposal",
+      "dst": "gen_doc_00185_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Wilton Property Limited by Wilton Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00185",
+      "surface": "6 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-06",
+      "value_end": "2024-05-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017657",
+      "surface": "5 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-05",
+      "value_end": "2024-05-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "5 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017658",
+      "surface": "10 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-10",
+      "value_end": "2024-05-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00185",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

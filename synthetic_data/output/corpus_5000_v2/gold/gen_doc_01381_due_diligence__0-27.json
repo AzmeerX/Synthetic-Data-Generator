@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01381_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "7cf9bad52e945c14288fbdd659ab99c5f186f9854e2cf44f180716a16badf3a1"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_453",
+      "name": "Kelbrook Rail Depot",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_453",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Rail Depot",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Rail Depot",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_122",
+      "name": "Stan International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_122",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Stan International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2234",
+      "name": "North Quenington Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2234",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Quenington Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2235",
+      "name": "North Quenington Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2235",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Quenington Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2236",
+      "name": "North Quenington Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2236",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_24",
+      "name": "Alden & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_24",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_416",
+      "name": "Side Letter LEG-416",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_416",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-416",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-416",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1385",
+      "name": "Bram Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1385",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bram Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_842",
+      "name": "Quin Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_842",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_843",
+      "name": "Quin Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_843",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Ulric",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_850",
+      "name": "Quin Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_850",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_81",
+      "name": "Belmont Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_81",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034448",
+      "subject": "company_2234",
+      "rel": "owns",
+      "object": "company_2235",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Quenington Group Limited owns North Quenington Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034457",
+      "subject": "company_2234",
+      "rel": "owns",
+      "object": "asset_453",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Group Limited owns Kelbrook Rail Depot.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034458",
+      "subject": "asset_453",
+      "rel": "located_in",
+      "object": "place_81",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Rail Depot is located in Belmont Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034454",
+      "subject": "lawfirm_24",
+      "rel": "represents",
+      "object": "company_2234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Sable LLP represents North Quenington Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034449",
+      "subject": "person_850",
+      "rel": "shareholder_of",
+      "object": "company_2234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Cavendish is a shareholder of North Quenington Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034461",
+      "subject": "person_842",
+      "rel": "family_of",
+      "object": "person_843",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Thorne is a family member of Quin Ulric.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034451",
+      "subject": "bank_122",
+      "rel": "lent_to",
+      "object": "company_2234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-03-13",
+          "value_end": "2024-03-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Stan International Bank Limited lent North Quenington Group Limited GBP 38 million on 13 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034453",
+      "subject": "company_2236",
+      "rel": "guarantor_for",
+      "object": "company_2234",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Trading Limited guaranteed the loan to North Quenington Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034452",
+      "subject": "company_2234",
+      "rel": "owes",
+      "object": "bank_122",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-03-18",
+          "value_end": "2024-03-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quenington Group Limited owes Stan International Bank Limited GBP 7 million as at 18 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034459",
+      "subject": "company_2234",
+      "rel": "party_to",
+      "object": "legal_416",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Quenington Group Limited is a party to the Side Letter LEG-416.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034460",
+      "subject": "person_843",
+      "rel": "signed",
+      "object": "legal_416",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Ulric signed the Side Letter LEG-416.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01381_allegation",
+      "text": "A former employee alleged that North Quenington Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bram Ulric noted that a former employee alleged that North Quenington Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01381",
+      "surface": "8 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-08",
+      "value_end": "2024-04-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034451",
+      "surface": "13 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-13",
+      "value_end": "2024-03-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034452",
+      "surface": "18 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-18",
+      "value_end": "2024-03-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "18 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01381",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

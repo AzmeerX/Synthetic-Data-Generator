@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00077_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "83441ed8d19b11ab3948e9536bbd291376be0773c5a818331e44ea8248475c3c"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_47",
+      "name": "Dunhollow Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_47",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Dunhollow Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_51",
+      "name": "Dunhollow Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_51",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunhollow Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Dunhollow Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_32",
+      "name": "Denmoor International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_32",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Denmoor International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_160",
+      "name": "Lowmoor Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_160",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lowmoor Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_162",
+      "name": "Lowmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_162",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_165",
+      "name": "Lowmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_165",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lowmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lowmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_18",
+      "name": "Alden & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_18",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_34",
+      "name": "Facility Agreement LEG-034",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_34",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-034",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-034",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_160",
+      "name": "Calder Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_160",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_161",
+      "name": "Calder Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_161",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_163",
+      "name": "Calder Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_163",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_165",
+      "name": "Calder Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_165",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_168",
+      "name": "Calder Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_168",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_81",
+      "name": "Amina Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_81",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_47",
+      "name": "Kirkby",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_47",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Kirkby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_002107",
+      "subject": "company_160",
+      "rel": "owns",
+      "object": "asset_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Lowmoor Logistics Limited owns Dunhollow Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002109",
+      "subject": "person_163",
+      "rel": "chair_of",
+      "object": "company_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Yarrow is the chair of Lowmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002108",
+      "subject": "person_168",
+      "rel": "shareholder_of",
+      "object": "company_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Delacourt is a shareholder of Lowmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002120",
+      "subject": "person_160",
+      "rel": "family_of",
+      "object": "person_161",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Ulric is a family member of Calder Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002110",
+      "subject": "bank_32",
+      "rel": "lent_to",
+      "object": "company_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-03-30",
+          "value_end": "2022-03-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Denmoor International Bank Limited lent Lowmoor Logistics Limited GBP 50 million on 30 March 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002112",
+      "subject": "company_162",
+      "rel": "guarantor_for",
+      "object": "company_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Partners Limited guaranteed the loan to Lowmoor Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002111",
+      "subject": "company_160",
+      "rel": "owes",
+      "object": "bank_32",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-04-04",
+          "value_end": "2022-04-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Lowmoor Logistics Limited owes Denmoor International Bank Limited GBP 13 million as at 4 April 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002113",
+      "subject": "lawfirm_10",
+      "rel": "represents",
+      "object": "company_160",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ellery LLP represents Lowmoor Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002116",
+      "subject": "company_160",
+      "rel": "owns",
+      "object": "asset_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Logistics Limited owns Dunhollow Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002117",
+      "subject": "asset_51",
+      "rel": "located_in",
+      "object": "place_47",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Dunhollow Works is located in Kirkby.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002118",
+      "subject": "company_160",
+      "rel": "party_to",
+      "object": "legal_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lowmoor Logistics Limited is a party to the Facility Agreement LEG-034.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_002119",
+      "subject": "person_161",
+      "rel": "signed",
+      "object": "legal_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Vale signed the Facility Agreement LEG-034.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00077_proposal",
+      "text": "The acquisition of Lowmoor Energy Limited by Lowmoor Logistics Limited",
+      "speaker": "person_81",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Ravenscroft, chair of Lowmoor Logistics Limited, proposed to acquire Lowmoor Energy Limited on 24 July 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00077_approval",
+      "text": "Regulatory approval for the acquisition of Lowmoor Energy Limited",
+      "speaker": "person_81",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Ravenscroft confirmed that regulatory approval for the acquisition of Lowmoor Energy Limited by Lowmoor Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00077_link_conditional",
+      "src": "gen_doc_00077_proposal",
+      "dst": "gen_doc_00077_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Lowmoor Energy Limited by Lowmoor Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00077",
+      "surface": "24 July 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-07-24",
+      "value_end": "2025-07-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "24 July 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002110",
+      "surface": "30 March 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-03-30",
+      "value_end": "2022-03-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "30 March 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_002111",
+      "surface": "4 April 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-04-04",
+      "value_end": "2022-04-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "4 April 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00077",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

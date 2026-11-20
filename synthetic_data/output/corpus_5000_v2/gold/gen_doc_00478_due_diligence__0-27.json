@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00478_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "20cccd5ba136b6a161229e382860ae17f7e4b5ee34a076f190ff11a6e5924b96"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_231",
+      "name": "Marrow Bay Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_231",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Marrow Bay Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_235",
+      "name": "Northcliff Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_235",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Northcliff Terminal",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_100",
+      "name": "Pember Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_100",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1420",
+      "name": "Uist Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1420",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Uist Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1422",
+      "name": "Uist Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1422",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Uist Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_120",
+      "name": "Cairn & Quade LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_120",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Quade LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_208",
+      "name": "Side Letter LEG-208",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_208",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-208",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-208",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_28",
+      "name": "Ivo Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_28",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_29",
+      "name": "Lorne Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_29",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Sable",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lorne Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_36",
+      "name": "Farah Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_36",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_482",
+      "name": "Ivo Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_482",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_167",
+      "name": "Merrivale Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_167",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021754",
+      "subject": "company_1420",
+      "rel": "owns",
+      "object": "asset_231",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Uist Trading Limited owns Marrow Bay Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021763",
+      "subject": "company_1420",
+      "rel": "owns",
+      "object": "asset_235",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Uist Trading Limited owns Northcliff Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021764",
+      "subject": "asset_235",
+      "rel": "located_in",
+      "object": "place_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff Terminal is located in Merrivale Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021760",
+      "subject": "lawfirm_120",
+      "rel": "represents",
+      "object": "company_1420",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Quade LLP represents Uist Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021755",
+      "subject": "person_36",
+      "rel": "shareholder_of",
+      "object": "company_1420",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Sable is a shareholder of Uist Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021767",
+      "subject": "person_28",
+      "rel": "family_of",
+      "object": "person_29",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ivo Orrick is a family member of Lorne Sable.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021757",
+      "subject": "bank_100",
+      "rel": "lent_to",
+      "object": "company_1420",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-12-15",
+          "value_end": "2022-12-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Merchant Bank Limited lent Uist Trading Limited GBP 50 million on 15 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021759",
+      "subject": "company_1422",
+      "rel": "guarantor_for",
+      "object": "company_1420",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Uist Capital Limited guaranteed the loan to Uist Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021758",
+      "subject": "company_1420",
+      "rel": "owes",
+      "object": "bank_100",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-12-20",
+          "value_end": "2022-12-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Uist Trading Limited owes Pember Merchant Bank Limited GBP 13 million as at 20 December 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021765",
+      "subject": "company_1420",
+      "rel": "party_to",
+      "object": "legal_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Uist Trading Limited is a party to the Side Letter LEG-208.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021766",
+      "subject": "person_29",
+      "rel": "signed",
+      "object": "legal_208",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Lorne Sable signed the Side Letter LEG-208.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00478_allegation",
+      "text": "A former employee alleged that Uist Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ivo Zouch noted that a former employee alleged that Uist Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00478",
+      "surface": "4 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-04",
+      "value_end": "2026-09-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021757",
+      "surface": "15 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-15",
+      "value_end": "2022-12-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "15 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021758",
+      "surface": "20 December 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-12-20",
+      "value_end": "2022-12-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "20 December 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00478",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00142_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "395c5655b13eb4938d4244907363174147a71b5c27aaf977ffad9da760d4c43f"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_05",
+      "name": "Greyhaven Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_05",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_34",
+      "name": "Ashcombe Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_34",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Ashcombe Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_35",
+      "name": "Ashcombe Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_35",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ashcombe Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_36",
+      "name": "Ashcombe Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_36",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_34",
+      "name": "Facility Agreement LEG-034",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_34",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Facility Agreement LEG-034",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Facility Agreement LEG-034",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_146",
+      "name": "Calder Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_146",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_34",
+      "name": "Lena Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_34",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_35",
+      "name": "Mira Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_35",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Mira Ivers",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Mira Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_42",
+      "name": "Amina Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_42",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_01",
+      "name": "Calderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_01",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Calderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_000143",
+      "subject": "company_34",
+      "rel": "owns",
+      "object": "company_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ashcombe Property Limited owns Ashcombe Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000152",
+      "subject": "company_34",
+      "rel": "owns",
+      "object": "asset_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ashcombe Property Limited owns Greyhaven Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000153",
+      "subject": "asset_05",
+      "rel": "located_in",
+      "object": "place_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Fleet is located in Calderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000149",
+      "subject": "lawfirm_04",
+      "rel": "represents",
+      "object": "company_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP represents Ashcombe Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000144",
+      "subject": "person_42",
+      "rel": "shareholder_of",
+      "object": "company_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Briar is a shareholder of Ashcombe Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000156",
+      "subject": "person_34",
+      "rel": "family_of",
+      "object": "person_35",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Orrick is a family member of Mira Ivers.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000146",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-02-07",
+          "value_end": "2023-02-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alder Merchant Bank Limited lent Ashcombe Property Limited GBP 38 million on 7 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000148",
+      "subject": "company_36",
+      "rel": "guarantor_for",
+      "object": "company_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ashcombe Systems Limited guaranteed the loan to Ashcombe Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000147",
+      "subject": "company_34",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-02-12",
+          "value_end": "2023-02-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ashcombe Property Limited owes Alder Merchant Bank Limited GBP 7 million as at 12 February 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000154",
+      "subject": "company_34",
+      "rel": "party_to",
+      "object": "legal_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ashcombe Property Limited is a party to the Facility Agreement LEG-034.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_000155",
+      "subject": "person_35",
+      "rel": "signed",
+      "object": "legal_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Mira Ivers signed the Facility Agreement LEG-034.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00142_allegation",
+      "text": "A former employee alleged that Ashcombe Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Garrow noted that a former employee alleged that Ashcombe Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00142",
+      "surface": "22 October 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-10-22",
+      "value_end": "2026-10-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 October 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000146",
+      "surface": "7 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-07",
+      "value_end": "2023-02-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "7 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_000147",
+      "surface": "12 February 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-02-12",
+      "value_end": "2023-02-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "12 February 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00142",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

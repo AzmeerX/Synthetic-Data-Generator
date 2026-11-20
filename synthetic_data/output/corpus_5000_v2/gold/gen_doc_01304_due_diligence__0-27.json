@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01304_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "14c4f3802369e8b272031befc4b3ce46810e362ddd35cc5feb0b90db1f2fe122"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_384",
+      "name": "Glenport Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_384",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenport Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Glenport Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_53",
+      "name": "Harrow Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_53",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2165",
+      "name": "North Kingsmoor Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2165",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Kingsmoor Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2166",
+      "name": "North Kingsmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2166",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Kingsmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2167",
+      "name": "North Kingsmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2167",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_85",
+      "name": "Briar & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_85",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_347",
+      "name": "Debenture LEG-347",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_347",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-347",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-347",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1308",
+      "name": "Zane Pemberton",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1308",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Pemberton",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_773",
+      "name": "Oren Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_773",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_774",
+      "name": "Oren Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_774",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_781",
+      "name": "Petra Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_781",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_12",
+      "name": "Northcliff",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_12",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Northcliff",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033371",
+      "subject": "company_2165",
+      "rel": "owns",
+      "object": "company_2166",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Kingsmoor Partners Limited owns North Kingsmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033380",
+      "subject": "company_2165",
+      "rel": "owns",
+      "object": "asset_384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Kingsmoor Partners Limited owns Glenport Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033381",
+      "subject": "asset_384",
+      "rel": "located_in",
+      "object": "place_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Glenport Yard is located in Northcliff.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033377",
+      "subject": "lawfirm_85",
+      "rel": "represents",
+      "object": "company_2165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Fairfax LLP represents North Kingsmoor Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033372",
+      "subject": "person_781",
+      "rel": "shareholder_of",
+      "object": "company_2165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Garrow is a shareholder of North Kingsmoor Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033384",
+      "subject": "person_773",
+      "rel": "family_of",
+      "object": "person_774",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Oren Wyndham is a family member of Oren Yardley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033374",
+      "subject": "bank_53",
+      "rel": "lent_to",
+      "object": "company_2165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-13",
+          "value_end": "2022-02-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrow Trust Bank Limited lent North Kingsmoor Partners Limited GBP 20 million on 13 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033376",
+      "subject": "company_2167",
+      "rel": "guarantor_for",
+      "object": "company_2165",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kingsmoor Marine Limited guaranteed the loan to North Kingsmoor Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033375",
+      "subject": "company_2165",
+      "rel": "owes",
+      "object": "bank_53",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-18",
+          "value_end": "2022-02-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Kingsmoor Partners Limited owes Harrow Trust Bank Limited GBP 8 million as at 18 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033382",
+      "subject": "company_2165",
+      "rel": "party_to",
+      "object": "legal_347",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Kingsmoor Partners Limited is a party to the Debenture LEG-347.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033383",
+      "subject": "person_774",
+      "rel": "signed",
+      "object": "legal_347",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oren Yardley signed the Debenture LEG-347.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01304_allegation",
+      "text": "A former employee alleged that North Kingsmoor Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Zane Pemberton noted that a former employee alleged that North Kingsmoor Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01304",
+      "surface": "29 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-29",
+      "value_end": "2026-01-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033374",
+      "surface": "13 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-13",
+      "value_end": "2022-02-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "13 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033375",
+      "surface": "18 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-18",
+      "value_end": "2022-02-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "18 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01304",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

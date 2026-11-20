@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00616_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "4faadbb010009e6dd5d79d2a03a7a744317036780e5149166fe2c0cba5c85c94"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_360",
+      "name": "Fairmouth Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_360",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fairmouth Hangar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_93",
+      "name": "Oak Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_93",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Oak Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1545",
+      "name": "North Glenmoor Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1545",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Glenmoor Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1546",
+      "name": "North Glenmoor Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1546",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Glenmoor Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1547",
+      "name": "North Glenmoor Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1547",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Glenmoor Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_155",
+      "name": "Kelbrook Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_155",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Kelbrook Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Kelbrook Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_115",
+      "name": "Cairn & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_115",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_66",
+      "name": "Briar & Lorne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_66",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Lorne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_333",
+      "name": "Supply Agreement LEG-333",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_333",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-333",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Supply Agreement LEG-333",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_153",
+      "name": "Calder Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_153",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_154",
+      "name": "Calder Orrick",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_154",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_156",
+      "name": "Calder Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_156",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_158",
+      "name": "Calder Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_158",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_161",
+      "name": "Calder Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_161",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_620",
+      "name": "Lena Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_620",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lena Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lena Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_112",
+      "name": "Fairhaven Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_112",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairhaven Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023703",
+      "subject": "company_1545",
+      "rel": "owns",
+      "object": "company_1546",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Glenmoor Property Limited owns North Glenmoor Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023705",
+      "subject": "person_156",
+      "rel": "chair_of",
+      "object": "company_1545",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Quade is the chair of North Glenmoor Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023704",
+      "subject": "person_161",
+      "rel": "shareholder_of",
+      "object": "company_1545",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Vale is a shareholder of North Glenmoor Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023716",
+      "subject": "person_153",
+      "rel": "family_of",
+      "object": "person_154",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Nyle is a family member of Calder Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023706",
+      "subject": "bank_93",
+      "rel": "lent_to",
+      "object": "company_1545",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-20",
+          "value_end": "2026-09-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oak Bank Limited lent North Glenmoor Property Limited GBP 20 million on 20 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023708",
+      "subject": "company_1547",
+      "rel": "guarantor_for",
+      "object": "company_1545",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Glenmoor Systems Limited guaranteed the loan to North Glenmoor Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023707",
+      "subject": "company_1545",
+      "rel": "owes",
+      "object": "bank_93",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-25",
+          "value_end": "2026-09-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Glenmoor Property Limited owes Oak Bank Limited GBP 8 million as at 25 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023709",
+      "subject": "lawfirm_115",
+      "rel": "represents",
+      "object": "company_1545",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Cairn & Lorne LLP represents North Glenmoor Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023712",
+      "subject": "company_1545",
+      "rel": "owns",
+      "object": "asset_360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Glenmoor Property Limited owns Fairmouth Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023713",
+      "subject": "asset_360",
+      "rel": "located_in",
+      "object": "place_112",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fairmouth Hangar is located in Fairhaven Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023714",
+      "subject": "company_1545",
+      "rel": "party_to",
+      "object": "legal_333",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Glenmoor Property Limited is a party to the Supply Agreement LEG-333.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023715",
+      "subject": "person_154",
+      "rel": "signed",
+      "object": "legal_333",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Orrick signed the Supply Agreement LEG-333.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00616_proposal",
+      "text": "The acquisition of Kelbrook Ventures Limited by North Glenmoor Property Limited",
+      "speaker": "person_620",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lena Osborne, chair of North Glenmoor Property Limited, proposed to acquire Kelbrook Ventures Limited on 13 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00616_approval",
+      "text": "Regulatory approval for the acquisition of Kelbrook Ventures Limited",
+      "speaker": "person_620",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lena Osborne confirmed that regulatory approval for the acquisition of Kelbrook Ventures Limited by North Glenmoor Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00616_link_conditional",
+      "src": "gen_doc_00616_proposal",
+      "dst": "gen_doc_00616_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Kelbrook Ventures Limited by North Glenmoor Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00616",
+      "surface": "13 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-13",
+      "value_end": "2026-01-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023706",
+      "surface": "20 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-20",
+      "value_end": "2026-09-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "20 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023707",
+      "surface": "25 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-25",
+      "value_end": "2026-09-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "25 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00616",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

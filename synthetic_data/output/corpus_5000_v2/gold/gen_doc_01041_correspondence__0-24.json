@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01041_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "277826e948143840ac2d07851c162c0f2aaad3c214d60928e384eae70d8b291b"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_143",
+      "name": "Ironside Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_143",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_147",
+      "name": "Ironside Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_147",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ironside Works",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_80",
+      "name": "Low International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_80",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Low International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Low International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1928",
+      "name": "North Overdale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1928",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1930",
+      "name": "North Overdale Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1930",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Overdale Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Overdale Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1932",
+      "name": "North Penhurst Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1932",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Penhurst Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Penhurst Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_02",
+      "name": "Marlowe & Reed LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_02",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Marlowe & Reed LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_110",
+      "name": "Licence LEG-110",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_110",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-110",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-110",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1045",
+      "name": "Ulric Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1045",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ulric Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_536",
+      "name": "Kellan Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_536",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_537",
+      "name": "Kellan Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_537",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Ellery",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kellan Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_544",
+      "name": "Kellan Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_544",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_135",
+      "name": "Harrowden Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_135",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Harrowden Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029677",
+      "subject": "company_1928",
+      "rel": "owns",
+      "object": "asset_143",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Overdale Energy Limited owns Ironside Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029678",
+      "subject": "person_544",
+      "rel": "shareholder_of",
+      "object": "company_1928",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Mercer is a shareholder of North Overdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029690",
+      "subject": "person_536",
+      "rel": "family_of",
+      "object": "person_537",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Dunmore is a family member of Kellan Ellery.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029680",
+      "subject": "bank_80",
+      "rel": "lent_to",
+      "object": "company_1928",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-16",
+          "value_end": "2024-04-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Low International Bank Limited lent North Overdale Energy Limited GBP 26 million on 16 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029682",
+      "subject": "company_1930",
+      "rel": "guarantor_for",
+      "object": "company_1928",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Overdale Ventures Limited guaranteed the loan to North Overdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029681",
+      "subject": "company_1928",
+      "rel": "owes",
+      "object": "bank_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-21",
+          "value_end": "2024-04-21",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Overdale Energy Limited owes Low International Bank Limited GBP 11 million as at 21 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029686",
+      "subject": "company_1928",
+      "rel": "owns",
+      "object": "asset_147",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Overdale Energy Limited owns Ironside Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029687",
+      "subject": "asset_147",
+      "rel": "located_in",
+      "object": "place_135",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Works is located in Harrowden Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029688",
+      "subject": "company_1928",
+      "rel": "party_to",
+      "object": "legal_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Overdale Energy Limited is a party to the Licence LEG-110.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029689",
+      "subject": "person_537",
+      "rel": "signed",
+      "object": "legal_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kellan Ellery signed the Licence LEG-110.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01041_proposal",
+      "text": "The acquisition of North Penhurst Holdings Limited by North Overdale Energy Limited",
+      "speaker": "person_1045",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ulric Ashby, chair of North Overdale Energy Limited, proposed to acquire North Penhurst Holdings Limited on 28 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01041_approval",
+      "text": "Regulatory approval for the acquisition of North Penhurst Holdings Limited",
+      "speaker": "person_1045",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Ashby confirmed that regulatory approval for the acquisition of North Penhurst Holdings Limited by North Overdale Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01041_link_conditional",
+      "src": "gen_doc_01041_proposal",
+      "dst": "gen_doc_01041_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Penhurst Holdings Limited by North Overdale Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01037_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01041",
+      "surface": "28 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-28",
+      "value_end": "2024-04-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029680",
+      "surface": "16 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-16",
+      "value_end": "2024-04-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "16 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029681",
+      "surface": "21 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-21",
+      "value_end": "2024-04-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "21 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

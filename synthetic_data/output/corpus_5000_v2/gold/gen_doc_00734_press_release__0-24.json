@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00734_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "d6045bcc5c4f0dbbbb10fee3cfaff7e61aa5b48f9f9ed7452411006822102d8a"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_466",
+      "name": "Kelbrook Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_466",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Kelbrook Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_67",
+      "name": "Jarrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_67",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Jarrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1651",
+      "name": "North Pemberton Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1651",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Pemberton Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1652",
+      "name": "North Pemberton Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1652",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Pemberton Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1653",
+      "name": "North Pemberton Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1653",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Pemberton Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_54",
+      "name": "Alden & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_54",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_439",
+      "name": "Services Agreement LEG-439",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_439",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Services Agreement LEG-439",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Services Agreement LEG-439",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_259",
+      "name": "Elias Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_259",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_260",
+      "name": "Elias Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_260",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Ward",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_267",
+      "name": "Elias Everard",
+      "type": "person",
+      "subtype": null,
+      "key": "person_267",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Everard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_738",
+      "name": "Oren Mercer",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_738",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_38",
+      "name": "Barrowfield",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_38",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Barrowfield",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_025355",
+      "subject": "company_1651",
+      "rel": "owns",
+      "object": "company_1652",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Pemberton Marine Limited owns North Pemberton Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025356",
+      "subject": "person_267",
+      "rel": "shareholder_of",
+      "object": "company_1651",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Everard is a shareholder of North Pemberton Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025368",
+      "subject": "person_259",
+      "rel": "family_of",
+      "object": "person_260",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Vale is a family member of Elias Ward.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025358",
+      "subject": "bank_67",
+      "rel": "lent_to",
+      "object": "company_1651",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-04-04",
+          "value_end": "2025-04-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Jarrow Private Bank Limited lent North Pemberton Marine Limited GBP 32 million on 4 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025360",
+      "subject": "company_1653",
+      "rel": "guarantor_for",
+      "object": "company_1651",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Pemberton Property Limited guaranteed the loan to North Pemberton Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025359",
+      "subject": "company_1651",
+      "rel": "owes",
+      "object": "bank_67",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-09",
+          "value_end": "2025-04-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Pemberton Marine Limited owes Jarrow Private Bank Limited GBP 4 million as at 9 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025364",
+      "subject": "company_1651",
+      "rel": "owns",
+      "object": "asset_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Pemberton Marine Limited owns Kelbrook Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025365",
+      "subject": "asset_466",
+      "rel": "located_in",
+      "object": "place_38",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kelbrook Mill is located in Barrowfield.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025366",
+      "subject": "company_1651",
+      "rel": "party_to",
+      "object": "legal_439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Pemberton Marine Limited is a party to the Services Agreement LEG-439.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_025367",
+      "subject": "person_260",
+      "rel": "signed",
+      "object": "legal_439",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Ward signed the Services Agreement LEG-439.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00734_allegation",
+      "text": "A former employee alleged that North Pemberton Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Oren Mercer noted that a former employee alleged that North Pemberton Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00734",
+      "surface": "4 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-04",
+      "value_end": "2025-01-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025358",
+      "surface": "4 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-04",
+      "value_end": "2025-04-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "4 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_025359",
+      "surface": "9 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-09",
+      "value_end": "2025-04-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "9 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00734",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

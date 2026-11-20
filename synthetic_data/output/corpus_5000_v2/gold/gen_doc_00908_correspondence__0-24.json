@@ -1,0 +1,652 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00908_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "05ec9dbd93bb978895879dc1e0c6ebdd77bea2295c6cc44e4cf8111a711a96d8"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_23",
+      "name": "Calderport Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_23",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Calderport Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_27",
+      "name": "Calderport Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_27",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Calderport Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Calderport Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_92",
+      "name": "Nether International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_92",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nether International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Nether International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1808",
+      "name": "North Eastmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1808",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Eastmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1810",
+      "name": "North Eastmoor Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1810",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Eastmoor Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Eastmoor Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1812",
+      "name": "North Fallow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1812",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Fallow Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Fallow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_98",
+      "name": "Briar & Tremayne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_98",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_596",
+      "name": "Board Resolution LEG-596",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_596",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Board Resolution LEG-596",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Board Resolution LEG-596",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_416",
+      "name": "Hana Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_416",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Hana Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_417",
+      "name": "Hana Hastings",
+      "type": "person",
+      "subtype": null,
+      "key": "person_417",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Hana Hastings",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Hana Hastings",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_424",
+      "name": "Hana Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_424",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_912",
+      "name": "Rhea Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_912",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Rhea Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Rhea Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_15",
+      "name": "Carrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_15",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_027806",
+      "subject": "company_1808",
+      "rel": "owns",
+      "object": "asset_23",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Eastmoor Energy Limited owns Calderport Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027807",
+      "subject": "person_424",
+      "rel": "shareholder_of",
+      "object": "company_1808",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Hana Osborne is a shareholder of North Eastmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027819",
+      "subject": "person_416",
+      "rel": "family_of",
+      "object": "person_417",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Hana Grenville is a family member of Hana Hastings.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027809",
+      "subject": "bank_92",
+      "rel": "lent_to",
+      "object": "company_1808",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-05-01",
+          "value_end": "2025-05-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Nether International Bank Limited lent North Eastmoor Energy Limited GBP 26 million on 1 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027811",
+      "subject": "company_1810",
+      "rel": "guarantor_for",
+      "object": "company_1808",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Eastmoor Ventures Limited guaranteed the loan to North Eastmoor Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027810",
+      "subject": "company_1808",
+      "rel": "owes",
+      "object": "bank_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-05-06",
+          "value_end": "2025-05-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Eastmoor Energy Limited owes Nether International Bank Limited GBP 11 million as at 6 May 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027815",
+      "subject": "company_1808",
+      "rel": "owns",
+      "object": "asset_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Eastmoor Energy Limited owns Calderport Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027816",
+      "subject": "asset_27",
+      "rel": "located_in",
+      "object": "place_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Calderport Foundry is located in Carrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027817",
+      "subject": "company_1808",
+      "rel": "party_to",
+      "object": "legal_596",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Eastmoor Energy Limited is a party to the Board Resolution LEG-596.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_027818",
+      "subject": "person_417",
+      "rel": "signed",
+      "object": "legal_596",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Hana Hastings signed the Board Resolution LEG-596.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00908_proposal",
+      "text": "The acquisition of North Fallow Holdings Limited by North Eastmoor Energy Limited",
+      "speaker": "person_912",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Rhea Ravenscroft, chair of North Eastmoor Energy Limited, proposed to acquire North Fallow Holdings Limited on 22 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00908_approval",
+      "text": "Regulatory approval for the acquisition of North Fallow Holdings Limited",
+      "speaker": "person_912",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Rhea Ravenscroft confirmed that regulatory approval for the acquisition of North Fallow Holdings Limited by North Eastmoor Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00908_link_conditional",
+      "src": "gen_doc_00908_proposal",
+      "dst": "gen_doc_00908_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Fallow Holdings Limited by North Eastmoor Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00904_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00908",
+      "surface": "22 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-22",
+      "value_end": "2025-01-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027809",
+      "surface": "1 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-01",
+      "value_end": "2025-05-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "1 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_027810",
+      "surface": "6 May 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-05-06",
+      "value_end": "2025-05-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "6 May 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

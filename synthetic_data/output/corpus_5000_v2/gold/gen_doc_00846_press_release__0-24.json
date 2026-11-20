@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00846_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "282d55de695ba0505dfff63e3d8e9a3fed6c4335b5e27ba83f289192847b6ace"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_563",
+      "name": "Pemberton Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_563",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_567",
+      "name": "Pemberton Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_567",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Pemberton Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_36",
+      "name": "Elm Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_36",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Elm Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1752",
+      "name": "North Aldergate Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1752",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Aldergate Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1754",
+      "name": "North Aldergate Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1754",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Aldergate Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_36",
+      "name": "Alden & Fairfax LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_36",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Alden & Fairfax LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_540",
+      "name": "Shareholder Agreement LEG-540",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_540",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Shareholder Agreement LEG-540",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Shareholder Agreement LEG-540",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_360",
+      "name": "Gideon Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_360",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gideon Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_361",
+      "name": "Gideon Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_361",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gideon Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Gideon Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_368",
+      "name": "Gideon Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_368",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Gideon Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_850",
+      "name": "Quin Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_850",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_139",
+      "name": "Inglemere Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_139",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026932",
+      "subject": "company_1752",
+      "rel": "owns",
+      "object": "asset_563",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "North Aldergate Holdings Limited owns Pemberton Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026933",
+      "subject": "person_368",
+      "rel": "shareholder_of",
+      "object": "company_1752",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Gideon Ingram is a shareholder of North Aldergate Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026945",
+      "subject": "person_360",
+      "rel": "family_of",
+      "object": "person_361",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Gideon Ashby is a family member of Gideon Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026935",
+      "subject": "bank_36",
+      "rel": "lent_to",
+      "object": "company_1752",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-24",
+          "value_end": "2023-08-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Elm Commercial Bank Limited lent North Aldergate Holdings Limited GBP 34 million on 24 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026937",
+      "subject": "company_1754",
+      "rel": "guarantor_for",
+      "object": "company_1752",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Aldergate Group Limited guaranteed the loan to North Aldergate Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026936",
+      "subject": "company_1752",
+      "rel": "owes",
+      "object": "bank_36",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-08-29",
+          "value_end": "2023-08-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Aldergate Holdings Limited owes Elm Commercial Bank Limited GBP 5 million as at 29 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026941",
+      "subject": "company_1752",
+      "rel": "owns",
+      "object": "asset_567",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Aldergate Holdings Limited owns Pemberton Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026942",
+      "subject": "asset_567",
+      "rel": "located_in",
+      "object": "place_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Pemberton Dock is located in Inglemere Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026943",
+      "subject": "company_1752",
+      "rel": "party_to",
+      "object": "legal_540",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Aldergate Holdings Limited is a party to the Shareholder Agreement LEG-540.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026944",
+      "subject": "person_361",
+      "rel": "signed",
+      "object": "legal_540",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Gideon Balfour signed the Shareholder Agreement LEG-540.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00846_allegation",
+      "text": "A former employee alleged that North Aldergate Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Quin Cavendish noted that a former employee alleged that North Aldergate Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00846",
+      "surface": "27 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-27",
+      "value_end": "2027-02-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026935",
+      "surface": "24 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-24",
+      "value_end": "2023-08-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "24 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026936",
+      "surface": "29 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-29",
+      "value_end": "2023-08-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "29 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00846",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

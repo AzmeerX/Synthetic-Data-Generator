@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00490_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "e06432d7d2dc235948c9516371eb1c2a11e185300ceb803374f6977d8d826ca4"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_246",
+      "name": "Northcliff Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_246",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Northcliff Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_111",
+      "name": "Red Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_111",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Red Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Red Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1431",
+      "name": "Vale Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1431",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vale Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1432",
+      "name": "Vale Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1432",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vale Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1433",
+      "name": "Vale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1433",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1436",
+      "name": "Vale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1436",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_01",
+      "name": "Harrow & Finch LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_01",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow & Finch LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_70",
+      "name": "Briar & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_70",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_219",
+      "name": "Debenture LEG-219",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_219",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Debenture LEG-219",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Debenture LEG-219",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_39",
+      "name": "Bram Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_39",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Bram Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_40",
+      "name": "Yara Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_40",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Yara Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_42",
+      "name": "Amina Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_42",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Amina Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_44",
+      "name": "Amina Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_44",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_47",
+      "name": "Amina Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_47",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_494",
+      "name": "Juno Lorne",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_494",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Lorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Lorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_178",
+      "name": "Netherby Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_178",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Netherby Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021926",
+      "subject": "company_1431",
+      "rel": "owns",
+      "object": "company_1432",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Vale Logistics Limited owns Vale Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021928",
+      "subject": "person_42",
+      "rel": "chair_of",
+      "object": "company_1431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Amina Briar is the chair of Vale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021927",
+      "subject": "person_47",
+      "rel": "shareholder_of",
+      "object": "company_1431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Amina Garrow is a shareholder of Vale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021939",
+      "subject": "person_39",
+      "rel": "family_of",
+      "object": "person_40",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Bram Kerr is a family member of Yara Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021929",
+      "subject": "bank_111",
+      "rel": "lent_to",
+      "object": "company_1431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-04-15",
+          "value_end": "2023-04-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Red Bank Limited lent Vale Logistics Limited GBP 32 million on 15 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021931",
+      "subject": "company_1433",
+      "rel": "guarantor_for",
+      "object": "company_1431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vale Partners Limited guaranteed the loan to Vale Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021930",
+      "subject": "company_1431",
+      "rel": "owes",
+      "object": "bank_111",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-04-20",
+          "value_end": "2023-04-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Logistics Limited owes Red Bank Limited GBP 4 million as at 20 April 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021932",
+      "subject": "lawfirm_01",
+      "rel": "represents",
+      "object": "company_1431",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Harrow & Finch LLP represents Vale Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021935",
+      "subject": "company_1431",
+      "rel": "owns",
+      "object": "asset_246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Vale Logistics Limited owns Northcliff Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021936",
+      "subject": "asset_246",
+      "rel": "located_in",
+      "object": "place_178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Northcliff Mill is located in Netherby Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021937",
+      "subject": "company_1431",
+      "rel": "party_to",
+      "object": "legal_219",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Vale Logistics Limited is a party to the Debenture LEG-219.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021938",
+      "subject": "person_40",
+      "rel": "signed",
+      "object": "legal_219",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Yara Rook signed the Debenture LEG-219.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00490_proposal",
+      "text": "The acquisition of Vale Energy Limited by Vale Logistics Limited",
+      "speaker": "person_494",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Juno Lorne, chair of Vale Logistics Limited, proposed to acquire Vale Energy Limited on 27 November 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00490_approval",
+      "text": "Regulatory approval for the acquisition of Vale Energy Limited",
+      "speaker": "person_494",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Lorne confirmed that regulatory approval for the acquisition of Vale Energy Limited by Vale Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00490_link_conditional",
+      "src": "gen_doc_00490_proposal",
+      "dst": "gen_doc_00490_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Vale Energy Limited by Vale Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00490",
+      "surface": "27 November 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-11-27",
+      "value_end": "2026-11-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 November 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021929",
+      "surface": "15 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-15",
+      "value_end": "2023-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "15 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021930",
+      "surface": "20 April 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-04-20",
+      "value_end": "2023-04-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "20 April 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00490",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

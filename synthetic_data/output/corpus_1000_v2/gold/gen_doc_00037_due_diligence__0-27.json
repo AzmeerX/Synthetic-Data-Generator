@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00037_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "eeca4e25448879efe41777787dc26994a03b19a7e39e0172c8a3f639dde12478"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_11",
+      "name": "Marrow Bay Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_11",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Marrow Bay Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_15",
+      "name": "Quarrystone Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_15",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quarrystone Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_28",
+      "name": "Denmoor Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_28",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_124",
+      "name": "Inglemere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_124",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Inglemere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_126",
+      "name": "Inglemere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_126",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_124",
+      "name": "Shareholder Agreement LEG-124",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_124",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-124",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-124",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_124",
+      "name": "Bastian Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_124",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_125",
+      "name": "Bastian Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_125",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_132",
+      "name": "Bastian Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_132",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_41",
+      "name": "Amina Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_41",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_11",
+      "name": "Marrow Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_11",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001546",
+      "subject": "company_124",
+      "rel": "owns",
+      "object": "asset_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Inglemere Logistics Limited owns Marrow Bay Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001555",
+      "subject": "company_124",
+      "rel": "owns",
+      "object": "asset_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Logistics Limited owns Quarrystone Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001556",
+      "subject": "asset_15",
+      "rel": "located_in",
+      "object": "place_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quarrystone Mill is located in Marrow Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001552",
+      "subject": "lawfirm_04",
+      "rel": "represents",
+      "object": "company_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP represents Inglemere Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001547",
+      "subject": "person_132",
+      "rel": "shareholder_of",
+      "object": "company_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Sinclair is a shareholder of Inglemere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001559",
+      "subject": "person_124",
+      "rel": "family_of",
+      "object": "person_125",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Jeffreys is a family member of Bastian Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001549",
+      "subject": "bank_28",
+      "rel": "lent_to",
+      "object": "company_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-10-24",
+          "value_end": "2025-10-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Merchant Bank Limited lent Inglemere Logistics Limited GBP 18 million on 24 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001551",
+      "subject": "company_126",
+      "rel": "guarantor_for",
+      "object": "company_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Partners Limited guaranteed the loan to Inglemere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001550",
+      "subject": "company_124",
+      "rel": "owes",
+      "object": "bank_28",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-10-29",
+          "value_end": "2025-10-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Inglemere Logistics Limited owes Denmoor Merchant Bank Limited GBP 7 million as at 29 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001557",
+      "subject": "company_124",
+      "rel": "party_to",
+      "object": "legal_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Inglemere Logistics Limited is a party to the Shareholder Agreement LEG-124.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001558",
+      "subject": "person_125",
+      "rel": "signed",
+      "object": "legal_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Kingsley signed the Shareholder Agreement LEG-124.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00037_allegation",
+      "text": "A former employee alleged that Inglemere Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Alden noted that a former employee alleged that Inglemere Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00037",
+      "surface": "17 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-17",
+      "value_end": "2024-10-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "17 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001549",
+      "surface": "24 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-24",
+      "value_end": "2025-10-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001550",
+      "surface": "29 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-29",
+      "value_end": "2025-10-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00037",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

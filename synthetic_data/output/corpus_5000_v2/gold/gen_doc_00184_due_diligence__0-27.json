@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00184_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "b8441f622a155cf53cef3bbe1ca482e66663b7bfe39a347e70adf8b0586475c2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_563",
+      "name": "Pemberton Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_563",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Pemberton Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_567",
+      "name": "Pemberton Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_567",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Pemberton Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_100",
+      "name": "Pember Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_100",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Pember Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1156",
+      "name": "Wilton Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1156",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Wilton Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1158",
+      "name": "Wilton Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1158",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wilton Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_116",
+      "name": "Cairn & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_116",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_550",
+      "name": "Loan Note LEG-550",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_550",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-550",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-550",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1156",
+      "name": "Wren Langford",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1156",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1157",
+      "name": "Wren Montague",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1157",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Wren Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1164",
+      "name": "Wren Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1164",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_188",
+      "name": "Calder Yardley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_188",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_83",
+      "name": "Belmont Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_83",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017637",
+      "subject": "company_1156",
+      "rel": "owns",
+      "object": "asset_563",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Wilton Trading Limited owns Pemberton Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017646",
+      "subject": "company_1156",
+      "rel": "owns",
+      "object": "asset_567",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Wilton Trading Limited owns Pemberton Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017647",
+      "subject": "asset_567",
+      "rel": "located_in",
+      "object": "place_83",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Pemberton Dock is located in Belmont Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017643",
+      "subject": "lawfirm_116",
+      "rel": "represents",
+      "object": "company_1156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Mercer LLP represents Wilton Trading Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017638",
+      "subject": "person_1164",
+      "rel": "shareholder_of",
+      "object": "company_1156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Wren Underwood is a shareholder of Wilton Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017650",
+      "subject": "person_1156",
+      "rel": "family_of",
+      "object": "person_1157",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Wren Langford is a family member of Wren Montague.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017640",
+      "subject": "bank_100",
+      "rel": "lent_to",
+      "object": "company_1156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-24",
+          "value_end": "2024-04-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Pember Merchant Bank Limited lent Wilton Trading Limited GBP 42 million on 24 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017642",
+      "subject": "company_1158",
+      "rel": "guarantor_for",
+      "object": "company_1156",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Wilton Capital Limited guaranteed the loan to Wilton Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017641",
+      "subject": "company_1156",
+      "rel": "owes",
+      "object": "bank_100",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-29",
+          "value_end": "2024-04-29",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wilton Trading Limited owes Pember Merchant Bank Limited GBP 9 million as at 29 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017648",
+      "subject": "company_1156",
+      "rel": "party_to",
+      "object": "legal_550",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Wilton Trading Limited is a party to the Loan Note LEG-550.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017649",
+      "subject": "person_1157",
+      "rel": "signed",
+      "object": "legal_550",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Wren Montague signed the Loan Note LEG-550.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00184_allegation",
+      "text": "A former employee alleged that Wilton Trading Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Calder Yardley noted that a former employee alleged that Wilton Trading Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00184",
+      "surface": "29 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-29",
+      "value_end": "2024-04-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "29 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017640",
+      "surface": "24 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-24",
+      "value_end": "2024-04-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "24 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017641",
+      "surface": "29 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-29",
+      "value_end": "2024-04-29",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "29 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00184",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

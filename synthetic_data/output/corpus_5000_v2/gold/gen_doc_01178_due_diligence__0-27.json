@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01178_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "25c4f00b48843a54c906b9da3562bde32e9f64e4bc3f05b525bb0188995d7a74"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_270",
+      "name": "Alderport Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_270",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Alderport Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_71",
+      "name": "Kel Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_71",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kel Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2051",
+      "name": "North Amberley Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2051",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Amberley Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2052",
+      "name": "North Bexley Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2052",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Bexley Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2053",
+      "name": "North Bexley Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2053",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bexley Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_101",
+      "name": "Briar & Whitlock LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_101",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Whitlock LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_233",
+      "name": "Trust Deed LEG-233",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_233",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Trust Deed LEG-233",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Trust Deed LEG-233",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1182",
+      "name": "Xander Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1182",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_659",
+      "name": "Marek Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_659",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_660",
+      "name": "Marek Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_660",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_667",
+      "name": "Marek Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_667",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_78",
+      "name": "Ashcombe Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_78",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Ashcombe Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031593",
+      "subject": "company_2051",
+      "rel": "owns",
+      "object": "company_2052",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Amberley Systems Limited owns North Bexley Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031602",
+      "subject": "company_2051",
+      "rel": "owns",
+      "object": "asset_270",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Amberley Systems Limited owns Alderport Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031603",
+      "subject": "asset_270",
+      "rel": "located_in",
+      "object": "place_78",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Alderport Farm is located in Ashcombe Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031599",
+      "subject": "lawfirm_101",
+      "rel": "represents",
+      "object": "company_2051",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Whitlock LLP represents North Amberley Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031594",
+      "subject": "person_667",
+      "rel": "shareholder_of",
+      "object": "company_2051",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Marek Neville is a shareholder of North Amberley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031606",
+      "subject": "person_659",
+      "rel": "family_of",
+      "object": "person_660",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Marek Fairfax is a family member of Marek Grenville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031596",
+      "subject": "bank_71",
+      "rel": "lent_to",
+      "object": "company_2051",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-05",
+          "value_end": "2023-05-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kel Trust Bank Limited lent North Amberley Systems Limited GBP 32 million on 5 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031598",
+      "subject": "company_2053",
+      "rel": "guarantor_for",
+      "object": "company_2051",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Bexley Industries Limited guaranteed the loan to North Amberley Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031597",
+      "subject": "company_2051",
+      "rel": "owes",
+      "object": "bank_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-10",
+          "value_end": "2023-05-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Amberley Systems Limited owes Kel Trust Bank Limited GBP 4 million as at 10 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031604",
+      "subject": "company_2051",
+      "rel": "party_to",
+      "object": "legal_233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Amberley Systems Limited is a party to the Trust Deed LEG-233.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031605",
+      "subject": "person_660",
+      "rel": "signed",
+      "object": "legal_233",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Marek Grenville signed the Trust Deed LEG-233.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01178_allegation",
+      "text": "A former employee alleged that North Amberley Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Xander Nyle noted that a former employee alleged that North Amberley Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01178",
+      "surface": "13 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-13",
+      "value_end": "2026-12-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031596",
+      "surface": "5 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-05",
+      "value_end": "2023-05-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "5 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031597",
+      "surface": "10 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-10",
+      "value_end": "2023-05-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "10 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01178",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00159_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "4cf6e8769b664dd25933304e6ad58e4741c04d6aa96964bb71e4129b173d37e4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_544",
+      "name": "Oakhurst Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_544",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Oakhurst Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_77",
+      "name": "Low Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_77",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Low Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Low Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1133",
+      "name": "Ulverston Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1133",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ulverston Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1134",
+      "name": "Ulverston Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1134",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ulverston Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1135",
+      "name": "Ulverston Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1135",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulverston Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1136",
+      "name": "Ulverston Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1136",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Ulverston Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1138",
+      "name": "Ulverston Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1138",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ulverston Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ulverston Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_118",
+      "name": "Cairn & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_118",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Orrick LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_527",
+      "name": "Power of Attorney LEG-527",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_527",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Power of Attorney LEG-527",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Power of Attorney LEG-527",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1133",
+      "name": "Wren Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1133",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1134",
+      "name": "Wren Orrick",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1134",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Wren Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1141",
+      "name": "Wren Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1141",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_163",
+      "name": "Calder Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_163",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_60",
+      "name": "Yewdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_60",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Yewdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_017279",
+      "subject": "company_1133",
+      "rel": "owns",
+      "object": "company_1134",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ulverston Partners Limited owns Ulverston Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017280",
+      "subject": "person_1141",
+      "rel": "shareholder_of",
+      "object": "company_1133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Wren Vale is a shareholder of Ulverston Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017292",
+      "subject": "person_1133",
+      "rel": "family_of",
+      "object": "person_1134",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Wren Nyle is a family member of Wren Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017282",
+      "subject": "bank_77",
+      "rel": "lent_to",
+      "object": "company_1133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-08-15",
+          "value_end": "2023-08-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Low Trust Bank Limited lent Ulverston Partners Limited GBP 36 million on 15 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017284",
+      "subject": "company_1135",
+      "rel": "guarantor_for",
+      "object": "company_1133",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulverston Marine Limited guaranteed the loan to Ulverston Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017283",
+      "subject": "company_1133",
+      "rel": "owes",
+      "object": "bank_77",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-08-20",
+          "value_end": "2023-08-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ulverston Partners Limited owes Low Trust Bank Limited GBP 6 million as at 20 August 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017288",
+      "subject": "company_1133",
+      "rel": "owns",
+      "object": "asset_544",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ulverston Partners Limited owns Oakhurst Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017289",
+      "subject": "asset_544",
+      "rel": "located_in",
+      "object": "place_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oakhurst Yard is located in Yewdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017290",
+      "subject": "company_1133",
+      "rel": "party_to",
+      "object": "legal_527",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ulverston Partners Limited is a party to the Power of Attorney LEG-527.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_017291",
+      "subject": "person_1134",
+      "rel": "signed",
+      "object": "legal_527",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Wren Orrick signed the Power of Attorney LEG-527.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00159_proposal",
+      "text": "The acquisition of Ulverston Ventures Limited by Ulverston Partners Limited",
+      "speaker": "person_163",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Calder Yarrow, chair of Ulverston Partners Limited, proposed to acquire Ulverston Ventures Limited on 18 February 2027.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00159_approval",
+      "text": "Regulatory approval for the acquisition of Ulverston Ventures Limited",
+      "speaker": "person_163",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Yarrow confirmed that regulatory approval for the acquisition of Ulverston Ventures Limited by Ulverston Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00159_link_conditional",
+      "src": "gen_doc_00159_proposal",
+      "dst": "gen_doc_00159_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Ulverston Ventures Limited by Ulverston Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00155_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00159",
+      "surface": "18 February 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-02-18",
+      "value_end": "2027-02-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 February 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017282",
+      "surface": "15 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-15",
+      "value_end": "2023-08-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "15 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_017283",
+      "surface": "20 August 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-08-20",
+      "value_end": "2023-08-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "20 August 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

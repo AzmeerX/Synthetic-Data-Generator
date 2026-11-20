@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00644_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "9aa3ce5d15d1a528d974880ad33d003bd4396d613dd6392bc99f0159c4e5ad4f"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_385",
+      "name": "Glenport Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_385",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Glenport Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Glenport Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_118",
+      "name": "Stan Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_118",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Stan Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Stan Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1570",
+      "name": "North Inglemere Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1570",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Inglemere Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1571",
+      "name": "North Inglemere Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1571",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Inglemere Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1572",
+      "name": "North Jarrow Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1572",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Jarrow Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1575",
+      "name": "North Jarrow Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1575",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Jarrow Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Jarrow Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_10",
+      "name": "Alden & Ellery LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_10",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ellery LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_94",
+      "name": "Briar & Osborne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_94",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Osborne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_358",
+      "name": "Loan Note LEG-358",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_358",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-358",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-358",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_178",
+      "name": "Calder Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_178",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_179",
+      "name": "Calder Osborne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_179",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Osborne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Osborne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_181",
+      "name": "Calder Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_181",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Ravenscroft",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_183",
+      "name": "Calder Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_183",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_186",
+      "name": "Calder Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_186",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_648",
+      "name": "Marek Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_648",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Marek Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Marek Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_137",
+      "name": "Inglemere Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_137",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Inglemere Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024094",
+      "subject": "company_1570",
+      "rel": "owns",
+      "object": "company_1571",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Inglemere Ventures Limited owns North Inglemere Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024096",
+      "subject": "person_181",
+      "rel": "chair_of",
+      "object": "company_1570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Ravenscroft is the chair of North Inglemere Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024095",
+      "subject": "person_186",
+      "rel": "shareholder_of",
+      "object": "company_1570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Whitlock is a shareholder of North Inglemere Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024107",
+      "subject": "person_178",
+      "rel": "family_of",
+      "object": "person_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Neville is a family member of Calder Osborne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024097",
+      "subject": "bank_118",
+      "rel": "lent_to",
+      "object": "company_1570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-10-26",
+          "value_end": "2022-10-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Stan Merchant Bank Limited lent North Inglemere Ventures Limited GBP 30 million on 26 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024099",
+      "subject": "company_1572",
+      "rel": "guarantor_for",
+      "object": "company_1570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Jarrow Holdings Limited guaranteed the loan to North Inglemere Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024098",
+      "subject": "company_1570",
+      "rel": "owes",
+      "object": "bank_118",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-10-31",
+          "value_end": "2022-10-31",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Inglemere Ventures Limited owes Stan Merchant Bank Limited GBP 13 million as at 31 October 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024100",
+      "subject": "lawfirm_10",
+      "rel": "represents",
+      "object": "company_1570",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ellery LLP represents North Inglemere Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024103",
+      "subject": "company_1570",
+      "rel": "owns",
+      "object": "asset_385",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Inglemere Ventures Limited owns Glenport Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024104",
+      "subject": "asset_385",
+      "rel": "located_in",
+      "object": "place_137",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Glenport Silo is located in Inglemere Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024105",
+      "subject": "company_1570",
+      "rel": "party_to",
+      "object": "legal_358",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Inglemere Ventures Limited is a party to the Loan Note LEG-358.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024106",
+      "subject": "person_179",
+      "rel": "signed",
+      "object": "legal_358",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Osborne signed the Loan Note LEG-358.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00644_proposal",
+      "text": "The acquisition of North Jarrow Logistics Limited by North Inglemere Ventures Limited",
+      "speaker": "person_648",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Marek Thorne, chair of North Inglemere Ventures Limited, proposed to acquire North Jarrow Logistics Limited on 28 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00644_approval",
+      "text": "Regulatory approval for the acquisition of North Jarrow Logistics Limited",
+      "speaker": "person_648",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Marek Thorne confirmed that regulatory approval for the acquisition of North Jarrow Logistics Limited by North Inglemere Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00644_link_conditional",
+      "src": "gen_doc_00644_proposal",
+      "dst": "gen_doc_00644_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Jarrow Logistics Limited by North Inglemere Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00644",
+      "surface": "28 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-28",
+      "value_end": "2026-07-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "28 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024097",
+      "surface": "26 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-26",
+      "value_end": "2022-10-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "26 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024098",
+      "surface": "31 October 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-10-31",
+      "value_end": "2022-10-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "31 October 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00644",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

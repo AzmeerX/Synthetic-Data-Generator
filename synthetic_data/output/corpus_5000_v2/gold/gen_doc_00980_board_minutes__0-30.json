@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00980_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "31c680de3b9f29e71462c0c3e19255266f72dc6ecfd29433e12f4cbe942a4920"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_92",
+      "name": "Fenwick Bay Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_92",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Fenwick Bay Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Fenwick Bay Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_25",
+      "name": "Carrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_25",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Carrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1873",
+      "name": "North Kirkby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1873",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Kirkby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1874",
+      "name": "North Kirkby Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1874",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Kirkby Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1875",
+      "name": "North Kirkby Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1875",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Kirkby Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1878",
+      "name": "North Kirkby Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1878",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Kirkby Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_40",
+      "name": "Alden & Jeffreys LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_40",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Jeffreys LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_53",
+      "name": "Alden & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_53",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_55",
+      "name": "Services Agreement LEG-055",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_55",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-055",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-055",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_481",
+      "name": "Ivo Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_481",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ivo Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_482",
+      "name": "Ivo Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_482",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ivo Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_484",
+      "name": "Juno Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_484",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Juno Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_486",
+      "name": "Juno Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_486",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Juno Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_489",
+      "name": "Juno Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_489",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_984",
+      "name": "Tamsin Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_984",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Tamsin Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_80",
+      "name": "Ashcombe Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_80",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ashcombe Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_028817",
+      "subject": "company_1873",
+      "rel": "owns",
+      "object": "company_1874",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Kirkby Industries Limited owns North Kirkby Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028819",
+      "subject": "person_484",
+      "rel": "chair_of",
+      "object": "company_1873",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Juno Briar is the chair of North Kirkby Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028818",
+      "subject": "person_489",
+      "rel": "shareholder_of",
+      "object": "company_1873",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Juno Garrow is a shareholder of North Kirkby Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028830",
+      "subject": "person_481",
+      "rel": "family_of",
+      "object": "person_482",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ivo Yardley is a family member of Ivo Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028820",
+      "subject": "bank_25",
+      "rel": "lent_to",
+      "object": "company_1873",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-08-20",
+          "value_end": "2022-08-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Carrow Private Bank Limited lent North Kirkby Industries Limited GBP 36 million on 20 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028822",
+      "subject": "company_1875",
+      "rel": "guarantor_for",
+      "object": "company_1873",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Kirkby Logistics Limited guaranteed the loan to North Kirkby Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028821",
+      "subject": "company_1873",
+      "rel": "owes",
+      "object": "bank_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-08-25",
+          "value_end": "2022-08-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Kirkby Industries Limited owes Carrow Private Bank Limited GBP 6 million as at 25 August 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028823",
+      "subject": "lawfirm_53",
+      "rel": "represents",
+      "object": "company_1873",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Wyndham LLP represents North Kirkby Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028826",
+      "subject": "company_1873",
+      "rel": "owns",
+      "object": "asset_92",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Kirkby Industries Limited owns Fenwick Bay Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028827",
+      "subject": "asset_92",
+      "rel": "located_in",
+      "object": "place_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fenwick Bay Silo is located in Ashcombe Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028828",
+      "subject": "company_1873",
+      "rel": "party_to",
+      "object": "legal_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Kirkby Industries Limited is a party to the Services Agreement LEG-055.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_028829",
+      "subject": "person_482",
+      "rel": "signed",
+      "object": "legal_55",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ivo Zouch signed the Services Agreement LEG-055.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00980_proposal",
+      "text": "The acquisition of North Kirkby Capital Limited by North Kirkby Industries Limited",
+      "speaker": "person_984",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Orrick, chair of North Kirkby Industries Limited, proposed to acquire North Kirkby Capital Limited on 10 June 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00980_approval",
+      "text": "Regulatory approval for the acquisition of North Kirkby Capital Limited",
+      "speaker": "person_984",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Tamsin Orrick confirmed that regulatory approval for the acquisition of North Kirkby Capital Limited by North Kirkby Industries Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00980_link_conditional",
+      "src": "gen_doc_00980_proposal",
+      "dst": "gen_doc_00980_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Kirkby Capital Limited by North Kirkby Industries Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00980",
+      "surface": "10 June 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-06-10",
+      "value_end": "2026-06-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 June 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028820",
+      "surface": "20 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-20",
+      "value_end": "2022-08-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "20 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_028821",
+      "surface": "25 August 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-08-25",
+      "value_end": "2022-08-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "25 August 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00980",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

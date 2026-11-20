@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00431_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "6c1850dc3783a4dfbd899722fdf1dba738041597aaea96b3680f4951582bf1b4"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_59",
+      "name": "Inver Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_59",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Inver Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Inver Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1379",
+      "name": "Quantock Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1379",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Quantock Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1380",
+      "name": "Rannoch Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1380",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Rannoch Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1381",
+      "name": "Rannoch Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1381",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Rannoch Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Rannoch Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Rannoch Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_167",
+      "name": "Services Agreement LEG-167",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_167",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Services Agreement LEG-167",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Services Agreement LEG-167",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1379",
+      "name": "Bram Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1379",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Bram Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1380",
+      "name": "Bram Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1380",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bram Pell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Bram Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1382",
+      "name": "Bram Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1382",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bram Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1387",
+      "name": "Bram Ward",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1387",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bram Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_435",
+      "name": "Ivo Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_435",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ivo Alden",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021126",
+      "subject": "company_1379",
+      "rel": "party_to",
+      "object": "legal_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Quantock Systems Limited is a party to the Services Agreement LEG-167.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021127",
+      "subject": "person_1380",
+      "rel": "signed",
+      "object": "legal_167",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bram Pell signed the Services Agreement LEG-167.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021117",
+      "subject": "person_1382",
+      "rel": "chair_of",
+      "object": "company_1379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bram Rook is the chair of Quantock Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021118",
+      "subject": "bank_59",
+      "rel": "lent_to",
+      "object": "company_1379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-05-17",
+          "value_end": "2026-05-17",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Inver Trust Bank Limited lent Quantock Systems Limited GBP 48 million on 17 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021120",
+      "subject": "company_1381",
+      "rel": "guarantor_for",
+      "object": "company_1379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Rannoch Industries Limited guaranteed the loan to Quantock Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021119",
+      "subject": "company_1379",
+      "rel": "owes",
+      "object": "bank_59",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-22",
+          "value_end": "2026-05-22",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Quantock Systems Limited owes Inver Trust Bank Limited GBP 12 million as at 22 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021116",
+      "subject": "person_1387",
+      "rel": "shareholder_of",
+      "object": "company_1379",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bram Ward is a shareholder of Quantock Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021128",
+      "subject": "person_1379",
+      "rel": "family_of",
+      "object": "person_1380",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Bram Orrick is a family member of Bram Pell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021115",
+      "subject": "company_1379",
+      "rel": "owns",
+      "object": "company_1380",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Quantock Systems Limited owns Rannoch Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00431_neg_guarantee",
+      "subject": "company_1379",
+      "rel": "guarantor_for",
+      "object": "company_1381",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Quantock Systems Limited did not guarantee the facility for Rannoch Industries Limited on 10 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00431_allegation",
+      "text": "A former employee alleged that Quantock Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ivo Alden noted that a former employee alleged that Quantock Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00431",
+      "surface": "10 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-10",
+      "value_end": "2025-10-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "10 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021118",
+      "surface": "17 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-17",
+      "value_end": "2026-05-17",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "17 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021119",
+      "surface": "22 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-22",
+      "value_end": "2026-05-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "22 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00431",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2026-04-10",
+      "value_end": "2026-04-10",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

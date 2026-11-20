@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01129_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "d973cdacb8b2a7870889dab74aef5c6cefc0dbb3a864e0295e637aacfd676837"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_226",
+      "name": "Marrow Bay Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_226",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Marrow Bay Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_27",
+      "name": "Denmoor Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_27",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Denmoor Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2007",
+      "name": "North Vicarage Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2007",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Vicarage Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2008",
+      "name": "North Vicarage Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2008",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vicarage Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2009",
+      "name": "North Vicarage Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2009",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_57",
+      "name": "Briar & Cairn LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_57",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Cairn LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_189",
+      "name": "Supply Agreement LEG-189",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_189",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-189",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Supply Agreement LEG-189",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1133",
+      "name": "Wren Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1133",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_615",
+      "name": "Lena Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_615",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_616",
+      "name": "Lena Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_616",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_623",
+      "name": "Lena Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_623",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_34",
+      "name": "Vellacott",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_34",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Vellacott",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030908",
+      "subject": "company_2007",
+      "rel": "owns",
+      "object": "company_2008",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Vicarage Logistics Limited owns North Vicarage Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030917",
+      "subject": "company_2007",
+      "rel": "owns",
+      "object": "asset_226",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Vicarage Logistics Limited owns Marrow Bay Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030918",
+      "subject": "asset_226",
+      "rel": "located_in",
+      "object": "place_34",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Marrow Bay Silo is located in Vellacott.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030914",
+      "subject": "lawfirm_57",
+      "rel": "represents",
+      "object": "company_2007",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Cairn LLP represents North Vicarage Logistics Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030909",
+      "subject": "person_623",
+      "rel": "shareholder_of",
+      "object": "company_2007",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Lena Sinclair is a shareholder of North Vicarage Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030921",
+      "subject": "person_615",
+      "rel": "family_of",
+      "object": "person_616",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lena Jeffreys is a family member of Lena Kingsley.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030911",
+      "subject": "bank_27",
+      "rel": "lent_to",
+      "object": "company_2007",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-09-02",
+          "value_end": "2026-09-02",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Denmoor Bank Limited lent North Vicarage Logistics Limited GBP 24 million on 2 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030913",
+      "subject": "company_2009",
+      "rel": "guarantor_for",
+      "object": "company_2007",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Vicarage Partners Limited guaranteed the loan to North Vicarage Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030912",
+      "subject": "company_2007",
+      "rel": "owes",
+      "object": "bank_27",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-09-07",
+          "value_end": "2026-09-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Vicarage Logistics Limited owes Denmoor Bank Limited GBP 10 million as at 7 September 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030919",
+      "subject": "company_2007",
+      "rel": "party_to",
+      "object": "legal_189",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Vicarage Logistics Limited is a party to the Supply Agreement LEG-189.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030920",
+      "subject": "person_616",
+      "rel": "signed",
+      "object": "legal_189",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Lena Kingsley signed the Supply Agreement LEG-189.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01129_allegation",
+      "text": "A former employee alleged that North Vicarage Logistics Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Wren Nyle noted that a former employee alleged that North Vicarage Logistics Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01129",
+      "surface": "4 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-04",
+      "value_end": "2026-01-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030911",
+      "surface": "2 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-02",
+      "value_end": "2026-09-02",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "2 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030912",
+      "surface": "7 September 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-09-07",
+      "value_end": "2026-09-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "7 September 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01129",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00283_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "226afc5c873514d5cf87838ad4295b3af16381fd38b5ad215bd19ea243818780"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_60",
+      "name": "Eastmere Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_60",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Eastmere Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_57",
+      "name": "Inver Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_57",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Inver Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Inver Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1245",
+      "name": "Fermanagh Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1245",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Fermanagh Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1246",
+      "name": "Fermanagh Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1246",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1247",
+      "name": "Fermanagh Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1247",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fermanagh Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_125",
+      "name": "Inglemere Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_125",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Inglemere Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Inglemere Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_112",
+      "name": "Cairn & Ivers LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_112",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Ivers LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_75",
+      "name": "Briar & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_75",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_33",
+      "name": "Share Purchase Agreement LEG-033",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_33",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Share Purchase Agreement LEG-033",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-033",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1245",
+      "name": "Yara Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1245",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1246",
+      "name": "Yara Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1246",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Delacourt",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1253",
+      "name": "Yara Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1253",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_287",
+      "name": "Elias Zouch",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_287",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_172",
+      "name": "Merrivale Green",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_172",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Merrivale Green",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_019025",
+      "subject": "company_1245",
+      "rel": "owns",
+      "object": "company_1246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Fermanagh Property Limited owns Fermanagh Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019026",
+      "subject": "person_1253",
+      "rel": "shareholder_of",
+      "object": "company_1245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Yara Kingsley is a shareholder of Fermanagh Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019038",
+      "subject": "person_1245",
+      "rel": "family_of",
+      "object": "person_1246",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Yara Cavendish is a family member of Yara Delacourt.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019028",
+      "subject": "bank_57",
+      "rel": "lent_to",
+      "object": "company_1245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-04",
+          "value_end": "2022-05-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Inver Bank Limited lent Fermanagh Property Limited GBP 20 million on 4 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019030",
+      "subject": "company_1247",
+      "rel": "guarantor_for",
+      "object": "company_1245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Fermanagh Systems Limited guaranteed the loan to Fermanagh Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019029",
+      "subject": "company_1245",
+      "rel": "owes",
+      "object": "bank_57",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-09",
+          "value_end": "2022-05-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fermanagh Property Limited owes Inver Bank Limited GBP 8 million as at 9 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019031",
+      "subject": "lawfirm_75",
+      "rel": "represents",
+      "object": "company_1245",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Briar & Ulric LLP represents Fermanagh Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019034",
+      "subject": "company_1245",
+      "rel": "owns",
+      "object": "asset_60",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Fermanagh Property Limited owns Eastmere Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019035",
+      "subject": "asset_60",
+      "rel": "located_in",
+      "object": "place_172",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Eastmere Wharf is located in Merrivale Green.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019036",
+      "subject": "company_1245",
+      "rel": "party_to",
+      "object": "legal_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Fermanagh Property Limited is a party to the Share Purchase Agreement LEG-033.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_019037",
+      "subject": "person_1246",
+      "rel": "signed",
+      "object": "legal_33",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yara Delacourt signed the Share Purchase Agreement LEG-033.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00283_proposal",
+      "text": "The acquisition of Inglemere Trading Limited by Fermanagh Property Limited",
+      "speaker": "person_287",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Zouch, chair of Fermanagh Property Limited, proposed to acquire Inglemere Trading Limited on 23 March 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00283_approval",
+      "text": "Regulatory approval for the acquisition of Inglemere Trading Limited",
+      "speaker": "person_287",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Elias Zouch confirmed that regulatory approval for the acquisition of Inglemere Trading Limited by Fermanagh Property Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00283_link_conditional",
+      "src": "gen_doc_00283_proposal",
+      "dst": "gen_doc_00283_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Inglemere Trading Limited by Fermanagh Property Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00283",
+      "surface": "23 March 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-03-23",
+      "value_end": "2026-03-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 March 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019028",
+      "surface": "4 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-04",
+      "value_end": "2022-05-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "4 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_019029",
+      "surface": "9 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-09",
+      "value_end": "2022-05-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "9 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00283",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

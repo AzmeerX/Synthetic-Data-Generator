@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01405_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "93e2edb484198eb23d3ade89cfafcf3ff806f03860268d9129170269c16a3956"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_471",
+      "name": "Kelbrook Office Park",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_471",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Office Park",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_475",
+      "name": "Lowmoor Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_475",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_12",
+      "name": "Alder Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_12",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Alder Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2256",
+      "name": "North Southwold Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2256",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Southwold Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2258",
+      "name": "North Southwold Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2258",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Southwold Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2259",
+      "name": "North Southwold Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2259",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Southwold Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2260",
+      "name": "North Southwold Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2260",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Southwold Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Southwold Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_75",
+      "name": "Briar & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_75",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_438",
+      "name": "Loan Note LEG-438",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_438",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-438",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-438",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_17",
+      "name": "Tamsin Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_17",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Tamsin Mercer",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_864",
+      "name": "Quin Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_864",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_865",
+      "name": "Quin Sinclair",
+      "type": "person",
+      "subtype": null,
+      "key": "person_865",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Sinclair",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Sinclair",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_872",
+      "name": "Quin Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_872",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_103",
+      "name": "Dunmere Vale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_103",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Dunmere Vale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034790",
+      "subject": "company_2256",
+      "rel": "owns",
+      "object": "asset_471",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Southwold Holdings Limited owns Kelbrook Office Park.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034791",
+      "subject": "person_872",
+      "rel": "shareholder_of",
+      "object": "company_2256",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Quin Zouch is a shareholder of North Southwold Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034803",
+      "subject": "person_864",
+      "rel": "family_of",
+      "object": "person_865",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Quin Ravenscroft is a family member of Quin Sinclair.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034793",
+      "subject": "bank_12",
+      "rel": "lent_to",
+      "object": "company_2256",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-10",
+          "value_end": "2024-11-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Alder Commercial Bank Limited lent North Southwold Holdings Limited GBP 42 million on 10 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034795",
+      "subject": "company_2258",
+      "rel": "guarantor_for",
+      "object": "company_2256",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Southwold Group Limited guaranteed the loan to North Southwold Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034794",
+      "subject": "company_2256",
+      "rel": "owes",
+      "object": "bank_12",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-15",
+          "value_end": "2024-11-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Southwold Holdings Limited owes Alder Commercial Bank Limited GBP 9 million as at 15 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034799",
+      "subject": "company_2256",
+      "rel": "owns",
+      "object": "asset_475",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Southwold Holdings Limited owns Lowmoor Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034800",
+      "subject": "asset_475",
+      "rel": "located_in",
+      "object": "place_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Lowmoor Cold Store is located in Dunmere Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034801",
+      "subject": "company_2256",
+      "rel": "party_to",
+      "object": "legal_438",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Southwold Holdings Limited is a party to the Loan Note LEG-438.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034802",
+      "subject": "person_865",
+      "rel": "signed",
+      "object": "legal_438",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Quin Sinclair signed the Loan Note LEG-438.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01405_proposal",
+      "text": "The acquisition of North Southwold Trading Limited by North Southwold Holdings Limited",
+      "speaker": "person_17",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Tamsin Mercer, chair of North Southwold Holdings Limited, proposed to acquire North Southwold Trading Limited on 23 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01405_approval",
+      "text": "Regulatory approval for the acquisition of North Southwold Trading Limited",
+      "speaker": "person_17",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Tamsin Mercer confirmed that regulatory approval for the acquisition of North Southwold Trading Limited by North Southwold Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01405_link_conditional",
+      "src": "gen_doc_01405_proposal",
+      "dst": "gen_doc_01405_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Southwold Trading Limited by North Southwold Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01401_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01405",
+      "surface": "23 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-23",
+      "value_end": "2024-09-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034793",
+      "surface": "10 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-10",
+      "value_end": "2024-11-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "10 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034794",
+      "surface": "15 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-15",
+      "value_end": "2024-11-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

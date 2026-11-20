@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01642_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "67ee2a7e391c0e7fe8582be08c56d616d6966ed4c422005eaa65643837d3d942"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_43",
+      "name": "Fair Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_43",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_303",
+      "name": "Yarmouth Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_303",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_304",
+      "name": "Yarmouth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_304",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_305",
+      "name": "Yarmouth Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_305",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Yarmouth Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_306",
+      "name": "Yarmouth Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_306",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yarmouth Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Yarmouth Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_97",
+      "name": "Share Purchase Agreement LEG-097",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_97",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Share Purchase Agreement LEG-097",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Share Purchase Agreement LEG-097",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_254",
+      "name": "Elias Quade",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_254",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_303",
+      "name": "Farah Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_303",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_304",
+      "name": "Farah Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_304",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Farah Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_306",
+      "name": "Farah Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_306",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_311",
+      "name": "Farah Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_311",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004349",
+      "subject": "company_303",
+      "rel": "party_to",
+      "object": "legal_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Yarmouth Group Limited is a party to the Share Purchase Agreement LEG-097.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004350",
+      "subject": "person_304",
+      "rel": "signed",
+      "object": "legal_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Farah Rook signed the Share Purchase Agreement LEG-097.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004340",
+      "subject": "person_306",
+      "rel": "chair_of",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Ulric is the chair of Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004341",
+      "subject": "bank_43",
+      "rel": "lent_to",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-20",
+          "value_end": "2026-07-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Fair Private Bank Limited lent Yarmouth Group Limited GBP 16 million on 20 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004343",
+      "subject": "company_305",
+      "rel": "guarantor_for",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Yarmouth Trading Limited guaranteed the loan to Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004342",
+      "subject": "company_303",
+      "rel": "owes",
+      "object": "bank_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-07-25",
+          "value_end": "2026-07-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Yarmouth Group Limited owes Fair Private Bank Limited GBP 6 million as at 25 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004339",
+      "subject": "person_311",
+      "rel": "shareholder_of",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Farah Ashby is a shareholder of Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004351",
+      "subject": "person_303",
+      "rel": "family_of",
+      "object": "person_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Farah Quade is a family member of Farah Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004338",
+      "subject": "company_303",
+      "rel": "owns",
+      "object": "company_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Yarmouth Group Limited owns Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01642_neg_guarantee",
+      "subject": "company_303",
+      "rel": "guarantor_for",
+      "object": "company_306",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Yarmouth Group Limited did not guarantee the facility for Yarmouth Partners Limited on 26 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01642_allegation",
+      "text": "A former employee alleged that Yarmouth Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Elias Quade noted that a former employee alleged that Yarmouth Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01642",
+      "surface": "26 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-26",
+      "value_end": "2025-12-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "26 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004341",
+      "surface": "20 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-20",
+      "value_end": "2026-07-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "20 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004342",
+      "surface": "25 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-25",
+      "value_end": "2026-07-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "25 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01642",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2026-06-26",
+      "value_end": "2026-06-26",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

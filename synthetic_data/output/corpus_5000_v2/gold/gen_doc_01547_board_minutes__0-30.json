@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01547_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "c4c53a49a5ef842a6c639731f625f4d0a10fdf2dcb384b37e5c50556b06ff862"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_03",
+      "name": "Eastmere Terminal",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_03",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Eastmere Terminal",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_07",
+      "name": "Ironside Foundry",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_07",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Foundry",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_07",
+      "name": "Harrowgate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_07",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Harrowgate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2384",
+      "name": "North Eversley Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2384",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Eversley Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2386",
+      "name": "North Eversley Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2386",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2389",
+      "name": "North Fingal Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2389",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Fingal Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fingal Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_44",
+      "name": "Alden & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_44",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_87",
+      "name": "Briar & Hastings LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_87",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Briar & Hastings LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_566",
+      "name": "Loan Note LEG-566",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_566",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-566",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-566",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1000",
+      "name": "Tamsin Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1000",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_159",
+      "name": "Calder Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_159",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_992",
+      "name": "Tamsin Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_992",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_993",
+      "name": "Tamsin Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_993",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_995",
+      "name": "Tamsin Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_995",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_997",
+      "name": "Tamsin Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_997",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tamsin Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_51",
+      "name": "Overdale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_51",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Overdale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_036787",
+      "subject": "company_2384",
+      "rel": "owns",
+      "object": "asset_03",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Eversley Energy Limited owns Eastmere Terminal.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036789",
+      "subject": "person_995",
+      "rel": "chair_of",
+      "object": "company_2384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tamsin Ashby is the chair of North Eversley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036788",
+      "subject": "person_1000",
+      "rel": "shareholder_of",
+      "object": "company_2384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Tamsin Fairfax is a shareholder of North Eversley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036800",
+      "subject": "person_992",
+      "rel": "family_of",
+      "object": "person_993",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tamsin Ward is a family member of Tamsin Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036790",
+      "subject": "bank_07",
+      "rel": "lent_to",
+      "object": "company_2384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-23",
+          "value_end": "2024-01-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Harrowgate Bank Limited lent North Eversley Energy Limited GBP 18 million on 23 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036792",
+      "subject": "company_2386",
+      "rel": "guarantor_for",
+      "object": "company_2384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Eversley Ventures Limited guaranteed the loan to North Eversley Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036791",
+      "subject": "company_2384",
+      "rel": "owes",
+      "object": "bank_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-01-28",
+          "value_end": "2024-01-28",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Eversley Energy Limited owes Harrowgate Bank Limited GBP 7 million as at 28 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036793",
+      "subject": "lawfirm_44",
+      "rel": "represents",
+      "object": "company_2384",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Neville LLP represents North Eversley Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036796",
+      "subject": "company_2384",
+      "rel": "owns",
+      "object": "asset_07",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Eversley Energy Limited owns Ironside Foundry.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036797",
+      "subject": "asset_07",
+      "rel": "located_in",
+      "object": "place_51",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Ironside Foundry is located in Overdale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036798",
+      "subject": "company_2384",
+      "rel": "party_to",
+      "object": "legal_566",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Eversley Energy Limited is a party to the Loan Note LEG-566.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_036799",
+      "subject": "person_993",
+      "rel": "signed",
+      "object": "legal_566",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Tamsin Yarrow signed the Loan Note LEG-566.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01547_proposal",
+      "text": "The acquisition of North Fingal Industries Limited by North Eversley Energy Limited",
+      "speaker": "person_159",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Calder Thorne, chair of North Eversley Energy Limited, proposed to acquire North Fingal Industries Limited on 1 March 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01547_approval",
+      "text": "Regulatory approval for the acquisition of North Fingal Industries Limited",
+      "speaker": "person_159",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Calder Thorne confirmed that regulatory approval for the acquisition of North Fingal Industries Limited by North Eversley Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01547_link_conditional",
+      "src": "gen_doc_01547_proposal",
+      "dst": "gen_doc_01547_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Fingal Industries Limited by North Eversley Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01547",
+      "surface": "1 March 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-03-01",
+      "value_end": "2024-03-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 March 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036790",
+      "surface": "23 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-23",
+      "value_end": "2024-01-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "23 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_036791",
+      "surface": "28 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-28",
+      "value_end": "2024-01-28",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "28 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01547",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

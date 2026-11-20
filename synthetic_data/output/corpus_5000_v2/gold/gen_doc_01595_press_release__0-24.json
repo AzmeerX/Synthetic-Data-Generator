@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01595_press_release.txt",
+    "doc_id": null,
+    "text_sha256": "332868216014ddca60e685d78fe5ec0cfd314735eb959b2074f969a4bd950ae0"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_67",
+      "name": "Eastmere Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_67",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Eastmere Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_71",
+      "name": "Eastmere Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_71",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Eastmere Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_52",
+      "name": "Harrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_52",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Harrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_260",
+      "name": "Tarrow Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_260",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s4",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s5",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s6",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Tarrow Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_262",
+      "name": "Tarrow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_262",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_123",
+      "name": "Cairn & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_123",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Cairn & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_54",
+      "name": "Loan Note LEG-054",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_54",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Loan Note LEG-054",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Loan Note LEG-054",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_207",
+      "name": "Daria Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_207",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_260",
+      "name": "Elias Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_260",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Ward",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_261",
+      "name": "Elias Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_261",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Yarrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_268",
+      "name": "Elias Fairfax",
+      "type": "person",
+      "subtype": null,
+      "key": "person_268",
+      "mentions": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Fairfax",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_67",
+      "name": "Gorse",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_67",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Gorse",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_003667",
+      "subject": "company_260",
+      "rel": "owns",
+      "object": "asset_67",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "quote": "Tarrow Marine Limited owns Eastmere Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003668",
+      "subject": "person_268",
+      "rel": "shareholder_of",
+      "object": "company_260",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "quote": "Elias Fairfax is a shareholder of Tarrow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003680",
+      "subject": "person_260",
+      "rel": "family_of",
+      "object": "person_261",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elias Ward is a family member of Elias Yarrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003670",
+      "subject": "bank_52",
+      "rel": "lent_to",
+      "object": "company_260",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-04-03",
+          "value_end": "2025-04-03",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrow Merchant Bank Limited lent Tarrow Marine Limited GBP 50 million on 3 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003672",
+      "subject": "company_262",
+      "rel": "guarantor_for",
+      "object": "company_260",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Tarrow Property Limited guaranteed the loan to Tarrow Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003671",
+      "subject": "company_260",
+      "rel": "owes",
+      "object": "bank_52",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-08",
+          "value_end": "2025-04-08",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Tarrow Marine Limited owes Harrow Merchant Bank Limited GBP 13 million as at 8 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003676",
+      "subject": "company_260",
+      "rel": "owns",
+      "object": "asset_71",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Marine Limited owns Eastmere Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003677",
+      "subject": "asset_71",
+      "rel": "located_in",
+      "object": "place_67",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Eastmere Yard is located in Gorse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003678",
+      "subject": "company_260",
+      "rel": "party_to",
+      "object": "legal_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Marine Limited is a party to the Loan Note LEG-054.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_003679",
+      "subject": "person_261",
+      "rel": "signed",
+      "object": "legal_54",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Elias Yarrow signed the Loan Note LEG-054.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01595_allegation",
+      "text": "A former employee alleged that Tarrow Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Daria Sable noted that a former employee alleged that Tarrow Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01595",
+      "surface": "31 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-31",
+      "value_end": "2025-01-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003670",
+      "surface": "3 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-03",
+      "value_end": "2025-04-03",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "3 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_003671",
+      "surface": "8 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-08",
+      "value_end": "2025-04-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "8 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01595",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s22",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

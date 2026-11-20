@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01318_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "4f4c3f79cda7d4067b5bc221073da3357aa4d929996f34a46a0092b6e50d4826"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_397",
+      "name": "Harrow Bay Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_397",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Harrow Bay Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_66",
+      "name": "Jarrow Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_66",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrow Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2178",
+      "name": "North Linden Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2178",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Linden Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2179",
+      "name": "North Linden Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2179",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Linden Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2180",
+      "name": "North Linden Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2180",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Linden Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_98",
+      "name": "Briar & Tremayne LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_98",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Tremayne LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_360",
+      "name": "Lease LEG-360",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_360",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-360",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-360",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1322",
+      "name": "Anika Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1322",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_786",
+      "name": "Petra Mercer",
+      "type": "person",
+      "subtype": null,
+      "key": "person_786",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Mercer",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_787",
+      "name": "Petra Nyle",
+      "type": "person",
+      "subtype": null,
+      "key": "person_787",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Nyle",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_794",
+      "name": "Petra Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_794",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_25",
+      "name": "Merrivale",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_25",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Merrivale",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_033574",
+      "subject": "company_2178",
+      "rel": "owns",
+      "object": "company_2179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Linden Capital Limited owns North Linden Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033583",
+      "subject": "company_2178",
+      "rel": "owns",
+      "object": "asset_397",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Linden Capital Limited owns Harrow Bay Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033584",
+      "subject": "asset_397",
+      "rel": "located_in",
+      "object": "place_25",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Harrow Bay Warehouse is located in Merrivale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033580",
+      "subject": "lawfirm_98",
+      "rel": "represents",
+      "object": "company_2178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Tremayne LLP represents North Linden Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033575",
+      "subject": "person_794",
+      "rel": "shareholder_of",
+      "object": "company_2178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Petra Ulric is a shareholder of North Linden Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033587",
+      "subject": "person_786",
+      "rel": "family_of",
+      "object": "person_787",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Petra Mercer is a family member of Petra Nyle.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033577",
+      "subject": "bank_66",
+      "rel": "lent_to",
+      "object": "company_2178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-07-06",
+          "value_end": "2022-07-06",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Jarrow Commercial Bank Limited lent North Linden Capital Limited GBP 46 million on 6 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033579",
+      "subject": "company_2180",
+      "rel": "guarantor_for",
+      "object": "company_2178",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Linden Energy Limited guaranteed the loan to North Linden Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033578",
+      "subject": "company_2178",
+      "rel": "owes",
+      "object": "bank_66",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-07-11",
+          "value_end": "2022-07-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Linden Capital Limited owes Jarrow Commercial Bank Limited GBP 11 million as at 11 July 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033585",
+      "subject": "company_2178",
+      "rel": "party_to",
+      "object": "legal_360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Linden Capital Limited is a party to the Lease LEG-360.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_033586",
+      "subject": "person_787",
+      "rel": "signed",
+      "object": "legal_360",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Nyle signed the Lease LEG-360.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01318_allegation",
+      "text": "A former employee alleged that North Linden Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Anika Fenwick noted that a former employee alleged that North Linden Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01318",
+      "surface": "7 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-07",
+      "value_end": "2026-05-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033577",
+      "surface": "6 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-06",
+      "value_end": "2022-07-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "6 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_033578",
+      "surface": "11 July 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-07-11",
+      "value_end": "2022-07-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "11 July 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01318",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

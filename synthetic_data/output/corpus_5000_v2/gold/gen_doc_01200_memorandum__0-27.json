@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01200_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "8128572ffec352da518599214689de13dd0d6332226b4b6367da53497dd4da78"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_290",
+      "name": "Bexhaven Farm",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_290",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bexhaven Farm",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Bexhaven Farm",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_91",
+      "name": "Nether Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_91",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nether Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Nether Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2071",
+      "name": "North Clifford Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2071",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Clifford Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2072",
+      "name": "North Clifford Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2072",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2073",
+      "name": "North Clifford Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2073",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2076",
+      "name": "North Denholm Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2076",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Denholm Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Denholm Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_119",
+      "name": "Cairn & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_119",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_121",
+      "name": "Cairn & Rook LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_121",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Rook LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_253",
+      "name": "Supply Agreement LEG-253",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_253",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Supply Agreement LEG-253",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-253",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1204",
+      "name": "Xander Kingsley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1204",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Xander Kingsley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Xander Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_679",
+      "name": "Nadia Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_679",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_680",
+      "name": "Nadia Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_680",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Nadia Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_687",
+      "name": "Nadia Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_687",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_98",
+      "name": "Dunmere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_98",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunmere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_031904",
+      "subject": "company_2071",
+      "rel": "owns",
+      "object": "company_2072",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Clifford Marine Limited owns North Clifford Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031905",
+      "subject": "person_687",
+      "rel": "shareholder_of",
+      "object": "company_2071",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Ivers is a shareholder of North Clifford Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031917",
+      "subject": "person_679",
+      "rel": "family_of",
+      "object": "person_680",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Nadia Alden is a family member of Nadia Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031907",
+      "subject": "bank_91",
+      "rel": "lent_to",
+      "object": "company_2071",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-12-11",
+          "value_end": "2023-12-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nether Private Bank Limited lent North Clifford Marine Limited GBP 32 million on 11 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031909",
+      "subject": "company_2073",
+      "rel": "guarantor_for",
+      "object": "company_2071",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Clifford Property Limited guaranteed the loan to North Clifford Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031908",
+      "subject": "company_2071",
+      "rel": "owes",
+      "object": "bank_91",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-12-16",
+          "value_end": "2023-12-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Clifford Marine Limited owes Nether Private Bank Limited GBP 4 million as at 16 December 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031910",
+      "subject": "lawfirm_121",
+      "rel": "represents",
+      "object": "company_2071",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Cairn & Rook LLP represents North Clifford Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031913",
+      "subject": "company_2071",
+      "rel": "owns",
+      "object": "asset_290",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Clifford Marine Limited owns Bexhaven Farm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031914",
+      "subject": "asset_290",
+      "rel": "located_in",
+      "object": "place_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Bexhaven Farm is located in Dunmere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031915",
+      "subject": "company_2071",
+      "rel": "party_to",
+      "object": "legal_253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Clifford Marine Limited is a party to the Supply Agreement LEG-253.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_031916",
+      "subject": "person_680",
+      "rel": "signed",
+      "object": "legal_253",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Nadia Briar signed the Supply Agreement LEG-253.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01200_proposal",
+      "text": "The acquisition of North Denholm Holdings Limited by North Clifford Marine Limited",
+      "speaker": "person_1204",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Xander Kingsley, chair of North Clifford Marine Limited, proposed to acquire North Denholm Holdings Limited on 1 February 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01200_approval",
+      "text": "Regulatory approval for the acquisition of North Denholm Holdings Limited",
+      "speaker": "person_1204",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Xander Kingsley confirmed that regulatory approval for the acquisition of North Denholm Holdings Limited by North Clifford Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01200_link_conditional",
+      "src": "gen_doc_01200_proposal",
+      "dst": "gen_doc_01200_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Denholm Holdings Limited by North Clifford Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01200",
+      "surface": "1 February 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-02-01",
+      "value_end": "2024-02-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 February 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031907",
+      "surface": "11 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-11",
+      "value_end": "2023-12-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "11 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_031908",
+      "surface": "16 December 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-12-16",
+      "value_end": "2023-12-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "16 December 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01200",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

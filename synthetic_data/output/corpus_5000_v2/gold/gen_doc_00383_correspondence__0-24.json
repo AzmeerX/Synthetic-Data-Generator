@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00383_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "30ac942578750734ed49522574a8240d9917041ce90abf429d2f421b7c37be65"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_150",
+      "name": "Ironside Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_150",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Ironside Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_15",
+      "name": "Bexley Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_15",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Bexley Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1335",
+      "name": "Nairn Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1335",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Nairn Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1336",
+      "name": "Nairn Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1336",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Nairn Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1337",
+      "name": "Nairn Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1337",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nairn Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1338",
+      "name": "Nairn Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1338",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Nairn Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_134",
+      "name": "Jarrow Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_134",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Jarrow Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Jarrow Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_93",
+      "name": "Briar & Neville LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_93",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Briar & Neville LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Briar & Neville LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_123",
+      "name": "Debenture LEG-123",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_123",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Debenture LEG-123",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Debenture LEG-123",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1335",
+      "name": "Anika Sable",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1335",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Sable",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1336",
+      "name": "Anika Thorne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1336",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Thorne",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Thorne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1343",
+      "name": "Anika Balfour",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_1343",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_387",
+      "name": "Hana Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_387",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Hana Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Hana Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_82",
+      "name": "Belmont Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_82",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Belmont Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_020429",
+      "subject": "company_1335",
+      "rel": "owns",
+      "object": "company_1336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Nairn Logistics Limited owns Nairn Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020430",
+      "subject": "person_1343",
+      "rel": "shareholder_of",
+      "object": "company_1335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Anika Balfour is a shareholder of Nairn Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020442",
+      "subject": "person_1335",
+      "rel": "family_of",
+      "object": "person_1336",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Anika Sable is a family member of Anika Thorne.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020432",
+      "subject": "bank_15",
+      "rel": "lent_to",
+      "object": "company_1335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-01-18",
+          "value_end": "2025-01-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bexley Bank Limited lent Nairn Logistics Limited GBP 40 million on 18 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020434",
+      "subject": "company_1337",
+      "rel": "guarantor_for",
+      "object": "company_1335",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Nairn Partners Limited guaranteed the loan to Nairn Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020433",
+      "subject": "company_1335",
+      "rel": "owes",
+      "object": "bank_15",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-01-23",
+          "value_end": "2025-01-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Nairn Logistics Limited owes Bexley Bank Limited GBP 8 million as at 23 January 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020438",
+      "subject": "company_1335",
+      "rel": "owns",
+      "object": "asset_150",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Nairn Logistics Limited owns Ironside Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020439",
+      "subject": "asset_150",
+      "rel": "located_in",
+      "object": "place_82",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Mill is located in Belmont Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020440",
+      "subject": "company_1335",
+      "rel": "party_to",
+      "object": "legal_123",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Nairn Logistics Limited is a party to the Debenture LEG-123.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_020441",
+      "subject": "person_1336",
+      "rel": "signed",
+      "object": "legal_123",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Anika Thorne signed the Debenture LEG-123.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00383_proposal",
+      "text": "The acquisition of Jarrow Industries Limited by Nairn Logistics Limited",
+      "speaker": "person_387",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Hana Cairn, chair of Nairn Logistics Limited, proposed to acquire Jarrow Industries Limited on 8 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00383_approval",
+      "text": "Regulatory approval for the acquisition of Jarrow Industries Limited",
+      "speaker": "person_387",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Hana Cairn confirmed that regulatory approval for the acquisition of Jarrow Industries Limited by Nairn Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00383_link_conditional",
+      "src": "gen_doc_00383_proposal",
+      "dst": "gen_doc_00383_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Jarrow Industries Limited by Nairn Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00379_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00383",
+      "surface": "8 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-08",
+      "value_end": "2024-11-08",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "8 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020432",
+      "surface": "18 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-18",
+      "value_end": "2025-01-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "18 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_020433",
+      "surface": "23 January 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-01-23",
+      "value_end": "2025-01-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "23 January 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

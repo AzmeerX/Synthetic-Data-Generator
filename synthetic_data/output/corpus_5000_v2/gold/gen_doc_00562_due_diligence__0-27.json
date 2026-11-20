@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00562_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e1e38fb6271f3ec4fd05d3f0379c65e9c8281284cc902156d76c838b50aa37a8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_312",
+      "name": "Denmoor Wharf",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_312",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Denmoor Wharf",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Wharf",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_45",
+      "name": "Glen Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_45",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Glen Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1497",
+      "name": "North Carrow Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1497",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Carrow Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1498",
+      "name": "North Carrow Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1498",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Carrow Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1499",
+      "name": "North Carrow Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1499",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Carrow Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_67",
+      "name": "Briar & Mercer LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_67",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Mercer LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_285",
+      "name": "Supply Agreement LEG-285",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_285",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Supply Agreement LEG-285",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Supply Agreement LEG-285",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_105",
+      "name": "Bastian Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_105",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_106",
+      "name": "Bastian Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_106",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_113",
+      "name": "Bastian Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_113",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_566",
+      "name": "Kellan Jeffreys",
+      "type": "person",
+      "subtype": null,
+      "key": "person_566",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Kellan Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_64",
+      "name": "Denholm",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_64",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Denholm",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_022955",
+      "subject": "company_1497",
+      "rel": "owns",
+      "object": "company_1498",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Carrow Property Limited owns North Carrow Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022964",
+      "subject": "company_1497",
+      "rel": "owns",
+      "object": "asset_312",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Carrow Property Limited owns Denmoor Wharf.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022965",
+      "subject": "asset_312",
+      "rel": "located_in",
+      "object": "place_64",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Denmoor Wharf is located in Denholm.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022961",
+      "subject": "lawfirm_67",
+      "rel": "represents",
+      "object": "company_1497",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Briar & Mercer LLP represents North Carrow Property Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022956",
+      "subject": "person_113",
+      "rel": "shareholder_of",
+      "object": "company_1497",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Yarrow is a shareholder of North Carrow Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022968",
+      "subject": "person_105",
+      "rel": "family_of",
+      "object": "person_106",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Pell is a family member of Bastian Quade.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022958",
+      "subject": "bank_45",
+      "rel": "lent_to",
+      "object": "company_1497",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-04-10",
+          "value_end": "2025-04-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Glen Bank Limited lent North Carrow Property Limited GBP 44 million on 10 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022960",
+      "subject": "company_1499",
+      "rel": "guarantor_for",
+      "object": "company_1497",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Carrow Systems Limited guaranteed the loan to North Carrow Property Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022959",
+      "subject": "company_1497",
+      "rel": "owes",
+      "object": "bank_45",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-04-15",
+          "value_end": "2025-04-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Carrow Property Limited owes Glen Bank Limited GBP 10 million as at 15 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022966",
+      "subject": "company_1497",
+      "rel": "party_to",
+      "object": "legal_285",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Carrow Property Limited is a party to the Supply Agreement LEG-285.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_022967",
+      "subject": "person_106",
+      "rel": "signed",
+      "object": "legal_285",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Quade signed the Supply Agreement LEG-285.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00562_allegation",
+      "text": "A former employee alleged that North Carrow Property Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Kellan Jeffreys noted that a former employee alleged that North Carrow Property Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00562",
+      "surface": "31 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-31",
+      "value_end": "2024-12-31",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "31 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022958",
+      "surface": "10 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-10",
+      "value_end": "2025-04-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "10 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_022959",
+      "surface": "15 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-15",
+      "value_end": "2025-04-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "15 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00562",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

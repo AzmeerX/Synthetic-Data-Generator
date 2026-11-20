@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00040_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "457750983814404d620e1a69848dfba4f4ba371a084b92d58eda2e66478f13f8"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_18",
+      "name": "Thornbury Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_18",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Thornbury Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Thornbury Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_31",
+      "name": "Denmoor Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_31",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_127",
+      "name": "Inglemere Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_127",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_128",
+      "name": "Inglemere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_128",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_129",
+      "name": "Inglemere Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_129",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Inglemere Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_13",
+      "name": "Greyhaven Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_13",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Greyhaven Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_131",
+      "name": "Inglemere Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_131",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Inglemere Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Inglemere Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_11",
+      "name": "Alden & Fenwick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_11",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Fenwick LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Fenwick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_01",
+      "name": "Share Purchase Agreement LEG-001",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_01",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Share Purchase Agreement LEG-001",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Share Purchase Agreement LEG-001",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_127",
+      "name": "Bastian Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_127",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_128",
+      "name": "Bastian Neville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_128",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Neville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Neville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_135",
+      "name": "Bastian Villiers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_135",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Villiers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_44",
+      "name": "Amina Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_44",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_14",
+      "name": "Bexhaven",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_14",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Bexhaven",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001592",
+      "subject": "company_127",
+      "rel": "owns",
+      "object": "company_128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Capital Limited owns Inglemere Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001593",
+      "subject": "person_135",
+      "rel": "shareholder_of",
+      "object": "company_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Villiers is a shareholder of Inglemere Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001605",
+      "subject": "person_127",
+      "rel": "family_of",
+      "object": "person_128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Montague is a family member of Bastian Neville.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001595",
+      "subject": "bank_31",
+      "rel": "lent_to",
+      "object": "company_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-11-26",
+          "value_end": "2025-11-26",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Private Bank Limited lent Inglemere Capital Limited GBP 24 million on 26 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001597",
+      "subject": "company_129",
+      "rel": "guarantor_for",
+      "object": "company_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Inglemere Energy Limited guaranteed the loan to Inglemere Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001596",
+      "subject": "company_127",
+      "rel": "owes",
+      "object": "bank_31",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-01",
+          "value_end": "2025-12-01",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Inglemere Capital Limited owes Denmoor Private Bank Limited GBP 10 million as at 1 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001601",
+      "subject": "company_127",
+      "rel": "owns",
+      "object": "asset_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Capital Limited owns Thornbury Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001602",
+      "subject": "asset_18",
+      "rel": "located_in",
+      "object": "place_14",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Thornbury Estate is located in Bexhaven.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001603",
+      "subject": "company_127",
+      "rel": "party_to",
+      "object": "legal_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Capital Limited is a party to the Share Purchase Agreement LEG-001.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001604",
+      "subject": "person_128",
+      "rel": "signed",
+      "object": "legal_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Neville signed the Share Purchase Agreement LEG-001.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00040_proposal",
+      "text": "The acquisition of Inglemere Ventures Limited by Inglemere Capital Limited",
+      "speaker": "person_44",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Amina Dunmore, chair of Inglemere Capital Limited, proposed to acquire Inglemere Ventures Limited on 7 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00040_approval",
+      "text": "Regulatory approval for the acquisition of Inglemere Ventures Limited",
+      "speaker": "person_44",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Dunmore confirmed that regulatory approval for the acquisition of Inglemere Ventures Limited by Inglemere Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00040_link_conditional",
+      "src": "gen_doc_00040_proposal",
+      "dst": "gen_doc_00040_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Inglemere Ventures Limited by Inglemere Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00036_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00040",
+      "surface": "7 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-07",
+      "value_end": "2024-11-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001595",
+      "surface": "26 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-26",
+      "value_end": "2025-11-26",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "26 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001596",
+      "surface": "1 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-01",
+      "value_end": "2025-12-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "1 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

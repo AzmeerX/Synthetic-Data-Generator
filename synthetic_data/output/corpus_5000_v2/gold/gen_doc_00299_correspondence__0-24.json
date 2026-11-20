@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00299_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "76822e14084105a1a5e9f6cbc54b469e70b713f2071e62530fd25bac27023e8c"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_17",
+      "name": "Silverbeck Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_17",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Silverbeck Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Silverbeck Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_30",
+      "name": "Denmoor Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_30",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Denmoor Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_126",
+      "name": "Inglemere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_126",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Inglemere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1262",
+      "name": "Hereford Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1262",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Hereford Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1264",
+      "name": "Hereford Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1264",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Hereford Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_127",
+      "name": "Inglemere Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_127",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_128",
+      "name": "Inglemere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_128",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Inglemere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_127",
+      "name": "Cairn & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_127",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_126",
+      "name": "Licence LEG-126",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_126",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Licence LEG-126",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Licence LEG-126",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_126",
+      "name": "Bastian Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_126",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_127",
+      "name": "Bastian Montague",
+      "type": "person",
+      "subtype": null,
+      "key": "person_127",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Montague",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Montague",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_134",
+      "name": "Bastian Underwood",
+      "type": "person",
+      "subtype": null,
+      "key": "person_134",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Underwood",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_303",
+      "name": "Farah Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_303",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Quade",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_13",
+      "name": "Alderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_13",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Alderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001577",
+      "subject": "company_126",
+      "rel": "owns",
+      "object": "company_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Inglemere Partners Limited owns Inglemere Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001578",
+      "subject": "person_134",
+      "rel": "shareholder_of",
+      "object": "company_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Bastian Underwood is a shareholder of Inglemere Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001590",
+      "subject": "person_126",
+      "rel": "family_of",
+      "object": "person_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bastian Langford is a family member of Bastian Montague.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001580",
+      "subject": "bank_30",
+      "rel": "lent_to",
+      "object": "company_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-11-15",
+          "value_end": "2025-11-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Denmoor Commercial Bank Limited lent Inglemere Partners Limited GBP 22 million on 15 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001582",
+      "subject": "company_128",
+      "rel": "guarantor_for",
+      "object": "company_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Inglemere Marine Limited guaranteed the loan to Inglemere Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001581",
+      "subject": "company_126",
+      "rel": "owes",
+      "object": "bank_30",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-11-20",
+          "value_end": "2025-11-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Inglemere Partners Limited owes Denmoor Commercial Bank Limited GBP 9 million as at 20 November 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001586",
+      "subject": "company_126",
+      "rel": "owns",
+      "object": "asset_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Inglemere Partners Limited owns Silverbeck Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001587",
+      "subject": "asset_17",
+      "rel": "located_in",
+      "object": "place_13",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silverbeck Plant is located in Alderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001588",
+      "subject": "company_126",
+      "rel": "party_to",
+      "object": "legal_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Inglemere Partners Limited is a party to the Licence LEG-126.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001589",
+      "subject": "person_127",
+      "rel": "signed",
+      "object": "legal_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Bastian Montague signed the Licence LEG-126.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00299_proposal",
+      "text": "The acquisition of Hereford Trading Limited by Inglemere Partners Limited",
+      "speaker": "person_303",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Farah Quade, chair of Inglemere Partners Limited, proposed to acquire Hereford Trading Limited on 13 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00299_approval",
+      "text": "Regulatory approval for the acquisition of Hereford Trading Limited",
+      "speaker": "person_303",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Farah Quade confirmed that regulatory approval for the acquisition of Hereford Trading Limited by Inglemere Partners Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00299_link_conditional",
+      "src": "gen_doc_00299_proposal",
+      "dst": "gen_doc_00299_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Hereford Trading Limited by Inglemere Partners Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00295_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00299",
+      "surface": "13 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-13",
+      "value_end": "2026-07-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "13 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001580",
+      "surface": "15 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-15",
+      "value_end": "2025-11-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "15 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001581",
+      "surface": "20 November 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-11-20",
+      "value_end": "2025-11-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "20 November 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

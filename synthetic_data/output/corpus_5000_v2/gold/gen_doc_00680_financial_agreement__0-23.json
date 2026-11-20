@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00680_financial_agreement.txt",
+    "doc_id": null,
+    "text_sha256": "d3d07666eac4c665eddbedd0fbe893e99b234ddd7ebb1e61f1faec7cfde0233a"
+  },
+  "first_idx": 0,
+  "last_idx": 23,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, negated_relationship, relative_date. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_11",
+      "name": "Alder Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_11",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alder Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_18",
+      "name": "Bexley Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_18",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Bexley Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1602",
+      "name": "North Lowmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1602",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Lowmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1603",
+      "name": "North Lowmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1603",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1604",
+      "name": "North Lowmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1604",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Lowmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1605",
+      "name": "North Lowmoor Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1605",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Lowmoor Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_390",
+      "name": "Loan Note LEG-390",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_390",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Loan Note LEG-390",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Loan Note LEG-390",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_211",
+      "name": "Daria Ward",
+      "type": "person",
+      "subtype": null,
+      "key": "person_211",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Daria Ward",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_024593",
+      "subject": "company_1602",
+      "rel": "owns",
+      "object": "company_1603",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Lowmoor Capital Limited owns North Lowmoor Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024596",
+      "subject": "bank_18",
+      "rel": "lent_to",
+      "object": "company_1602",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-10-13",
+          "value_end": "2023-10-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Bexley Commercial Bank Limited lent North Lowmoor Capital Limited GBP 14 million on 13 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024598",
+      "subject": "company_1604",
+      "rel": "guarantor_for",
+      "object": "company_1602",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "North Lowmoor Energy Limited guaranteed the loan to North Lowmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024597",
+      "subject": "company_1602",
+      "rel": "owes",
+      "object": "bank_18",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-10-18",
+          "value_end": "2023-10-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Lowmoor Capital Limited owes Bexley Commercial Bank Limited GBP 5 million as at 18 October 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024604",
+      "subject": "company_1602",
+      "rel": "party_to",
+      "object": "legal_390",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Lowmoor Capital Limited is a party to the Loan Note LEG-390.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_024605",
+      "subject": "person_211",
+      "rel": "signed",
+      "object": "legal_390",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Daria Ward signed the Loan Note LEG-390.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_42m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 42 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00680_neg_guarantee",
+      "subject": "company_1602",
+      "rel": "guarantor_for",
+      "object": "company_1605",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Lowmoor Capital Limited did not guarantee the facility for North Lowmoor Property Limited on 6 April 2027.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [],
+  "links": [],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_42m"
+      ],
+      "note": "Paired with fact_conflict_55m stated in gen_doc_00684_correspondence.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00680",
+      "surface": "6 April 2027",
+      "kind": "INSTANT",
+      "value_start": "2027-04-06",
+      "value_end": "2027-04-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 April 2027",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024596",
+      "surface": "13 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-13",
+      "value_end": "2023-10-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s8",
+        "quote": "13 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_024597",
+      "surface": "18 October 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-10-18",
+      "value_end": "2023-10-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s10",
+        "quote": "18 October 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_42m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s21",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_00680",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2027-10-06",
+      "value_end": "2027-10-06",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}

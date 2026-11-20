@@ -1,0 +1,538 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00009_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "576a23bf4fb6240626b37069a25cc8131e2a2f620a9344470be4b33c7963815b"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_17",
+      "name": "Silverbeck Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_17",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Silverbeck Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Silverbeck Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_01",
+      "name": "Silvergate Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_01",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Silvergate Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_09",
+      "name": "Ironside Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_09",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Ironside Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_10",
+      "name": "Elderglen Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_10",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Elderglen Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_11",
+      "name": "Ardenmore Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_11",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ardenmore Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_10",
+      "name": "Board Resolution LEG-010",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_10",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Board Resolution LEG-010",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Board Resolution LEG-010",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_10",
+      "name": "Lorne Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_10",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Lorne Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_11",
+      "name": "Kira Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_11",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kira Kerr",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Kira Kerr",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_18",
+      "name": "Farah Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_18",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_05",
+      "name": "Greyhaven",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_05",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "fact_0133",
+      "subject": "company_09",
+      "rel": "owns",
+      "object": "company_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ironside Industries Limited owns Elderglen Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0142",
+      "subject": "company_09",
+      "rel": "owns",
+      "object": "asset_17",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Ironside Industries Limited owns Silverbeck Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0143",
+      "subject": "asset_17",
+      "rel": "located_in",
+      "object": "place_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Silverbeck Plant is located in Greyhaven.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0139",
+      "subject": "lawfirm_04",
+      "rel": "represents",
+      "object": "company_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Pell & Ward LLP represents Ironside Industries Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0134",
+      "subject": "person_18",
+      "rel": "shareholder_of",
+      "object": "company_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Orrick is a shareholder of Ironside Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0146",
+      "subject": "person_10",
+      "rel": "family_of",
+      "object": "person_11",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Lorne Vale is a family member of Kira Kerr.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0136",
+      "subject": "bank_01",
+      "rel": "lent_to",
+      "object": "company_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-19",
+          "value_end": "2022-05-19",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Silvergate Bank Limited lent Ironside Industries Limited GBP 30 million on 19 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0138",
+      "subject": "company_11",
+      "rel": "guarantor_for",
+      "object": "company_09",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ardenmore Logistics Limited guaranteed the loan to Ironside Industries Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0137",
+      "subject": "company_09",
+      "rel": "owes",
+      "object": "bank_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-05-24",
+          "value_end": "2022-05-24",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Ironside Industries Limited owes Silvergate Bank Limited GBP 13 million as at 24 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0144",
+      "subject": "company_09",
+      "rel": "party_to",
+      "object": "legal_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ironside Industries Limited is a party to the Board Resolution LEG-010.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_0145",
+      "subject": "person_11",
+      "rel": "signed",
+      "object": "legal_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Kira Kerr signed the Board Resolution LEG-010.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00009_allegation",
+      "text": "A former employee alleged that Ironside Industries Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Lorne Vale noted that a former employee alleged that Ironside Industries Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00009",
+      "surface": "4 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-04",
+      "value_end": "2024-04-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "4 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0136",
+      "surface": "19 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-19",
+      "value_end": "2022-05-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "19 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_0137",
+      "surface": "24 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-24",
+      "value_end": "2022-05-24",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "24 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00009",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

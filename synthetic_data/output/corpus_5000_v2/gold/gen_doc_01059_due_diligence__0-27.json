@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01059_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "e2317a2178279a15391b04e7d8c11ba5a8963a7f72cb41d5f07322fa4efe6bb8"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_159",
+      "name": "Juniper Cross Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_159",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Juniper Cross Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_163",
+      "name": "Juniper Cross Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_163",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Juniper Cross Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_96",
+      "name": "Oak Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_96",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Oak Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1944",
+      "name": "North Quarrymere Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1944",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Quarrymere Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1946",
+      "name": "North Quarrymere Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1946",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_124",
+      "name": "Cairn & Vale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_124",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Vale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_126",
+      "name": "Licence LEG-126",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_126",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-126",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Licence LEG-126",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1063",
+      "name": "Ulric Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1063",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ulric Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_552",
+      "name": "Kellan Ulric",
+      "type": "person",
+      "subtype": null,
+      "key": "person_552",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Ulric",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_553",
+      "name": "Kellan Vale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_553",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Vale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Kellan Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_560",
+      "name": "Kellan Delacourt",
+      "type": "person",
+      "subtype": null,
+      "key": "person_560",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kellan Delacourt",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_151",
+      "name": "Kelbrook Bay",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_151",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Bay",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029925",
+      "subject": "company_1944",
+      "rel": "owns",
+      "object": "asset_159",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Quarrymere Holdings Limited owns Juniper Cross Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029934",
+      "subject": "company_1944",
+      "rel": "owns",
+      "object": "asset_163",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Holdings Limited owns Juniper Cross Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029935",
+      "subject": "asset_163",
+      "rel": "located_in",
+      "object": "place_151",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Juniper Cross Data Centre is located in Kelbrook Bay.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029931",
+      "subject": "lawfirm_124",
+      "rel": "represents",
+      "object": "company_1944",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Vale LLP represents North Quarrymere Holdings Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029926",
+      "subject": "person_560",
+      "rel": "shareholder_of",
+      "object": "company_1944",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kellan Delacourt is a shareholder of North Quarrymere Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029938",
+      "subject": "person_552",
+      "rel": "family_of",
+      "object": "person_553",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Kellan Ulric is a family member of Kellan Vale.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029928",
+      "subject": "bank_96",
+      "rel": "lent_to",
+      "object": "company_1944",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-10-09",
+          "value_end": "2024-10-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Oak Commercial Bank Limited lent North Quarrymere Holdings Limited GBP 18 million on 9 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029930",
+      "subject": "company_1946",
+      "rel": "guarantor_for",
+      "object": "company_1944",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Group Limited guaranteed the loan to North Quarrymere Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029929",
+      "subject": "company_1944",
+      "rel": "owes",
+      "object": "bank_96",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-10-14",
+          "value_end": "2024-10-14",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quarrymere Holdings Limited owes Oak Commercial Bank Limited GBP 7 million as at 14 October 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029936",
+      "subject": "company_1944",
+      "rel": "party_to",
+      "object": "legal_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Quarrymere Holdings Limited is a party to the Licence LEG-126.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029937",
+      "subject": "person_553",
+      "rel": "signed",
+      "object": "legal_126",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Kellan Vale signed the Licence LEG-126.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01059_allegation",
+      "text": "A former employee alleged that North Quarrymere Holdings Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Ulric Tremayne noted that a former employee alleged that North Quarrymere Holdings Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01059",
+      "surface": "1 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-01",
+      "value_end": "2024-09-01",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "1 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029928",
+      "surface": "9 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-09",
+      "value_end": "2024-10-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "9 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029929",
+      "surface": "14 October 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-10-14",
+      "value_end": "2024-10-14",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "14 October 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01059",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

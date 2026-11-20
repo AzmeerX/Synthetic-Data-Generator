@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01090_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "dd056941c6ae2ac3414dbac5eaaccd139abc22e0d8da8c68900753816d07d424"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_187",
+      "name": "Kestrelford Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_187",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kestrelford Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_191",
+      "name": "Kestrelford Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_191",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Kestrelford Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrelford Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_124",
+      "name": "Tarrow Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_124",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tarrow Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1972",
+      "name": "North Saltmarsh Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1972",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Saltmarsh Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1974",
+      "name": "North Saltmarsh Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1974",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Saltmarsh Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1975",
+      "name": "North Saltmarsh Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1975",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "North Saltmarsh Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1977",
+      "name": "North Saltmarsh Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1977",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Saltmarsh Property Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Saltmarsh Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_20",
+      "name": "Alden & Orrick LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_20",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Orrick LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_154",
+      "name": "Settlement Agreement LEG-154",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_154",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Settlement Agreement LEG-154",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Settlement Agreement LEG-154",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1094",
+      "name": "Vera Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1094",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vera Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_580",
+      "name": "Kellan Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_580",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_581",
+      "name": "Kellan Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_581",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kellan Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_588",
+      "name": "Lena Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_588",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_179",
+      "name": "Netherby Bridge",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_179",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Netherby Bridge",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_030362",
+      "subject": "company_1972",
+      "rel": "owns",
+      "object": "asset_187",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Saltmarsh Trading Limited owns Kestrelford Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030363",
+      "subject": "person_588",
+      "rel": "shareholder_of",
+      "object": "company_1972",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lena Garrow is a shareholder of North Saltmarsh Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030375",
+      "subject": "person_580",
+      "rel": "family_of",
+      "object": "person_581",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Yardley is a family member of Kellan Zouch.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030365",
+      "subject": "bank_124",
+      "rel": "lent_to",
+      "object": "company_1972",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-08-13",
+          "value_end": "2025-08-13",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Tarrow Merchant Bank Limited lent North Saltmarsh Trading Limited GBP 34 million on 13 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030367",
+      "subject": "company_1974",
+      "rel": "guarantor_for",
+      "object": "company_1972",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Saltmarsh Capital Limited guaranteed the loan to North Saltmarsh Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030366",
+      "subject": "company_1972",
+      "rel": "owes",
+      "object": "bank_124",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-08-18",
+          "value_end": "2025-08-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Saltmarsh Trading Limited owes Tarrow Merchant Bank Limited GBP 5 million as at 18 August 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030371",
+      "subject": "company_1972",
+      "rel": "owns",
+      "object": "asset_191",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Saltmarsh Trading Limited owns Kestrelford Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030372",
+      "subject": "asset_191",
+      "rel": "located_in",
+      "object": "place_179",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kestrelford Plant is located in Netherby Bridge.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030373",
+      "subject": "company_1972",
+      "rel": "party_to",
+      "object": "legal_154",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Saltmarsh Trading Limited is a party to the Settlement Agreement LEG-154.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_030374",
+      "subject": "person_581",
+      "rel": "signed",
+      "object": "legal_154",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kellan Zouch signed the Settlement Agreement LEG-154.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01090_proposal",
+      "text": "The acquisition of North Saltmarsh Property Limited by North Saltmarsh Trading Limited",
+      "speaker": "person_1094",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Vera Zell, chair of North Saltmarsh Trading Limited, proposed to acquire North Saltmarsh Property Limited on 6 April 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01090_approval",
+      "text": "Regulatory approval for the acquisition of North Saltmarsh Property Limited",
+      "speaker": "person_1094",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Vera Zell confirmed that regulatory approval for the acquisition of North Saltmarsh Property Limited by North Saltmarsh Trading Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01090_link_conditional",
+      "src": "gen_doc_01090_proposal",
+      "dst": "gen_doc_01090_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Saltmarsh Property Limited by North Saltmarsh Trading Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01086_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01090",
+      "surface": "6 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-06",
+      "value_end": "2025-04-06",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "6 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030365",
+      "surface": "13 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-13",
+      "value_end": "2025-08-13",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "13 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_030366",
+      "surface": "18 August 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-08-18",
+      "value_end": "2025-08-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 August 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

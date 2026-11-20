@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00044_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "bbbeed2cf4a98595d9ce94c0debd62e91941bbd4c78a3e29a3f0358728170503"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_110",
+      "name": "Greyhaven Yard",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_110",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Yard",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Yard",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_06",
+      "name": "Greyhaven Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_06",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Greyhaven Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_103",
+      "name": "Glenmoor Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_103",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Glenmoor Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_104",
+      "name": "Glenmoor Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_104",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Glenmoor Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_105",
+      "name": "Glenmoor Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_105",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_13",
+      "name": "Alden & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_13",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_103",
+      "name": "Services Agreement LEG-103",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_103",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Services Agreement LEG-103",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Services Agreement LEG-103",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_103",
+      "name": "Bastian Nyle",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_103",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Nyle",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_104",
+      "name": "Bastian Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_104",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_111",
+      "name": "Bastian Vale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_111",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Vale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_48",
+      "name": "Amina Hale",
+      "type": "person",
+      "subtype": null,
+      "key": "person_48",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Hale",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_50",
+      "name": "Norwood",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_50",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Norwood",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_001218",
+      "subject": "company_103",
+      "rel": "owns",
+      "object": "company_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Glenmoor Capital Limited owns Glenmoor Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001227",
+      "subject": "company_103",
+      "rel": "owns",
+      "object": "asset_110",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Glenmoor Capital Limited owns Greyhaven Yard.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001228",
+      "subject": "asset_110",
+      "rel": "located_in",
+      "object": "place_50",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Yard is located in Norwood.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001224",
+      "subject": "lawfirm_13",
+      "rel": "represents",
+      "object": "company_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Hale LLP represents Glenmoor Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001219",
+      "subject": "person_111",
+      "rel": "shareholder_of",
+      "object": "company_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Bastian Vale is a shareholder of Glenmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001231",
+      "subject": "person_103",
+      "rel": "family_of",
+      "object": "person_104",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Bastian Nyle is a family member of Bastian Orrick.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001221",
+      "subject": "bank_06",
+      "rel": "lent_to",
+      "object": "company_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-03-07",
+          "value_end": "2025-03-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Greyhaven Bank Limited lent Glenmoor Capital Limited GBP 16 million on 7 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001223",
+      "subject": "company_105",
+      "rel": "guarantor_for",
+      "object": "company_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Glenmoor Energy Limited guaranteed the loan to Glenmoor Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001222",
+      "subject": "company_103",
+      "rel": "owes",
+      "object": "bank_06",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-03-12",
+          "value_end": "2025-03-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Glenmoor Capital Limited owes Greyhaven Bank Limited GBP 6 million as at 12 March 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001229",
+      "subject": "company_103",
+      "rel": "party_to",
+      "object": "legal_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Glenmoor Capital Limited is a party to the Services Agreement LEG-103.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_001230",
+      "subject": "person_104",
+      "rel": "signed",
+      "object": "legal_103",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Bastian Orrick signed the Services Agreement LEG-103.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00044_allegation",
+      "text": "A former employee alleged that Glenmoor Capital Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Hale noted that a former employee alleged that Glenmoor Capital Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00044",
+      "surface": "5 December 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-12-05",
+      "value_end": "2024-12-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "5 December 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001221",
+      "surface": "7 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-07",
+      "value_end": "2025-03-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "7 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_001222",
+      "surface": "12 March 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-03-12",
+      "value_end": "2025-03-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "12 March 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00044",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "version": 2,
+  "generator_version": "1.0.0",
+  "batch": {
+    "seed": 7,
+    "target_pages": 20,
+    "actual_pages": 20,
+    "document_count": 7,
+    "page_pattern": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2
+    ],
+    "layout": "v2"
+  },
+  "entities": {
+    "world_total": 149,
+    "by_kind": {
+      "asset": 20,
+      "bank": 8,
+      "company": 24,
+      "court": 3,
+      "government_body": 6,
+      "law_firm": 6,
+      "legal_document": 30,
+      "person": 40,
+      "place": 12
+    },
+    "mentioned_unique": 58
+  },
+  "relationships": {
+    "world_edge_facts": 344,
+    "documented_unique": 75,
+    "statements": 75,
+    "by_relation": {
+      "chair_of": 4,
+      "family_of": 6,
+      "guarantor_for": 9,
+      "lent_to": 9,
+      "located_in": 5,
+      "owes": 7,
+      "owns": 12,
+      "party_to": 7,
+      "represents": 3,
+      "shareholder_of": 6,
+      "signed": 7
+    },
+    "critical_relations": [
+      "family_of",
+      "guarantor_for",
+      "lent_to",
+      "owes",
+      "owns",
+      "represents",
+      "shareholder_of"
+    ]
+  },
+  "events": 32,
+  "transactions": 26,
+  "contradictions": 1,
+  "traps": {
+    "total_statements": 36,
+    "by_kind": {
+      "alias_same_person": 2,
+      "alleged_fact": 3,
+      "changing_financial_amounts": 1,
+      "conditional_relationship": 3,
+      "cross_document_contradiction": 2,
+      "cross_document_relationship": 7,
+      "fiscal_date": 4,
+      "historical_change": 2,
+      "irrelevant_distractor": 2,
+      "negated_relationship": 2,
+      "proposed_vs_completed": 3,
+      "relative_date": 2,
+      "same_name_different_people": 3
+    },
+    "minimum_per_document": 5,
+    "documents_with_fewer_than_three": 0,
+    "maximum_per_document": 6,
+    "documents_outside_three_to_six": 0,
+    "by_document": [
+      {
+        "document_id": "gen_doc_00000",
+        "filename": "gen_doc_00000_board_minutes.txt",
+        "doc_type": "board_minutes",
+        "trap_count": 6,
+        "by_kind": {
+          "conditional_relationship": 1,
+          "cross_document_relationship": 1,
+          "fiscal_date": 1,
+          "historical_change": 1,
+          "proposed_vs_completed": 1,
+          "same_name_different_people": 1
+        }
+      },
+      {
+        "document_id": "gen_doc_00001",
+        "filename": "gen_doc_00001_financial_agreement.txt",
+        "doc_type": "financial_agreement",
+        "trap_count": 5,
+        "by_kind": {
+          "changing_financial_amounts": 1,
+          "cross_document_contradiction": 1,
+          "cross_document_relationship": 1,
+          "negated_relationship": 1,
+          "relative_date": 1
+        }
+      },
+      {
+        "document_id": "gen_doc_00002",
+        "filename": "gen_doc_00002_due_diligence.txt",
+        "doc_type": "due_diligence",
+        "trap_count": 5,
+        "by_kind": {
+          "alias_same_person": 1,
+          "alleged_fact": 1,
+          "cross_document_relationship": 1,
+          "fiscal_date": 1,
+          "irrelevant_distractor": 1
+        }
+      },
+      {
+        "document_id": "gen_doc_00003",
+        "filename": "gen_doc_00003_memorandum.txt",
+        "doc_type": "memorandum",
+        "trap_count": 5,
+        "by_kind": {
+          "conditional_relationship": 1,
+          "cross_document_relationship": 1,
+          "fiscal_date": 1,
+          "proposed_vs_completed": 1,
+          "same_name_different_people": 1
+        }
+      },
+      {
+        "document_id": "gen_doc_00004",
+        "filename": "gen_doc_00004_case_notes.txt",
+        "doc_type": "case_notes",
+        "trap_count": 5,
+        "by_kind": {
+          "alleged_fact": 1,
+          "cross_document_relationship": 1,
+          "historical_change": 1,
+          "negated_relationship": 1,
+          "relative_date": 1
+        }
+      },
+      {
+        "document_id": "gen_doc_00005",
+        "filename": "gen_doc_00005_correspondence.txt",
+        "doc_type": "correspondence",
+        "trap_count": 5,
+        "by_kind": {
+          "alias_same_person": 1,
+          "conditional_relationship": 1,
+          "cross_document_contradiction": 1,
+          "cross_document_relationship": 1,
+          "proposed_vs_completed": 1
+        }
+      },
+      {
+        "document_id": "gen_doc_00006",
+        "filename": "gen_doc_00006_press_release.txt",
+        "doc_type": "press_release",
+        "trap_count": 5,
+        "by_kind": {
+          "alleged_fact": 1,
+          "cross_document_relationship": 1,
+          "fiscal_date": 1,
+          "irrelevant_distractor": 1,
+          "same_name_different_people": 1
+        }
+      }
+    ]
+  },
+  "queries": {
+    "total": 95,
+    "answerable": 70,
+    "unanswerable": 25,
+    "by_type": {
+      "alleged_status": 1,
+      "contradiction": 1,
+      "entity_lookup": 7,
+      "financial": 18,
+      "historical_change": 2,
+      "identity_resolution": 3,
+      "multi_hop": 7,
+      "negation": 1,
+      "proposed_vs_completed": 4,
+      "provenance": 1,
+      "relationship_lookup": 17,
+      "temporal": 8,
+      "unanswerable": 25
+    },
+    "answerable_percent": 73.68,
+    "unanswerable_percent": 26.32,
+    "unanswerable_by_kind": {
+      "absent_attribute": 5,
+      "absent_financial_information": 5,
+      "absent_relationship": 5,
+      "false_presupposition": 5,
+      "unsupported_historical_date": 5
+    },
+    "duplicates": {
+      "total": 95,
+      "unique_normalized_forms": 95,
+      "duplicate_normalized_instances": 0,
+      "duplicate_normalized_percent": 0.0,
+      "max_pair_occurrences": 1
+    }
+  },
+  "validation": {
+    "documents": 7,
+    "ok": 7,
+    "failed": 0,
+    "items": 331,
+    "grounding": {
+      "EXACT": 331
+    },
+    "sentence_mismatch": 0,
+    "not_found": 0,
+    "errors": 0
+  },
+  "semantics": {
+    "ok": true,
+    "checks": {
+      "contradictions": 3,
+      "entity_identity": 345,
+      "evidence_quotes": 411,
+      "proposition_statuses": 30,
+      "relationship_direction": 120,
+      "temporal_support": 8,
+      "transactions": 61,
+      "unanswerable_proofs": 25,
+      "unique_answers": 81
+    },
+    "failure_count": 0,
+    "failures": []
+  },
+  "documents": [
+    {
+      "index": 0,
+      "document_id": "gen_doc_00000",
+      "synth_doc_id": "doc_01M7ETZ11XZTDDJ329JTCZPQVC",
+      "filename": "gen_doc_00000_board_minutes.txt",
+      "doc_type": "board_minutes",
+      "doc_date": "2024-02-01",
+      "pages": 3,
+      "sentences": 32,
+      "text_sha256": "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+      "gold_file": "gen_doc_00000_board_minutes__0-31.json",
+      "gold_ok": true,
+      "gold_items": 60,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "cross_document_relationship",
+        "historical_change",
+        "same_name_different_people",
+        "proposed_vs_completed",
+        "conditional_relationship",
+        "fiscal_date"
+      ],
+      "fact_ids": [
+        "fact_0001",
+        "fact_0002",
+        "fact_0003",
+        "fact_0004",
+        "fact_0005",
+        "fact_0006",
+        "fact_0007",
+        "fact_0008",
+        "fact_0011",
+        "fact_0012",
+        "fact_0013",
+        "fact_0014",
+        "fact_0015",
+        "gen_doc_00000_approval",
+        "gen_doc_00000_proposal"
+      ],
+      "entity_ids": [
+        "asset_08",
+        "bank_00",
+        "company_00",
+        "company_01",
+        "company_02",
+        "company_05",
+        "lawfirm_01",
+        "legal_01",
+        "person_01",
+        "person_02",
+        "person_03",
+        "person_04",
+        "person_08",
+        "person_09",
+        "person_21",
+        "place_08"
+      ],
+      "trap_count": 6,
+      "trap_counts_by_kind": {
+        "conditional_relationship": 1,
+        "cross_document_relationship": 1,
+        "fiscal_date": 1,
+        "historical_change": 1,
+        "proposed_vs_completed": 1,
+        "same_name_different_people": 1
+      }
+    },
+    {
+      "index": 1,
+      "document_id": "gen_doc_00001",
+      "synth_doc_id": "doc_01M7ETZ1504R0WP0Z2WMXKT848",
+      "filename": "gen_doc_00001_financial_agreement.txt",
+      "doc_type": "financial_agreement",
+      "doc_date": "2024-02-08",
+      "pages": 3,
+      "sentences": 26,
+      "text_sha256": "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+      "gold_file": "gen_doc_00001_financial_agreement__0-25.json",
+      "gold_ok": true,
+      "gold_items": 39,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "cross_document_relationship",
+        "changing_financial_amounts",
+        "cross_document_contradiction",
+        "negated_relationship",
+        "relative_date"
+      ],
+      "fact_ids": [
+        "fact_0016",
+        "fact_0020",
+        "fact_0021",
+        "fact_0022",
+        "fact_0028",
+        "fact_0029",
+        "fact_0343",
+        "fact_0344",
+        "fact_conflict_42m",
+        "gen_doc_00001_neg_guarantee"
+      ],
+      "entity_ids": [
+        "bank_00",
+        "bank_01",
+        "company_00",
+        "company_01",
+        "company_02",
+        "company_03",
+        "company_04",
+        "legal_02",
+        "person_03"
+      ],
+      "trap_count": 5,
+      "trap_counts_by_kind": {
+        "changing_financial_amounts": 1,
+        "cross_document_contradiction": 1,
+        "cross_document_relationship": 1,
+        "negated_relationship": 1,
+        "relative_date": 1
+      }
+    },
+    {
+      "index": 2,
+      "document_id": "gen_doc_00002",
+      "synth_doc_id": "doc_01M7ETZ17QYTGAB347E2HCAGBE",
+      "filename": "gen_doc_00002_due_diligence.txt",
+      "doc_type": "due_diligence",
+      "doc_date": "2024-02-15",
+      "pages": 3,
+      "sentences": 28,
+      "text_sha256": "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+      "gold_file": "gen_doc_00002_due_diligence__0-27.json",
+      "gold_ok": true,
+      "gold_items": 43,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "cross_document_relationship",
+        "alias_same_person",
+        "fiscal_date",
+        "irrelevant_distractor",
+        "alleged_fact"
+      ],
+      "fact_ids": [
+        "fact_0031",
+        "fact_0032",
+        "fact_0035",
+        "fact_0036",
+        "fact_0037",
+        "fact_0038",
+        "fact_0041",
+        "fact_0042",
+        "fact_0043",
+        "fact_0044",
+        "fact_0045",
+        "gen_doc_00002_allegation"
+      ],
+      "entity_ids": [
+        "asset_10",
+        "bank_02",
+        "company_02",
+        "company_03",
+        "company_04",
+        "lawfirm_03",
+        "legal_03",
+        "person_03",
+        "person_04",
+        "person_05",
+        "person_11",
+        "person_23",
+        "place_10"
+      ],
+      "trap_count": 5,
+      "trap_counts_by_kind": {
+        "alias_same_person": 1,
+        "alleged_fact": 1,
+        "cross_document_relationship": 1,
+        "fiscal_date": 1,
+        "irrelevant_distractor": 1
+      }
+    },
+    {
+      "index": 3,
+      "document_id": "gen_doc_00003",
+      "synth_doc_id": "doc_01M7ETZ19XQ7ZQRG3T2DP7PZE2",
+      "filename": "gen_doc_00003_memorandum.txt",
+      "doc_type": "memorandum",
+      "doc_date": "2024-02-22",
+      "pages": 3,
+      "sentences": 28,
+      "text_sha256": "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+      "gold_file": "gen_doc_00003_memorandum__0-27.json",
+      "gold_ok": true,
+      "gold_items": 51,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "cross_document_relationship",
+        "same_name_different_people",
+        "proposed_vs_completed",
+        "conditional_relationship",
+        "fiscal_date"
+      ],
+      "fact_ids": [
+        "fact_0046",
+        "fact_0047",
+        "fact_0050",
+        "fact_0051",
+        "fact_0052",
+        "fact_0053",
+        "fact_0056",
+        "fact_0057",
+        "fact_0058",
+        "fact_0059",
+        "fact_0060",
+        "gen_doc_00003_approval",
+        "gen_doc_00003_proposal"
+      ],
+      "entity_ids": [
+        "asset_04",
+        "asset_11",
+        "bank_03",
+        "company_03",
+        "company_05",
+        "company_08",
+        "lawfirm_04",
+        "legal_04",
+        "person_03",
+        "person_04",
+        "person_05",
+        "person_08",
+        "person_12",
+        "person_24",
+        "place_11"
+      ],
+      "trap_count": 5,
+      "trap_counts_by_kind": {
+        "conditional_relationship": 1,
+        "cross_document_relationship": 1,
+        "fiscal_date": 1,
+        "proposed_vs_completed": 1,
+        "same_name_different_people": 1
+      }
+    },
+    {
+      "index": 4,
+      "document_id": "gen_doc_00004",
+      "synth_doc_id": "doc_01M7ETZ1C9TDHF52P57MCEFQXJ",
+      "filename": "gen_doc_00004_case_notes.txt",
+      "doc_type": "case_notes",
+      "doc_date": "2024-02-29",
+      "pages": 3,
+      "sentences": 26,
+      "text_sha256": "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+      "gold_file": "gen_doc_00004_case_notes__0-25.json",
+      "gold_ok": true,
+      "gold_items": 44,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "historical_change",
+        "cross_document_relationship",
+        "negated_relationship",
+        "relative_date",
+        "alleged_fact"
+      ],
+      "fact_ids": [
+        "fact_0061",
+        "fact_0062",
+        "fact_0063",
+        "fact_0064",
+        "fact_0065",
+        "fact_0066",
+        "fact_0067",
+        "fact_0073",
+        "fact_0074",
+        "fact_0075",
+        "gen_doc_00004_allegation",
+        "gen_doc_00004_neg_guarantee"
+      ],
+      "entity_ids": [
+        "bank_04",
+        "company_04",
+        "company_05",
+        "company_06",
+        "company_07",
+        "legal_05",
+        "person_05",
+        "person_06",
+        "person_13",
+        "person_25"
+      ],
+      "trap_count": 5,
+      "trap_counts_by_kind": {
+        "alleged_fact": 1,
+        "cross_document_relationship": 1,
+        "historical_change": 1,
+        "negated_relationship": 1,
+        "relative_date": 1
+      }
+    },
+    {
+      "index": 5,
+      "document_id": "gen_doc_00005",
+      "synth_doc_id": "doc_01M7ETZ1EMNG1AWP7DT3G1K39D",
+      "filename": "gen_doc_00005_correspondence.txt",
+      "doc_type": "correspondence",
+      "doc_date": "2024-03-07",
+      "pages": 3,
+      "sentences": 25,
+      "text_sha256": "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+      "gold_file": "gen_doc_00005_correspondence__0-24.json",
+      "gold_ok": true,
+      "gold_items": 52,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "cross_document_relationship",
+        "cross_document_contradiction",
+        "alias_same_person",
+        "proposed_vs_completed",
+        "conditional_relationship"
+      ],
+      "fact_ids": [
+        "fact_0076",
+        "fact_0077",
+        "fact_0080",
+        "fact_0081",
+        "fact_0082",
+        "fact_0086",
+        "fact_0087",
+        "fact_0088",
+        "fact_0089",
+        "fact_0090",
+        "fact_conflict_55m",
+        "gen_doc_00005_approval",
+        "gen_doc_00005_proposal"
+      ],
+      "entity_ids": [
+        "asset_13",
+        "bank_00",
+        "bank_05",
+        "company_00",
+        "company_05",
+        "company_06",
+        "company_07",
+        "company_08",
+        "company_10",
+        "lawfirm_06",
+        "legal_06",
+        "person_05",
+        "person_06",
+        "person_07",
+        "person_14",
+        "person_26",
+        "place_01"
+      ],
+      "trap_count": 5,
+      "trap_counts_by_kind": {
+        "alias_same_person": 1,
+        "conditional_relationship": 1,
+        "cross_document_contradiction": 1,
+        "cross_document_relationship": 1,
+        "proposed_vs_completed": 1
+      }
+    },
+    {
+      "index": 6,
+      "document_id": "gen_doc_00006",
+      "synth_doc_id": "doc_01M7ETZ1GQGQEVZ2ZV60KZZVGD",
+      "filename": "gen_doc_00006_press_release.txt",
+      "doc_type": "press_release",
+      "doc_date": "2024-03-14",
+      "pages": 2,
+      "sentences": 25,
+      "text_sha256": "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e",
+      "gold_file": "gen_doc_00006_press_release__0-24.json",
+      "gold_ok": true,
+      "gold_items": 42,
+      "gold_sentence_mismatch": 0,
+      "trap_kinds": [
+        "cross_document_relationship",
+        "same_name_different_people",
+        "fiscal_date",
+        "irrelevant_distractor",
+        "alleged_fact"
+      ],
+      "fact_ids": [
+        "fact_0091",
+        "fact_0092",
+        "fact_0094",
+        "fact_0095",
+        "fact_0096",
+        "fact_0100",
+        "fact_0101",
+        "fact_0102",
+        "fact_0103",
+        "fact_0104",
+        "gen_doc_00006_allegation"
+      ],
+      "entity_ids": [
+        "asset_14",
+        "bank_06",
+        "company_06",
+        "company_07",
+        "company_08",
+        "lawfirm_01",
+        "legal_07",
+        "person_03",
+        "person_07",
+        "person_08",
+        "person_15",
+        "place_02"
+      ],
+      "trap_count": 5,
+      "trap_counts_by_kind": {
+        "alleged_fact": 1,
+        "cross_document_relationship": 1,
+        "fiscal_date": 1,
+        "irrelevant_distractor": 1,
+        "same_name_different_people": 1
+      }
+    }
+  ],
+  "reproducibility": {
+    "document_hashes": [
+      "4af2ca6b8b37fc89d2d1a716215f24c79843c80053ed74e5b28f86f43f107c91",
+      "569cb567de82ec1fa881899091ca31f5d4a03a100ffb3e965980709338400ebf",
+      "c3aa97a20a547709edc3487c038768b7e6d5b0e5e6cdc6713d70c9eb75d0be8b",
+      "90f2706519ff766c36395e287d55900560e460df92d84adce6a120aa58d7aa7a",
+      "d1c25aba108a5307eb42784c9b1decba7f9fda57f039306c80a473ec01cffebc",
+      "93286ef6e506fe350ed0e0ee85125ef18d88a92a6eba19106e4db918097cdc7b",
+      "0a1965238088d4349f46e019ca5292ddf9812c5b342a9cd3ed58feb353d9836e"
+    ],
+    "prefix_sha256": "25e023d38cd56c76abce878efe061f6aa21a3e0f0414df4c72cbb3379041b7c8",
+    "world_signature_sha256": "dc8a8e8cbabf4a7cb7270ec8af3072eaf698b9fb5165191e2cfda3d2dd7c9a72",
+    "gold_mode": "generated",
+    "blind": false,
+    "promoted": false
+  },
+  "diversity": {
+    "document_subjects": 7,
+    "unique_document_subjects": 7,
+    "reused_document_subjects": 0,
+    "world_companies": 24,
+    "world_people": 40,
+    "world_banks": 8,
+    "world_law_firms": 6,
+    "world_entities": 149
+  },
+  "performance": {
+    "timings_ms": {
+      "world_generation": 77.677,
+      "document_generation": 7.026,
+      "ingestion": 592.589,
+      "gold_validation": 74.879,
+      "qa_generation": 112.881,
+      "semantic_validation": 71.106,
+      "total": 981.625
+    },
+    "peak_memory_mb": 3.377,
+    "measurement": "tracemalloc",
+    "tracemalloc_started_by_pipeline": true
+  }
+}

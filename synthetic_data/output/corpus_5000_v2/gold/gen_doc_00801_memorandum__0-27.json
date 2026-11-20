@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00801_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "4e4fe55c0a8067336841ad7c9c0bc52e63e9e0a5a506265655bb2674da8285f2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_526",
+      "name": "Netherby Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_526",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Netherby Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_127",
+      "name": "Tarrow Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_127",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1711",
+      "name": "North Uldale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1711",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Uldale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1712",
+      "name": "North Uldale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1712",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1713",
+      "name": "North Uldale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1713",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Uldale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1716",
+      "name": "North Vellacott Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1716",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "North Vellacott Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "North Vellacott Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_110",
+      "name": "Cairn & Garrow LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_110",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Cairn & Garrow LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_21",
+      "name": "Alden & Pell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_21",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Pell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_499",
+      "name": "Guarantee Deed LEG-499",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_499",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Guarantee Deed LEG-499",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Guarantee Deed LEG-499",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_319",
+      "name": "Farah Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_319",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_320",
+      "name": "Farah Jeffreys",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_320",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Jeffreys",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Jeffreys",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_327",
+      "name": "Farah Ravenscroft",
+      "type": "person",
+      "subtype": null,
+      "key": "person_327",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Ravenscroft",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_805",
+      "name": "Petra Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_805",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Grenville",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_98",
+      "name": "Dunmere Port",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_98",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Dunmere Port",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_026291",
+      "subject": "company_1711",
+      "rel": "owns",
+      "object": "company_1712",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Uldale Marine Limited owns North Uldale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026292",
+      "subject": "person_327",
+      "rel": "shareholder_of",
+      "object": "company_1711",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Farah Ravenscroft is a shareholder of North Uldale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026304",
+      "subject": "person_319",
+      "rel": "family_of",
+      "object": "person_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Farah Ingram is a family member of Farah Jeffreys.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026294",
+      "subject": "bank_127",
+      "rel": "lent_to",
+      "object": "company_1711",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-05-30",
+          "value_end": "2022-05-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Tarrow Private Bank Limited lent North Uldale Marine Limited GBP 32 million on 30 May 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026296",
+      "subject": "company_1713",
+      "rel": "guarantor_for",
+      "object": "company_1711",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Uldale Property Limited guaranteed the loan to North Uldale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026295",
+      "subject": "company_1711",
+      "rel": "owes",
+      "object": "bank_127",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-06-04",
+          "value_end": "2022-06-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Uldale Marine Limited owes Tarrow Private Bank Limited GBP 4 million as at 4 June 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026297",
+      "subject": "lawfirm_21",
+      "rel": "represents",
+      "object": "company_1711",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Alden & Pell LLP represents North Uldale Marine Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026300",
+      "subject": "company_1711",
+      "rel": "owns",
+      "object": "asset_526",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Uldale Marine Limited owns Netherby Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026301",
+      "subject": "asset_526",
+      "rel": "located_in",
+      "object": "place_98",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Netherby Mill is located in Dunmere Port.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026302",
+      "subject": "company_1711",
+      "rel": "party_to",
+      "object": "legal_499",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Uldale Marine Limited is a party to the Guarantee Deed LEG-499.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_026303",
+      "subject": "person_320",
+      "rel": "signed",
+      "object": "legal_499",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Farah Jeffreys signed the Guarantee Deed LEG-499.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00801_proposal",
+      "text": "The acquisition of North Vellacott Holdings Limited by North Uldale Marine Limited",
+      "speaker": "person_805",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Grenville, chair of North Uldale Marine Limited, proposed to acquire North Vellacott Holdings Limited on 18 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00801_approval",
+      "text": "Regulatory approval for the acquisition of North Vellacott Holdings Limited",
+      "speaker": "person_805",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Petra Grenville confirmed that regulatory approval for the acquisition of North Vellacott Holdings Limited by North Uldale Marine Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00801_link_conditional",
+      "src": "gen_doc_00801_proposal",
+      "dst": "gen_doc_00801_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of North Vellacott Holdings Limited by North Uldale Marine Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00801",
+      "surface": "18 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-18",
+      "value_end": "2026-04-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026294",
+      "surface": "30 May 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-05-30",
+      "value_end": "2022-05-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "30 May 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_026295",
+      "surface": "4 June 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-06-04",
+      "value_end": "2022-06-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "4 June 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00801",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

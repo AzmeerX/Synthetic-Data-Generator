@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00084_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "e43777d55e457fdef296c53673ff83ded72eb9fc3181708a8eb1b6e451bdc460"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_477",
+      "name": "Lowmoor Warehouse",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_477",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Lowmoor Warehouse",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Warehouse",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_10",
+      "name": "Alder Merchant Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_10",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Alder Merchant Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1066",
+      "name": "Ormsby Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1066",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Ormsby Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1067",
+      "name": "Ormsby Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1067",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ormsby Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1068",
+      "name": "Priors Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1068",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Priors Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1070",
+      "name": "Priors Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1070",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Priors Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_54",
+      "name": "Alden & Yardley LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_54",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Yardley LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_460",
+      "name": "Shareholder Agreement LEG-460",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_460",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Shareholder Agreement LEG-460",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Shareholder Agreement LEG-460",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1066",
+      "name": "Ulric Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1066",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ulric Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1067",
+      "name": "Ulric Wyndham",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1067",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ulric Wyndham",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ulric Wyndham",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1069",
+      "name": "Ulric Zouch",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1069",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Ulric Zouch",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Ulric Zouch",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1071",
+      "name": "Vera Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1071",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Vera Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1074",
+      "name": "Vera Ellery",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1074",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Ellery",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_88",
+      "name": "Amina Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_88",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Yardley",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_173",
+      "name": "Merrivale Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_173",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Merrivale Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016235",
+      "subject": "company_1066",
+      "rel": "owns",
+      "object": "company_1067",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Ormsby Ventures Limited owns Ormsby Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016237",
+      "subject": "person_1069",
+      "rel": "chair_of",
+      "object": "company_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ulric Zouch is the chair of Ormsby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016236",
+      "subject": "person_1074",
+      "rel": "shareholder_of",
+      "object": "company_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Vera Ellery is a shareholder of Ormsby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016248",
+      "subject": "person_1066",
+      "rel": "family_of",
+      "object": "person_1067",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Ulric Whitlock is a family member of Ulric Wyndham.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016238",
+      "subject": "bank_10",
+      "rel": "lent_to",
+      "object": "company_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-04",
+          "value_end": "2026-04-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Alder Merchant Bank Limited lent Ormsby Ventures Limited GBP 22 million on 4 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016240",
+      "subject": "company_1068",
+      "rel": "guarantor_for",
+      "object": "company_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Priors Holdings Limited guaranteed the loan to Ormsby Ventures Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016239",
+      "subject": "company_1066",
+      "rel": "owes",
+      "object": "bank_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-04-09",
+          "value_end": "2026-04-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ormsby Ventures Limited owes Alder Merchant Bank Limited GBP 9 million as at 9 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016241",
+      "subject": "lawfirm_26",
+      "rel": "represents",
+      "object": "company_1066",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Alden & Ulric LLP represents Ormsby Ventures Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016244",
+      "subject": "company_1066",
+      "rel": "owns",
+      "object": "asset_477",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Ormsby Ventures Limited owns Lowmoor Warehouse.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016245",
+      "subject": "asset_477",
+      "rel": "located_in",
+      "object": "place_173",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Lowmoor Warehouse is located in Merrivale Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016246",
+      "subject": "company_1066",
+      "rel": "party_to",
+      "object": "legal_460",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Ormsby Ventures Limited is a party to the Shareholder Agreement LEG-460.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016247",
+      "subject": "person_1067",
+      "rel": "signed",
+      "object": "legal_460",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ulric Wyndham signed the Shareholder Agreement LEG-460.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00084_proposal",
+      "text": "The acquisition of Priors Group Limited by Ormsby Ventures Limited",
+      "speaker": "person_88",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Amina Yardley, chair of Ormsby Ventures Limited, proposed to acquire Priors Group Limited on 11 September 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00084_approval",
+      "text": "Regulatory approval for the acquisition of Priors Group Limited",
+      "speaker": "person_88",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Amina Yardley confirmed that regulatory approval for the acquisition of Priors Group Limited by Ormsby Ventures Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00084_link_conditional",
+      "src": "gen_doc_00084_proposal",
+      "dst": "gen_doc_00084_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of Priors Group Limited by Ormsby Ventures Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00084",
+      "surface": "11 September 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-09-11",
+      "value_end": "2025-09-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "11 September 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016238",
+      "surface": "4 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-04",
+      "value_end": "2026-04-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "4 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016239",
+      "surface": "9 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-09",
+      "value_end": "2026-04-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "9 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00084",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

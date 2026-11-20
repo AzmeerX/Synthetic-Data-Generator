@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00602_board_minutes.txt",
+    "doc_id": null,
+    "text_sha256": "65713235c8e6e311daec260509120d406779bfefa8a1e21e17409740f66fa505"
+  },
+  "first_idx": 0,
+  "last_idx": 30,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_343",
+      "name": "Elmford Works",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_343",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Elmford Works",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_347",
+      "name": "Elmford Dock",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_347",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Elmford Dock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Elmford Dock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_80",
+      "name": "Low International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_80",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Low International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1532",
+      "name": "North Fairhaven Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1532",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Fairhaven Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1534",
+      "name": "North Fairhaven Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1534",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Fairhaven Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1537",
+      "name": "North Glenmoor Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1537",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Glenmoor Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_102",
+      "name": "Briar & Wyndham LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_102",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Wyndham LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_52",
+      "name": "Alden & Whitlock LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_52",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Alden & Whitlock LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_320",
+      "name": "Side Letter LEG-320",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_320",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Side Letter LEG-320",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Side Letter LEG-320",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_140",
+      "name": "Calder Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_140",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_141",
+      "name": "Calder Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_141",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Briar",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_143",
+      "name": "Calder Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_143",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_145",
+      "name": "Calder Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_145",
+      "mentions": [
+        {
+          "sentence_id": "s5",
+          "quote": "Calder Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_148",
+      "name": "Calder Ivers",
+      "type": "person",
+      "subtype": null,
+      "key": "person_148",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ivers",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_606",
+      "name": "Lena Ashby",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_606",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lena Ashby",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Lena Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_99",
+      "name": "Dunmere Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_99",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Dunmere Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_023502",
+      "subject": "company_1532",
+      "rel": "owns",
+      "object": "asset_343",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "North Fairhaven Energy Limited owns Elmford Works.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023504",
+      "subject": "person_143",
+      "rel": "chair_of",
+      "object": "company_1532",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Calder Dunmore is the chair of North Fairhaven Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023503",
+      "subject": "person_148",
+      "rel": "shareholder_of",
+      "object": "company_1532",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Calder Ivers is a shareholder of North Fairhaven Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023515",
+      "subject": "person_140",
+      "rel": "family_of",
+      "object": "person_141",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Calder Alden is a family member of Calder Briar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023505",
+      "subject": "bank_80",
+      "rel": "lent_to",
+      "object": "company_1532",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-04-30",
+          "value_end": "2026-04-30",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Low International Bank Limited lent North Fairhaven Energy Limited GBP 34 million on 30 April 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023507",
+      "subject": "company_1534",
+      "rel": "guarantor_for",
+      "object": "company_1532",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "North Fairhaven Ventures Limited guaranteed the loan to North Fairhaven Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023506",
+      "subject": "company_1532",
+      "rel": "owes",
+      "object": "bank_80",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-05-05",
+          "value_end": "2026-05-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Fairhaven Energy Limited owes Low International Bank Limited GBP 5 million as at 5 May 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023508",
+      "subject": "lawfirm_102",
+      "rel": "represents",
+      "object": "company_1532",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Briar & Wyndham LLP represents North Fairhaven Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023511",
+      "subject": "company_1532",
+      "rel": "owns",
+      "object": "asset_347",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "North Fairhaven Energy Limited owns Elmford Dock.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023512",
+      "subject": "asset_347",
+      "rel": "located_in",
+      "object": "place_99",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Elmford Dock is located in Dunmere Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023513",
+      "subject": "company_1532",
+      "rel": "party_to",
+      "object": "legal_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Fairhaven Energy Limited is a party to the Side Letter LEG-320.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_023514",
+      "subject": "person_141",
+      "rel": "signed",
+      "object": "legal_320",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Calder Briar signed the Side Letter LEG-320.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00602_proposal",
+      "text": "The acquisition of North Glenmoor Industries Limited by North Fairhaven Energy Limited",
+      "speaker": "person_606",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Lena Ashby, chair of North Fairhaven Energy Limited, proposed to acquire North Glenmoor Industries Limited on 7 October 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00602_approval",
+      "text": "Regulatory approval for the acquisition of North Glenmoor Industries Limited",
+      "speaker": "person_606",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Lena Ashby confirmed that regulatory approval for the acquisition of North Glenmoor Industries Limited by North Fairhaven Energy Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00602_link_conditional",
+      "src": "gen_doc_00602_proposal",
+      "dst": "gen_doc_00602_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "The acquisition of North Glenmoor Industries Limited by North Fairhaven Energy Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00602",
+      "surface": "7 October 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-10-07",
+      "value_end": "2025-10-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 October 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023505",
+      "surface": "30 April 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-04-30",
+      "value_end": "2026-04-30",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "30 April 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_023506",
+      "surface": "5 May 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-05-05",
+      "value_end": "2026-05-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s16",
+        "quote": "5 May 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00602",
+      "surface": "1 July 2025 to 30 June 2026",
+      "kind": "PERIOD",
+      "value_start": "2025-07-01",
+      "value_end": "2026-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s26",
+        "quote": "1 July 2025 to 30 June 2026",
+        "occurrence": 0
+      }
+    }
+  ]
+}

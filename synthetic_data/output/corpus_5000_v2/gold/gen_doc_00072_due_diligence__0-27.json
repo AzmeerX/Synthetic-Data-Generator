@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00072_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "266de38e054b4b5c422b348128502a5bc7b1271c533bebe5932c69ef5af747e2"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_466",
+      "name": "Kelbrook Mill",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_466",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Mill",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Mill",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_131",
+      "name": "Uldale Trust Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_131",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Trust Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Uldale Trust Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1055",
+      "name": "Neston Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1055",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Neston Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1056",
+      "name": "Ormsby Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1056",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Ormsby Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1057",
+      "name": "Ormsby Industries Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1057",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ormsby Industries Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_15",
+      "name": "Alden & Jarvis LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_15",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jarvis LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_449",
+      "name": "Share Purchase Agreement LEG-449",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_449",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-449",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Share Purchase Agreement LEG-449",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1055",
+      "name": "Ulric Kingsley",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_1055",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulric Kingsley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1056",
+      "name": "Ulric Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1056",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulric Langford",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Ulric Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1063",
+      "name": "Ulric Tremayne",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1063",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ulric Tremayne",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_76",
+      "name": "Amina Langford",
+      "type": "person",
+      "subtype": null,
+      "key": "person_76",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Langford",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_162",
+      "name": "Lowmoor Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_162",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Lowmoor Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_016063",
+      "subject": "company_1055",
+      "rel": "owns",
+      "object": "company_1056",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Neston Systems Limited owns Ormsby Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016072",
+      "subject": "company_1055",
+      "rel": "owns",
+      "object": "asset_466",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Neston Systems Limited owns Kelbrook Mill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016073",
+      "subject": "asset_466",
+      "rel": "located_in",
+      "object": "place_162",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Mill is located in Lowmoor Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016069",
+      "subject": "lawfirm_15",
+      "rel": "represents",
+      "object": "company_1055",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jarvis LLP represents Neston Systems Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016064",
+      "subject": "person_1063",
+      "rel": "shareholder_of",
+      "object": "company_1055",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ulric Tremayne is a shareholder of Neston Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016076",
+      "subject": "person_1055",
+      "rel": "family_of",
+      "object": "person_1056",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Ulric Kingsley is a family member of Ulric Langford.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016066",
+      "subject": "bank_131",
+      "rel": "lent_to",
+      "object": "company_1055",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2025-12-04",
+          "value_end": "2025-12-04",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Uldale Trust Bank Limited lent Neston Systems Limited GBP 40 million on 4 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016068",
+      "subject": "company_1057",
+      "rel": "guarantor_for",
+      "object": "company_1055",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Ormsby Industries Limited guaranteed the loan to Neston Systems Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016067",
+      "subject": "company_1055",
+      "rel": "owes",
+      "object": "bank_131",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2025-12-09",
+          "value_end": "2025-12-09",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Neston Systems Limited owes Uldale Trust Bank Limited GBP 8 million as at 9 December 2025.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016074",
+      "subject": "company_1055",
+      "rel": "party_to",
+      "object": "legal_449",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Neston Systems Limited is a party to the Share Purchase Agreement LEG-449.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_016075",
+      "subject": "person_1056",
+      "rel": "signed",
+      "object": "legal_449",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Ulric Langford signed the Share Purchase Agreement LEG-449.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00072_allegation",
+      "text": "A former employee alleged that Neston Systems Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Amina Langford noted that a former employee alleged that Neston Systems Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00072",
+      "surface": "19 June 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-06-19",
+      "value_end": "2025-06-19",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "19 June 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016066",
+      "surface": "4 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-04",
+      "value_end": "2025-12-04",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "4 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_016067",
+      "surface": "9 December 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-12-09",
+      "value_end": "2025-12-09",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "9 December 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00072",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

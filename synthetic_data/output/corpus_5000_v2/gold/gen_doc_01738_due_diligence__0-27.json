@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01738_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "3c738984c62a82c71bb19044bbfaf6b9bdf6938349c82e57f71404d0eb1b7a24"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_05",
+      "name": "Greyhaven Fleet",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_05",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Fleet",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Fleet",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_26",
+      "name": "Carrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_26",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Carrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_390",
+      "name": "Grimsdale Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_390",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Grimsdale Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_391",
+      "name": "Grimsdale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_391",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Grimsdale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_392",
+      "name": "Grimsdale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_392",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Grimsdale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_40",
+      "name": "Alden & Jeffreys LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_40",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jeffreys LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_184",
+      "name": "Lease LEG-184",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_184",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Lease LEG-184",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Lease LEG-184",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_06",
+      "name": "Ines Alden",
+      "type": "person",
+      "subtype": null,
+      "key": "person_06",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ines Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_350",
+      "name": "Gideon Pell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_350",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Pell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_390",
+      "name": "Hana Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_390",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_391",
+      "name": "Hana Garrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_391",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Garrow",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Garrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_97",
+      "name": "Dunmere Cross",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_97",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Dunmere Cross",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_005694",
+      "subject": "company_390",
+      "rel": "owns",
+      "object": "company_391",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Grimsdale Partners Limited owns Grimsdale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005703",
+      "subject": "company_390",
+      "rel": "owns",
+      "object": "asset_05",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Grimsdale Partners Limited owns Greyhaven Fleet.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005704",
+      "subject": "asset_05",
+      "rel": "located_in",
+      "object": "place_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Fleet is located in Dunmere Cross.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005700",
+      "subject": "lawfirm_40",
+      "rel": "represents",
+      "object": "company_390",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Jeffreys LLP represents Grimsdale Partners Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005695",
+      "subject": "person_06",
+      "rel": "shareholder_of",
+      "object": "company_390",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Ines Alden is a shareholder of Grimsdale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005707",
+      "subject": "person_390",
+      "rel": "family_of",
+      "object": "person_391",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Hana Fenwick is a family member of Hana Garrow.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005697",
+      "subject": "bank_26",
+      "rel": "lent_to",
+      "object": "company_390",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-07-07",
+          "value_end": "2024-07-07",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Carrow International Bank Limited lent Grimsdale Partners Limited GBP 30 million on 7 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005699",
+      "subject": "company_392",
+      "rel": "guarantor_for",
+      "object": "company_390",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Grimsdale Marine Limited guaranteed the loan to Grimsdale Partners Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005698",
+      "subject": "company_390",
+      "rel": "owes",
+      "object": "bank_26",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-07-12",
+          "value_end": "2024-07-12",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Grimsdale Partners Limited owes Carrow International Bank Limited GBP 13 million as at 12 July 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005705",
+      "subject": "company_390",
+      "rel": "party_to",
+      "object": "legal_184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Grimsdale Partners Limited is a party to the Lease LEG-184.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_005706",
+      "subject": "person_391",
+      "rel": "signed",
+      "object": "legal_184",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Hana Garrow signed the Lease LEG-184.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01738_allegation",
+      "text": "A former employee alleged that Grimsdale Partners Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Gideon Pell noted that a former employee alleged that Grimsdale Partners Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01738",
+      "surface": "16 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-16",
+      "value_end": "2024-07-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "16 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005697",
+      "surface": "7 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-07",
+      "value_end": "2024-07-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "7 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_005698",
+      "surface": "12 July 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-07-12",
+      "value_end": "2024-07-12",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "12 July 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01738",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

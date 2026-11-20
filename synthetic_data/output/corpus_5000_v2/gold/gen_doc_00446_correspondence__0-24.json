@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00446_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "e20a563dd59b1f400c49258ac0c8688a5f4b5b876d6f9fb500dc022eac080133"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_203",
+      "name": "Larkspur Hangar",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_203",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Larkspur Hangar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_207",
+      "name": "Larkspur Silo",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_207",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Larkspur Silo",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Silo",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_72",
+      "name": "Kel Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_72",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Kel Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1392",
+      "name": "Skye Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1392",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Skye Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1394",
+      "name": "Skye Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1394",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Skye Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1395",
+      "name": "Skye Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1395",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Skye Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1397",
+      "name": "Skye Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1397",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Skye Partners Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Skye Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_26",
+      "name": "Alden & Ulric LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_26",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Alden & Ulric LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_180",
+      "name": "Board Resolution LEG-180",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_180",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Board Resolution LEG-180",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Board Resolution LEG-180",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_01",
+      "name": "Jarrah Dunmore",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_01",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Jarrah Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrah Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1392",
+      "name": "Bram Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1392",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_450",
+      "name": "Ivo Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_450",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ivo Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ivo Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_139",
+      "name": "Inglemere Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_139",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Inglemere Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021318",
+      "subject": "company_1392",
+      "rel": "owns",
+      "object": "asset_203",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Skye Holdings Limited owns Larkspur Hangar.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021319",
+      "subject": "person_08",
+      "rel": "shareholder_of",
+      "object": "company_1392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Nadia Zell of the Compliance Department is a shareholder of Skye Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021331",
+      "subject": "person_1392",
+      "rel": "family_of",
+      "object": "person_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Bram Cavendish is a family member of Jarrah Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021321",
+      "subject": "bank_72",
+      "rel": "lent_to",
+      "object": "company_1392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2022-02-10",
+          "value_end": "2022-02-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Kel Commercial Bank Limited lent Skye Holdings Limited GBP 34 million on 10 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021323",
+      "subject": "company_1394",
+      "rel": "guarantor_for",
+      "object": "company_1392",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Skye Group Limited guaranteed the loan to Skye Holdings Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021322",
+      "subject": "company_1392",
+      "rel": "owes",
+      "object": "bank_72",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2022-02-15",
+          "value_end": "2022-02-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Skye Holdings Limited owes Kel Commercial Bank Limited GBP 5 million as at 15 February 2022.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021327",
+      "subject": "company_1392",
+      "rel": "owns",
+      "object": "asset_207",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Skye Holdings Limited owns Larkspur Silo.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021328",
+      "subject": "asset_207",
+      "rel": "located_in",
+      "object": "place_139",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Larkspur Silo is located in Inglemere Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021329",
+      "subject": "company_1392",
+      "rel": "party_to",
+      "object": "legal_180",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Skye Holdings Limited is a party to the Board Resolution LEG-180.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021330",
+      "subject": "person_01",
+      "rel": "signed",
+      "object": "legal_180",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Jarrah Dunmore signed the Board Resolution LEG-180.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00446_proposal",
+      "text": "The acquisition of Skye Partners Limited by Skye Holdings Limited",
+      "speaker": "person_450",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ivo Rook, chair of Skye Holdings Limited, proposed to acquire Skye Partners Limited on 23 January 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00446_approval",
+      "text": "Regulatory approval for the acquisition of Skye Partners Limited",
+      "speaker": "person_450",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ivo Rook confirmed that regulatory approval for the acquisition of Skye Partners Limited by Skye Holdings Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00446_link_conditional",
+      "src": "gen_doc_00446_proposal",
+      "dst": "gen_doc_00446_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of Skye Partners Limited by Skye Holdings Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_00442_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00446",
+      "surface": "23 January 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-01-23",
+      "value_end": "2026-01-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "23 January 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021321",
+      "surface": "10 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-10",
+      "value_end": "2022-02-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "10 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021322",
+      "surface": "15 February 2022",
+      "kind": "INSTANT",
+      "value_start": "2022-02-15",
+      "value_end": "2022-02-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "15 February 2022",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

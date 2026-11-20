@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "synthetic-data-generator"
+version = "1.0.0"
+description = "Deterministic synthetic corporate/legal corpus and QA benchmark generator"
+readme = "README.md"
+requires-python = ">=3.11"
+
+# Runtime only. The generator writes .txt documents and ingests them through
+# Synth's real parser with an in-memory SQLite store. It does not start a model,
+# a PostgreSQL server, or Docling; Docling/pypdf imports are lazy and are not
+# exercised by this workflow.
+dependencies = [
+    "pydantic>=2.6,<3",
+    "SQLAlchemy>=2.0,<3",
+    "PyYAML>=6.0,<7",
+    "jsonschema>=4.21,<5",
+    "rapidfuzz>=3.6,<4",
+    "pysbd>=0.3.4,<1",
+    "python-ulid>=2.2,<4",
+    "httpx>=0.27,<1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0,<9",
+]
+
+[project.scripts]
+synthetic-data = "synthetic_data.generator.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["synthetic_data*", "synth*", "app*"]
+
+[tool.pytest.ini_options]
+testpaths = ["synthetic_data/tests"]
+addopts = "-q"

@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01062_correspondence.txt",
+    "doc_id": null,
+    "text_sha256": "5906d91e1310929fa074ae9aed868e950693118495686f8864d2d9229ec235a1"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, cross_document_contradiction, alias_same_person, proposed_vs_completed, conditional_relationship. Contradiction: contradiction_loan_01. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_166",
+      "name": "Juniper Cross Marina",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_166",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Juniper Cross Marina",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Marina",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_00",
+      "name": "Northbank Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_99",
+      "name": "Pember Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_99",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Pember Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Pember Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_00",
+      "name": "Oakhaven Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_00",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Oakhaven Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1947",
+      "name": "North Quarrymere Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1947",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Quarrymere Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1948",
+      "name": "North Quarrymere Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1948",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1949",
+      "name": "North Quarrymere Partners Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1949",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Quarrymere Partners Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_195",
+      "name": "Oakhurst Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_195",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Oakhurst Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1951",
+      "name": "North Quarrymere Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1951",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "North Quarrymere Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_111",
+      "name": "Cairn & Hale LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_111",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Cairn & Hale LLP",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Cairn & Hale LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_129",
+      "name": "Share Purchase Agreement LEG-129",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_129",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Share Purchase Agreement LEG-129",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Share Purchase Agreement LEG-129",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1066",
+      "name": "Ulric Whitlock",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1066",
+      "mentions": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ulric Whitlock",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Whitlock",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_555",
+      "name": "Kellan Yarrow",
+      "type": "person",
+      "subtype": null,
+      "key": "person_555",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Yarrow",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_556",
+      "name": "Kellan Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_556",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Zell",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Kellan Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_563",
+      "name": "Kellan Grenville",
+      "type": "person",
+      "subtype": null,
+      "key": "person_563",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Grenville",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_154",
+      "name": "Kelbrook Moor",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_154",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kelbrook Moor",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029972",
+      "subject": "company_1947",
+      "rel": "owns",
+      "object": "company_1948",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quarrymere Logistics Limited owns North Quarrymere Trading Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029973",
+      "subject": "person_563",
+      "rel": "shareholder_of",
+      "object": "company_1947",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Grenville is a shareholder of North Quarrymere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029985",
+      "subject": "person_555",
+      "rel": "family_of",
+      "object": "person_556",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Kellan Yarrow is a family member of Kellan Zell.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029975",
+      "subject": "bank_99",
+      "rel": "lent_to",
+      "object": "company_1947",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-11-11",
+          "value_end": "2024-11-11",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Pember Bank Limited lent North Quarrymere Logistics Limited GBP 24 million on 11 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029977",
+      "subject": "company_1949",
+      "rel": "guarantor_for",
+      "object": "company_1947",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "North Quarrymere Partners Limited guaranteed the loan to North Quarrymere Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029976",
+      "subject": "company_1947",
+      "rel": "owes",
+      "object": "bank_99",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-11-16",
+          "value_end": "2024-11-16",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Quarrymere Logistics Limited owes Pember Bank Limited GBP 10 million as at 16 November 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029981",
+      "subject": "company_1947",
+      "rel": "owns",
+      "object": "asset_166",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Quarrymere Logistics Limited owns Juniper Cross Marina.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029982",
+      "subject": "asset_166",
+      "rel": "located_in",
+      "object": "place_154",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Juniper Cross Marina is located in Kelbrook Moor.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029983",
+      "subject": "company_1947",
+      "rel": "party_to",
+      "object": "legal_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quarrymere Logistics Limited is a party to the Share Purchase Agreement LEG-129.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029984",
+      "subject": "person_556",
+      "rel": "signed",
+      "object": "legal_129",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Kellan Zell signed the Share Purchase Agreement LEG-129.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "fact_conflict_55m",
+      "subject": "bank_00",
+      "rel": "lent_to",
+      "object": "company_00",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-01-15",
+          "value_end": "2024-01-15",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Northbank Bank Limited lent Oakhaven Holdings Limited GBP 55 million on 15 January 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01062_proposal",
+      "text": "The acquisition of North Quarrymere Marine Limited by North Quarrymere Logistics Limited",
+      "speaker": "person_1066",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "Ulric Whitlock, chair of North Quarrymere Logistics Limited, proposed to acquire North Quarrymere Marine Limited on 22 September 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01062_approval",
+      "text": "Regulatory approval for the acquisition of North Quarrymere Marine Limited",
+      "speaker": "person_1066",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "quote": "Ulric Whitlock confirmed that regulatory approval for the acquisition of North Quarrymere Marine Limited by North Quarrymere Logistics Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_01062_link_conditional",
+      "src": "gen_doc_01062_proposal",
+      "dst": "gen_doc_01062_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "The acquisition of North Quarrymere Marine Limited by North Quarrymere Logistics Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "conflict",
+      "object_ids": [
+        "fact_conflict_55m"
+      ],
+      "note": "Paired with fact_conflict_42m stated in gen_doc_01058_financial_agreement.txt; the same loan is stated at a different amount."
+    }
+  ],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01062",
+      "surface": "22 September 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-09-22",
+      "value_end": "2024-09-22",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "22 September 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029975",
+      "surface": "11 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-11",
+      "value_end": "2024-11-11",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s11",
+        "quote": "11 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029976",
+      "surface": "16 November 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-11-16",
+      "value_end": "2024-11-16",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "16 November 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fact_conflict_55m",
+      "surface": "15 January 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-01-15",
+      "value_end": "2024-01-15",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s20",
+        "quote": "15 January 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

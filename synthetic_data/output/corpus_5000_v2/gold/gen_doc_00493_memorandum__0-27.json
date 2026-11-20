@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00493_memorandum.txt",
+    "doc_id": null,
+    "text_sha256": "bfa1b22cb92b039c686429c1a3d3fe695b5532c0c3ae6d5c4fc07b07841c6336"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, same_name_different_people, proposed_vs_completed, conditional_relationship, fiscal_date. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_249",
+      "name": "Northcliff Estate",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_249",
+      "mentions": [
+        {
+          "sentence_id": "s17",
+          "quote": "Northcliff Estate",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Estate",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_114",
+      "name": "Red Commercial Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_114",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "Red Commercial Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Red Commercial Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1434",
+      "name": "Vale Capital Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1434",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s3",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Vale Capital Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1435",
+      "name": "Vale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1435",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Vale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1436",
+      "name": "Vale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1436",
+      "mentions": [
+        {
+          "sentence_id": "s14",
+          "quote": "Vale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1439",
+      "name": "Vale Systems Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1439",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Vale Systems Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_04",
+      "name": "Pell & Ward LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_04",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pell & Ward LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_73",
+      "name": "Briar & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_73",
+      "mentions": [
+        {
+          "sentence_id": "s4",
+          "quote": "Briar & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_222",
+      "name": "Licence LEG-222",
+      "type": "legal",
+      "subtype": "document",
+      "key": "legal_222",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "Licence LEG-222",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Licence LEG-222",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_03",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_03",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Treasury Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_08",
+      "name": "Nadia Zell",
+      "type": "person",
+      "subtype": "judge",
+      "key": "person_08",
+      "mentions": [
+        {
+          "sentence_id": "s23",
+          "quote": "Nadia Zell of the Compliance Department",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_42",
+      "name": "Amina Briar",
+      "type": "person",
+      "subtype": null,
+      "key": "person_42",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Briar",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_43",
+      "name": "Amina Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_43",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Cairn",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Amina Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_497",
+      "name": "Juno Orrick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_497",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Orrick",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s25",
+          "quote": "Juno Orrick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_50",
+      "name": "Amina Jarvis",
+      "type": "person",
+      "subtype": null,
+      "key": "person_50",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Jarvis",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_01",
+      "name": "Calderport",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_01",
+      "mentions": [
+        {
+          "sentence_id": "s18",
+          "quote": "Calderport",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_021973",
+      "subject": "company_1434",
+      "rel": "owns",
+      "object": "company_1435",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Vale Capital Limited owns Vale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021974",
+      "subject": "person_50",
+      "rel": "shareholder_of",
+      "object": "company_1434",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Amina Jarvis is a shareholder of Vale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021986",
+      "subject": "person_42",
+      "rel": "family_of",
+      "object": "person_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Amina Briar is a family member of Amina Cairn.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021976",
+      "subject": "bank_114",
+      "rel": "lent_to",
+      "object": "company_1434",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2023-05-18",
+          "value_end": "2023-05-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "Red Commercial Bank Limited lent Vale Capital Limited GBP 38 million on 18 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021978",
+      "subject": "company_1436",
+      "rel": "guarantor_for",
+      "object": "company_1434",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "Vale Energy Limited guaranteed the loan to Vale Capital Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021977",
+      "subject": "company_1434",
+      "rel": "owes",
+      "object": "bank_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2023-05-23",
+          "value_end": "2023-05-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Vale Capital Limited owes Red Commercial Bank Limited GBP 7 million as at 23 May 2023.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021979",
+      "subject": "lawfirm_04",
+      "rel": "represents",
+      "object": "company_1434",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Pell & Ward LLP represents Vale Capital Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021982",
+      "subject": "company_1434",
+      "rel": "owns",
+      "object": "asset_249",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Vale Capital Limited owns Northcliff Estate.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021983",
+      "subject": "asset_249",
+      "rel": "located_in",
+      "object": "place_01",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "quote": "Northcliff Estate is located in Calderport.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021984",
+      "subject": "company_1434",
+      "rel": "party_to",
+      "object": "legal_222",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "Vale Capital Limited is a party to the Licence LEG-222.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_021985",
+      "subject": "person_43",
+      "rel": "signed",
+      "object": "legal_222",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Amina Cairn signed the Licence LEG-222.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00493_proposal",
+      "text": "The acquisition of Vale Systems Limited by Vale Capital Limited",
+      "speaker": "person_497",
+      "status": "proposed",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Juno Orrick, chair of Vale Capital Limited, proposed to acquire Vale Systems Limited on 18 December 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_00493_approval",
+      "text": "Regulatory approval for the acquisition of Vale Systems Limited",
+      "speaker": "person_497",
+      "status": "stated",
+      "negated": true,
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "quote": "Juno Orrick confirmed that regulatory approval for the acquisition of Vale Systems Limited by Vale Capital Limited has not been granted.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "gen_doc_00493_link_conditional",
+      "src": "gen_doc_00493_proposal",
+      "dst": "gen_doc_00493_approval",
+      "type": "conditional_on",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "quote": "The acquisition of Vale Systems Limited by Vale Capital Limited is conditional on regulatory approval.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "expected_flags": [
+    {
+      "kind": "identity_ambiguity",
+      "object_ids": [
+        "person_03",
+        "person_08"
+      ],
+      "note": "Do not merge the two people with the same name."
+    }
+  ],
+  "identity_traps": [
+    {
+      "a": "person_03",
+      "b": "person_08",
+      "note": "Two different people share the same display name."
+    }
+  ],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00493",
+      "surface": "18 December 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-12-18",
+      "value_end": "2026-12-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "18 December 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021976",
+      "surface": "18 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-18",
+      "value_end": "2023-05-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s13",
+        "quote": "18 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_021977",
+      "surface": "23 May 2023",
+      "kind": "INSTANT",
+      "value_start": "2023-05-23",
+      "value_end": "2023-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "23 May 2023",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00493",
+      "surface": "1 July 2026 to 30 June 2027",
+      "kind": "PERIOD",
+      "value_start": "2026-07-01",
+      "value_end": "2027-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s27",
+        "quote": "1 July 2026 to 30 June 2027",
+        "occurrence": 0
+      }
+    }
+  ]
+}

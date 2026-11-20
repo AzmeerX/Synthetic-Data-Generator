@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01388_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "c7a6e6c841a9e8f0615a066bebc46d84132a0103386ec4957d3f09a14c23f9c6"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_455",
+      "name": "Kelbrook Cold Store",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_455",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Kelbrook Cold Store",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "asset_459",
+      "name": "Kelbrook Data Centre",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_459",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kelbrook Data Centre",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Data Centre",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_128",
+      "name": "Tarrow International Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_128",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow International Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Tarrow International Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2240",
+      "name": "North Quenington Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2240",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "North Quenington Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_2242",
+      "name": "North Quenington Ventures Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_2242",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Ventures Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_30",
+      "name": "Alden & Zell LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_30",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Zell LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_422",
+      "name": "Loan Note LEG-422",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_422",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Loan Note LEG-422",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Loan Note LEG-422",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1392",
+      "name": "Bram Cavendish",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1392",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bram Cavendish",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_848",
+      "name": "Quin Ashby",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_848",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_849",
+      "name": "Quin Balfour",
+      "type": "person",
+      "subtype": null,
+      "key": "person_849",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Balfour",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Balfour",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_856",
+      "name": "Quin Ingram",
+      "type": "person",
+      "subtype": null,
+      "key": "person_856",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Ingram",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_87",
+      "name": "Belmont Hill",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_87",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Belmont Hill",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_034541",
+      "subject": "company_2240",
+      "rel": "owns",
+      "object": "asset_455",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Quenington Energy Limited owns Kelbrook Cold Store.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034550",
+      "subject": "company_2240",
+      "rel": "owns",
+      "object": "asset_459",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "North Quenington Energy Limited owns Kelbrook Data Centre.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034551",
+      "subject": "asset_459",
+      "rel": "located_in",
+      "object": "place_87",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kelbrook Data Centre is located in Belmont Hill.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034547",
+      "subject": "lawfirm_30",
+      "rel": "represents",
+      "object": "company_2240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Alden & Zell LLP represents North Quenington Energy Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034542",
+      "subject": "person_856",
+      "rel": "shareholder_of",
+      "object": "company_2240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Quin Ingram is a shareholder of North Quenington Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034554",
+      "subject": "person_848",
+      "rel": "family_of",
+      "object": "person_849",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Quin Ashby is a family member of Quin Balfour.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034544",
+      "subject": "bank_128",
+      "rel": "lent_to",
+      "object": "company_2240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-05-18",
+          "value_end": "2024-05-18",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Tarrow International Bank Limited lent North Quenington Energy Limited GBP 50 million on 18 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034546",
+      "subject": "company_2242",
+      "rel": "guarantor_for",
+      "object": "company_2240",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "North Quenington Ventures Limited guaranteed the loan to North Quenington Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034545",
+      "subject": "company_2240",
+      "rel": "owes",
+      "object": "bank_128",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-05-23",
+          "value_end": "2024-05-23",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "North Quenington Energy Limited owes Tarrow International Bank Limited GBP 13 million as at 23 May 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034552",
+      "subject": "company_2240",
+      "rel": "party_to",
+      "object": "legal_422",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "North Quenington Energy Limited is a party to the Loan Note LEG-422.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_034553",
+      "subject": "person_849",
+      "rel": "signed",
+      "object": "legal_422",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Quin Balfour signed the Loan Note LEG-422.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01388_allegation",
+      "text": "A former employee alleged that North Quenington Energy Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Bram Cavendish noted that a former employee alleged that North Quenington Energy Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01388",
+      "surface": "27 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-27",
+      "value_end": "2024-05-27",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "27 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034544",
+      "surface": "18 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-18",
+      "value_end": "2024-05-18",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "18 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_034545",
+      "surface": "23 May 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-05-23",
+      "value_end": "2024-05-23",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "23 May 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_01388",
+      "surface": "1 July 2023 to 30 June 2024",
+      "kind": "PERIOD",
+      "value_start": "2023-07-01",
+      "value_end": "2024-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2023 to 30 June 2024",
+        "occurrence": 0
+      }
+    }
+  ]
+}

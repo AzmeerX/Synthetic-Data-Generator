@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_00233_due_diligence.txt",
+    "doc_id": null,
+    "text_sha256": "fb1f9bba5f474780c7c64c2755726f036d6984c331d93f7a637b5125ffb4ae54"
+  },
+  "first_idx": 0,
+  "last_idx": 27,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, alias_same_person, fiscal_date, irrelevant_distractor, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "asset_114",
+      "name": "Greyhaven Plant",
+      "type": "thing",
+      "subtype": "asset",
+      "key": "asset_114",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Greyhaven Plant",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Plant",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "bank_43",
+      "name": "Fair Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_43",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Fair Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_303",
+      "name": "Yarmouth Group Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_303",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s10",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s11",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s17",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s20",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s27",
+          "quote": "Yarmouth Group Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_304",
+      "name": "Yarmouth Logistics Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_304",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Yarmouth Logistics Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_305",
+      "name": "Yarmouth Trading Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_305",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Trading Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "lawfirm_03",
+      "name": "Cairn & Sable LLP",
+      "type": "organization",
+      "subtype": "law_firm",
+      "key": "lawfirm_03",
+      "mentions": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Sable LLP",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_97",
+      "name": "Share Purchase Agreement LEG-097",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_97",
+      "mentions": [
+        {
+          "sentence_id": "s20",
+          "quote": "Share Purchase Agreement LEG-097",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Share Purchase Agreement LEG-097",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_05",
+      "name": "Petra Hale",
+      "type": "person",
+      "subtype": "lawyer",
+      "key": "person_05",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Hale",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "Petra Alden",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_237",
+      "name": "Daria Yardley",
+      "type": "person",
+      "subtype": null,
+      "key": "person_237",
+      "mentions": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Yardley",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_303",
+      "name": "Farah Quade",
+      "type": "person",
+      "subtype": null,
+      "key": "person_303",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Quade",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_304",
+      "name": "Farah Rook",
+      "type": "person",
+      "subtype": null,
+      "key": "person_304",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Rook",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Rook",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_311",
+      "name": "Farah Ashby",
+      "type": "person",
+      "subtype": null,
+      "key": "person_311",
+      "mentions": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Ashby",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "place_10",
+      "name": "Larkspur",
+      "type": "place",
+      "subtype": "location",
+      "key": "place_10",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Larkspur",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_004338",
+      "subject": "company_303",
+      "rel": "owns",
+      "object": "company_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "Yarmouth Group Limited owns Yarmouth Logistics Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004347",
+      "subject": "company_303",
+      "rel": "owns",
+      "object": "asset_114",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Yarmouth Group Limited owns Greyhaven Plant.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004348",
+      "subject": "asset_114",
+      "rel": "located_in",
+      "object": "place_10",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Greyhaven Plant is located in Larkspur.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004344",
+      "subject": "lawfirm_03",
+      "rel": "represents",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "quote": "Cairn & Sable LLP represents Yarmouth Group Limited in the matter.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004339",
+      "subject": "person_311",
+      "rel": "shareholder_of",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "quote": "Farah Ashby is a shareholder of Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004351",
+      "subject": "person_303",
+      "rel": "family_of",
+      "object": "person_304",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Farah Quade is a family member of Farah Rook.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004341",
+      "subject": "bank_43",
+      "rel": "lent_to",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2026-07-20",
+          "value_end": "2026-07-20",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Fair Private Bank Limited lent Yarmouth Group Limited GBP 16 million on 20 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004343",
+      "subject": "company_305",
+      "rel": "guarantor_for",
+      "object": "company_303",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Yarmouth Trading Limited guaranteed the loan to Yarmouth Group Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004342",
+      "subject": "company_303",
+      "rel": "owes",
+      "object": "bank_43",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2026-07-25",
+          "value_end": "2026-07-25",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "quote": "Yarmouth Group Limited owes Fair Private Bank Limited GBP 6 million as at 25 July 2026.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004349",
+      "subject": "company_303",
+      "rel": "party_to",
+      "object": "legal_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "quote": "Yarmouth Group Limited is a party to the Share Purchase Agreement LEG-097.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_004350",
+      "subject": "person_304",
+      "rel": "signed",
+      "object": "legal_97",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "quote": "Farah Rook signed the Share Purchase Agreement LEG-097.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_00233_allegation",
+      "text": "A former employee alleged that Yarmouth Group Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "quote": "Daria Yardley noted that a former employee alleged that Yarmouth Group Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_00233",
+      "surface": "7 April 2025",
+      "kind": "INSTANT",
+      "value_start": "2025-04-07",
+      "value_end": "2025-04-07",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "7 April 2025",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004341",
+      "surface": "20 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-20",
+      "value_end": "2026-07-20",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s15",
+        "quote": "20 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_004342",
+      "surface": "25 July 2026",
+      "kind": "INSTANT",
+      "value_start": "2026-07-25",
+      "value_end": "2026-07-25",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s17",
+        "quote": "25 July 2026",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_fiscal_00233",
+      "surface": "1 July 2024 to 30 June 2025",
+      "kind": "PERIOD",
+      "value_start": "2024-07-01",
+      "value_end": "2025-06-30",
+      "granularity": "year",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s25",
+        "quote": "1 July 2024 to 30 June 2025",
+        "occurrence": 0
+      }
+    }
+  ]
+}

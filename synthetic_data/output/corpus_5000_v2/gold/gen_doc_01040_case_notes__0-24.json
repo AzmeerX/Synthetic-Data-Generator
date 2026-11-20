@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "doc": {
+    "filename": "gen_doc_01040_case_notes.txt",
+    "doc_id": null,
+    "text_sha256": "96f5fc63c349c1a4073cfaba53124ccb82f521f00e545c7e07460537d2bba7d7"
+  },
+  "first_idx": 0,
+  "last_idx": 24,
+  "annotator": "synthetic_data.generator",
+  "mode": "generated",
+  "notes": "Traps: cross_document_relationship, negated_relationship, relative_date, alleged_fact. Generated from structured scenario facts; not blind.",
+  "entities": [
+    {
+      "id": "bank_79",
+      "name": "Low Private Bank Limited",
+      "type": "organization",
+      "subtype": "bank",
+      "key": "bank_79",
+      "mentions": [
+        {
+          "sentence_id": "s12",
+          "quote": "Low Private Bank Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "Low Private Bank Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1927",
+      "name": "North Overdale Marine Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1927",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s7",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s9",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s12",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s13",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s14",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s15",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s19",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s24",
+          "quote": "North Overdale Marine Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1928",
+      "name": "North Overdale Energy Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1928",
+      "mentions": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Overdale Energy Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_1929",
+      "name": "North Overdale Property Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_1929",
+      "mentions": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Overdale Property Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "company_193",
+      "name": "Oakhurst Holdings Limited",
+      "type": "organization",
+      "subtype": "company",
+      "key": "company_193",
+      "mentions": [
+        {
+          "sentence_id": "s0",
+          "quote": "Oakhurst Holdings Limited",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s22",
+          "quote": "Oakhurst Holdings Limited",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "legal_109",
+      "name": "Supply Agreement LEG-109",
+      "type": "legal",
+      "subtype": "agreement",
+      "key": "legal_109",
+      "mentions": [
+        {
+          "sentence_id": "s7",
+          "quote": "Supply Agreement LEG-109",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s8",
+          "quote": "Supply Agreement LEG-109",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_1044",
+      "name": "Ulric Zell",
+      "type": "person",
+      "subtype": null,
+      "key": "person_1044",
+      "mentions": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Zell",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_535",
+      "name": "Kellan Cairn",
+      "type": "person",
+      "subtype": null,
+      "key": "person_535",
+      "mentions": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kellan Cairn",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_536",
+      "name": "Kellan Dunmore",
+      "type": "person",
+      "subtype": null,
+      "key": "person_536",
+      "mentions": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kellan Dunmore",
+          "occurrence": 0
+        },
+        {
+          "sentence_id": "s16",
+          "quote": "Kellan Dunmore",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_538",
+      "name": "Kellan Fenwick",
+      "type": "person",
+      "subtype": null,
+      "key": "person_538",
+      "mentions": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Fenwick",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "person_543",
+      "name": "Kellan Kerr",
+      "type": "person",
+      "subtype": null,
+      "key": "person_543",
+      "mentions": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kellan Kerr",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfact_029671",
+      "subject": "company_1927",
+      "rel": "party_to",
+      "object": "legal_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "quote": "North Overdale Marine Limited is a party to the Supply Agreement LEG-109.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029672",
+      "subject": "person_536",
+      "rel": "signed",
+      "object": "legal_109",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "quote": "Kellan Dunmore signed the Supply Agreement LEG-109.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029662",
+      "subject": "person_538",
+      "rel": "chair_of",
+      "object": "company_1927",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "quote": "Kellan Fenwick is the chair of North Overdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029663",
+      "subject": "bank_79",
+      "rel": "lent_to",
+      "object": "company_1927",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "occurred_at",
+          "value_start": "2024-04-05",
+          "value_end": "2024-04-05",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "quote": "Low Private Bank Limited lent North Overdale Marine Limited GBP 24 million on 5 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029665",
+      "subject": "company_1929",
+      "rel": "guarantor_for",
+      "object": "company_1927",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "quote": "North Overdale Property Limited guaranteed the loan to North Overdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029664",
+      "subject": "company_1927",
+      "rel": "owes",
+      "object": "bank_79",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [
+        {
+          "role": "as_of",
+          "value_start": "2024-04-10",
+          "value_end": "2024-04-10",
+          "granularity": "day"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "quote": "North Overdale Marine Limited owes Low Private Bank Limited GBP 10 million as at 10 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029661",
+      "subject": "person_543",
+      "rel": "shareholder_of",
+      "object": "company_1927",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "quote": "Kellan Kerr is a shareholder of North Overdale Marine Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029673",
+      "subject": "person_535",
+      "rel": "family_of",
+      "object": "person_536",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "quote": "Kellan Cairn is a family member of Kellan Dunmore.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "cfact_029660",
+      "subject": "company_1927",
+      "rel": "owns",
+      "object": "company_1928",
+      "stance": "stated",
+      "negated": false,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "quote": "North Overdale Marine Limited owns North Overdale Energy Limited.",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "gen_doc_01040_neg_guarantee",
+      "subject": "company_1927",
+      "rel": "guarantor_for",
+      "object": "company_193",
+      "stance": "stated",
+      "negated": true,
+      "nested": false,
+      "time": [],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "quote": "North Overdale Marine Limited did not guarantee the facility for Oakhurst Holdings Limited on 21 April 2024.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "id": "gen_doc_01040_allegation",
+      "text": "A former employee alleged that North Overdale Marine Limited misstated its revenue",
+      "speaker": null,
+      "status": "alleged",
+      "negated": false,
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "quote": "Ulric Zell noted that a former employee alleged that North Overdale Marine Limited misstated its revenue.",
+          "occurrence": 0
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "expected_flags": [],
+  "identity_traps": [],
+  "time_refs": [
+    {
+      "id": "tr_doc_date_01040",
+      "surface": "21 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-21",
+      "value_end": "2024-04-21",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s1",
+        "quote": "21 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029663",
+      "surface": "5 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-05",
+      "value_end": "2024-04-05",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s12",
+        "quote": "5 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_cfact_029664",
+      "surface": "10 April 2024",
+      "kind": "INSTANT",
+      "value_start": "2024-04-10",
+      "value_end": "2024-04-10",
+      "granularity": "day",
+      "anchor_type": "ABSOLUTE",
+      "evidence": {
+        "sentence_id": "s14",
+        "quote": "10 April 2024",
+        "occurrence": 0
+      }
+    },
+    {
+      "id": "tr_relative_01040",
+      "surface": "six months after the date of this note",
+      "kind": "RELATIVE",
+      "value_start": "2024-10-21",
+      "value_end": "2024-10-21",
+      "granularity": "day",
+      "anchor_type": "DOC_DATE",
+      "evidence": {
+        "sentence_id": "s23",
+        "quote": "six months after the date of this note",
+        "occurrence": 0
+      }
+    }
+  ]
+}
