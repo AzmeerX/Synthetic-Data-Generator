@@ -11,8 +11,8 @@ requires-python = ">=3.11"
 
 # Runtime only. The generator writes .txt documents and ingests them through
 # Synth's real parser with an in-memory SQLite store. It does not start a model,
-# a PostgreSQL server, or Docling; Docling/pypdf imports are lazy and are not
-# exercised by this workflow.
+# a PostgreSQL server, or Docling. The TXT path needs nothing beyond this list;
+# PDF rendering (Phase D) and real PDF ingestion need the optional "pdf" group.
 dependencies = [
     "pydantic>=2.6,<3",
     "SQLAlchemy>=2.0,<3",
@@ -27,6 +27,51 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0,<9",
+]
+
+# Phase D: the PDF renderer (DEC-1) and the real PDF ingestion path.
+#
+# Deliberately *not* in the base dependencies: a TXT-only install stays small and
+# free of Docling.  Install with `pip install -e ".[dev,pdf]"`.
+#
+# Direct dependencies only.  Versions are exact because the rendered PDF bytes are
+# a regression fixture: a different ReportLab changes the bytes, and a different
+# Docling changes what the parser returns.  Transitive pins live in
+# constraints-pdf.txt (docling-core, docling-parse, pandas, ...); that file exists
+# so a clean environment resolves to the versions this repository was tested with.
+#
+# `format-pdf-docling` is the extra that supplies docling-parse, the native PDF
+# backend.  Without it Docling refuses every PDF with "The 'docling-parse' package
+# is required to parse PDF files with this backend".  It pulls no models: the
+# native pipeline runs no Torch, no OCR and no TableFormer, which is why PDF tables
+# arrive flattened (D7).
+pdf = [
+    "reportlab==5.1.0",
+    "docling-slim[format-pdf-docling]==2.151.1",
+    "pypdfium2==5.13.0",
+    "pypdf==7.0.1",
+]
+
+# Phase E: the DOCX renderer and the DOCX ingestion path.
+#
+# python-docx is both the writer and Docling's own DOCX backend (`format-docx`
+# requires python-docx<2,>=1.2), so it is a direct dependency of both halves.
+# Install with `pip install -e ".[dev,docx]"`; a TXT-only or PDF-only install does
+# not need it.
+docx = [
+    "python-docx==1.2.0",
+    "docling-slim[format-docx]==2.151.1",
+]
+
+# Phase F: the XLSX workbook renderer and the spreadsheet ingestion path.
+#
+# openpyxl is both the writer and Docling's own spreadsheet backend (`format-xlsx`
+# requires openpyxl<4,>=3.1.5).  lxml is used to add cached formula results to the
+# saved parts, so it is pinned in constraints-xlsx.txt even though it is transitive
+# here: the written bytes depend on it.
+xlsx = [
+    "openpyxl==3.1.5",
+    "docling-slim[format-xlsx]==2.151.1",
 ]
 
 [project.scripts]

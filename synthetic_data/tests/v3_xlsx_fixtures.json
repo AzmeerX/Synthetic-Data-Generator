@@ -1,0 +1,65 @@
+{
+  "command": "py -3.13 synthetic_data/tests/v3_xlsx_fixtures.py",
+  "config": {
+    "corpus_name": "v3_pilot",
+    "documents": 7,
+    "seed": 7,
+    "workbooks": 1
+  },
+  "description": "Phase F XLSX renderer regression fixtures: the pilot workbook (Cover, Share register, Transaction ledger, Financial summary, Security schedule) and a hand-built workbook with an ownership schedule, a reconciliation sheet, cross-sheet formulas, an interest calculation and a valid defined name",
+  "documents": {
+    "doc:00007:ndyafme64g7ly": {
+      "bytes": 9749,
+      "cells": 196,
+      "declared_rows": 32,
+      "doc_type": "workbook:shareholder_register",
+      "facts": 25,
+      "pageless": true,
+      "rows": 32,
+      "sha256": "8582e5a87fa73833006db0eba65937683acaee174e36eb87370120cb8d2b42a7",
+      "sheet_names": [
+        "Cover",
+        "Share register",
+        "Transaction ledger",
+        "Financial summary",
+        "Security schedule"
+      ],
+      "sheets": 5,
+      "spans": 244,
+      "tables": 4,
+      "warnings": 0
+    },
+    "doc:93001": {
+      "bytes": 9249,
+      "cells": 95,
+      "declared_rows": 22,
+      "doc_type": "workbook:ownership_schedule",
+      "facts": 7,
+      "pageless": true,
+      "rows": 22,
+      "sha256": "34ea3fb60ada4bd1bd596817711ee5ad86047084d26dfd803c37ff6d929e61d9",
+      "sheet_names": [
+        "Shareholder register",
+        "Transaction ledger",
+        "Financial summary",
+        "Ownership schedule",
+        "Reconciliation"
+      ],
+      "sheets": 5,
+      "spans": 132,
+      "tables": 5,
+      "warnings": 0
+    }
+  },
+  "hash": "sha256(rendered bytes)",
+  "profile": {
+    "font_family": "Calibri",
+    "table_style": "Excel default"
+  },
+  "versions": {
+    "docling-slim": "2.151.1",
+    "et-xmlfile": "2.0.0",
+    "lxml": "6.0.2",
+    "openpyxl": "3.1.5"
+  }
+}

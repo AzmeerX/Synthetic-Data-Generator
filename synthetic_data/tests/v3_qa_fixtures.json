@@ -1,0 +1,24 @@
+{
+  "command": "py -3.13 synthetic_data/tests/v3_qa_fixtures.py",
+  "counts": {
+    "alleged_vs_established": 2,
+    "contradiction_resolution": 1,
+    "entity_lookup": 3,
+    "financial": 1,
+    "identity_resolution": 1,
+    "multi_hop": 1,
+    "ownership_lookup": 2,
+    "provenance": 2,
+    "relationship_lookup": 4,
+    "temporal": 4
+  },
+  "document": "doc:00000:qr3hgvjuuciha",
+  "first_questions": [
+    "How is Merrick & Ellery LLP related to Dungate Industries GmbH in this document?",
+    "Which entity does Merrick & Ellery LLP represent?",
+    "How is Sofia Kerr related to Dungate Industries GmbH in this document?"
+  ],
+  "format": "txt",
+  "questions": 21,
+  "sha256": "be5bbea6009f51bc1d5899f2fb2b10ffc01fb3c334fdbd5f63c87a65267c4ff2"
+}
