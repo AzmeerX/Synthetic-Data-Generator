@@ -1,0 +1,346 @@
+{
+  "$defs": {
+    "RenderLoc": {
+      "additionalProperties": false,
+      "description": "Where a canonical node landed in one rendered artifact.",
+      "properties": {
+        "bbox": {
+          "anyOf": [
+            {
+              "maxItems": 4,
+              "minItems": 4,
+              "prefixItems": [
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "number"
+                }
+              ],
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Bbox"
+        },
+        "cell_ref": {
+          "anyOf": [
+            {
+              "maxLength": 32,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Cell Ref"
+        },
+        "char_end": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Char End"
+        },
+        "char_start": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Char Start"
+        },
+        "column": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Column"
+        },
+        "format": {
+          "enum": [
+            "txt",
+            "pdf",
+            "docx",
+            "xlsx"
+          ],
+          "title": "Format",
+          "type": "string"
+        },
+        "line_no": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Line No"
+        },
+        "page": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Page"
+        },
+        "pageless": {
+          "default": false,
+          "title": "Pageless",
+          "type": "boolean"
+        },
+        "paragraph_index": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Paragraph Index"
+        },
+        "row": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Row"
+        },
+        "run_end": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Run End"
+        },
+        "run_start": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Run Start"
+        },
+        "section_index": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Section Index"
+        },
+        "sheet_name": {
+          "anyOf": [
+            {
+              "maxLength": 31,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sheet Name"
+        },
+        "table_index": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Table Index"
+        },
+        "table_name": {
+          "anyOf": [
+            {
+              "maxLength": 120,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Table Name"
+        }
+      },
+      "required": [
+        "format"
+      ],
+      "title": "RenderLoc",
+      "type": "object"
+    },
+    "RenderSpan": {
+      "additionalProperties": false,
+      "properties": {
+        "canonical_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Canonical Id",
+          "type": "string"
+        },
+        "format": {
+          "enum": [
+            "txt",
+            "pdf",
+            "docx",
+            "xlsx"
+          ],
+          "title": "Format",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "section",
+            "block",
+            "table",
+            "row",
+            "cell",
+            "sentence"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "loc": {
+          "$ref": "#/$defs/RenderLoc"
+        },
+        "text": {
+          "maxLength": 100000,
+          "title": "Text",
+          "type": "string"
+        },
+        "text_sha256": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Text Sha256",
+          "type": "string"
+        }
+      },
+      "required": [
+        "canonical_id",
+        "kind",
+        "format",
+        "loc",
+        "text",
+        "text_sha256"
+      ],
+      "title": "RenderSpan",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "document_id": {
+      "maxLength": 200,
+      "minLength": 3,
+      "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+      "title": "Document Id",
+      "type": "string"
+    },
+    "fact_surfaces": {
+      "patternProperties": {
+        "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        }
+      },
+      "propertyNames": {
+        "maxLength": 200,
+        "minLength": 3
+      },
+      "title": "Fact Surfaces",
+      "type": "object"
+    },
+    "format": {
+      "enum": [
+        "txt",
+        "pdf",
+        "docx",
+        "xlsx"
+      ],
+      "title": "Format",
+      "type": "string"
+    },
+    "spans": {
+      "items": {
+        "$ref": "#/$defs/RenderSpan"
+      },
+      "title": "Spans",
+      "type": "array"
+    }
+  },
+  "required": [
+    "document_id",
+    "format"
+  ],
+  "title": "RenderMap",
+  "type": "object"
+}

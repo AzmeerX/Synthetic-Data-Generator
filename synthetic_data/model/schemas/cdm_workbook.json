@@ -1,0 +1,1368 @@
+{
+  "$defs": {
+    "Block": {
+      "additionalProperties": false,
+      "description": "Discriminated by ``kind``; validators enforce exactly one payload shape.",
+      "properties": {
+        "block_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Block Id",
+          "type": "string"
+        },
+        "footnote_refs": {
+          "anyOf": [
+            {
+              "items": {
+                "maxLength": 200,
+                "minLength": 3,
+                "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+                "type": "string"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Footnote Refs"
+        },
+        "items": {
+          "anyOf": [
+            {
+              "items": {
+                "$ref": "#/$defs/ListItem"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Items"
+        },
+        "kind": {
+          "enum": [
+            "paragraph",
+            "list",
+            "table",
+            "note",
+            "page_break",
+            "signature",
+            "exhibit",
+            "header",
+            "footer"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "ordered": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ordered"
+        },
+        "runs": {
+          "anyOf": [
+            {
+              "items": {
+                "$ref": "#/$defs/InlineRun"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Runs"
+        },
+        "table": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Table"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "block_id",
+        "kind"
+      ],
+      "title": "Block",
+      "type": "object"
+    },
+    "CellFormula": {
+      "additionalProperties": false,
+      "description": "Spreadsheet formula with its cached result.\n\nThe cached value is what a reader sees without recalculation; it must agree\nwith the cell's typed ``value`` so a formula can never disagree with the\nsemantic fact the cell references.",
+      "properties": {
+        "cached_value": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Money"
+            },
+            {
+              "$ref": "#/$defs/Percentage"
+            },
+            {
+              "$ref": "#/$defs/IsoDate"
+            },
+            {
+              "type": "integer"
+            }
+          ],
+          "title": "Cached Value"
+        },
+        "formula": {
+          "maxLength": 400,
+          "minLength": 2,
+          "pattern": "^=",
+          "title": "Formula",
+          "type": "string"
+        },
+        "recalc_on_load": {
+          "default": false,
+          "title": "Recalc On Load",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "formula",
+        "cached_value"
+      ],
+      "title": "CellFormula",
+      "type": "object"
+    },
+    "ColumnSpec": {
+      "additionalProperties": false,
+      "description": "Column-level type is an *expectation*, never a coercion (DEC-11).\n\nCell values are authoritative.  A homogeneous column may declare its type;\na heterogeneous column declares ``mixed``; leaving it ``None`` also means no\nexpectation.  Typed cells that disagree with a concrete declaration are\nrejected rather than converted.",
+      "properties": {
+        "align": {
+          "default": "left",
+          "enum": [
+            "left",
+            "right",
+            "center"
+          ],
+          "title": "Align",
+          "type": "string"
+        },
+        "name": {
+          "maxLength": 120,
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "type": {
+          "anyOf": [
+            {
+              "enum": [
+                "text",
+                "money",
+                "date",
+                "percent",
+                "int",
+                "mixed"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Type"
+        },
+        "width_hint": {
+          "anyOf": [
+            {
+              "exclusiveMinimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Width Hint"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "title": "ColumnSpec",
+      "type": "object"
+    },
+    "DocumentMetadata": {
+      "additionalProperties": false,
+      "properties": {
+        "addressee": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/EntityRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "author": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/EntityRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "classification": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Classification"
+        },
+        "document_date": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/IsoDate"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "issuer": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/EntityRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "jurisdiction": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Jurisdiction"
+        },
+        "reference": {
+          "anyOf": [
+            {
+              "maxLength": 120,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Reference"
+        },
+        "register": {
+          "default": "formal",
+          "enum": [
+            "formal",
+            "neutral",
+            "terse"
+          ],
+          "title": "Register",
+          "type": "string"
+        },
+        "subtitle": {
+          "anyOf": [
+            {
+              "maxLength": 300,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Subtitle"
+        },
+        "thread": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/MessageMeta"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "title": {
+          "anyOf": [
+            {
+              "maxLength": 300,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Title"
+        },
+        "version": {
+          "anyOf": [
+            {
+              "maxLength": 32,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Version"
+        }
+      },
+      "title": "DocumentMetadata",
+      "type": "object"
+    },
+    "DocumentRef": {
+      "additionalProperties": false,
+      "properties": {
+        "document_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Document Id",
+          "type": "string"
+        },
+        "version": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Version"
+        }
+      },
+      "required": [
+        "document_id"
+      ],
+      "title": "DocumentRef",
+      "type": "object"
+    },
+    "EntityRef": {
+      "additionalProperties": false,
+      "properties": {
+        "entity_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Entity Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "entity_id"
+      ],
+      "title": "EntityRef",
+      "type": "object"
+    },
+    "Exhibit": {
+      "additionalProperties": false,
+      "properties": {
+        "document_ref": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/DocumentRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "exhibit_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Exhibit Id",
+          "type": "string"
+        },
+        "label": {
+          "maxLength": 32,
+          "minLength": 1,
+          "title": "Label",
+          "type": "string"
+        },
+        "title": {
+          "maxLength": 300,
+          "minLength": 1,
+          "title": "Title",
+          "type": "string"
+        }
+      },
+      "required": [
+        "exhibit_id",
+        "label",
+        "title"
+      ],
+      "title": "Exhibit",
+      "type": "object"
+    },
+    "FactStatement": {
+      "additionalProperties": false,
+      "properties": {
+        "canonical_sentence_ids": {
+          "items": {
+            "maxLength": 200,
+            "minLength": 3,
+            "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+            "type": "string"
+          },
+          "title": "Canonical Sentence Ids",
+          "type": "array"
+        },
+        "fact_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Fact Id",
+          "type": "string"
+        },
+        "mention_ids": {
+          "items": {
+            "maxLength": 200,
+            "minLength": 3,
+            "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+            "type": "string"
+          },
+          "title": "Mention Ids",
+          "type": "array"
+        },
+        "node_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Node Id",
+          "type": "string"
+        },
+        "statement_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Statement Id",
+          "type": "string"
+        },
+        "surface": {
+          "maxLength": 4000,
+          "minLength": 1,
+          "title": "Surface",
+          "type": "string"
+        },
+        "value_slots": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Value Slots",
+          "type": "object"
+        }
+      },
+      "required": [
+        "statement_id",
+        "fact_id",
+        "node_id",
+        "surface"
+      ],
+      "title": "FactStatement",
+      "type": "object"
+    },
+    "Footnote": {
+      "additionalProperties": false,
+      "properties": {
+        "footnote_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Footnote Id",
+          "type": "string"
+        },
+        "marker": {
+          "maxLength": 8,
+          "minLength": 1,
+          "title": "Marker",
+          "type": "string"
+        },
+        "runs": {
+          "items": {
+            "$ref": "#/$defs/InlineRun"
+          },
+          "minItems": 1,
+          "title": "Runs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "footnote_id",
+        "marker",
+        "runs"
+      ],
+      "title": "Footnote",
+      "type": "object"
+    },
+    "HeaderFooter": {
+      "additionalProperties": false,
+      "properties": {
+        "applies_to": {
+          "default": "all",
+          "enum": [
+            "all",
+            "first",
+            "last"
+          ],
+          "title": "Applies To",
+          "type": "string"
+        },
+        "header_footer_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Header Footer Id",
+          "type": "string"
+        },
+        "position": {
+          "enum": [
+            "header",
+            "footer"
+          ],
+          "title": "Position",
+          "type": "string"
+        },
+        "runs": {
+          "items": {
+            "$ref": "#/$defs/InlineRun"
+          },
+          "minItems": 1,
+          "title": "Runs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "header_footer_id",
+        "position",
+        "runs"
+      ],
+      "title": "HeaderFooter",
+      "type": "object"
+    },
+    "InlineRun": {
+      "additionalProperties": false,
+      "description": "A run of text, optionally anchored to an entity, document or typed value.",
+      "properties": {
+        "document_ref": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/DocumentRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "emphasis": {
+          "default": "none",
+          "enum": [
+            "none",
+            "bold",
+            "italic"
+          ],
+          "title": "Emphasis",
+          "type": "string"
+        },
+        "entity_ref": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/EntityRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "fact_ref": {
+          "anyOf": [
+            {
+              "maxLength": 200,
+              "minLength": 3,
+              "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Fact Ref"
+        },
+        "footnote_id": {
+          "anyOf": [
+            {
+              "maxLength": 200,
+              "minLength": 3,
+              "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Footnote Id"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "maxLength": 4000,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Text"
+        },
+        "value": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Money"
+            },
+            {
+              "$ref": "#/$defs/Percentage"
+            },
+            {
+              "$ref": "#/$defs/IsoDate"
+            },
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Value"
+        }
+      },
+      "title": "InlineRun",
+      "type": "object"
+    },
+    "IsoDate": {
+      "additionalProperties": false,
+      "description": "A date with explicit precision; inconsistent precision is rejected, not repaired.",
+      "properties": {
+        "precision": {
+          "default": "day",
+          "enum": [
+            "day",
+            "month",
+            "year"
+          ],
+          "title": "Precision",
+          "type": "string"
+        },
+        "value": {
+          "format": "date",
+          "title": "Value",
+          "type": "string"
+        }
+      },
+      "required": [
+        "value"
+      ],
+      "title": "IsoDate",
+      "type": "object"
+    },
+    "ListItem": {
+      "additionalProperties": false,
+      "properties": {
+        "item_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Item Id",
+          "type": "string"
+        },
+        "level": {
+          "default": 1,
+          "maximum": 6,
+          "minimum": 1,
+          "title": "Level",
+          "type": "integer"
+        },
+        "runs": {
+          "items": {
+            "$ref": "#/$defs/InlineRun"
+          },
+          "minItems": 1,
+          "title": "Runs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "item_id",
+        "runs"
+      ],
+      "title": "ListItem",
+      "type": "object"
+    },
+    "MessageMeta": {
+      "additionalProperties": false,
+      "description": "Per-message thread linkage (decision DEC-7); the thread itself is Layer 1.",
+      "properties": {
+        "attachments": {
+          "items": {
+            "maxLength": 200,
+            "minLength": 3,
+            "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+            "type": "string"
+          },
+          "title": "Attachments",
+          "type": "array"
+        },
+        "in_reply_to": {
+          "anyOf": [
+            {
+              "maxLength": 200,
+              "minLength": 3,
+              "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "In Reply To"
+        },
+        "message_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Message Id",
+          "type": "string"
+        },
+        "references": {
+          "items": {
+            "maxLength": 200,
+            "minLength": 3,
+            "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+            "type": "string"
+          },
+          "title": "References",
+          "type": "array"
+        },
+        "sequence": {
+          "minimum": 1,
+          "title": "Sequence",
+          "type": "integer"
+        },
+        "thread_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Thread Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "thread_id",
+        "message_id",
+        "sequence"
+      ],
+      "title": "MessageMeta",
+      "type": "object"
+    },
+    "Money": {
+      "additionalProperties": false,
+      "description": "Exact monetary amount in minor units.  ``Money(400_000_000, \"GBP\")`` is \u00a34,000,000.",
+      "properties": {
+        "amount_minor": {
+          "title": "Amount Minor",
+          "type": "integer"
+        },
+        "currency": {
+          "pattern": "^[A-Z]{3}$",
+          "title": "Currency",
+          "type": "string"
+        }
+      },
+      "required": [
+        "amount_minor",
+        "currency"
+      ],
+      "title": "Money",
+      "type": "object"
+    },
+    "Percentage": {
+      "additionalProperties": false,
+      "description": "Percentage in basis points: ``Percentage(350)`` is 3.50%.",
+      "properties": {
+        "basis_points": {
+          "maximum": 1000000,
+          "minimum": -1000000,
+          "title": "Basis Points",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "basis_points"
+      ],
+      "title": "Percentage",
+      "type": "object"
+    },
+    "Section": {
+      "additionalProperties": false,
+      "properties": {
+        "blocks": {
+          "items": {
+            "$ref": "#/$defs/Block"
+          },
+          "title": "Blocks",
+          "type": "array"
+        },
+        "depth": {
+          "maximum": 8,
+          "minimum": 0,
+          "title": "Depth",
+          "type": "integer"
+        },
+        "heading": {
+          "maxLength": 300,
+          "minLength": 1,
+          "title": "Heading",
+          "type": "string"
+        },
+        "number": {
+          "anyOf": [
+            {
+              "maxLength": 32,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Number"
+        },
+        "parent_id": {
+          "anyOf": [
+            {
+              "maxLength": 200,
+              "minLength": 3,
+              "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Parent Id"
+        },
+        "section_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Section Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "section_id",
+        "depth",
+        "heading"
+      ],
+      "title": "Section",
+      "type": "object"
+    },
+    "Sheet": {
+      "additionalProperties": false,
+      "properties": {
+        "blocks": {
+          "items": {
+            "$ref": "#/$defs/Block"
+          },
+          "title": "Blocks",
+          "type": "array"
+        },
+        "frozen_header": {
+          "default": true,
+          "title": "Frozen Header",
+          "type": "boolean"
+        },
+        "name": {
+          "maxLength": 31,
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "sheet_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Sheet Id",
+          "type": "string"
+        },
+        "tables": {
+          "items": {
+            "$ref": "#/$defs/Table"
+          },
+          "title": "Tables",
+          "type": "array"
+        }
+      },
+      "required": [
+        "sheet_id",
+        "name"
+      ],
+      "title": "Sheet",
+      "type": "object"
+    },
+    "SignatureRecord": {
+      "additionalProperties": false,
+      "properties": {
+        "capacity": {
+          "maxLength": 120,
+          "minLength": 1,
+          "title": "Capacity",
+          "type": "string"
+        },
+        "digital": {
+          "default": false,
+          "title": "Digital",
+          "type": "boolean"
+        },
+        "signatory": {
+          "$ref": "#/$defs/EntityRef"
+        },
+        "signature_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Signature Id",
+          "type": "string"
+        },
+        "signed_on": {
+          "$ref": "#/$defs/IsoDate"
+        },
+        "witness": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/EntityRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "signature_id",
+        "signatory",
+        "capacity",
+        "signed_on"
+      ],
+      "title": "SignatureRecord",
+      "type": "object"
+    },
+    "Table": {
+      "additionalProperties": false,
+      "properties": {
+        "body_rows": {
+          "items": {
+            "$ref": "#/$defs/TableRow"
+          },
+          "minItems": 1,
+          "title": "Body Rows",
+          "type": "array"
+        },
+        "caption": {
+          "anyOf": [
+            {
+              "maxLength": 300,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Caption"
+        },
+        "cell_refs": {
+          "additionalProperties": {
+            "maxLength": 200,
+            "minLength": 3,
+            "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+            "type": "string"
+          },
+          "title": "Cell Refs",
+          "type": "object"
+        },
+        "columns": {
+          "items": {
+            "$ref": "#/$defs/ColumnSpec"
+          },
+          "minItems": 1,
+          "title": "Columns",
+          "type": "array"
+        },
+        "header_rows": {
+          "items": {
+            "$ref": "#/$defs/TableRow"
+          },
+          "title": "Header Rows",
+          "type": "array"
+        },
+        "table_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Table Id",
+          "type": "string"
+        },
+        "total_rows": {
+          "items": {
+            "$ref": "#/$defs/TableRow"
+          },
+          "title": "Total Rows",
+          "type": "array"
+        }
+      },
+      "required": [
+        "table_id",
+        "body_rows",
+        "columns"
+      ],
+      "title": "Table",
+      "type": "object"
+    },
+    "TableCell": {
+      "additionalProperties": false,
+      "properties": {
+        "cell_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Cell Id",
+          "type": "string"
+        },
+        "colspan": {
+          "default": 1,
+          "minimum": 1,
+          "title": "Colspan",
+          "type": "integer"
+        },
+        "display": {
+          "default": "",
+          "maxLength": 200,
+          "title": "Display",
+          "type": "string"
+        },
+        "entity_ref": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/EntityRef"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "fact_ref": {
+          "anyOf": [
+            {
+              "maxLength": 200,
+              "minLength": 3,
+              "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Fact Ref"
+        },
+        "formula": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/CellFormula"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "number_format": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Number Format"
+        },
+        "rowspan": {
+          "default": 1,
+          "minimum": 1,
+          "title": "Rowspan",
+          "type": "integer"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Text"
+        },
+        "value": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Money"
+            },
+            {
+              "$ref": "#/$defs/Percentage"
+            },
+            {
+              "$ref": "#/$defs/IsoDate"
+            },
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Value"
+        }
+      },
+      "required": [
+        "cell_id"
+      ],
+      "title": "TableCell",
+      "type": "object"
+    },
+    "TableRow": {
+      "additionalProperties": false,
+      "properties": {
+        "cells": {
+          "items": {
+            "$ref": "#/$defs/TableCell"
+          },
+          "minItems": 1,
+          "title": "Cells",
+          "type": "array"
+        },
+        "row_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Row Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "row_id",
+        "cells"
+      ],
+      "title": "TableRow",
+      "type": "object"
+    },
+    "Workbook": {
+      "additionalProperties": false,
+      "properties": {
+        "named_ranges": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Named Ranges",
+          "type": "object"
+        },
+        "sheets": {
+          "items": {
+            "$ref": "#/$defs/Sheet"
+          },
+          "minItems": 1,
+          "title": "Sheets",
+          "type": "array"
+        },
+        "workbook_id": {
+          "maxLength": 200,
+          "minLength": 3,
+          "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+          "title": "Workbook Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "workbook_id",
+        "sheets"
+      ],
+      "title": "Workbook",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "A document whose content lives in worksheets rather than prose sections.",
+  "properties": {
+    "doc_kind": {
+      "const": "workbook",
+      "default": "workbook",
+      "title": "Doc Kind",
+      "type": "string"
+    },
+    "doc_type": {
+      "maxLength": 64,
+      "minLength": 1,
+      "title": "Doc Type",
+      "type": "string"
+    },
+    "document_id": {
+      "maxLength": 200,
+      "minLength": 3,
+      "pattern": "^[a-z][a-z0-9_]*:[A-Za-z0-9][A-Za-z0-9:._/\\-]*$",
+      "title": "Document Id",
+      "type": "string"
+    },
+    "exhibits": {
+      "items": {
+        "$ref": "#/$defs/Exhibit"
+      },
+      "title": "Exhibits",
+      "type": "array"
+    },
+    "footers": {
+      "items": {
+        "$ref": "#/$defs/HeaderFooter"
+      },
+      "title": "Footers",
+      "type": "array"
+    },
+    "footnotes": {
+      "items": {
+        "$ref": "#/$defs/Footnote"
+      },
+      "title": "Footnotes",
+      "type": "array"
+    },
+    "headers": {
+      "items": {
+        "$ref": "#/$defs/HeaderFooter"
+      },
+      "title": "Headers",
+      "type": "array"
+    },
+    "metadata": {
+      "$ref": "#/$defs/DocumentMetadata"
+    },
+    "plan_fingerprint": {
+      "maxLength": 128,
+      "minLength": 1,
+      "title": "Plan Fingerprint",
+      "type": "string"
+    },
+    "sections": {
+      "items": {
+        "$ref": "#/$defs/Section"
+      },
+      "title": "Sections",
+      "type": "array"
+    },
+    "signatures": {
+      "items": {
+        "$ref": "#/$defs/SignatureRecord"
+      },
+      "title": "Signatures",
+      "type": "array"
+    },
+    "statements": {
+      "items": {
+        "$ref": "#/$defs/FactStatement"
+      },
+      "title": "Statements",
+      "type": "array"
+    },
+    "structure_id": {
+      "maxLength": 120,
+      "minLength": 1,
+      "title": "Structure Id",
+      "type": "string"
+    },
+    "workbook": {
+      "$ref": "#/$defs/Workbook"
+    }
+  },
+  "required": [
+    "document_id",
+    "doc_type",
+    "structure_id",
+    "plan_fingerprint",
+    "workbook"
+  ],
+  "title": "CdmWorkbook",
+  "type": "object"
+}

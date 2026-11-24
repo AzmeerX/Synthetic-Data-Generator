@@ -1,0 +1,14 @@
+# Exact resolved versions for the optional "xlsx" group (Phase F).
+#
+# Install with:
+#   pip install -e ".[dev,xlsx]" -c constraints-xlsx.txt
+#
+# openpyxl writes the package and Docling reads it back (format-xlsx requires
+# openpyxl<4,>=3.1.5); et-xmlfile is openpyxl's only hard dependency.  lxml is
+# pinned because the renderer rewrites each worksheet part to add cached formula
+# results, and the resulting bytes depend on how lxml serialises them.
+openpyxl==3.1.5
+et-xmlfile==2.0.0
+lxml==6.0.2
+docling-slim==2.151.1
+docling-core==2.108.0

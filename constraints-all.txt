@@ -1,0 +1,17 @@
+# Combined constraints for the full multi-format install (Phases C-F).
+#
+#   pip install -e ".[dev,pdf,docx,xlsx]" -c constraints-all.txt
+#
+# This is the union of constraints-pdf.txt, constraints-docx.txt and
+# constraints-xlsx.txt; keep the three files authoritative and regenerate this one
+# from them if a version changes.
+reportlab==5.1.0
+docling-slim==2.151.1
+docling-core==2.108.0
+docling-parse==7.27.1
+pypdfium2==5.13.0
+pypdf==7.0.1
+python-docx==1.2.0
+lxml==6.0.2
+openpyxl==3.1.5
+et-xmlfile==2.0.0

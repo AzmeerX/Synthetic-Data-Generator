@@ -1,0 +1,115 @@
+{
+  "command": "py -3.13 synthetic_data/tests/v3_txt_fixtures.py",
+  "config": {
+    "corpus_name": "v3_pilot",
+    "documents": 7,
+    "include_footers": true,
+    "include_headers": true,
+    "page_width_chars": 120,
+    "seed": 7,
+    "table_style": "pipe",
+    "workbooks": 1
+  },
+  "description": "Phase C TXT renderer regression fixtures: all seven prose types plus a hand-built document covering page breaks, footnotes, ordered lists, exhibits and blank cells",
+  "documents": {
+    "doc:00000:qr3hgvjuuciha": {
+      "block_count": 143,
+      "bytes": 10924,
+      "doc_type": "case_notes",
+      "facts": 11,
+      "lines": 171,
+      "pages": 7,
+      "sentences": 133,
+      "sha256": "a12782a4f471120d3bf8ee62747dbb8de1563eebe6ac315af85204208c63a6e8",
+      "spans": 276
+    },
+    "doc:00001:d2kl6zqv57nws": {
+      "block_count": 210,
+      "bytes": 17950,
+      "doc_type": "due_diligence",
+      "facts": 10,
+      "lines": 285,
+      "pages": 10,
+      "sentences": 227,
+      "sha256": "7378c2076dc9d058868f576686f2ad5c2bc02fcdc0a3178cdcf071554ee37f62",
+      "spans": 437
+    },
+    "doc:00002:jhcapfpwfmja6": {
+      "block_count": 286,
+      "bytes": 23684,
+      "doc_type": "financial_agreement",
+      "facts": 11,
+      "lines": 364,
+      "pages": 11,
+      "sentences": 300,
+      "sha256": "a246de27c10b47d2616ab1872078a33237600d4a69b3ed01c93324dcfca75337",
+      "spans": 586
+    },
+    "doc:00003:ab5vzphgqn7lw": {
+      "block_count": 113,
+      "bytes": 11880,
+      "doc_type": "memorandum",
+      "facts": 9,
+      "lines": 172,
+      "pages": 7,
+      "sentences": 134,
+      "sha256": "3eba69cb0dc77106004536da06bc923749ba3bb64416cfd8e3bc770430e96eb3",
+      "spans": 247
+    },
+    "doc:00004:hvvl3bkydskzq": {
+      "block_count": 150,
+      "bytes": 12293,
+      "doc_type": "board_minutes",
+      "facts": 14,
+      "lines": 183,
+      "pages": 7,
+      "sentences": 146,
+      "sha256": "22c051e6250e4e81b6b6e8e51be1495dc7eb24dba9ef491b62a3f377e055277a",
+      "spans": 296
+    },
+    "doc:00005:ugozodhgnub3y": {
+      "block_count": 18,
+      "bytes": 3339,
+      "doc_type": "press_release",
+      "facts": 7,
+      "lines": 54,
+      "pages": 4,
+      "sentences": 42,
+      "sha256": "78b7843a1407e99011665537ca41b074e0ca771ce6455a4b001007bcb85295b1",
+      "spans": 60
+    },
+    "doc:00006:h362zdsnxnkge": {
+      "block_count": 36,
+      "bytes": 5257,
+      "doc_type": "correspondence",
+      "facts": 5,
+      "lines": 85,
+      "pages": 6,
+      "sentences": 64,
+      "sha256": "de80ae676ff9cbcfe8bb7a47deedb9f509a3ea93579e55867449cd704e5bde86",
+      "spans": 100
+    },
+    "doc:90001": {
+      "block_count": 27,
+      "bytes": 1704,
+      "doc_type": "financial_agreement",
+      "facts": 1,
+      "lines": 44,
+      "pages": 4,
+      "sentences": 20,
+      "sha256": "552b2b9959687266d5883d30c478cec6002286c8679022cbc4118a87849f5789",
+      "spans": 47
+    }
+  },
+  "hash": "sha256(rendered bytes)",
+  "profile": {
+    "corpus_name": "v3_pilot",
+    "documents": 7,
+    "include_footers": true,
+    "include_headers": true,
+    "page_width_chars": 120,
+    "seed": 7,
+    "table_style": "pipe",
+    "workbooks": 1
+  }
+}

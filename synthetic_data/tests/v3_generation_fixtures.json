@@ -1,0 +1,21 @@
+{
+  "command": "py -3.13 synthetic_data/tests/v3_generation_fixtures.py",
+  "config": {
+    "corpus_name": "v3_pilot",
+    "documents": 7,
+    "seed": 7,
+    "workbooks": 1
+  },
+  "description": "Phase B canonical regression fixtures (one document per prose type plus one workbook)",
+  "documents": {
+    "doc:00000:qr3hgvjuuciha": "f924b09eec27dd7cd2b30026907965a3e6cb2d0b2002c37f58dbedb521eda35a",
+    "doc:00001:d2kl6zqv57nws": "5797cfc5d4bd061331e3f5f4bbe1ba83e8b8b55cd15ac1916b019db9c40d147d",
+    "doc:00002:jhcapfpwfmja6": "fa5843cc59d0ece63bc28dd4c1f9675bb3202b6302421a0b06ed9c6601837167",
+    "doc:00003:ab5vzphgqn7lw": "2644f96a8f76ba50f5e74d41b9339818e2b97ff676d6c1bcbe81ce4257d2bd18",
+    "doc:00004:hvvl3bkydskzq": "e87bf2ad1093963a040c77a83d7caa3af606a860cb1ae60daf4035c99cf6623e",
+    "doc:00005:ugozodhgnub3y": "bd6b83ea9d9de12346aa8a8095411bc2bdfce8dcc555a59dff32f6bacdcbea26",
+    "doc:00006:h362zdsnxnkge": "0a559b826f632a0b06f35050a6b282d8a2821ec659f5fd7923c2707eac22f904",
+    "doc:00007:ndyafme64g7ly": "66bd55adc80a6a8fd84cb84fbbf62ae1a7569153096c21593da587e2cbada5d5"
+  },
+  "hash": "sha256(model_dump_json())"
+}

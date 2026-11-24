@@ -1,0 +1,85 @@
+# V3 ontology pack — the vocabulary of the V3 canonical world.
+#
+# Why a second pack rather than editing corporate_legal.v1.yaml: the v1 pack is
+# the vocabulary V2 gold and the vendored validators expect, and V3 adds relations
+# the corporate-legal pack never needed (`is_director_of`, `grants_security_over`,
+# `repaid`, ...).  Side-by-side packs keep both readable: `synth.eval.gold.validate`
+# takes the ontology as an argument, so a v1 projection of V3 gold validates against
+# this pack without any file under `synth/` being touched (decision DEC-3, blocker
+# B3).  Every v1 relation, status and link type is preserved so nothing that
+# validates today stops validating.
+pack: corporate_legal
+version: 3
+gliner_labels: [person, organization, court, law firm, bank, government body, statute, case, location, asset,
+                agreement, document, money amount, percentage, role title, event, date, time period, duration]
+entity_types:
+  person: [person, judge, lawyer]
+  organization: [company, bank, law_firm, government_body, court]
+  legal: [statute, case, agreement, document]
+  value: [money, percentage]
+  place: [location]
+  thing: [asset, facility, security]
+  event: [event]
+relations:
+  governance:
+    director_of: [person, organization]
+    is_director_of: [person, organization]
+    chair_of: [person, organization]
+    chairs: [person, organization]
+    serves_on: [person, organization]
+    served: [any, any]
+    attends: [person, any]
+  ownership:
+    owns: [any, any]
+    shareholder_of: [any, organization]
+    subsidiary_of: [organization, organization]
+    is_subsidiary_of: [organization, organization]
+    acquired: [any, any]
+  employment:
+    employed_by: [person, organization]
+    partner_at: [person, organization]
+    member_of: [any, organization]
+  founding:
+    founded: [any, organization]
+  finance:
+    lent_to: [any, any]
+    disbursed: [any, any]
+    repaid: [any, any]
+    owes: [any, any]
+    paid: [any, any]
+    settled: [any, any]
+    guarantees: [any, any]
+    guarantor_for: [any, any]
+    grants_security_over: [any, any]
+    filed: [any, legal]
+  legal:
+    represents: [any, any]
+    party_to: [any, legal]
+    judge_of: [person, legal]
+    cites: [legal, legal]
+    issued_by: [legal, any]
+    regulates: [organization, any]
+    ordered: [any, any]
+  kinship:
+    family_of: [person, person]
+  location:
+    located_in: [any, place]
+  advisory:
+    advises: [any, any]
+  documents:
+    signed: [person, legal]
+relation_aliases:
+  "board member of": director_of
+  "works for": employed_by
+  "is director of": is_director_of
+  "is subsidiary of": is_subsidiary_of
+functional_relations: [judge_of, chair_of]
+critical_relations: [owns, shareholder_of, family_of, lent_to, owes, guarantor_for, represents, is_subsidiary_of]
+proposition_status: [held, found, resolved, ordered, declared, argued, alleged, admitted, denied, proposed,
+                     reported, stated, approved, completed, deferred, rejected]
+link_types: [because, unless, provided_that, notwithstanding, therefore, contradicts, supports, conditional_on]
+time:
+  fiscal_year_start_month: 4
+  time_roles: [occurred_at, valid_from, valid_to, as_of, deadline, reported_on]
+honorifics_strip: [mr, mrs, ms, dr, sir, dame, justice, hon, barrister, advocate]
+honorifics_keep: [syed, sheikh, mian, chaudhry]

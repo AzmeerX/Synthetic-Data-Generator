@@ -1,0 +1,15 @@
+# Exact resolved versions for the optional "pdf" group (Phase D).
+#
+# Install with:
+#   pip install -e ".[dev,pdf]" -c constraints-pdf.txt
+#
+# Resolved and tested on CPython 3.13.5, win_amd64, 2026-11-23.
+# `docling-slim[format-pdf-docling]` supplies docling-parse; docling-core is its
+# hard dependency.  No Torch, no OCR/TableFormer models are installed: the native
+# PDF pipeline runs without them (which is why PDF tables arrive flattened, D7).
+reportlab==5.1.0
+docling-slim==2.151.1
+docling-core==2.108.0
+docling-parse==7.27.1
+pypdfium2==5.13.0
+pypdf==7.0.1

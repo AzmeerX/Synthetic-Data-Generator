@@ -1,0 +1,142 @@
+{
+  "command": "py -3.13 synthetic_data/tests/v3_docx_fixtures.py",
+  "config": {
+    "corpus_name": "v3_pilot",
+    "documents": 7,
+    "seed": 7,
+    "workbooks": 1
+  },
+  "description": "Phase E DOCX renderer regression fixtures: seven prose types plus a hand-built document with colspan/rowspan, a page break, a footnote and a signature",
+  "documents": {
+    "doc:00000:qr3hgvjuuciha": {
+      "bytes": 41536,
+      "cells": 71,
+      "doc_type": "case_notes",
+      "facts": 22,
+      "pageless": true,
+      "paragraphs": 43,
+      "rows": 19,
+      "sections": 7,
+      "sentences": 133,
+      "sha256": "82a85e49feda23802d49946f77455c1b699d789a9829e5ca397eb1d53b290250",
+      "spans": 276,
+      "tables": 3
+    },
+    "doc:00001:d2kl6zqv57nws": {
+      "bytes": 43239,
+      "cells": 98,
+      "doc_type": "due_diligence",
+      "facts": 34,
+      "pageless": true,
+      "paragraphs": 69,
+      "rows": 28,
+      "sections": 10,
+      "sentences": 227,
+      "sha256": "7e64d72c54ab22bbb08a04195bc3d8f59da93b1c818164ea2206768a2affe109",
+      "spans": 437,
+      "tables": 5
+    },
+    "doc:00002:jhcapfpwfmja6": {
+      "bytes": 44522,
+      "cells": 152,
+      "doc_type": "financial_agreement",
+      "facts": 28,
+      "pageless": true,
+      "paragraphs": 87,
+      "rows": 31,
+      "sections": 11,
+      "sentences": 300,
+      "sha256": "50fa70f41aa34a4d4f9d19523a483973cabd2059f00134cc48bc88d665417036",
+      "spans": 586,
+      "tables": 5
+    },
+    "doc:00003:ab5vzphgqn7lw": {
+      "bytes": 41523,
+      "cells": 52,
+      "doc_type": "memorandum",
+      "facts": 23,
+      "pageless": true,
+      "paragraphs": 39,
+      "rows": 13,
+      "sections": 7,
+      "sentences": 134,
+      "sha256": "22bfb8a89e516a6e4de7f2bb4ba1bb4a62b34297ace835aee9ac93d20058d1bc",
+      "spans": 247,
+      "tables": 2
+    },
+    "doc:00004:hvvl3bkydskzq": {
+      "bytes": 41249,
+      "cells": 82,
+      "doc_type": "board_minutes",
+      "facts": 24,
+      "pageless": true,
+      "paragraphs": 43,
+      "rows": 16,
+      "sections": 7,
+      "sentences": 146,
+      "sha256": "e1e98110af58103f7f1512bb0370dc97468b8f7e31a8dc12b52d6d779dc8e31b",
+      "spans": 296,
+      "tables": 2
+    },
+    "doc:00005:ugozodhgnub3y": {
+      "bytes": 39336,
+      "cells": 0,
+      "doc_type": "press_release",
+      "facts": 10,
+      "pageless": true,
+      "paragraphs": 14,
+      "rows": 0,
+      "sections": 4,
+      "sentences": 42,
+      "sha256": "653bb93c9d33fa0207d0ae4d2638cbdff440d076fa1f7337bc7c9fc972f06acb",
+      "spans": 60,
+      "tables": 0
+    },
+    "doc:00006:h362zdsnxnkge": {
+      "bytes": 40057,
+      "cells": 6,
+      "doc_type": "correspondence",
+      "facts": 12,
+      "pageless": true,
+      "paragraphs": 21,
+      "rows": 2,
+      "sections": 6,
+      "sentences": 64,
+      "sha256": "e29ac6f80062ca8549f6dbd4a39c876755c83353c5178dbacf11da903f87d589",
+      "spans": 100,
+      "tables": 1
+    },
+    "doc:91001": {
+      "bytes": 38660,
+      "cells": 9,
+      "doc_type": "financial_agreement",
+      "facts": 1,
+      "pageless": true,
+      "paragraphs": 6,
+      "rows": 4,
+      "sections": 2,
+      "sentences": 13,
+      "sha256": "d37b65e3d878dcba353d0ecefc0b3de797d0ba405ba2a36142d0e7b0e69f9b15",
+      "spans": 35,
+      "tables": 1
+    }
+  },
+  "hash": "sha256(rendered bytes)",
+  "profile": {
+    "font_family": "Calibri",
+    "margins_mm": [
+      25.4,
+      25.4,
+      25.4,
+      25.4
+    ],
+    "page_size": "A4",
+    "table_style": "Table Grid"
+  },
+  "versions": {
+    "docling-core": "2.108.0",
+    "docling-slim": "2.151.1",
+    "lxml": "6.0.2",
+    "python-docx": "1.2.0"
+  }
+}
