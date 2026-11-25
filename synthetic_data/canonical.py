@@ -53,6 +53,10 @@ _ABBREV = frozenset({
     "plc", "llp", "llc", "gmbh", "vs", "etc", "eg", "ie", "cf", "al", "ed",
     "fig", "para", "cl", "sch", "art", "reg",
 })
+#: Company forms end a name, so a capitalised word after them starts a new
+#: sentence: ``Acme plc. Fairhaven lent ...`` is two sentences, while
+#: ``Acme plc. announced ...`` is one.
+_ENTITY_FORMS = frozenset({"ltd", "plc", "llp", "llc", "inc", "corp", "co", "gmbh"})
 _TERMINATOR = re.compile(r"[.!?][\"'\u201d\u2019)\]]*(?=\s|$)")
 
 
@@ -137,7 +141,14 @@ def split_sentences(text: str) -> list[tuple[int, int]]:
         token = re.search(r"([A-Za-z][A-Za-z.]*)$", before)
         if token:
             bare = token.group(1).rstrip(".")
-            if bare.lower() in _ABBREV or (len(bare) == 1 and bare.isupper()):
+            following_token = text[end:].lstrip()
+            continues = bool(following_token) and (following_token[0].isupper()
+                                                   or following_token[0].isdigit())
+            if bare.lower() in _ABBREV and not (
+                    bare.lower() in _ENTITY_FORMS and continues):
+                continue
+            if len(bare) == 1 and bare.isupper() and not (
+                    bare.lower() in _ENTITY_FORMS and continues):
                 continue
         following = text[end:].lstrip()
         if following and not (following[0].isupper() or following[0].isdigit()
