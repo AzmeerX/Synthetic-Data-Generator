@@ -196,7 +196,14 @@ def load_gold_corpus(root: Path, qa_root: Path | None = None
         for artifact in manifest["artifacts"]:
             base = artifact["document_id"].replace(":", "_")
             name = f"{base}__{artifact['doc_type']}__{artifact['format']}.json"
-            payload = json.loads((root / "gold" / "v2" / name).read_text(encoding="utf-8"))
+            path = root / "gold" / "v2" / name
+            if not path.exists():
+                # V3 corpora sanitise the doc type in the filename
+                from synthetic_data.paths import artifact_name
+                path = root / "gold" / "v2" / artifact_name(
+                    artifact["document_id"], artifact["doc_type"],
+                    artifact["format"], "v2")
+            payload = json.loads(path.read_text(encoding="utf-8"))
             document = load_gold_document(payload)
             documents[document.key] = document
     if qa_root is not None:

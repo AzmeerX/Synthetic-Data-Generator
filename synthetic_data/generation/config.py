@@ -151,8 +151,27 @@ def matter_sizes(total: int, max_letters: int = 5) -> list[int]:
             sizes[index % len(sizes)] += 1
             remaining -= 1
         index += 1
-        if index > 10_000:                  # pragma: no cover - arithmetic guard
-            raise AssertionError("cannot distribute the remaining documents")
+        if index > 10_000:
+            # The cycle left a remainder that no matter has room for (for example
+            # 66 documents with a maximum of 8: eight full matters and two over).
+            # Fall back to the evenly balanced split, which is the only
+            # decomposition of every valid total into parts of ``low..high``.
+            return _balanced_sizes(total, low, high)
     if sum(sizes) != total:  # pragma: no cover - defensive
         raise AssertionError(f"matter sizes {sizes} do not sum to {total}")
     return sizes
+
+
+def _balanced_sizes(total: int, low: int, high: int) -> list[int]:
+    """Split ``total`` into the smallest number of matters, each within range."""
+    import math
+
+    count = math.ceil(total / high)
+    if total < low * count:
+        raise ValueError(f"{total} documents cannot be split into matters of "
+                         f"{low}..{high}: no valid decomposition")
+    base, extra = divmod(total, count)
+    if not low <= base <= high:             # pragma: no cover - guarded above
+        raise ValueError(f"{total} documents cannot be split into matters of "
+                         f"{low}..{high}")
+    return [base + 1] * extra + [base] * (count - extra)

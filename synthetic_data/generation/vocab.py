@@ -110,7 +110,17 @@ class NameFactory:
             if candidate not in self._used:
                 self._used.add(candidate)
                 return candidate
-        raise RuntimeError("name pool exhausted")
+        # A corpus larger than the vocabulary needs more names than the pools hold.
+        # Qualify the candidate deterministically rather than failing the corpus: the
+        # suffix is a look-up counter, so the same corpus always produces the same
+        # names, and corpora that never exhaust a pool are byte-identical to before.
+        base = build()
+        index = 2
+        while f"{base} {index}" in self._used:
+            index += 1
+        candidate = f"{base} {index}"
+        self._used.add(candidate)
+        return candidate
 
     def _combo(self, left: tuple[str, ...], right: tuple[str, ...]) -> str:
         return f"{self.rng.choice(left)}{self.rng.choice(right)}"

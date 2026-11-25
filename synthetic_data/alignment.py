@@ -201,17 +201,34 @@ def align_document(canonical: CanonicalDocument, view) -> list[SentenceAlignment
             cursor = exact + 1
             continue
 
-        # split: adjacent parser sentences whose concatenation is the canonical text
+        # split: parser sentences whose concatenation is the canonical text.
+        # A page break can leave the first fragment several rows before the
+        # continuation (furniture, or a heading of the next page between them), so
+        # candidates are pruned by "is a prefix of the canonical sentence" and the
+        # comparison joins the *text* of the unfiltered sentences.
         split = None
-        for start in range(cursor, min(cursor + 3, len(parser))):
-            joined = parser[start].text
-            for end in range(start + 1, min(start + _MAX_SPLIT, len(parser))):
-                joined = view.text[parser[start].char_start:parser[end].char_end]
-                if normalise(joined) == text:
-                    split = list(range(start, end + 1))
+        for start in range(cursor, min(cursor + 12, len(parser))):
+            if parser[start].filtered:
+                continue
+            first_text = normalise(parser[start].text)
+            if not first_text or not text.startswith(first_text):
+                continue
+            pieces: list[int] = [start]
+            joined = first_text
+            position = start + 1
+            # furniture between the fragments must not consume the split window
+            while position < len(parser) and len(pieces) < _MAX_SPLIT:
+                if parser[position].filtered:
+                    position += 1
+                    continue
+                pieces.append(position)
+                joined = normalise(" ".join(parser[index].text for index in pieces))
+                if joined == text:
+                    split = pieces
                     break
-                if len(normalise(joined)) > len(text) + 2:
+                if not text.startswith(joined):
                     break
+                position += 1
             if split:
                 break
         if split:
@@ -246,6 +263,23 @@ def align_document(canonical: CanonicalDocument, view) -> list[SentenceAlignment
             cursor = containers[0]
             continue
 
+        # wrapped: a line break can cut the canonical sentence at either end, so the
+        # parser sentence opens with the tail of the previous sentence ("6. The
+        # analysis ... and") and the canonical sentence starts partway through it.
+        # The exact-split search above requires the text to start at the beginning
+        # of a parser sentence and cannot see this case; the fuzzy fallback then
+        # claims only the first fragment and leaves the last one unexplained.
+        wrapped = _wrapped_split(parser, cursor, text, claimed)
+        if wrapped:
+            indices, ends_inside = wrapped
+            chosen = [parser[index] for index in indices]
+            quote = view.text[chosen[0].char_start:chosen[-1].char_end]
+            record(sentence.sentence_id, "split", chosen, quote, 1.0)
+            # the sentence ends partway through the last parser sentence, which also
+            # opens the next canonical sentence: stay on it instead of moving past
+            cursor = indices[-1] + (0 if ends_inside else 1)
+            continue
+
         # partial: a unique fuzzy candidate above the floor
         scored = sorted(
             ((difflib.SequenceMatcher(None, text, normalise(parser[position].text)).ratio(),
@@ -267,6 +301,49 @@ def align_document(canonical: CanonicalDocument, view) -> list[SentenceAlignment
         out.append(SentenceAlignment(sentence.sentence_id, "missing"))
 
     return out
+
+
+def _wrapped_split(parser: list[_ParserSentence], cursor: int, text: str,
+                   claimed: set[str]) -> tuple[list[int], bool] | None:
+    """The parser sentences that carry ``text`` when a line break cuts it.
+
+    ``text`` is a normalised canonical sentence.  A run is accepted when it
+    contains the whole sentence and the *first* sentence of the run contributes
+    to the match: a run that only reaches the text in a later sentence does not
+    start where the text starts, so the search moves on.  A first sentence whose
+    match begins at its very start and is already claimed is a repetition, not a
+    continuation, and is left to the caller.
+
+    The flag says whether the sentence ends inside the last parser sentence; the
+    next canonical sentence then starts in that same sentence, so the caller must
+    not move the cursor past it.
+    """
+    for start in range(cursor, min(cursor + 12, len(parser))):
+        if parser[start].filtered:
+            continue
+        first_text = normalise(parser[start].text)
+        if not first_text:
+            continue
+        indices = [start]
+        joined = first_text
+        position = start + 1
+        while True:
+            offset = joined.find(text)
+            if offset >= 0:
+                if offset >= len(first_text):
+                    break       # this sentence does not carry the start of the text
+                if offset == 0 and parser[start].sentence_id in claimed:
+                    break       # a repeat of an already-claimed sentence
+                return indices, offset + len(text) < len(joined)
+            if len(indices) >= _MAX_SPLIT or position >= len(parser):
+                break
+            if parser[position].filtered:
+                position += 1
+                continue
+            indices.append(position)
+            joined = normalise(" ".join(parser[index].text for index in indices))
+            position += 1
+    return None
 
 
 def _row_cells(text: str) -> list[str]:
@@ -312,12 +389,15 @@ def _align_flattened_row(sentence, parser, view, cursor: int):
         if _flatten_cells(parser[probe].text) == expected:
             return [parser[probe]], probe, True
     first_token = cells[0].split()[0]
-    for start in range(cursor, min(cursor + 4, len(parser))):
+    # a table can sit many parser sentences after the cursor when an earlier block
+    # was long or when page furniture intervenes; the row's first cell is a strong
+    # enough anchor that a wider window is safe
+    for start in range(cursor, min(cursor + 40, len(parser))):
         if first_token not in parser[start].text:
             continue
         joined = ""
         chosen: list[_ParserSentence] = []
-        for end in range(start, min(start + 14, len(parser))):
+        for end in range(start, min(start + 30, len(parser))):
             piece = _flatten_cells(parser[end].text)
             if not any(char.isalnum() for char in piece):
                 continue          # a dropped dash or stray glyph: not part of the row
@@ -327,7 +407,7 @@ def _align_flattened_row(sentence, parser, view, cursor: int):
                 # one sentence that contains the row (plus its neighbours) keeps the
                 # cell order; several sentences mean the row itself was flattened
                 return chosen, end, len(chosen) == 1
-            if len(joined) > len(expected) + 80:
+            if len(joined) > len(expected) + 160:
                 break
     return None
 

@@ -266,42 +266,70 @@ class _PdfLayout:
                     indent: float = 0.0,
                     sentences: list[CanonicalSentence] | None = None
                     ) -> tuple[float, float, int | None, int | None]:
-        """Draw a wrapped block; map each sentence to page-buffer offsets."""
+        """Draw a wrapped block, paginating line by line, and map its sentences.
+
+        A block taller than one page used to be drawn past the bottom margin: the
+        PDF still held the bytes but the page did not, so the parser never saw the
+        tail and the accounting called it unexplained.  Lines now flow onto the next
+        page, the way a typesetter would set them, and a sentence that straddles the
+        break keeps a span on the page where it starts (the parser sees the two
+        fragments and the aligner records them as a split).
+        """
         width = self.right - self.left - indent
         lines = self._wrap(text, width, font, size)
-        height = leading * len(lines)
-        self._space(height)
-        page = self.page
-        page_no = page.number
-        top = page.cursor_y
-        y = top - leading + size * 0.30
+        if not lines:
+            return self.page.cursor_y, 0.0, None, None
         source_starts: list[int] = []
-        first_index = len(page.texts)
         cursor = 0
         for line in lines:
             found = text.find(line, cursor)
             source_starts.append(found if found >= 0 else cursor)
             cursor = source_starts[-1] + len(line)
-            page.add_text(line, self.left + indent, y, font, size)
-            y -= leading
-        page.cursor_y = top - height
+
+        capacity = self.top - self.bottom
+        self._space(min(leading * len(lines), capacity))
+        start_page = self.page.number
+        start_cursor = self.page.cursor_y
+        drawn: list[tuple[int, int, int]] = []      # page, buffer start, buffer end
+        for line in lines:
+            if self.page.cursor_y - leading < self.bottom and self.page.lines:
+                self._new_page()
+            page = self.page
+            y = page.cursor_y - leading + size * 0.30
+            start, end = page.add_text(line, self.left + indent, y, font, size)
+            page.cursor_y -= leading
+            drawn.append((page.number, start, end))
+
+        first_page_lines = [index for index, item in enumerate(drawn)
+                            if item[0] == start_page]
+        first_start = drawn[first_page_lines[0]][1] if first_page_lines else None
+        first_end = drawn[first_page_lines[-1]][2] if first_page_lines else None
+        height = start_cursor - self.pages[start_page - 1].cursor_y
+        self._last_block_page = drawn[0][0] if drawn else start_page
+
         if sentences:
-            buffer_starts = [page.offsets[first_index + index][0] for index in range(len(lines))]
             for sentence in sentences:
                 first = _line_for(source_starts, lines, sentence.char_start)
-                last = _line_for(source_starts, lines, max(sentence.char_start, sentence.char_end - 1))
+                last = _line_for(source_starts, lines,
+                                 max(sentence.char_start, sentence.char_end - 1))
                 if first is None or last is None:
                     self.warnings.append(
-                        f"sentence {sentence.sentence_id} could not be mapped to drawn lines")
+                        f"sentence {sentence.sentence_id} could not be mapped to "
+                        f"drawn lines")
                     continue
-                start = buffer_starts[first] + (sentence.char_start - source_starts[first])
-                end = buffer_starts[last] + (sentence.char_end - source_starts[last])
-                start = max(0, min(start, len(page.text)))
-                end = min(max(end, start), len(page.text))
+                page_no = drawn[first][0]
+                on_page = [index for index in range(first, last + 1)
+                           if drawn[index][0] == page_no]
+                if not on_page:
+                    continue
+                start = drawn[first][1] + max(0, sentence.char_start
+                                              - source_starts[first])
+                end = drawn[first][1] + max(0, sentence.char_end
+                                            - source_starts[first])
+                end = min(end, drawn[on_page[-1]][2])
+                start = max(drawn[first][1], min(start, end - 1))
                 self.sentence_slots[sentence.sentence_id] = (page_no, start, end)
-        start = page.offsets[first_index][0] if first_index < len(page.offsets) else None
-        end = page.offsets[-1][1] if page.offsets else None
-        return top, height, start, end
+        return start_cursor, height, first_start, first_end
 
     # -- document ----------------------------------------------------------
     def build(self, document: CdmDocument, canonical: CanonicalDocument) -> None:
@@ -425,7 +453,7 @@ class _PdfLayout:
         page_no = self.page.number
         top, height, start, end = self._draw_lines(text, _BODY_FONT, _BODY, _LEADING,
                                                    indent=indent, sentences=sentences)
-        self._append_footnote_markers(block, page_no)
+        self._append_footnote_markers(block, getattr(self, "_last_block_page", page_no))
         self.page.cursor_y -= 5.0
         self.units.append(_Unit(block.block_id, "block", page_no,
                                 (self.left, top - height, self.right - self.left, height),
@@ -447,6 +475,12 @@ class _PdfLayout:
         block_top = self.page.cursor_y
         block_page = self.page.number
         block_start: int | None = None
+        # canonical list-item sentence offsets are block-relative (canonical.py
+        # projects the whole list into one text); the renderer works per item, so
+        # each item's base offset has to be subtracted.  Without this a long item
+        # that wraps onto a second line mapped past the end of its own text and its
+        # sentence was silently dropped from the render map.
+        item_base = 0
         for position, item in enumerate(block.items or [], start=1):
             text = list_item_text([run.text or "" for run in item.runs])
             prefix = f"({position})" if block.ordered else "•"
@@ -469,18 +503,24 @@ class _PdfLayout:
             buffer_starts = [self.page.offsets[first_index + index][0]
                              for index in range(len(lines))]
             for sentence in canonical.for_block(item.item_id):
-                first = _line_for(source_starts, lines, sentence.char_start)
+                relative_start = min(max(sentence.char_start - item_base, 0), len(text))
+                relative_end = min(max(sentence.char_end - item_base, relative_start),
+                                   len(text))
+                first = _line_for(source_starts, lines, relative_start)
                 last = _line_for(source_starts, lines,
-                                 max(sentence.char_start, sentence.char_end - 1))
+                                 max(relative_start, relative_end - 1))
                 if first is None or last is None:
                     continue
-                start = buffer_starts[first] + (sentence.char_start - source_starts[first])
-                end = buffer_starts[last] + (sentence.char_end - source_starts[last])
+                start = buffer_starts[first] + (relative_start - source_starts[first])
+                end = buffer_starts[last] + (relative_end - source_starts[last])
                 start = max(0, min(start, len(self.page.text)))
                 end = min(max(end, start), len(self.page.text))
+                if end <= start:
+                    continue
                 self.sentence_slots[sentence.sentence_id] = (page_no, start, end)
             if block_start is None:
                 block_start = self.page.offsets[first_index][0]
+            item_base += len(text) + 1
         self.units.append(_Unit(block.block_id, "block", block_page,
                                 (self.left, self.page.cursor_y, self.right - self.left,
                                  block_top - self.page.cursor_y),

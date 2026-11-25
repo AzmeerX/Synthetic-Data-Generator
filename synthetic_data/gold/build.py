@@ -804,10 +804,21 @@ def _v2_time_refs(fact_items: list[_FactItem], render, view, sentences
 # ---------------------------------------------------------------------------
 def gold_paths(root: str | Path, document_id: str, doc_type: str,
                fmt: str) -> tuple[Path, Path, Path]:
+    """Artifact paths with every component made portable.
+
+    ``doc_type`` for a workbook is ``workbook:shareholder_register``; a colon in a
+    filename is an NTFS alternate data stream on Windows, so the name must be
+    sanitised exactly like a document id (see :mod:`synthetic_data.paths`).
+    """
+    from synthetic_data.paths import safe_component
+
     root = Path(root)
-    stem = f"{document_id.replace(':', '_')}__{doc_type}__{fmt}"
+    document = safe_component(document_id.replace(":", "_"))
+    kind = safe_component(doc_type.replace(":", "_"))
+    suffix = safe_component(fmt)
+    stem = f"{document}__{kind}__{suffix}"
     return (root / "v1" / f"{stem}.json", root / "v2" / f"{stem}.json",
-            root / "alignment" / f"{document_id.replace(':', '_')}__{fmt}.json")
+            root / "alignment" / f"{document}__{suffix}.json")
 
 
 def write_gold_pair(pair: GoldPair, root: str | Path, document_id: str,

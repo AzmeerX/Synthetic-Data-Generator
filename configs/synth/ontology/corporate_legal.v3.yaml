@@ -35,6 +35,9 @@ relations:
     subsidiary_of: [organization, organization]
     is_subsidiary_of: [organization, organization]
     acquired: [any, any]
+    # the contradiction alternative to `owns`: the same pair, same direction, but
+    # control without ownership.  The world emits it, so the pack must name it.
+    controls: [organization, organization]
   employment:
     employed_by: [person, organization]
     partner_at: [person, organization]
